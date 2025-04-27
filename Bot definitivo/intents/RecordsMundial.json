@@ -1,0 +1,630 @@
+{
+    "intents": [
+      {
+        "tag": "record_goles_mas_oficiales_carrera",
+        "patterns": [
+          "¿Quién ha marcado más goles en la historia del fútbol?",
+          "Máximo goleador de todos los tiempos (oficial)",
+          "Récord mundial de goles en carrera",
+          "¿Cuántos goles marcó Cristiano Ronaldo en su carrera?",
+          "¿Pelé o Cristiano más goles?"
+        ],
+        "responses": [
+          "Determinar el máximo goleador en partidos oficiales de todos los tiempos es complejo debido a la verificación de datos históricos. Sin embargo, según registros ampliamente aceptados por FIFA y IFFHS, Cristiano Ronaldo (Portugal) es considerado el máximo goleador en partidos oficiales de alto nivel, habiendo superado los 800 goles. Josef Bican (Austria/Checoslovaquia) también tiene registros muy altos de principios del siglo XX, y Pelé (Brasil) marcó más de 1000 goles en total, aunque no todos en partidos oficiales según criterios estrictos."
+        ]
+      },
+      {
+        "tag": "record_goles_internacional_masc",
+        "patterns": [
+          "¿Quién es el máximo goleador a nivel de selecciones masculinas?",
+          "Jugador con más goles internacionales (hombres)",
+          "Récord de goles con la selección (masculino)",
+          "Goles de Cristiano con Portugal"
+        ],
+        "responses": [
+          "Cristiano Ronaldo (Portugal) ostenta el récord mundial de más goles marcados a nivel de selecciones nacionales masculinas, superando ampliamente los 120 goles."
+        ]
+      },
+      {
+        "tag": "record_goles_internacional_fem",
+        "patterns": [
+          "¿Quién es la máxima goleadora a nivel de selecciones femeninas?",
+          "Jugadora con más goles internacionales (mujeres)",
+          "Récord de goles con la selección (femenino)",
+          "Goles de Christine Sinclair"
+        ],
+        "responses": [
+          "Christine Sinclair (Canadá) ostenta el récord mundial de más goles marcados a nivel de selecciones nacionales (tanto masculino como femenino), con más de 190 goles."
+        ]
+      },
+      {
+        "tag": "record_goles_mundial_masc",
+        "patterns": [
+          "¿Quién es el máximo goleador en la historia de los Mundiales masculinos?",
+          "Máximo anotador Copas del Mundo (hombres)",
+          "Goles de Klose en Mundiales"
+        ],
+        "responses": [
+          "Miroslav Klose (Alemania) es el máximo goleador histórico de la Copa Mundial de la FIFA masculina, con 16 goles marcados en 4 ediciones (2002, 2006, 2010, 2014)."
+        ]
+      },
+      {
+        "tag": "record_goles_mundial_fem",
+        "patterns": [
+          "¿Quién es la máxima goleadora en la historia de los Mundiales femeninos?",
+          "Máxima anotadora Copas del Mundo (mujeres)",
+          "Goles de Marta en Mundiales"
+        ],
+        "responses": [
+          "Marta Vieira da Silva (Brasil), conocida como Marta, es la máxima goleadora histórica de la Copa Mundial Femenina de la FIFA, con 17 goles."
+        ]
+      },
+      {
+        "tag": "record_goles_champions_league",
+        "patterns": [
+          "¿Quién es el máximo goleador histórico de la Champions League?",
+          "Máximo anotador UCL / Copa de Europa",
+          "Goles de Cristiano en Champions"
+        ],
+        "responses": [
+          "Cristiano Ronaldo (Portugal) es el máximo goleador histórico de la UEFA Champions League (incluyendo la era Copa de Europa), con más de 140 goles."
+        ]
+      },
+      {
+        "tag": "record_goles_libertadores",
+        "patterns": [
+          "¿Quién es el máximo goleador histórico de la Copa Libertadores?",
+          "Máximo anotador Libertadores",
+          "Goles de Alberto Spencer"
+        ],
+        "responses": [
+          "Alberto Spencer (Ecuador) es el máximo goleador histórico de la CONMEBOL Libertadores, con 54 goles, la mayoría marcados con Peñarol."
+        ]
+      },
+      {
+        "tag": "record_goles_ano_calendario",
+        "patterns": [
+          "¿Cuál es el récord de goles en un año calendario?",
+          "Más goles en un año natural",
+          "Récord de Messi en 2012",
+          "91 goles en un año"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina) ostenta el récord de más goles oficiales marcados en un año calendario, reconocido por Guinness World Records. En 2012, marcó 91 goles (79 con el FC Barcelona y 12 con la Selección Argentina)."
+        ]
+      },
+      {
+        "tag": "record_goles_temporada_liga_top_esp",
+        "patterns": [
+          "¿Cuál es el récord de goles en una temporada de LaLiga?",
+          "Más goles en una liga española"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina, FC Barcelona) tiene el récord de más goles en una sola temporada de LaLiga española, con 50 goles en la 2011-12."
+        ]
+      },
+       {
+        "tag": "record_goles_temporada_liga_top_eng",
+        "patterns": [
+          "¿Cuál es el récord de goles en una temporada de Premier League?",
+          "Más goles en una liga inglesa (PL)"
+        ],
+        "responses": [
+          "Erling Haaland (Noruega, Manchester City) estableció el récord de más goles en una sola temporada de la Premier League (formato 38 partidos) con 36 goles en la 2022-23."
+        ]
+      },
+       {
+        "tag": "record_goles_temporada_liga_top_ger",
+        "patterns": [
+          "¿Cuál es el récord de goles en una temporada de Bundesliga?",
+          "Más goles en una liga alemana"
+        ],
+        "responses": [
+          "Robert Lewandowski (Polonia, Bayern Munich) tiene el récord de más goles en una sola temporada de la Bundesliga alemana, con 41 goles en la 2020-21, superando el récord histórico de Gerd Müller."
+        ]
+      },
+      {
+        "tag": "record_goles_temporada_liga_top_ita",
+        "patterns": [
+          "¿Cuál es el récord de goles en una temporada de Serie A?",
+          "Más goles en una liga italiana"
+        ],
+        "responses": [
+          "El récord de goles en una sola temporada de la Serie A italiana es de 36 goles, compartido por Gonzalo Higuaín (Argentina, Napoli, 2015-16) y Ciro Immobile (Italia, Lazio, 2019-20)."
+        ]
+      },
+       {
+        "tag": "record_goles_temporada_liga_top_fra",
+        "patterns": [
+          "¿Cuál es el récord de goles en una temporada de Ligue 1?",
+          "Más goles en una liga francesa"
+        ],
+        "responses": [
+          "Josip Skoblar (Yugoslavia, Olympique Marseille) ostenta el récord de más goles en una sola temporada de la Ligue 1 francesa, con 44 goles en la 1970-71."
+        ]
+      },
+      {
+        "tag": "record_goles_temporada_ucl",
+        "patterns": [
+          "¿Cuál es el récord de goles en una temporada de Champions League?",
+          "Más goles en una edición UCL"
+        ],
+        "responses": [
+          "Cristiano Ronaldo (Portugal, Real Madrid) tiene el récord de más goles en una sola temporada de la UEFA Champions League, con 17 goles en la 2013-14."
+        ]
+      },
+      {
+        "tag": "record_goles_partido_oficial_internacional",
+        "patterns": [
+          "¿Cuál es el récord de goles de un jugador en un partido internacional?",
+          "Más goles de un jugador en un partido de selecciones"
+        ],
+        "responses": [
+          "Archie Thompson (Australia) ostenta el récord de más goles marcados por un jugador en un partido internacional oficial, con 13 goles en la victoria de Australia por 31-0 sobre Samoa Americana en 2001, durante la clasificación para el Mundial 2002."
+        ]
+      },
+      {
+        "tag": "record_goles_partido_mundial_masc",
+        "patterns": [
+          "¿Cuál es el récord de goles de un jugador en un partido de Mundial masculino?",
+          "Más goles de un jugador en un partido de Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Oleg Salenko (Rusia) tiene el récord de más goles marcados por un jugador en un solo partido de la Copa Mundial masculina, con 5 goles contra Camerún en el Mundial de Estados Unidos 1994."
+        ]
+      },
+       {
+        "tag": "record_goles_partido_club",
+        "patterns": [
+          "¿Cuál es el récord de goles de un jugador en un partido de club?",
+          "Más goles de un jugador en un partido oficial de clubes"
+        ],
+        "responses": [
+          "Hay varios récords históricos en partidos de copa o ligas menores. Un récord notable es el de Stephan Stanis (francés del Racing Club de Lens) que marcó 16 goles en un partido de Copa de Francia en 1942. En tiempos más recientes y en ligas superiores, es extremadamente raro ver más de 5 o 6 goles por un jugador."
+        ]
+      },
+      {
+        "tag": "record_hat_trick_mas_rapido",
+        "patterns": [
+          "¿Cuál es el hat-trick más rápido de la historia?",
+          "Récord mundial hat-trick más rápido",
+          "Tres goles en menos tiempo"
+        ],
+        "responses": [
+          "El récord Guinness para el hat-trick (tres goles) más rápido en un partido de fútbol de alto nivel lo ostenta Tommy Ross (escocés del Ross County), quien marcó tres goles en 90 segundos contra el Nairn County en 1964. En la Premier League, el récord es de Sadio Mané (2 minutos y 56 segundos en 2015)."
+        ]
+      },
+      {
+        "tag": "record_gol_mas_rapido_oficial",
+        "patterns": [
+          "¿Cuál es el gol más rápido de la historia?",
+          "Récord mundial gol más rápido",
+          "Gol a los pocos segundos"
+        ],
+        "responses": [
+          "Hay varios goles reclamados en pocos segundos en divisiones inferiores o amateur. Uno de los más rápidos registrados y reconocidos en un nivel profesional es el de Nawaf Al-Abed (Arabia Saudita), quien marcó a los 2.4 segundos en un partido de copa en 2009. En la Premier League, el récord es de Shane Long (7.69 segundos en 2019)."
+        ]
+      },
+      {
+        "tag": "record_gol_mas_rapido_mundial_masc",
+        "patterns": [
+          "¿Cuál es el gol más rápido en un Mundial masculino?",
+          "Gol más tempranero Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Hakan Şükür (Turquía) marcó el gol más rápido en la historia de la Copa Mundial masculina, a los 10.8 segundos del partido por el tercer puesto contra Corea del Sur en el Mundial 2002."
+        ]
+      },
+        {
+        "tag": "record_gol_mas_rapido_mundial_fem",
+        "patterns": [
+          "¿Cuál es el gol más rápido en un Mundial femenino?",
+          "Gol más tempranero Copa del Mundo (mujeres)"
+        ],
+        "responses": [
+          "Kadidiatou Diani (Francia) marcó uno de los goles más rápidos en la historia de la Copa Mundial Femenina, a los 30 segundos contra Panamá en 2023."
+        ]
+      },
+      {
+        "tag": "record_gol_mas_lejano",
+        "patterns": [
+          "¿Cuál es el gol marcado desde más lejos?",
+          "Récord mundial gol más lejano",
+          "Gol de portería a portería"
+        ],
+        "responses": [
+          "El récord Guinness para el gol marcado desde la mayor distancia en un partido oficial lo ostenta el portero Tom King (galés), quien marcó desde 96.01 metros para el Newport County contra el Cheltenham Town en 2021. Superó el récord anterior del también portero Asmir Begović."
+        ]
+      },
+      {
+        "tag": "record_goles_portero",
+        "patterns": [
+          "¿Qué portero ha marcado más goles?",
+          "Récord mundial de goles de un arquero",
+          "Goles de Rogério Ceni"
+        ],
+        "responses": [
+          "Rogério Ceni (Brasil), leyenda del São Paulo FC, ostenta el récord mundial de ser el portero con más goles oficiales marcados en la historia, con 131 goles, la mayoría de tiro libre y penal."
+        ]
+      },
+      {
+        "tag": "record_partidos_mas_oficiales_carrera",
+        "patterns": [
+          "¿Quién ha jugado más partidos en la historia del fútbol?",
+          "Jugador con más partidos oficiales",
+          "Récord mundial de apariciones"
+        ],
+        "responses": [
+          "Determinar el jugador con más partidos oficiales es complejo por la variabilidad de registros históricos y ligas. El portero inglés Peter Shilton es a menudo citado con más de 1300 partidos. El portero brasileño Rogério Ceni también acumuló una cifra similar con São Paulo. Cristiano Ronaldo también ha superado los 1200 partidos oficiales reconocidos."
+        ]
+      },
+      {
+        "tag": "record_partidos_internacional_masc",
+        "patterns": [
+          "¿Quién es el jugador con más partidos internacionales (hombres)?",
+          "Más internacionalidades masculinas",
+          "Récord partidos selección masculina"
+        ],
+        "responses": [
+          "Cristiano Ronaldo (Portugal) ostenta el récord mundial de más partidos jugados a nivel de selecciones nacionales masculinas, superando las 200 internacionalidades."
+        ]
+      },
+      {
+        "tag": "record_partidos_internacional_fem",
+        "patterns": [
+          "¿Quién es la jugadora con más partidos internacionales (mujeres)?",
+          "Más internacionalidades femeninas",
+          "Récord partidos selección femenina"
+        ],
+        "responses": [
+          "Kristine Lilly (Estados Unidos) ostenta el récord mundial absoluto de más partidos jugados a nivel de selecciones nacionales (hombres y mujeres), con 354 internacionalidades."
+        ]
+      },
+      {
+        "tag": "record_partidos_mundial_masc",
+        "patterns": [
+          "¿Quién ha jugado más partidos en Mundiales masculinos?",
+          "Jugador con más apariciones Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina) tiene el récord de más partidos jugados en la historia de la Copa Mundial masculina, con 26 partidos disputados hasta Qatar 2022."
+        ]
+      },
+      {
+        "tag": "record_partidos_mundial_fem",
+        "patterns": [
+          "¿Quién ha jugado más partidos en Mundiales femeninos?",
+          "Jugadora con más apariciones Copa del Mundo (mujeres)"
+        ],
+        "responses": [
+          "Kristine Lilly (Estados Unidos) es la jugadora con más partidos disputados en la historia de la Copa Mundial Femenina, con 30 apariciones. Formiga (Brasil) también jugó en un récord de 7 Mundiales diferentes."
+        ]
+      },
+      {
+        "tag": "record_partidos_champions_league",
+        "patterns": [
+          "¿Quién ha jugado más partidos en la Champions League?",
+          "Jugador con más apariciones UCL"
+        ],
+        "responses": [
+          "Cristiano Ronaldo (Portugal) es el jugador con más partidos disputados en la historia de la UEFA Champions League, superando las 180 apariciones."
+        ]
+      },
+      {
+        "tag": "record_titulos_mas_oficiales_jugador",
+        "patterns": [
+          "¿Qué futbolista ha ganado más títulos en la historia?",
+          "Jugador con más trofeos oficiales",
+          "Récord mundial títulos jugador"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina) es ampliamente considerado el futbolista con más títulos oficiales reconocidos en la historia, superando los 40 trofeos entre clubes y selección. Dani Alves (Brasil) también acumuló una cantidad similar de títulos durante su carrera."
+        ]
+      },
+      {
+        "tag": "record_titulos_mundial_jugador",
+        "patterns": [
+          "¿Qué jugador ha ganado más Mundiales?",
+          "Jugador con 3 Copas del Mundo"
+        ],
+        "responses": [
+          "Pelé (Brasil) es el único jugador en la historia que ha ganado tres Copas Mundiales de la FIFA (1958, 1962, 1970)."
+        ]
+      },
+      {
+        "tag": "record_titulos_champions_league_jugador",
+        "patterns": [
+          "¿Qué jugador ha ganado más Champions League?",
+          "Jugador con 6 Copas de Europa/UCL"
+        ],
+        "responses": [
+          "Paco Gento (España, Real Madrid) fue el único jugador con 6 Copas de Europa durante décadas. En 2024, Luka Modrić, Dani Carvajal, Toni Kroos y Nacho Fernández (todos del Real Madrid) igualaron su récord al ganar su sexta UEFA Champions League."
+        ]
+      },
+      {
+        "tag": "record_balones_oro_masc",
+        "patterns": [
+          "¿Quién ha ganado más Balones de Oro?",
+          "Récord Balón de Oro masculino"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina) tiene el récord de más Balones de Oro ganados, con 8 galardones."
+        ]
+      },
+       {
+        "tag": "record_botas_oro_europea",
+        "patterns": [
+          "¿Quién ha ganado más Botas de Oro Europeas?",
+          "Récord Bota de Oro Europea"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina) tiene el récord de más Botas de Oro Europeas ganadas, con 6 galardones."
+        ]
+      },
+        {
+        "tag": "record_fifa_best_thebest_masc",
+        "patterns": [
+          "¿Quién ha ganado más premios The Best / FIFA World Player (masculino)?",
+          "Récord premio FIFA jugador masculino"
+        ],
+        "responses": [
+          "Lionel Messi (Argentina) es el jugador que más veces ha ganado el premio principal de la FIFA al mejor jugador masculino (sumando FIFA World Player of the Year y The Best FIFA Men's Player), con 8 galardones."
+        ]
+      },
+      {
+        "tag": "record_fifa_best_thebest_fem",
+        "patterns": [
+          "¿Quién ha ganado más premios The Best / FIFA World Player (femenino)?",
+          "Récord premio FIFA jugadora femenina"
+        ],
+        "responses": [
+          "Marta (Brasil) es la jugadora que más veces ha ganado el premio principal de la FIFA a la mejor jugadora femenina (sumando FIFA World Player of the Year y The Best FIFA Women's Player), con 6 galardones."
+        ]
+      },
+      {
+        "tag": "record_jugador_mas_joven_mundial_masc",
+        "patterns": [
+          "¿Quién es el jugador más joven en jugar un Mundial masculino?",
+          "Debutante más joven Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Norman Whiteside (Irlanda del Norte) es el jugador más joven en haber disputado un partido de la Copa Mundial masculina, con 17 años y 41 días en España 1982."
+        ]
+      },
+      {
+        "tag": "record_goleador_mas_joven_mundial_masc",
+        "patterns": [
+          "¿Quién es el goleador más joven en un Mundial masculino?",
+          "Anotador más joven Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Pelé (Brasil) es el goleador más joven en la historia de la Copa Mundial masculina, marcando su primer gol con 17 años y 239 días en Suecia 1958 (contra Gales)."
+        ]
+      },
+      {
+        "tag": "record_jugador_mas_viejo_mundial_masc",
+        "patterns": [
+          "¿Quién es el jugador más viejo en jugar un Mundial masculino?",
+          "Veterano récord Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Essam El-Hadary (Egipto), portero, es el jugador más viejo en haber disputado un partido de la Copa Mundial masculina, con 45 años y 161 días en Rusia 2018."
+        ]
+      },
+      {
+        "tag": "record_goleador_mas_viejo_mundial_masc",
+        "patterns": [
+          "¿Quién es el goleador más viejo en un Mundial masculino?",
+          "Anotador más veterano Copa del Mundo (hombres)"
+        ],
+        "responses": [
+          "Roger Milla (Camerún) es el goleador más viejo en la historia de la Copa Mundial masculina, marcando contra Rusia en USA 1994 con 42 años y 39 días."
+        ]
+      },
+        {
+        "tag": "record_jugadora_mas_joven_mundial_fem",
+        "patterns": [
+          "¿Quién es la jugadora más joven en jugar un Mundial femenino?",
+          "Debutante más joven Copa del Mundo (mujeres)"
+        ],
+        "responses": [
+          "Ifeanyi Chiejine (Nigeria) es una de las jugadoras más jóvenes en haber disputado un partido de Copa Mundial Femenina, con 16 años y 34 días en 1999."
+        ]
+      },
+      {
+        "tag": "record_jugadora_mas_vieja_mundial_fem",
+        "patterns": [
+          "¿Quién es la jugadora más vieja en jugar un Mundial femenino?",
+          "Veterana récord Copa del Mundo (mujeres)"
+        ],
+        "responses": [
+          "Formiga (Brasil), centrocampista, es la jugadora más vieja en haber disputado un partido de Copa Mundial Femenina, con 41 años y 112 días en Francia 2019. También tiene el récord de participar en 7 mundiales."
+        ]
+      },
+      {
+        "tag": "record_expulsion_mas_rapida",
+        "patterns": [
+          "¿Cuál es la expulsión más rápida de la historia?",
+          "Tarjeta roja más rápida fútbol",
+          "Récord expulsión temprana"
+        ],
+        "responses": [
+          "Hay varios casos reclamados en ligas amateur o inferiores. Una de las más citadas en el fútbol profesional es la de Lee Todd (inglés del Cross Farm Park Celtic) en 2000, quien supuestamente fue expulsado a los 2 segundos por protestar el pitido inicial diciendo 'Fuck me, that was loud!' (Joder, ¡qué fuerte!). En Mundiales, José Batista (Uruguay) fue expulsado a los 56 segundos contra Escocia en 1986."
+        ]
+      },
+       {
+        "tag": "record_fichaje_mas_caro",
+        "patterns": [
+          "¿Cuál es el fichaje más caro de la historia del fútbol?",
+          "Traspaso récord fútbol",
+          "Jugador más caro"
+        ],
+        "responses": [
+          "El traspaso más caro registrado en la historia del fútbol sigue siendo el de Neymar Jr. (Brasil) del FC Barcelona al Paris Saint-Germain (PSG) en 2017 por 222 millones de euros (el valor de su cláusula de rescisión). Cifras posteriores por otros jugadores como Mbappé al Real Madrid (como agente libre, pero con primas altas) o fichajes en la liga saudí son más difíciles de verificar en términos de coste de traspaso puro."
+        ]
+      },
+      {
+        "tag": "record_titulos_mundial_equipo",
+        "patterns": [
+          "¿Qué selección ha ganado más Mundiales masculinos?",
+          "País con más Copas del Mundo (hombres)"
+        ],
+        "responses": [
+          "Brasil es la selección masculina con más títulos de la Copa Mundial de la FIFA, con 5 campeonatos (1958, 1962, 1970, 1994, 2002)."
+        ]
+      },
+       {
+        "tag": "record_titulos_mundial_fem_equipo",
+        "patterns": [
+          "¿Qué selección ha ganado más Mundiales femeninos?",
+          "País con más Copas del Mundo (mujeres)"
+        ],
+        "responses": [
+          "Estados Unidos es la selección femenina con más títulos de la Copa Mundial Femenina de la FIFA, con 4 campeonatos (1991, 1999, 2015, 2019)."
+        ]
+      },
+      {
+        "tag": "record_titulos_eurocopa_equipo",
+        "patterns": [
+          "¿Qué selección ha ganado más Eurocopas?",
+          "País con más Campeonatos Europeos"
+        ],
+        "responses": [
+          "España tiene el récord de más títulos de la Eurocopa, con 4 campeonatos (1964, 2008, 2012, 2024). Alemania le sigue con 3."
+        ]
+      },
+      {
+        "tag": "record_titulos_copa_america_equipo",
+        "patterns": [
+          "¿Qué selección ha ganado más Copas América?",
+          "País con más títulos Copa América"
+        ],
+        "responses": [
+          "Argentina y Uruguay comparten el récord de más títulos de la Copa América, con 15 campeonatos cada uno."
+        ]
+      },
+      {
+        "tag": "record_racha_invicta_seleccion",
+        "patterns": [
+          "¿Cuál es la racha invicta más larga de una selección?",
+          "Más partidos sin perder selección nacional",
+          "Récord invicto Italia"
+        ],
+        "responses": [
+          "Italia ostenta el récord mundial de la racha invicta más larga a nivel de selecciones nacionales masculinas, con 37 partidos sin perder entre 2018 y 2021."
+        ]
+      },
+      {
+        "tag": "record_mayor_goleada_internacional",
+        "patterns": [
+          "¿Cuál es la mayor goleada en un partido internacional?",
+          "Resultado más abultado entre selecciones",
+          "Australia 31 - Samoa Americana 0"
+        ],
+        "responses": [
+          "La mayor goleada registrada en un partido internacional oficial masculino es la victoria de Australia por 31-0 sobre Samoa Americana el 11 de abril de 2001, durante la clasificación para el Mundial 2002."
+        ]
+      },
+      {
+        "tag": "record_titulos_champions_league_club",
+        "patterns": [
+          "¿Qué club ha ganado más Champions League?",
+          "Club con más Copas de Europa/UCL"
+        ],
+        "responses": [
+          "El Real Madrid (España) es el club con más títulos de la UEFA Champions League / Copa de Europa, con 15 campeonatos."
+        ]
+      },
+      {
+        "tag": "record_titulos_libertadores_club",
+        "patterns": [
+          "¿Qué club ha ganado más Copas Libertadores?",
+          "Club con más Libertadores"
+        ],
+        "responses": [
+          "Independiente (Argentina) es el club con más títulos de la CONMEBOL Libertadores, con 7 campeonatos."
+        ]
+      },
+      {
+        "tag": "record_racha_invicta_club_europa_liga",
+        "patterns": [
+          "¿Cuál es la racha invicta más larga de un club en liga europea?",
+          "Más partidos sin perder club liga Europa"
+        ],
+        "responses": [
+          "El AC Milan (Italia) ostenta una de las rachas invictas más largas en las principales ligas europeas, con 58 partidos sin perder en la Serie A entre 1991 y 1993. El Steaua Bucarest (Rumania) tuvo una racha aún más larga (104 partidos) en su liga doméstica en los años 80."
+        ]
+      },
+       {
+          "tag": "record_mas_victorias_consecutivas_club_liga_top",
+          "patterns": [
+            "¿Cuál es el récord de victorias consecutivas en las 5 grandes ligas europeas?",
+            "Más partidos seguidos ganando club liga Top 5"
+          ],
+          "responses": [
+            "El récord de más victorias consecutivas en las 5 grandes ligas europeas (Inglaterra, España, Alemania, Italia, Francia) lo ostenta el Bayern Munich, con 19 victorias seguidas en la Bundesliga 2013-14. Manchester City también alcanzó 18 en la Premier League."
+          ]
+        },
+      {
+        "tag": "record_mayor_goleada_club",
+        "patterns": [
+          "¿Cuál es la mayor goleada en un partido de clubes?",
+          "Resultado más abultado entre clubes"
+        ],
+        "responses": [
+          "El partido oficial con la mayor goleada registrada entre clubes es la victoria del Arbroath por 36-0 sobre el Bon Accord en la Copa de Escocia de 1885. En tiempos modernos, goleadas tan extremas son muy raras en niveles profesionales altos."
+        ]
+      },
+         {
+          "tag": "record_titulos_liga_nacional_mas_veces",
+          "patterns": [
+            "¿Qué club ha ganado su liga nacional más veces en el mundo?",
+            "Club con más títulos de liga del mundo"
+          ],
+          "responses": [
+            "El Rangers FC de Escocia es a menudo citado como el club que ha ganado su liga nacional de máxima división más veces en el mundo, superando los 50 títulos."
+          ]
+        },
+      {
+        "tag": "record_mundial_mas_goles_edicion",
+        "patterns": [
+          "¿Qué Mundial tuvo más goles?",
+          "Edición Copa del Mundo con más goles"
+        ],
+        "responses": [
+          "Las Copas Mundiales de la FIFA de 1998 (Francia) y 2014 (Brasil) compartían el récord de ser las ediciones con más goles marcados, con 171 goles cada una. El Mundial de Qatar 2022 superó esta marca con 172 goles."
+        ]
+      },
+      {
+        "tag": "record_partido_mundial_mas_goles",
+        "patterns": [
+          "¿Qué partido de Mundial tuvo más goles?",
+          "Partido Copa del Mundo con más goles"
+        ],
+        "responses": [
+          "El partido con más goles en la historia de la Copa Mundial masculina fue la victoria de Austria por 7-5 sobre Suiza en los cuartos de final del Mundial de Suiza 1954. Se marcaron 12 goles en total."
+        ]
+      },
+        {
+          "tag": "record_asistencia_mas_alta",
+          "patterns": [
+            "¿Cuál es el récord de asistencia a un partido de fútbol?",
+            "Partido con más espectadores",
+            "Maracanazo asistencia"
+          ],
+          "responses": [
+            "La asistencia oficial más alta registrada para un partido de fútbol es la de la final (de facto) del Mundial de 1950 entre Brasil y Uruguay en el estadio Maracaná de Río de Janeiro. La cifra oficial fue de 173,850 espectadores, aunque se estima que la asistencia real pudo superar los 200,000."
+          ]
+        },
+        {
+          "tag": "record_penales_mas_largos",
+          "patterns": [
+            "¿Cuál ha sido la tanda de penales más larga?",
+            "Récord tanda de penaltis más larga"
+          ],
+          "responses": [
+            "Una de las tandas de penales más largas registradas en un partido profesional ocurrió en la Copa de Namibia en 2005 entre KK Palace y Civics, donde se lanzaron 48 penales (KK Palace ganó 17-16)."
+          ]
+        }
+    ]
+  }

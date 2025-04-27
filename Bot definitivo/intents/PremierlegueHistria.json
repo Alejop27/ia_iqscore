@@ -1,0 +1,452 @@
+{
+    "intents": [
+      {
+        "tag": "premier_league_1992_1993",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1992-1993?",
+          "Campeón Premier League 1992-1993",
+          "Subcampeón Premier League 1992-1993",
+          "Goleador Premier League 1992-1993",
+          "Asistidor Premier League 1992-1993",
+          "Jugador de la temporada Premier League 1992-1993"
+        ],
+        "responses": [
+          "En la temporada 1992-1993 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Teddy Sheringham** (Nottingham Forest/Tottenham Hotspur) con 22 goles. El máximo asistidor fue **Eric Cantona** (Leeds United/Manchester United) con 16 asistencias. No hubo un premio oficial de Jugador de la Temporada de la Premier League este año (el premio PFA fue para Paul McGrath)."
+        ]
+      },
+      {
+        "tag": "premier_league_1993_1994",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1993-1994?",
+          "Campeón Premier League 1993-1994",
+          "Subcampeón Premier League 1993-1994",
+          "Goleador Premier League 1993-1994",
+          "Asistidor Premier League 1993-1994",
+          "Jugador de la temporada Premier League 1993-1994"
+        ],
+        "responses": [
+          "En la temporada 1993-1994 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Blackburn Rovers**. El máximo goleador fue **Andy Cole** (Newcastle United) con 34 goles. El máximo asistidor fue **Andy Townsend** (Aston Villa) con 13 asistencias. No hubo un premio oficial de Jugador de la Temporada de la Premier League este año (el premio PFA fue para Eric Cantona)."
+        ]
+      },
+      {
+        "tag": "premier_league_1994_1995",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1994-1995?",
+          "Campeón Premier League 1994-1995",
+          "Subcampeón Premier League 1994-1995",
+          "Goleador Premier League 1994-1995",
+          "Asistidor Premier League 1994-1995",
+          "Jugador de la temporada Premier League 1994-1995"
+        ],
+        "responses": [
+          "En la temporada 1994-1995 de la Premier League, el campeón fue **Blackburn Rovers**. El subcampeón fue **Manchester United**. El máximo goleador fue **Alan Shearer** (Blackburn Rovers) con 34 goles. El máximo asistidor fue **Matt Le Tissier** (Southampton) con 15 asistencias. El jugador de la temporada fue **Alan Shearer** (Blackburn Rovers)."
+        ]
+      },
+      {
+        "tag": "premier_league_1995_1996",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1995-1996?",
+          "Campeón Premier League 1995-1996",
+          "Subcampeón Premier League 1995-1996",
+          "Goleador Premier League 1995-1996",
+          "Asistidor Premier League 1995-1996",
+          "Jugador de la temporada Premier League 1995-1996"
+        ],
+        "responses": [
+          "En la temporada 1995-1996 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Newcastle United**. El máximo goleador fue **Alan Shearer** (Blackburn Rovers) con 31 goles. El máximo asistidor fue **Steve McManaman** (Liverpool) con 15 asistencias. El jugador de la temporada fue **Peter Schmeichel** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_1996_1997",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1996-1997?",
+          "Campeón Premier League 1996-1997",
+          "Subcampeón Premier League 1996-1997",
+          "Goleador Premier League 1996-1997",
+          "Asistidor Premier League 1996-1997",
+          "Jugador de la temporada Premier League 1996-1997"
+        ],
+        "responses": [
+          "En la temporada 1996-1997 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Newcastle United**. El máximo goleador fue **Alan Shearer** (Newcastle United) con 25 goles. El máximo asistidor fue **Eric Cantona** (Manchester United) con 12 asistencias. El jugador de la temporada fue **Juninho Paulista** (Middlesbrough)."
+        ]
+      },
+      {
+        "tag": "premier_league_1997_1998",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1997-1998?",
+          "Campeón Premier League 1997-1998",
+          "Subcampeón Premier League 1997-1998",
+          "Goleador Premier League 1997-1998",
+          "Asistidor Premier League 1997-1998",
+          "Jugador de la temporada Premier League 1997-1998"
+        ],
+        "responses": [
+          "En la temporada 1997-1998 de la Premier League, el campeón fue **Arsenal**. El subcampeón fue **Manchester United**. Los máximos goleadores fueron **Dion Dublin** (Coventry City), **Michael Owen** (Liverpool) y **Chris Sutton** (Blackburn Rovers) con 18 goles cada uno. El máximo asistidor fue **David Beckham** (Manchester United) con 13 asistencias. El jugador de la temporada fue **Michael Owen** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_1998_1999",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1998-1999?",
+          "Campeón Premier League 1998-1999",
+          "Subcampeón Premier League 1998-1999",
+          "Goleador Premier League 1998-1999",
+          "Asistidor Premier League 1998-1999",
+          "Jugador de la temporada Premier League 1998-1999"
+        ],
+        "responses": [
+          "En la temporada 1998-1999 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. Los máximos goleadores fueron **Jimmy Floyd Hasselbaink** (Leeds United), **Michael Owen** (Liverpool) y **Dwight Yorke** (Manchester United) con 18 goles cada uno. El máximo asistidor fue **Dennis Bergkamp** (Arsenal) con 13 asistencias. El jugador de la temporada fue **Dwight Yorke** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_1999_2000",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1999-2000?",
+          "Campeón Premier League 1999-2000",
+          "Subcampeón Premier League 1999-2000",
+          "Goleador Premier League 1999-2000",
+          "Asistidor Premier League 1999-2000",
+          "Jugador de la temporada Premier League 1999-2000"
+        ],
+        "responses": [
+          "En la temporada 1999-2000 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. El máximo goleador fue **Kevin Phillips** (Sunderland) con 30 goles. Los máximos asistidores fueron **David Beckham** (Manchester United) y **Nolberto Solano** (Newcastle United) con 15 asistencias cada uno. El jugador de la temporada fue **Kevin Phillips** (Sunderland)."
+        ]
+      },
+      {
+        "tag": "premier_league_2000_2001",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2000-2001?",
+          "Campeón Premier League 2000-2001",
+          "Subcampeón Premier League 2000-2001",
+          "Goleador Premier League 2000-2001",
+          "Asistidor Premier League 2000-2001",
+          "Jugador de la temporada Premier League 2000-2001"
+        ],
+        "responses": [
+          "En la temporada 2000-2001 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. El máximo goleador fue **Jimmy Floyd Hasselbaink** (Chelsea) con 23 goles. El máximo asistidor fue **David Beckham** (Manchester United) con 12 asistencias. El jugador de la temporada fue **Patrick Vieira** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2001_2002",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2001-2002?",
+          "Campeón Premier League 2001-2002",
+          "Subcampeón Premier League 2001-2002",
+          "Goleador Premier League 2001-2002",
+          "Asistidor Premier League 2001-2002",
+          "Jugador de la temporada Premier League 2001-2002"
+        ],
+        "responses": [
+          "En la temporada 2001-2002 de la Premier League, el campeón fue **Arsenal**. El subcampeón fue **Liverpool**. El máximo goleador fue **Thierry Henry** (Arsenal) con 24 goles. El máximo asistidor fue **Robert Pires** (Arsenal) con 15 asistencias. El jugador de la temporada fue **Freddie Ljungberg** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2002_2003",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2002-2003?",
+          "Campeón Premier League 2002-2003",
+          "Subcampeón Premier League 2002-2003",
+          "Goleador Premier League 2002-2003",
+          "Asistidor Premier League 2002-2003",
+          "Jugador de la temporada Premier League 2002-2003"
+        ],
+        "responses": [
+          "En la temporada 2002-2003 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. El máximo goleador fue **Ruud van Nistelrooy** (Manchester United) con 25 goles. El máximo asistidor fue **Thierry Henry** (Arsenal) con 20 asistencias. El jugador de la temporada fue **Ruud van Nistelrooy** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2003_2004",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2003-2004?",
+          "Campeón Premier League 2003-2004",
+          "Subcampeón Premier League 2003-2004",
+          "Goleador Premier League 2003-2004",
+          "Asistidor Premier League 2003-2004",
+          "Jugador de la temporada Premier League 2003-2004"
+        ],
+        "responses": [
+          "En la temporada 2003-2004 de la Premier League, el campeón fue **Arsenal** (Invictos). El subcampeón fue **Chelsea**. El máximo goleador fue **Thierry Henry** (Arsenal) con 30 goles. El máximo asistidor fue **Muzzy Izzet** (Leicester City) con 14 asistencias. El jugador de la temporada fue **Thierry Henry** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2004_2005",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2004-2005?",
+          "Campeón Premier League 2004-2005",
+          "Subcampeón Premier League 2004-2005",
+          "Goleador Premier League 2004-2005",
+          "Asistidor Premier League 2004-2005",
+          "Jugador de la temporada Premier League 2004-2005"
+        ],
+        "responses": [
+          "En la temporada 2004-2005 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Arsenal**. El máximo goleador fue **Thierry Henry** (Arsenal) con 25 goles. El máximo asistidor fue **Frank Lampard** (Chelsea) con 18 asistencias. El jugador de la temporada fue **Frank Lampard** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "premier_league_2005_2006",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2005-2006?",
+          "Campeón Premier League 2005-2006",
+          "Subcampeón Premier League 2005-2006",
+          "Goleador Premier League 2005-2006",
+          "Asistidor Premier League 2005-2006",
+          "Jugador de la temporada Premier League 2005-2006"
+        ],
+        "responses": [
+          "En la temporada 2005-2006 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Manchester United**. El máximo goleador fue **Thierry Henry** (Arsenal) con 27 goles. El máximo asistidor fue **Didier Drogba** (Chelsea) con 11 asistencias. El jugador de la temporada fue **Thierry Henry** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2006_2007",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2006-2007?",
+          "Campeón Premier League 2006-2007",
+          "Subcampeón Premier League 2006-2007",
+          "Goleador Premier League 2006-2007",
+          "Asistidor Premier League 2006-2007",
+          "Jugador de la temporada Premier League 2006-2007"
+        ],
+        "responses": [
+          "En la temporada 2006-2007 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. El máximo goleador fue **Didier Drogba** (Chelsea) con 20 goles. Los máximos asistidores fueron **Cesc Fàbregas** (Arsenal) y **Wayne Rooney** (Manchester United) con 11 asistencias cada uno. El jugador de la temporada fue **Cristiano Ronaldo** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2007_2008",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2007-2008?",
+          "Campeón Premier League 2007-2008",
+          "Subcampeón Premier League 2007-2008",
+          "Goleador Premier League 2007-2008",
+          "Asistidor Premier League 2007-2008",
+          "Jugador de la temporada Premier League 2007-2008"
+        ],
+        "responses": [
+          "En la temporada 2007-2008 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. El máximo goleador fue **Cristiano Ronaldo** (Manchester United) con 31 goles. El máximo asistidor fue **Cesc Fàbregas** (Arsenal) con 17 asistencias. El jugador de la temporada fue **Cristiano Ronaldo** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2008_2009",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2008-2009?",
+          "Campeón Premier League 2008-2009",
+          "Subcampeón Premier League 2008-2009",
+          "Goleador Premier League 2008-2009",
+          "Asistidor Premier League 2008-2009",
+          "Jugador de la temporada Premier League 2008-2009"
+        ],
+        "responses": [
+          "En la temporada 2008-2009 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Liverpool**. El máximo goleador fue **Nicolas Anelka** (Chelsea) con 19 goles. El máximo asistidor fue **Frank Lampard** (Chelsea) con 19 asistencias. El jugador de la temporada fue **Nemanja Vidić** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2009_2010",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2009-2010?",
+          "Campeón Premier League 2009-2010",
+          "Subcampeón Premier League 2009-2010",
+          "Goleador Premier League 2009-2010",
+          "Asistidor Premier League 2009-2010",
+          "Jugador de la temporada Premier League 2009-2010"
+        ],
+        "responses": [
+          "En la temporada 2009-2010 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Manchester United**. El máximo goleador fue **Didier Drogba** (Chelsea) con 29 goles. El máximo asistidor fue **Frank Lampard** (Chelsea) con 14 asistencias. El jugador de la temporada fue **Wayne Rooney** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2010_2011",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2010-2011?",
+          "Campeón Premier League 2010-2011",
+          "Subcampeón Premier League 2010-2011",
+          "Goleador Premier League 2010-2011",
+          "Asistidor Premier League 2010-2011",
+          "Jugador de la temporada Premier League 2010-2011"
+        ],
+        "responses": [
+          "En la temporada 2010-2011 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. Los máximos goleadores fueron **Dimitar Berbatov** (Manchester United) y **Carlos Tevez** (Manchester City) con 20 goles cada uno. El máximo asistidor fue **Nani** (Manchester United) con 14 asistencias. El jugador de la temporada fue **Nemanja Vidić** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2011_2012",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2011-2012?",
+          "Campeón Premier League 2011-2012",
+          "Subcampeón Premier League 2011-2012",
+          "Goleador Premier League 2011-2012",
+          "Asistidor Premier League 2011-2012",
+          "Jugador de la temporada Premier League 2011-2012"
+        ],
+        "responses": [
+          "En la temporada 2011-2012 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. El máximo goleador fue **Robin van Persie** (Arsenal) con 30 goles. El máximo asistidor fue **David Silva** (Manchester City) con 15 asistencias. El jugador de la temporada fue **Vincent Kompany** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2012_2013",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2012-2013?",
+          "Campeón Premier League 2012-2013",
+          "Subcampeón Premier League 2012-2013",
+          "Goleador Premier League 2012-2013",
+          "Asistidor Premier League 2012-2013",
+          "Jugador de la temporada Premier League 2012-2013"
+        ],
+        "responses": [
+          "En la temporada 2012-2013 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Manchester City**. El máximo goleador fue **Robin van Persie** (Manchester United) con 26 goles. El máximo asistidor fue **Juan Mata** (Chelsea) con 12 asistencias. El jugador de la temporada fue **Gareth Bale** (Tottenham Hotspur)."
+        ]
+      },
+      {
+        "tag": "premier_league_2013_2014",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2013-2014?",
+          "Campeón Premier League 2013-2014",
+          "Subcampeón Premier League 2013-2014",
+          "Goleador Premier League 2013-2014",
+          "Asistidor Premier League 2013-2014",
+          "Jugador de la temporada Premier League 2013-2014"
+        ],
+        "responses": [
+          "En la temporada 2013-2014 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Liverpool**. El máximo goleador fue **Luis Suárez** (Liverpool) con 31 goles. El máximo asistidor fue **Steven Gerrard** (Liverpool) con 13 asistencias. El jugador de la temporada fue **Luis Suárez** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_2014_2015",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2014-2015?",
+          "Campeón Premier League 2014-2015",
+          "Subcampeón Premier League 2014-2015",
+          "Goleador Premier League 2014-2015",
+          "Asistidor Premier League 2014-2015",
+          "Jugador de la temporada Premier League 2014-2015"
+        ],
+        "responses": [
+          "En la temporada 2014-2015 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Manchester City**. El máximo goleador fue **Sergio Agüero** (Manchester City) con 26 goles. El máximo asistidor fue **Cesc Fàbregas** (Chelsea) con 18 asistencias. El jugador de la temporada fue **Eden Hazard** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "premier_league_2015_2016",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2015-2016?",
+          "Campeón Premier League 2015-2016",
+          "Subcampeón Premier League 2015-2016",
+          "Goleador Premier League 2015-2016",
+          "Asistidor Premier League 2015-2016",
+          "Jugador de la temporada Premier League 2015-2016"
+        ],
+        "responses": [
+          "En la temporada 2015-2016 de la Premier League, el campeón fue **Leicester City**. El subcampeón fue **Arsenal**. El máximo goleador fue **Harry Kane** (Tottenham Hotspur) con 25 goles. El máximo asistidor fue **Mesut Özil** (Arsenal) con 19 asistencias. El jugador de la temporada fue **Jamie Vardy** (Leicester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2016_2017",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2016-2017?",
+          "Campeón Premier League 2016-2017",
+          "Subcampeón Premier League 2016-2017",
+          "Goleador Premier League 2016-2017",
+          "Asistidor Premier League 2016-2017",
+          "Jugador de la temporada Premier League 2016-2017"
+        ],
+        "responses": [
+          "En la temporada 2016-2017 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **Harry Kane** (Tottenham Hotspur) con 29 goles. El máximo asistidor fue **Kevin De Bruyne** (Manchester City) con 18 asistencias. El jugador de la temporada fue **N'Golo Kanté** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "premier_league_2017_2018",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2017-2018?",
+          "Campeón Premier League 2017-2018",
+          "Subcampeón Premier League 2017-2018",
+          "Goleador Premier League 2017-2018",
+          "Asistidor Premier League 2017-2018",
+          "Jugador de la temporada Premier League 2017-2018"
+        ],
+        "responses": [
+          "En la temporada 2017-2018 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. El máximo goleador fue **Mohamed Salah** (Liverpool) con 32 goles. El máximo asistidor (Premio Playmaker) fue **Kevin De Bruyne** (Manchester City) con 16 asistencias. El jugador de la temporada fue **Mohamed Salah** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_2018_2019",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2018-2019?",
+          "Campeón Premier League 2018-2019",
+          "Subcampeón Premier League 2018-2019",
+          "Goleador Premier League 2018-2019",
+          "Asistidor Premier League 2018-2019",
+          "Jugador de la temporada Premier League 2018-2019"
+        ],
+        "responses": [
+          "En la temporada 2018-2019 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Liverpool**. Los máximos goleadores fueron **Pierre-Emerick Aubameyang** (Arsenal), **Sadio Mané** (Liverpool) y **Mohamed Salah** (Liverpool) con 22 goles cada uno. El máximo asistidor (Premio Playmaker) fue **Eden Hazard** (Chelsea) con 15 asistencias. El jugador de la temporada fue **Virgil van Dijk** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_2019_2020",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2019-2020?",
+          "Campeón Premier League 2019-2020",
+          "Subcampeón Premier League 2019-2020",
+          "Goleador Premier League 2019-2020",
+          "Asistidor Premier League 2019-2020",
+          "Jugador de la temporada Premier League 2019-2020"
+        ],
+        "responses": [
+          "En la temporada 2019-2020 de la Premier League, el campeón fue **Liverpool**. El subcampeón fue **Manchester City**. El máximo goleador fue **Jamie Vardy** (Leicester City) con 23 goles. El máximo asistidor (Premio Playmaker) fue **Kevin De Bruyne** (Manchester City) con 20 asistencias. El jugador de la temporada fue **Kevin De Bruyne** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2020_2021",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2020-2021?",
+          "Campeón Premier League 2020-2021",
+          "Subcampeón Premier League 2020-2021",
+          "Goleador Premier League 2020-2021",
+          "Asistidor Premier League 2020-2021",
+          "Jugador de la temporada Premier League 2020-2021"
+        ],
+        "responses": [
+          "En la temporada 2020-2021 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. El máximo goleador fue **Harry Kane** (Tottenham Hotspur) con 23 goles. El máximo asistidor (Premio Playmaker) fue **Harry Kane** (Tottenham Hotspur) con 14 asistencias. El jugador de la temporada fue **Rúben Dias** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2021_2022",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2021-2022?",
+          "Campeón Premier League 2021-2022",
+          "Subcampeón Premier League 2021-2022",
+          "Goleador Premier League 2021-2022",
+          "Asistidor Premier League 2021-2022",
+          "Jugador de la temporada Premier League 2021-2022"
+        ],
+        "responses": [
+          "En la temporada 2021-2022 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Liverpool**. Los máximos goleadores fueron **Mohamed Salah** (Liverpool) y **Son Heung-min** (Tottenham Hotspur) con 23 goles cada uno. El máximo asistidor (Premio Playmaker) fue **Mohamed Salah** (Liverpool) con 13 asistencias. El jugador de la temporada fue **Kevin De Bruyne** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2022_2023",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2022-2023?",
+          "Campeón Premier League 2022-2023",
+          "Subcampeón Premier League 2022-2023",
+          "Goleador Premier League 2022-2023",
+          "Asistidor Premier League 2022-2023",
+          "Jugador de la temporada Premier League 2022-2023"
+        ],
+        "responses": [
+          "En la temporada 2022-2023 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Arsenal**. El máximo goleador fue **Erling Haaland** (Manchester City) con 36 goles. El máximo asistidor (Premio Playmaker) fue **Kevin De Bruyne** (Manchester City) con 16 asistencias. El jugador de la temporada fue **Erling Haaland** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2023_2024",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2023-2024?",
+          "Campeón Premier League 2023-2024",
+          "Subcampeón Premier League 2023-2024",
+          "Goleador Premier League 2023-2024",
+          "Asistidor Premier League 2023-2024",
+          "Jugador de la temporada Premier League 2023-2024"
+        ],
+        "responses": [
+          "En la temporada 2023-2024 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Arsenal**. El máximo goleador fue **Erling Haaland** (Manchester City) con 27 goles. El máximo asistidor (Premio Playmaker) fue **Ollie Watkins** (Aston Villa) con 13 asistencias. El jugador de la temporada fue **Phil Foden** (Manchester City)."
+        ]
+      }
+    ]
+  }

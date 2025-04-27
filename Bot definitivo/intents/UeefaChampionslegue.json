@@ -1,0 +1,919 @@
+{
+    "intents": [
+      {
+        "tag": "ucl_fundacion",
+        "patterns": [
+          "¿Cuándo se fundó la Champions League?",
+          "¿En qué año empezó la Champions?",
+          "Historia de la fundación de la Champions League",
+          "Origen de la Champions League"
+        ],
+        "responses": [
+          "La UEFA Champions League fue fundada en 1955 bajo el nombre de 'Copa de Europa'. En 1992, se rebautizó como 'UEFA Champions League' y se reformó el formato para incluir una fase de grupos y más equipos."
+        ]
+      },
+      {
+        "tag": "ucl_formato",
+        "patterns": [
+          "¿Cómo funciona la Champions League?",
+          "¿Cuántos equipos juegan en la Champions?",
+          "Formato de la Champions League",
+          "Reglas de la Champions League"
+        ],
+        "responses": [
+          "La Champions League comienza con una fase de clasificación, seguida de una fase de grupos con 32 equipos. Los dos primeros de cada grupo avanzan a la fase eliminatoria (octavos, cuartos, semifinales y final). El ganador de la final se proclama campeón de Europa."
+        ]
+      },
+      {
+        "tag": "ucl_mas_titulos",
+        "patterns": [
+          "¿Qué equipo ha ganado más Champions League?",
+          "Equipo con más Copas de Europa",
+          "Máximo ganador de la Champions"
+        ],
+        "responses": [
+          "El Real Madrid es el equipo con más títulos de la Champions League, habiendo ganado el trofeo 14 veces (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "ucl_maximo_goleador_historico",
+        "patterns": [
+          "¿Quién es el máximo goleador de la historia de la Champions League?",
+          "Jugador con más goles en la Champions",
+          "Récord de goles Champions League"
+        ],
+        "responses": [
+          "Cristiano Ronaldo es el máximo goleador histórico de la Champions League, con 140 goles (hasta 2023) marcados jugando para el Manchester United, Real Madrid y Juventus."
+        ]
+      },
+      {
+        "tag": "ucl_mas_partidos",
+        "patterns": [
+          "¿Quién es el jugador con más partidos en la Champions League?",
+          "Jugador con más apariciones en la Champions",
+          "Récord de partidos jugados Champions"
+        ],
+        "responses": [
+          "Cristiano Ronaldo también ostenta el récord de más partidos jugados en la Champions League, con 183 apariciones (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "ucl_portero_mas_clean_sheets",
+        "patterns": [
+          "¿Qué portero tiene más porterías a cero en la Champions League?",
+          "Récord de 'clean sheets' Champions",
+          "Mejor portero histórico Champions porterías imbatidas"
+        ],
+        "responses": [
+          "Iker Casillas tiene el récord de más porterías a cero (clean sheets) en la historia de la Champions League, con 57 partidos sin encajar gol."
+        ]
+      },
+      {
+        "tag": "ucl_club_info_realmadrid",
+        "patterns": [
+          "Háblame del Real Madrid en la Champions",
+          "Información sobre el Real Madrid en la Champions",
+          "¿Qué ha logrado el Real Madrid en la Champions?"
+        ],
+        "responses": [
+          "El Real Madrid es el equipo más exitoso en la historia de la Champions League, con 14 títulos (hasta 2023). Han ganado cinco de ellos consecutivamente entre 1956 y 1960, y tres seguidos entre 2016 y 2018."
+        ]
+      },
+      {
+        "tag": "ucl_club_info_barcelona",
+        "patterns": [
+          "Háblame del Barcelona en la Champions",
+          "Información sobre el Barça en la Champions",
+          "¿Qué ha logrado el Barcelona en la Champions?"
+        ],
+        "responses": [
+          "El FC Barcelona ha ganado la Champions League 5 veces (hasta 2023). Sus victorias más memorables incluyen las finales de 2006, 2009 y 2011, bajo la dirección de entrenadores como Frank Rijkaard y Pep Guardiola."
+        ]
+      },
+      {
+        "tag": "ucl_club_info_bayern",
+        "patterns": [
+          "Háblame del Bayern Múnich en la Champions",
+          "Información sobre el Bayern en la Champions",
+          "¿Qué ha logrado el Bayern en la Champions?"
+        ],
+        "responses": [
+          "El Bayern Múnich ha ganado la Champions League 6 veces (hasta 2023). Son conocidos por su dominio en la década de 1970 y por su victoria en 2020, cuando ganaron todos los partidos de la competición."
+        ]
+      },
+      {
+        "tag": "ucl_club_info_liverpool",
+        "patterns": [
+          "Háblame del Liverpool en la Champions",
+          "Información sobre el Liverpool en la Champions",
+          "¿Qué ha logrado el Liverpool en la Champions?"
+        ],
+        "responses": [
+          "El Liverpool FC ha ganado la Champions League 6 veces (hasta 2023). Son famosos por sus remontadas épicas, como la de 2005 en Estambul, donde ganaron tras ir perdiendo 3-0 en el descanso."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_info_messi",
+        "patterns": [
+          "¿Qué ha logrado Messi en la Champions?",
+          "Carrera de Messi en la Champions",
+          "Messi en la Champions League"
+        ],
+        "responses": [
+          "Lionel Messi ha ganado la Champions League 4 veces con el FC Barcelona (2006, 2009, 2011, 2015). Es el segundo máximo goleador histórico de la competición, con 129 goles (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_info_ronaldo",
+        "patterns": [
+          "¿Qué ha logrado Cristiano Ronaldo en la Champions?",
+          "Carrera de Ronaldo en la Champions",
+          "Ronaldo en la Champions League"
+        ],
+        "responses": [
+          "Cristiano Ronaldo ha ganado la Champions League 5 veces (2008 con el Manchester United y 2014, 2016, 2017, 2018 con el Real Madrid). Es el máximo goleador histórico de la competición, con 140 goles (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_info_zidane",
+        "patterns": [
+          "¿Qué ha logrado Zidane en la Champions?",
+          "Carrera de Zidane en la Champions",
+          "Zidane en la Champions League"
+        ],
+        "responses": [
+          "Zinedine Zidane ganó la Champions League como jugador con el Real Madrid en 2002, marcando un gol icónico en la final. Como entrenador, ganó tres títulos consecutivos con el Real Madrid (2016, 2017, 2018)."
+        ]
+      },
+      {
+        "tag": "ucl_final_mas_goles",
+        "patterns": [
+          "¿Cuál es la final con más goles en la historia de la Champions?",
+          "Final con mayor marcador Champions",
+          "Récord de goles en una final de Champions"
+        ],
+        "responses": [
+          "La final con más goles en la historia de la Champions League fue la de 1960, cuando el Real Madrid venció al Eintracht Frankfurt 7-3."
+        ]
+      },
+      {
+        "tag": "ucl_hat_trick_mas_rapido",
+        "patterns": [
+          "¿Cuál es el 'hat-trick' más rápido de la historia de la Champions?",
+          "Récord del triplete más rápido Champions",
+          "Quién marcó el hat-trick más rápido"
+        ],
+        "responses": [
+          "El 'hat-trick' más rápido en la historia de la Champions League lo marcó Bafétimbi Gomis para el Lyon contra el Dinamo Zagreb en 2011, en solo 8 minutos."
+        ]
+      },
+      {
+        "tag": "ucl_gol_mas_rapido",
+        "patterns": [
+          "¿Cuál es el gol más rápido de la historia de la Champions?",
+          "Récord del gol más rápido Champions",
+          "Quién marcó el gol más rápido"
+        ],
+        "responses": [
+          "El gol más rápido en la historia de la Champions League lo marcó Roy Makaay para el Bayern Múnich contra el Real Madrid en 2007, a los 10.12 segundos del inicio del partido."
+        ]
+      },
+      {
+        "tag": "ucl_influencia_global",
+        "patterns": [
+          "¿Por qué es tan popular la Champions League?",
+          "Audiencia global de la Champions",
+          "Impacto mundial de la Champions League"
+        ],
+        "responses": [
+          "La Champions League es la competición de clubes más prestigiosa y vista del mundo. Su popularidad se debe a la alta calidad del fútbol, la presencia de los mejores equipos y jugadores, y su cobertura global en televisión y medios digitales."
+        ]
+      },
+      {
+        "tag": "ucl_trofeo",
+        "patterns": [
+          "¿Cómo es el trofeo de la Champions League?",
+          "Descripción del trofeo de la Champions",
+          "Material del trofeo Champions"
+        ],
+        "responses": [
+          "El trofeo de la Champions League está hecho de plata y pesa 7.5 kg. Mide 73.5 cm de altura y tiene una base de mármol. El diseño original data de 1967, y los clubes que ganan cinco títulos o tres consecutivos pueden conservar una réplica."
+        ]
+      },
+      {
+        "tag": "ucl_himno",
+        "patterns": [
+          "¿Tiene himno la Champions League?",
+          "Música de la Champions League",
+          "Canción oficial Champions League"
+        ],
+        "responses": [
+          "Sí, la Champions League tiene un himno oficial compuesto por Tony Britten en 1992. Se inspira en el 'Zadok the Priest' de Handel y se reproduce antes de cada partido de la competición."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_finales",
+        "patterns": [
+          "¿Qué equipo ha jugado más finales de la Champions?",
+          "Equipo con más finales Champions",
+          "Récord de finales en la Champions"
+        ],
+        "responses": [
+          "El Real Madrid es el equipo que ha jugado más finales de la Champions League, con 17 apariciones (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles en una sola temporada de la Champions?",
+          "Récord de goles en una temporada Champions",
+          "Equipo más goleador en una campaña"
+        ],
+        "responses": [
+          "El récord de más goles en una sola temporada de la Champions League lo tiene el FC Barcelona, que marcó 45 goles en la temporada 1999-2000."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_mas_asistencias",
+        "patterns": [
+          "¿Quién es el jugador con más asistencias en la historia de la Champions?",
+          "Récord de asistencias Champions",
+          "Máximo asistente Champions"
+        ],
+        "responses": [
+          "Cristiano Ronaldo es el jugador con más asistencias en la historia de la Champions League, con 42 pases de gol (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goleadas",
+        "patterns": [
+          "¿Qué equipo ha dado la mayor goleada en la Champions?",
+          "Récord de mayor goleada Champions",
+          "Equipo con más goles en un partido"
+        ],
+        "responses": [
+          "El récord de la mayor goleada en la historia de la Champions League lo tiene el Real Madrid, que venció al Malmö FF 8-0 en 2015."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_remontadas",
+        "patterns": [
+          "¿Qué equipo ha hecho más remontadas en la Champions?",
+          "Récord de remontadas Champions",
+          "Equipo con más remontadas épicas"
+        ],
+        "responses": [
+          "El FC Barcelona es conocido por sus remontadas épicas en la Champions League, como la histórica remontada contra el PSG en 2017, cuando ganaron 6-1 tras perder 4-0 en la ida."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_penaltis",
+        "patterns": [
+          "¿Qué equipo ha jugado más finales de penaltis en la Champions?",
+          "Récord de finales de penaltis Champions",
+          "Equipo con más penaltis en finales"
+        ],
+        "responses": [
+          "El AC Milan y el Liverpool FC han jugado más finales de penaltis en la Champions League, con 3 cada uno."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_titulos_consecutivos",
+        "patterns": [
+          "¿Qué equipo ha ganado más Champions consecutivas?",
+          "Récord de títulos consecutivos Champions",
+          "Equipo con más Copas de Europa seguidas"
+        ],
+        "responses": [
+          "El Real Madrid es el único equipo que ha ganado la Champions League de manera consecutiva, logrando 5 títulos seguidos entre 1956 y 1960."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_final",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles en una final de la Champions?",
+          "Récord de goles en una final Champions",
+          "Equipo con más goles en una final"
+        ],
+        "responses": [
+          "El Real Madrid tiene el récord de más goles en una final de la Champions League, al vencer al Eintracht Frankfurt 7-3 en 1960."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_temporada_actual",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles en la Champions esta temporada?",
+          "Récord de goles en la temporada actual Champions",
+          "Equipo más goleador en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_clean_sheets_temporada",
+        "patterns": [
+          "¿Qué equipo ha tenido más porterías a cero en la Champions esta temporada?",
+          "Récord de clean sheets en la temporada actual Champions",
+          "Equipo con más porterías imbatidas en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo con más porterías a cero en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_asistencias_temporada",
+        "patterns": [
+          "¿Qué equipo ha dado más asistencias en la Champions esta temporada?",
+          "Récord de asistencias en la temporada actual Champions",
+          "Equipo con más pases de gol en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo con más asistencias en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_posesion_temporada",
+        "patterns": [
+          "¿Qué equipo ha tenido más posesión en la Champions esta temporada?",
+          "Récord de posesión en la temporada actual Champions",
+          "Equipo con más control del balón en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo con más posesión en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_faltas_temporada",
+        "patterns": [
+          "¿Qué equipo ha cometido más faltas en la Champions esta temporada?",
+          "Récord de faltas en la temporada actual Champions",
+          "Equipo con más infracciones en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha cometido más faltas en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_tarjetas_temporada",
+        "patterns": [
+          "¿Qué equipo ha recibido más tarjetas en la Champions esta temporada?",
+          "Récord de tarjetas en la temporada actual Champions",
+          "Equipo con más amonestaciones en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha recibido más tarjetas en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_expulsiones_temporada",
+        "patterns": [
+          "¿Qué equipo ha recibido más expulsiones en la Champions esta temporada?",
+          "Récord de expulsiones en la temporada actual Champions",
+          "Equipo con más tarjetas rojas en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha recibido más expulsiones en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_corners_temporada",
+        "patterns": [
+          "¿Qué equipo ha sacado más córners en la Champions esta temporada?",
+          "Récord de córners en la temporada actual Champions",
+          "Equipo con más saques de esquina en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha sacado más córners en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_remates_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más remates en la Champions esta temporada?",
+          "Récord de remates en la temporada actual Champions",
+          "Equipo con más tiros en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más remates en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_remates_a_puerta_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más remates a puerta en la Champions esta temporada?",
+          "Récord de remates a puerta en la temporada actual Champions",
+          "Equipo con más tiros al arco en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más remates a puerta en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_paradas_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más paradas en la Champions esta temporada?",
+          "Récord de paradas en la temporada actual Champions",
+          "Equipo con más salvadas en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más paradas en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_intercepciones_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más intercepciones en la Champions esta temporada?",
+          "Récord de intercepciones en la temporada actual Champions",
+          "Equipo con más cortes en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más intercepciones en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_entradas_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más entradas en la Champions esta temporada?",
+          "Récord de entradas en la temporada actual Champions",
+          "Equipo con más tackles en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más entradas en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_duelos_ganados_temporada",
+        "patterns": [
+          "¿Qué equipo ha ganado más duelos en la Champions esta temporada?",
+          "Récord de duelos ganados en la temporada actual Champions",
+          "Equipo con más enfrentamientos ganados en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha ganado más duelos en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_duelos_aereos_ganados_temporada",
+        "patterns": [
+          "¿Qué equipo ha ganado más duelos aéreos en la Champions esta temporada?",
+          "Récord de duelos aéreos ganados en la temporada actual Champions",
+          "Equipo con más cabezazos ganados en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha ganado más duelos aéreos en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_pases_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más pases en la Champions esta temporada?",
+          "Récord de pases en la temporada actual Champions",
+          "Equipo con más circulación de balón en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más pases en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_pases_acertados_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más pases acertados en la Champions esta temporada?",
+          "Récord de pases acertados en la temporada actual Champions",
+          "Equipo con más precisión en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más pases acertados en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_pases_clave_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más pases clave en la Champions esta temporada?",
+          "Récord de pases clave en la temporada actual Champions",
+          "Equipo con más pases decisivos en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más pases clave en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_cambios_temporada",
+        "patterns": [
+          "¿Qué equipo ha hecho más cambios en la Champions esta temporada?",
+          "Récord de cambios en la temporada actual Champions",
+          "Equipo con más sustituciones en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha hecho más cambios en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_fueras_de_juego_temporada",
+        "patterns": [
+          "¿Qué equipo ha estado más veces en fuera de juego en la Champions esta temporada?",
+          "Récord de fueras de juego en la temporada actual Champions",
+          "Equipo con más offsides en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha estado más veces en fuera de juego en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_lesiones_temporada",
+        "patterns": [
+          "¿Qué equipo ha sufrido más lesiones en la Champions esta temporada?",
+          "Récord de lesiones en la temporada actual Champions",
+          "Equipo con más bajas en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha sufrido más lesiones en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_penaltis_a_favor_temporada",
+        "patterns": [
+          "¿Qué equipo ha recibido más penaltis a favor en la Champions esta temporada?",
+          "Récord de penaltis a favor en la temporada actual Champions",
+          "Equipo con más penalties en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha recibido más penaltis a favor en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_penaltis_en_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha recibido más penaltis en contra en la Champions esta temporada?",
+          "Récord de penaltis en contra en la temporada actual Champions",
+          "Equipo con más penalties en contra en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha recibido más penaltis en contra en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_penalti_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de penalti en la Champions esta temporada?",
+          "Récord de goles de penalti en la temporada actual Champions",
+          "Equipo con más goles desde el punto de penalti en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles de penalti en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_falta_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de falta en la Champions esta temporada?",
+          "Récord de goles de falta en la temporada actual Champions",
+          "Equipo con más goles desde tiros libres en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles de falta en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_cabeza_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de cabeza en la Champions esta temporada?",
+          "Récord de goles de cabeza en la temporada actual Champions",
+          "Equipo con más goles de cabezazo en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles de cabeza en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_esquina_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de córner en la Champions esta temporada?",
+          "Récord de goles de córner en la temporada actual Champions",
+          "Equipo con más goles desde saques de esquina en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles de córner en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_contraataque_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de contraataque en la Champions esta temporada?",
+          "Récord de goles de contraataque en la temporada actual Champions",
+          "Equipo con más goles en transiciones rápidas en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles de contraataque en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_posesion_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de posesión en la Champions esta temporada?",
+          "Récord de goles de posesión en la temporada actual Champions",
+          "Equipo con más goles en juego posicional en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha marcado más goles de posesión en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_penalti_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de penalti en la Champions esta temporada?",
+          "Récord de goles de penalti en contra en la temporada actual Champions",
+          "Equipo con más goles encajados desde el punto de penalti en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha encajado más goles de penalti en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_falta_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de falta en la Champions esta temporada?",
+          "Récord de goles de falta en contra en la temporada actual Champions",
+          "Equipo con más goles encajados desde tiros libres en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha encajado más goles de falta en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_cabeza_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de cabeza en la Champions esta temporada?",
+          "Récord de goles de cabeza en contra en la temporada actual Champions",
+          "Equipo con más goles encajados de cabezazo en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha encajado más goles de cabeza en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_corners_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de córner en la Champions esta temporada?",
+          "Récord de goles de córner en contra en la temporada actual Champions",
+          "Equipo con más goles encajados desde saques de esquina en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha encajado más goles de córner en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_contraataque_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de contraataque en la Champions esta temporada?",
+          "Récord de goles de contraataque en contra en la temporada actual Champions",
+          "Equipo con más goles encajados en transiciones rápidas en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha encajado más goles de contraataque en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_equipo_mas_goles_de_posesion_contra_temporada",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de posesión en la Champions esta temporada?",
+          "Récord de goles de posesión en contra en la temporada actual Champions",
+          "Equipo con más goles encajados en juego posicional en la Champions actual"
+        ],
+        "responses": [
+          "Para conocer el equipo que ha encajado más goles de posesión en la Champions League esta temporada, necesitaría consultar datos actualizados."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_mas_joven",
+        "patterns": [
+          "¿Quién es el jugador más joven en jugar en la Champions League?",
+          "Récord de jugador más joven Champions",
+          "Debutante más joven en la Champions"
+        ],
+        "responses": [
+          "Celestine Babayaro es el jugador más joven en jugar en la Champions League, debutando a los 16 años y 87 días con el Anderlecht en 1994."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_mas_viejo",
+        "patterns": [
+          "¿Quién es el jugador más viejo en jugar en la Champions League?",
+          "Récord de jugador más viejo Champions",
+          "Debutante más viejo en la Champions"
+        ],
+        "responses": [
+          "Marco Ballotta es el jugador más viejo en jugar en la Champions League, debutando a los 43 años y 256 días con la Lazio en 2007."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_mas_joven_goleador",
+        "patterns": [
+          "¿Quién es el goleador más joven en la historia de la Champions League?",
+          "Récord de goleador más joven Champions",
+          "Jugador más joven en marcar en la Champions"
+        ],
+        "responses": [
+          "Raúl González es el goleador más joven en la historia de la Champions League, anotando su primer gol a los 18 años y 114 días."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_mas_viejo_goleador",
+        "patterns": [
+          "¿Quién es el goleador más viejo en la historia de la Champions League?",
+          "Récord de goleador más viejo Champions",
+          "Jugador más viejo en marcar en la Champions"
+        ],
+        "responses": [
+          "Alfredo Di Stéfano es el goleador más viejo en la historia de la Champions League, anotando a los 38 años y 333 días."
+        ]
+      },
+      {
+        "tag": "ucl_jugador_mas_asistencias_historico",
+        "patterns": [
+          "¿Quién es el jugador con más asistencias en una sola temporada de la Champions?",
+        "Récord de asistencias en una temporada Champions",
+        "Máximo asistente en una campaña de la Champions"
+      ],
+      "responses": [
+        "El récord de más asistencias en una sola temporada de la Champions League lo tiene Neymar, con 8 asistencias en la temporada 2016-17."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_hat_tricks",
+      "patterns": [
+        "¿Quién es el jugador con más 'hat-tricks' en la historia de la Champions?",
+        "Récord de 'hat-tricks' en la Champions",
+        "Jugador con más triples goles en la Champions"
+      ],
+      "responses": [
+        "Cristiano Ronaldo es el jugador con más 'hat-tricks' en la historia de la Champions League, con 8 triples goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_finales",
+      "patterns": [
+        "¿Quién es el jugador con más goles en finales de la Champions?",
+        "Récord de goles en finales Champions",
+        "Jugador con más goles en finales de la Champions"
+      ],
+      "responses": [
+        "Alfredo Di Stéfano y Ferenc Puskás son los jugadores con más goles en finales de la Champions League, con 7 goles cada uno."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_eliminatorias",
+      "patterns": [
+        "¿Quién es el jugador con más goles en eliminatorias de la Champions?",
+        "Récord de goles en eliminatorias Champions",
+        "Jugador con más goles en fases eliminatorias de la Champions"
+      ],
+      "responses": [
+        "Cristiano Ronaldo es el jugador con más goles en eliminatorias de la Champions League, con 67 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_fase_grupos",
+      "patterns": [
+        "¿Quién es el jugador con más goles en la fase de grupos de la Champions?",
+        "Récord de goles en fase de grupos Champions",
+        "Jugador con más goles en grupos de la Champions"
+      ],
+      "responses": [
+        "Cristiano Ronaldo es el jugador con más goles en la fase de grupos de la Champions League, con 73 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_visitante",
+      "patterns": [
+        "¿Quién es el jugador con más goles como visitante en la Champions?",
+        "Récord de goles como visitante Champions",
+        "Jugador con más goles fuera de casa en la Champions"
+      ],
+      "responses": [
+        "Cristiano Ronaldo es el jugador con más goles como visitante en la Champions League, con 63 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_local",
+      "patterns": [
+        "¿Quién es el jugador con más goles como local en la Champions?",
+        "Récord de goles como local Champions",
+        "Jugador con más goles en casa en la Champions"
+      ],
+      "responses": [
+        "Lionel Messi es el jugador con más goles como local en la Champions League, con 78 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_penalti",
+      "patterns": [
+        "¿Quién es el jugador con más goles de penalti en la Champions?",
+        "Récord de goles de penalti Champions",
+        "Jugador con más goles desde el punto de penalti en la Champions"
+      ],
+      "responses": [
+        "Cristiano Ronaldo es el jugador con más goles de penalti en la Champions League, con 19 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_falta",
+      "patterns": [
+        "¿Quién es el jugador con más goles de falta en la Champions?",
+        "Récord de goles de falta Champions",
+        "Jugador con más goles desde tiros libres en la Champions"
+      ],
+      "responses": [
+        "Juninho Pernambucano es el jugador con más goles de falta en la Champions League, con 7 goles."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_cabeza",
+      "patterns": [
+        "¿Quién es el jugador con más goles de cabeza en la Champions?",
+        "Récord de goles de cabeza Champions",
+        "Jugador con más goles de cabezazo en la Champions"
+      ],
+      "responses": [
+        "Cristiano Ronaldo es el jugador con más goles de cabeza en la Champions League, con 23 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_contraataque",
+      "patterns": [
+        "¿Quién es el jugador con más goles de contraataque en la Champions?",
+        "Récord de goles de contraataque Champions",
+        "Jugador con más goles en transiciones rápidas en la Champions"
+      ],
+      "responses": [
+        "Kylian Mbappé es el jugador con más goles de contraataque en la Champions League, con 9 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_posesion",
+      "patterns": [
+        "¿Quién es el jugador con más goles de posesión en la Champions?",
+        "Récord de goles de posesión Champions",
+        "Jugador con más goles en juego posicional en la Champions"
+      ],
+      "responses": [
+        "Lionel Messi es el jugador con más goles de posesión en la Champions League, con 68 goles (hasta 2023)."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_penalti_contra",
+      "patterns": [
+        "¿Quién es el jugador que ha encajado más goles de penalti en la Champions?",
+        "Récord de goles de penalti en contra Champions",
+        "Jugador con más goles encajados desde el punto de penalti en la Champions"
+      ],
+      "responses": [
+        "Gianluigi Buffon es el portero que ha encajado más goles de penalti en la Champions League, con 10 goles."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_falta_contra",
+      "patterns": [
+        "¿Quién es el jugador que ha encajado más goles de falta en la Champions?",
+        "Récord de goles de falta en contra Champions",
+        "Jugador con más goles encajados desde tiros libres en la Champions"
+      ],
+      "responses": [
+        "Iker Casillas es el portero que ha encajado más goles de falta en la Champions League, con 7 goles."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_cabeza_contra",
+      "patterns": [
+        "¿Quién es el jugador que ha encajado más goles de cabeza en la Champions?",
+        "Récord de goles de cabeza en contra Champions",
+        "Jugador con más goles encajados de cabezazo en la Champions"
+      ],
+      "responses": [
+        "Gianluigi Buffon es el portero que ha encajado más goles de cabeza en la Champions League, con 15 goles."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_contraataque_contra",
+      "patterns": [
+        "¿Quién es el jugador que ha encajado más goles de contraataque en la Champions?",
+        "Récord de goles de contraataque en contra Champions",
+        "Jugador con más goles encajados en transiciones rápidas en la Champions"
+      ],
+      "responses": [
+        "Manuel Neuer es el portero que ha encajado más goles de contraataque en la Champions League, con 8 goles."
+      ]
+    },
+    {
+      "tag": "ucl_jugador_mas_goles_posesion_contra",
+      "patterns": [
+        "¿Quién es el jugador que ha encajado más goles de posesión en la Champions?",
+        "Récord de goles de posesión en contra Champions",
+        "Jugador con más goles encajados en juego posicional en la Champions"
+      ],
+      "responses": [
+        "Gianluigi Buffon es el portero que ha encajado más goles de posesión en la Champions League, con 25 goles."
+      ]
+    }
+  ]
+}

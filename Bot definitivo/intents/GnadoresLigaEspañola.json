@@ -1,0 +1,452 @@
+{
+    "intents": [
+      {
+        "tag": "la_liga_1992_1993",
+        "patterns": [
+          "¿Quién ganó La Liga en 1992-1993?",
+          "Campeón La Liga 1992-1993",
+          "Subcampeón La Liga 1992-1993",
+          "Goleador La Liga 1992-1993",
+          "Asistidor La Liga 1992-1993",
+          "Jugador de la temporada La Liga 1992-1993"
+        ],
+        "responses": [
+          "En la temporada 1992-1993 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Bebeto** (Deportivo La Coruña) con 29 goles. Las estadísticas de asistencias no se registraban oficialmente de forma consistente en esta época (Míchel es frecuentemente citado). No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Fran** (Mejor Español) y **Miroslav Đukić** (Mejor Extranjero)."
+        ]
+      },
+      {
+        "tag": "la_liga_1993_1994",
+        "patterns": [
+          "¿Quién ganó La Liga en 1993-1994?",
+          "Campeón La Liga 1993-1994",
+          "Subcampeón La Liga 1993-1994",
+          "Goleador La Liga 1993-1994",
+          "Asistidor La Liga 1993-1994",
+          "Jugador de la temporada La Liga 1993-1994"
+        ],
+        "responses": [
+          "En la temporada 1993-1994 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Deportivo La Coruña**. El máximo goleador (Trofeo Pichichi) fue **Romário** (FC Barcelona) con 30 goles. Las estadísticas de asistencias no se registraban oficialmente de forma consistente (Eusebio Sacristán es frecuentemente citado). No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Julen Guerrero** (Mejor Español) y **Michael Laudrup** (Mejor Extranjero)."
+        ]
+      },
+      {
+        "tag": "la_liga_1994_1995",
+        "patterns": [
+          "¿Quién ganó La Liga en 1994-1995?",
+          "Campeón La Liga 1994-1995",
+          "Subcampeón La Liga 1994-1995",
+          "Goleador La Liga 1994-1995",
+          "Asistidor La Liga 1994-1995",
+          "Jugador de la temporada La Liga 1994-1995"
+        ],
+        "responses": [
+          "En la temporada 1994-1995 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **Deportivo La Coruña**. El máximo goleador (Trofeo Pichichi) fue **Iván Zamorano** (Real Madrid) con 28 goles. Las estadísticas de asistencias no se registraban oficialmente de forma consistente (Michael Laudrup es frecuentemente citado). No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **José Emilio Amavisca** (Mejor Español) y **Iván Zamorano** (Mejor Extranjero)."
+        ]
+      },
+      {
+        "tag": "la_liga_1995_1996",
+        "patterns": [
+          "¿Quién ganó La Liga en 1995-1996?",
+          "Campeón La Liga 1995-1996",
+          "Subcampeón La Liga 1995-1996",
+          "Goleador La Liga 1995-1996",
+          "Asistidor La Liga 1995-1996",
+          "Jugador de la temporada La Liga 1995-1996"
+        ],
+        "responses": [
+          "En la temporada 1995-1996 de La Liga, el campeón fue **Atlético de Madrid**. El subcampeón fue **Valencia CF**. El máximo goleador (Trofeo Pichichi) fue **Juan Antonio Pizzi** (CD Tenerife) con 31 goles. Las estadísticas de asistencias no se registraban oficialmente de forma consistente (Jordi Lardín es frecuentemente citado). No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **José Luis Pérez Caminero** (Mejor Español) y **Predrag Mijatović** (Mejor Extranjero)."
+        ]
+      },
+      {
+        "tag": "la_liga_1996_1997",
+        "patterns": [
+          "¿Quién ganó La Liga en 1996-1997?",
+          "Campeón La Liga 1996-1997",
+          "Subcampeón La Liga 1996-1997",
+          "Goleador La Liga 1996-1997",
+          "Asistidor La Liga 1996-1997",
+          "Jugador de la temporada La Liga 1996-1997"
+        ],
+        "responses": [
+          "En la temporada 1996-1997 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Ronaldo** (FC Barcelona) con 34 goles. El máximo asistidor fue **Robert Jarni** (Real Betis) con 13 asistencias (según algunas fuentes, la recolección de datos empezó a ser más común). No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Raúl González** (Mejor Español) y **Ronaldo** (Mejor Extranjero)."
+        ]
+      },
+      {
+          "tag": "la_liga_1997_1998",
+          "patterns": [
+            "¿Quién ganó La Liga en 1997-1998?",
+            "Campeón La Liga 1997-1998",
+            "Subcampeón La Liga 1997-1998",
+            "Goleador La Liga 1997-1998",
+            "Asistidor La Liga 1997-1998",
+            "Jugador de la temporada La Liga 1997-1998"
+          ],
+          "responses": [
+            "En la temporada 1997-1998 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Athletic Club**. El máximo goleador (Trofeo Pichichi) fue **Christian Vieri** (Atlético de Madrid) con 24 goles. El máximo asistidor fue **Luís Figo** (FC Barcelona) con 13 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Alfonso Pérez** (Mejor Español) y **Rivaldo** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_1998_1999",
+          "patterns": [
+            "¿Quién ganó La Liga en 1998-1999?",
+            "Campeón La Liga 1998-1999",
+            "Subcampeón La Liga 1998-1999",
+            "Goleador La Liga 1998-1999",
+            "Asistidor La Liga 1998-1999",
+            "Jugador de la temporada La Liga 1998-1999"
+          ],
+          "responses": [
+            "En la temporada 1998-1999 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Raúl González** (Real Madrid) con 25 goles. El máximo asistidor fue **Luís Figo** (FC Barcelona) con 17 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Raúl González** (Mejor Español) y **Luís Figo** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_1999_2000",
+          "patterns": [
+            "¿Quién ganó La Liga en 1999-2000?",
+            "Campeón La Liga 1999-2000",
+            "Subcampeón La Liga 1999-2000",
+            "Goleador La Liga 1999-2000",
+            "Asistidor La Liga 1999-2000",
+            "Jugador de la temporada La Liga 1999-2000"
+          ],
+          "responses": [
+            "En la temporada 1999-2000 de La Liga, el campeón fue **Deportivo La Coruña**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Salva Ballesta** (Racing Santander) con 27 goles. El máximo asistidor fue **Luís Figo** (FC Barcelona) con 14 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Agustín Aranzábal** (Mejor Español) y **Luís Figo** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2000_2001",
+          "patterns": [
+            "¿Quién ganó La Liga en 2000-2001?",
+            "Campeón La Liga 2000-2001",
+            "Subcampeón La Liga 2000-2001",
+            "Goleador La Liga 2000-2001",
+            "Asistidor La Liga 2000-2001",
+            "Jugador de la temporada La Liga 2000-2001"
+          ],
+          "responses": [
+            "En la temporada 2000-2001 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **Deportivo La Coruña**. El máximo goleador (Trofeo Pichichi) fue **Raúl González** (Real Madrid) con 24 goles. El máximo asistidor fue **Gaizka Mendieta** (Valencia CF) con 12 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Raúl González** (Mejor Español) y **Luís Figo** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2001_2002",
+          "patterns": [
+            "¿Quién ganó La Liga en 2001-2002?",
+            "Campeón La Liga 2001-2002",
+            "Subcampeón La Liga 2001-2002",
+            "Goleador La Liga 2001-2002",
+            "Asistidor La Liga 2001-2002",
+            "Jugador de la temporada La Liga 2001-2002"
+          ],
+          "responses": [
+            "En la temporada 2001-2002 de La Liga, el campeón fue **Valencia CF**. El subcampeón fue **Deportivo La Coruña**. El máximo goleador (Trofeo Pichichi) fue **Diego Tristán** (Deportivo La Coruña) con 21 goles. El máximo asistidor fue **Juan Carlos Valerón** (Deportivo La Coruña) con 11 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Juan Carlos Valerón** (Mejor Español) y **Zinedine Zidane** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2002_2003",
+          "patterns": [
+            "¿Quién ganó La Liga en 2002-2003?",
+            "Campeón La Liga 2002-2003",
+            "Subcampeón La Liga 2002-2003",
+            "Goleador La Liga 2002-2003",
+            "Asistidor La Liga 2002-2003",
+            "Jugador de la temporada La Liga 2002-2003"
+          ],
+          "responses": [
+            "En la temporada 2002-2003 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **Real Sociedad**. El máximo goleador (Trofeo Pichichi) fue **Roy Makaay** (Deportivo La Coruña) con 29 goles. El máximo asistidor fue **Piojo López** (Valencia CF) con 11 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Xabi Alonso** (Mejor Español) y **Nihat Kahveci** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2003_2004",
+          "patterns": [
+            "¿Quién ganó La Liga en 2003-2004?",
+            "Campeón La Liga 2003-2004",
+            "Subcampeón La Liga 2003-2004",
+            "Goleador La Liga 2003-2004",
+            "Asistidor La Liga 2003-2004",
+            "Jugador de la temporada La Liga 2003-2004"
+          ],
+          "responses": [
+            "En la temporada 2003-2004 de La Liga, el campeón fue **Valencia CF**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Ronaldo** (Real Madrid) con 25 goles. El máximo asistidor fue **Ronaldinho** (FC Barcelona) con 14 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Vicente Rodríguez** (Mejor Español) y **Ronaldinho** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2004_2005",
+          "patterns": [
+            "¿Quién ganó La Liga en 2004-2005?",
+            "Campeón La Liga 2004-2005",
+            "Subcampeón La Liga 2004-2005",
+            "Goleador La Liga 2004-2005",
+            "Asistidor La Liga 2004-2005",
+            "Jugador de la temporada La Liga 2004-2005"
+          ],
+          "responses": [
+            "En la temporada 2004-2005 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Diego Forlán** (Villarreal CF) con 25 goles. El máximo asistidor fue **Román Riquelme** (Villarreal CF) con 11 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Xavi Hernández** (Mejor Español) y **Juan Román Riquelme** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2005_2006",
+          "patterns": [
+            "¿Quién ganó La Liga en 2005-2006?",
+            "Campeón La Liga 2005-2006",
+            "Subcampeón La Liga 2005-2006",
+            "Goleador La Liga 2005-2006",
+            "Asistidor La Liga 2005-2006",
+            "Jugador de la temporada La Liga 2005-2006"
+          ],
+          "responses": [
+            "En la temporada 2005-2006 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Samuel Eto'o** (FC Barcelona) con 26 goles. El máximo asistidor fue **Ronaldinho** (FC Barcelona) con 14 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **David Villa** (Mejor Español) y **Ronaldinho** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2006_2007",
+          "patterns": [
+            "¿Quién ganó La Liga en 2006-2007?",
+            "Campeón La Liga 2006-2007",
+            "Subcampeón La Liga 2006-2007",
+            "Goleador La Liga 2006-2007",
+            "Asistidor La Liga 2006-2007",
+            "Jugador de la temporada La Liga 2006-2007"
+          ],
+          "responses": [
+            "En la temporada 2006-2007 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Ruud van Nistelrooy** (Real Madrid) con 25 goles. El máximo asistidor fue **David Beckham** (Real Madrid) con 12 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Santi Cazorla** (Mejor Español) y **Lionel Messi** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2007_2008",
+          "patterns": [
+            "¿Quién ganó La Liga en 2007-2008?",
+            "Campeón La Liga 2007-2008",
+            "Subcampeón La Liga 2007-2008",
+            "Goleador La Liga 2007-2008",
+            "Asistidor La Liga 2007-2008",
+            "Jugador de la temporada La Liga 2007-2008"
+          ],
+          "responses": [
+            "En la temporada 2007-2008 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **Villarreal CF**. El máximo goleador (Trofeo Pichichi) fue **Dani Güiza** (RCD Mallorca) con 27 goles. El máximo asistidor fue **Guti** (Real Madrid) con 17 asistencias. No hubo un premio oficial de Jugador de la Temporada de La Liga; los premios Don Balón fueron para **Marcos Senna** (Mejor Español) y **Sergio Agüero** (Mejor Extranjero)."
+          ]
+        },
+        {
+          "tag": "la_liga_2008_2009",
+          "patterns": [
+            "¿Quién ganó La Liga en 2008-2009?",
+            "Campeón La Liga 2008-2009",
+            "Subcampeón La Liga 2008-2009",
+            "Goleador La Liga 2008-2009",
+            "Asistidor La Liga 2008-2009",
+            "Jugador de la temporada La Liga 2008-2009"
+          ],
+          "responses": [
+            "En la temporada 2008-2009 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Diego Forlán** (Atlético de Madrid) con 32 goles. El máximo asistidor fue **Xavi Hernández** (FC Barcelona) con 20 asistencias. El jugador de la temporada (Premios LFP) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2009_2010",
+          "patterns": [
+            "¿Quién ganó La Liga en 2009-2010?",
+            "Campeón La Liga 2009-2010",
+            "Subcampeón La Liga 2009-2010",
+            "Goleador La Liga 2009-2010",
+            "Asistidor La Liga 2009-2010",
+            "Jugador de la temporada La Liga 2009-2010"
+          ],
+          "responses": [
+            "En la temporada 2009-2010 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 34 goles. El máximo asistidor fue **Xavi Hernández** (FC Barcelona) con 14 asistencias. El jugador de la temporada (Premios LFP) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2010_2011",
+          "patterns": [
+            "¿Quién ganó La Liga en 2010-2011?",
+            "Campeón La Liga 2010-2011",
+            "Subcampeón La Liga 2010-2011",
+            "Goleador La Liga 2010-2011",
+            "Asistidor La Liga 2010-2011",
+            "Jugador de la temporada La Liga 2010-2011"
+          ],
+          "responses": [
+            "En la temporada 2010-2011 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Cristiano Ronaldo** (Real Madrid) con 40 goles. El máximo asistidor fue **Lionel Messi** (FC Barcelona) con 18 asistencias. El jugador de la temporada (Premios LFP) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2011_2012",
+          "patterns": [
+            "¿Quién ganó La Liga en 2011-2012?",
+            "Campeón La Liga 2011-2012",
+            "Subcampeón La Liga 2011-2012",
+            "Goleador La Liga 2011-2012",
+            "Asistidor La Liga 2011-2012",
+            "Jugador de la temporada La Liga 2011-2012"
+          ],
+          "responses": [
+            "En la temporada 2011-2012 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 50 goles. El máximo asistidor fue **Mesut Özil** (Real Madrid) con 17 asistencias. El jugador de la temporada (Premios LFP) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2012_2013",
+          "patterns": [
+            "¿Quién ganó La Liga en 2012-2013?",
+            "Campeón La Liga 2012-2013",
+            "Subcampeón La Liga 2012-2013",
+            "Goleador La Liga 2012-2013",
+            "Asistidor La Liga 2012-2013",
+            "Jugador de la temporada La Liga 2012-2013"
+          ],
+          "responses": [
+            "En la temporada 2012-2013 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 46 goles. El máximo asistidor fue **Andrés Iniesta** (FC Barcelona) con 16 asistencias. El jugador de la temporada (Premios LFP) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2013_2014",
+          "patterns": [
+            "¿Quién ganó La Liga en 2013-2014?",
+            "Campeón La Liga 2013-2014",
+            "Subcampeón La Liga 2013-2014",
+            "Goleador La Liga 2013-2014",
+            "Asistidor La Liga 2013-2014",
+            "Jugador de la temporada La Liga 2013-2014"
+          ],
+          "responses": [
+            "En la temporada 2013-2014 de La Liga, el campeón fue **Atlético de Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Cristiano Ronaldo** (Real Madrid) con 31 goles. El máximo asistidor fue **Ángel Di María** (Real Madrid) con 17 asistencias. El jugador de la temporada (Premios LFP) fue **Cristiano Ronaldo** (Real Madrid)."
+          ]
+        },
+        {
+          "tag": "la_liga_2014_2015",
+          "patterns": [
+            "¿Quién ganó La Liga en 2014-2015?",
+            "Campeón La Liga 2014-2015",
+            "Subcampeón La Liga 2014-2015",
+            "Goleador La Liga 2014-2015",
+            "Asistidor La Liga 2014-2015",
+            "Jugador de la temporada La Liga 2014-2015"
+          ],
+          "responses": [
+            "En la temporada 2014-2015 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Cristiano Ronaldo** (Real Madrid) con 48 goles. El máximo asistidor fue **Lionel Messi** (FC Barcelona) con 18 asistencias. El jugador de la temporada (Premios LFP) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2015_2016",
+          "patterns": [
+            "¿Quién ganó La Liga en 2015-2016?",
+            "Campeón La Liga 2015-2016",
+            "Subcampeón La Liga 2015-2016",
+            "Goleador La Liga 2015-2016",
+            "Asistidor La Liga 2015-2016",
+            "Jugador de la temporada La Liga 2015-2016"
+          ],
+          "responses": [
+            "En la temporada 2015-2016 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Luis Suárez** (FC Barcelona) con 40 goles. Los máximos asistidores fueron **Lionel Messi** (FC Barcelona) y **Luis Suárez** (FC Barcelona) con 16 asistencias cada uno. El jugador de la temporada (LaLiga Awards) fue **Antoine Griezmann** (Atlético de Madrid)."
+          ]
+        },
+        {
+          "tag": "la_liga_2016_2017",
+          "patterns": [
+            "¿Quién ganó La Liga en 2016-2017?",
+            "Campeón La Liga 2016-2017",
+            "Subcampeón La Liga 2016-2017",
+            "Goleador La Liga 2016-2017",
+            "Asistidor La Liga 2016-2017",
+            "Jugador de la temporada La Liga 2016-2017"
+          ],
+          "responses": [
+            "En la temporada 2016-2017 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 37 goles. El máximo asistidor fue **Luis Suárez** (FC Barcelona) con 13 asistencias. No se entregó el premio oficial al Jugador de la Temporada de La Liga este año."
+          ]
+        },
+        {
+          "tag": "la_liga_2017_2018",
+          "patterns": [
+            "¿Quién ganó La Liga en 2017-2018?",
+            "Campeón La Liga 2017-2018",
+            "Subcampeón La Liga 2017-2018",
+            "Goleador La Liga 2017-2018",
+            "Asistidor La Liga 2017-2018",
+            "Jugador de la temporada La Liga 2017-2018"
+          ],
+          "responses": [
+            "En la temporada 2017-2018 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Atlético de Madrid**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 34 goles. Los máximos asistidores fueron **Lionel Messi** (FC Barcelona), **Luis Suárez** (FC Barcelona) y **Pablo Fornals** (Villarreal CF) con 12 asistencias cada uno. El jugador de la temporada (elegido por LaLiga) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2018_2019",
+          "patterns": [
+            "¿Quién ganó La Liga en 2018-2019?",
+            "Campeón La Liga 2018-2019",
+            "Subcampeón La Liga 2018-2019",
+            "Goleador La Liga 2018-2019",
+            "Asistidor La Liga 2018-2019",
+            "Jugador de la temporada La Liga 2018-2019"
+          ],
+          "responses": [
+            "En la temporada 2018-2019 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Atlético de Madrid**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 36 goles. Los máximos asistidores fueron **Lionel Messi** (FC Barcelona) y **Pablo Sarabia** (Sevilla FC) con 13 asistencias cada uno. El jugador de la temporada (elegido por LaLiga) fue **Lionel Messi** (FC Barcelona)."
+          ]
+        },
+        {
+          "tag": "la_liga_2019_2020",
+          "patterns": [
+            "¿Quién ganó La Liga en 2019-2020?",
+            "Campeón La Liga 2019-2020",
+            "Subcampeón La Liga 2019-2020",
+            "Goleador La Liga 2019-2020",
+            "Asistidor La Liga 2019-2020",
+            "Jugador de la temporada La Liga 2019-2020"
+          ],
+          "responses": [
+            "En la temporada 2019-2020 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 25 goles. El máximo asistidor fue **Lionel Messi** (FC Barcelona) con 21 asistencias. El jugador de la temporada (elegido por LaLiga) fue **Karim Benzema** (Real Madrid)."
+          ]
+        },
+        {
+          "tag": "la_liga_2020_2021",
+          "patterns": [
+            "¿Quién ganó La Liga en 2020-2021?",
+            "Campeón La Liga 2020-2021",
+            "Subcampeón La Liga 2020-2021",
+            "Goleador La Liga 2020-2021",
+            "Asistidor La Liga 2020-2021",
+            "Jugador de la temporada La Liga 2020-2021"
+          ],
+          "responses": [
+            "En la temporada 2020-2021 de La Liga, el campeón fue **Atlético de Madrid**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Lionel Messi** (FC Barcelona) con 30 goles. El máximo asistidor fue **Iago Aspas** (Celta Vigo) con 13 asistencias. El jugador de la temporada (elegido por LaLiga) fue **Jan Oblak** (Atlético de Madrid)."
+          ]
+        },
+        {
+          "tag": "la_liga_2021_2022",
+          "patterns": [
+            "¿Quién ganó La Liga en 2021-2022?",
+            "Campeón La Liga 2021-2022",
+            "Subcampeón La Liga 2021-2022",
+            "Goleador La Liga 2021-2022",
+            "Asistidor La Liga 2021-2022",
+            "Jugador de la temporada La Liga 2021-2022"
+          ],
+          "responses": [
+            "En la temporada 2021-2022 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Karim Benzema** (Real Madrid) con 27 goles. El máximo asistidor fue **Ousmane Dembélé** (FC Barcelona) con 13 asistencias. El jugador de la temporada (elegido por LaLiga) fue **Karim Benzema** (Real Madrid)."
+          ]
+        },
+        {
+          "tag": "la_liga_2022_2023",
+          "patterns": [
+            "¿Quién ganó La Liga en 2022-2023?",
+            "Campeón La Liga 2022-2023",
+            "Subcampeón La Liga 2022-2023",
+            "Goleador La Liga 2022-2023",
+            "Asistidor La Liga 2022-2023",
+            "Jugador de la temporada La Liga 2022-2023"
+          ],
+          "responses": [
+            "En la temporada 2022-2023 de La Liga, el campeón fue **FC Barcelona**. El subcampeón fue **Real Madrid**. El máximo goleador (Trofeo Pichichi) fue **Robert Lewandowski** (FC Barcelona) con 23 goles. El máximo asistidor fue **Antoine Griezmann** (Atlético de Madrid) con 16 asistencias. El jugador de la temporada (elegido por LaLiga) fue **Marc-André ter Stegen** (FC Barcelona)."
+          ]
+        },
+        {
+            "tag": "la_liga_2023_2024",
+            "patterns": [
+              "¿Quién ganó La Liga en 2023-2024?",
+              "Campeón La Liga 2023-2024",
+              "Subcampeón La Liga 2023-2024",
+              "Goleador La Liga 2023-2024",
+              "Asistidor La Liga 2023-2024",
+              "Jugador de la temporada La Liga 2023-2024"
+            ],
+            "responses": [
+              "En la temporada 2023-2024 de La Liga, el campeón fue **Real Madrid**. El subcampeón fue **FC Barcelona**. El máximo goleador (Trofeo Pichichi) fue **Artem Dovbyk** (Girona FC) con 24 goles. El máximo asistidor fue **Álex Baena** (Villarreal CF) con 14 asistencias. El jugador de la temporada (elegido por LaLiga) fue **Jude Bellingham** (Real Madrid)."
+            ]
+        }
+    ]
+  }

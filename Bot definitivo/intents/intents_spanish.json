@@ -1,0 +1,1029 @@
+{
+  "intents": [
+    {
+      "tag": "pl_fundacion",
+      "patterns": [
+        "¿Cuándo se fundó la Premier League?",
+        "¿En qué año empezó la Premier League?",
+        "Historia de la fundación de la Premier League",
+        "Origen de la Premier League"
+      ],
+      "responses": [
+        "La Premier League fue fundada el 20 de febrero de 1992, tras la decisión de los clubes de la First Division de separarse de la Football League para aprovechar un lucrativo acuerdo de derechos de televisión. La primera temporada se disputó en 1992-93."
+      ]
+    },
+    {
+      "tag": "pl_formato",
+      "patterns": [
+        "¿Cómo funciona la Premier League?",
+        "¿Cuántos equipos juegan en la Premier League?",
+        "Formato de la liga inglesa",
+        "Reglas de la Premier League"
+      ],
+      "responses": [
+        "La Premier League consta de 20 equipos. Juegan todos contra todos dos veces (una en casa y otra fuera) durante la temporada, sumando 38 partidos por equipo. Los equipos obtienen 3 puntos por victoria, 1 por empate y 0 por derrota. Al final de la temporada, el equipo con más puntos es el campeón."
+      ]
+    },
+    {
+      "tag": "pl_descenso",
+      "patterns": [
+        "¿Cuántos equipos descienden en la Premier League?",
+        "¿Cómo funciona el descenso en Inglaterra?",
+        "Reglas de descenso Premier League",
+        "¿Qué equipos bajan a Championship?"
+      ],
+      "responses": [
+        "Al final de cada temporada, los tres equipos que terminan en las últimas posiciones de la tabla (18º, 19º y 20º) descienden a la EFL Championship, la segunda división del fútbol inglés."
+      ]
+    },
+    {
+      "tag": "pl_ascenso",
+      "patterns": [
+        "¿Cuántos equipos ascienden a la Premier League?",
+        "¿Cómo se asciende a la Premier League?",
+        "Equipos que suben desde Championship",
+        "Playoffs de ascenso a la Premier"
+      ],
+      "responses": [
+        "Cada temporada, tres equipos ascienden desde la EFL Championship para reemplazar a los tres descendidos. Los dos primeros clasificados de la Championship ascienden directamente. El tercer puesto se decide mediante un playoff entre los equipos clasificados del 3º al 6º puesto."
+      ]
+    },
+    {
+      "tag": "pl_campeon_actual",
+      "patterns": [
+        "¿Quién es el actual campeón de la Premier League?",
+        "¿Qué equipo ganó la última Premier League?",
+        "Último campeón de la liga inglesa"
+      ],
+      "responses": [
+        "Para determinar el campeón más reciente, necesitaría saber la fecha actual. Generalmente, el Manchester City ha dominado en los últimos años, ganando las temporadas 2020-21, 2021-22 y 2022-23 y 2023-2024."
+      ]
+    },
+    {
+      "tag": "pl_mas_titulos",
+      "patterns": [
+        "¿Qué equipo ha ganado más títulos de Premier League?",
+        "Equipo con más ligas inglesas (formato Premier)",
+        "Máximo ganador de la Premier League"
+      ],
+      "responses": [
+        "El Manchester United es el equipo con más títulos de Premier League desde su inicio en 1992, habiendo ganado el trofeo 13 veces, la mayoría bajo la dirección de Sir Alex Ferguson."
+      ]
+    },
+    {
+      "tag": "pl_maximo_goleador_historico",
+      "patterns": [
+        "¿Quién es el máximo goleador de la historia de la Premier League?",
+        "Jugador con más goles en la Premier League",
+        "Récord de goles Premier League"
+      ],
+      "responses": [
+        "Alan Shearer es el máximo goleador histórico de la Premier League, con un récord de 260 goles marcados jugando para el Blackburn Rovers y el Newcastle United."
+      ]
+    },
+    {
+      "tag": "pl_mas_partidos",
+      "patterns": [
+        "¿Quién es el jugador con más partidos en la Premier League?",
+        "Jugador con más apariciones en la Premier League",
+        "Récord de partidos jugados Premier League"
+      ],
+      "responses": [
+        "Gareth Barry ostenta el récord de más partidos jugados en la historia de la Premier League, con 653 apariciones jugando para Aston Villa, Manchester City, Everton y West Bromwich Albion."
+      ]
+    },
+    {
+      "tag": "pl_portero_mas_clean_sheets",
+      "patterns": [
+        "¿Qué portero tiene más porterías a cero en la Premier League?",
+        "Récord de 'clean sheets' Premier League",
+        "Mejor portero histórico Premier League porterías imbatidas"
+      ],
+      "responses": [
+        "Petr Čech tiene el récord de más porterías a cero (clean sheets) en la historia de la Premier League, con 202 partidos sin encajar gol jugando para el Chelsea y el Arsenal."
+      ]
+    },
+    {
+      "tag": "pl_club_info_manutd",
+      "patterns": [
+        "Háblame del Manchester United",
+        "Información sobre el Manchester United",
+        "¿Qué es el Manchester United?"
+      ],
+      "responses": [
+        "El Manchester United es uno de los clubes de fútbol más famosos y exitosos del mundo, con sede en Old Trafford, Manchester. Han ganado 20 títulos de liga inglesa (13 en la era Premier League), 12 FA Cups y 3 Copas de Europa/Champions League, entre otros muchos trofeos."
+      ]
+    },
+    {
+        "tag": "pl_club_estadio_manutd",
+        "patterns": [
+          "¿Cuál es el estadio del Manchester United?",
+          "¿Dónde juega el Manchester United?",
+          "Nombre del campo del Man Utd"
+        ],
+        "responses": [
+          "El estadio del Manchester United es Old Trafford, ubicado en Trafford, Greater Manchester. Es conocido como el 'Teatro de los Sueños' y es el estadio de club más grande del Reino Unido."
+        ]
+      },
+      {
+        "tag": "pl_club_manager_actual_manutd",
+        "patterns": [
+          "¿Quién es el entrenador del Manchester United?",
+          "Manager actual del Man Utd",
+          "Técnico del Manchester United hoy"
+        ],
+        "responses": [
+          "Para darte la información más actualizada sobre el entrenador del Manchester United, necesitaría consultar datos recientes, ya que estos puestos pueden cambiar. Erik ten Hag fue el entrenador durante las temporadas 2022-23 y 2023-24."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_manutd_cantona",
+        "patterns": [
+          "¿Quién fue Eric Cantona?",
+          "Háblame de Cantona en el Man Utd",
+          "Leyenda del Manchester United: Cantona"
+        ],
+        "responses": [
+          "Eric Cantona, apodado 'Le Roi' (El Rey), fue un delantero francés icónico que jugó en el Manchester United entre 1992 y 1997. Es considerado una leyenda del club por su talento, carisma y su papel crucial en el dominio del United en los primeros años de la Premier League, ganando cuatro títulos de liga en cinco temporadas."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_manutd_giggs",
+        "patterns": [
+          "¿Quién es Ryan Giggs?",
+          "Carrera de Ryan Giggs en el Man Utd",
+          "Leyenda del Manchester United: Giggs"
+        ],
+        "responses": [
+          "Ryan Giggs es un exfutbolista galés que pasó toda su carrera profesional en el Manchester United (1990-2014). Es el jugador con más apariciones en la historia del club y el futbolista británico más laureado, ganando 13 títulos de Premier League, 4 FA Cups y 2 Champions League, entre otros."
+        ]
+      },
+    {
+      "tag": "pl_club_info_liverpool",
+      "patterns": [
+        "Háblame del Liverpool FC",
+        "Información sobre el Liverpool",
+        "¿Qué es el Liverpool?"
+      ],
+      "responses": [
+        "El Liverpool FC es otro de los clubes más históricos y exitosos de Inglaterra y Europa, con sede en Anfield, Liverpool. Han ganado 19 títulos de liga inglesa (1 en la era Premier League), 8 FA Cups y 6 Copas de Europa/Champions League. Son famosos por su lema 'You'll Never Walk Alone'."
+      ]
+    },
+    {
+        "tag": "pl_club_estadio_liverpool",
+        "patterns": [
+          "¿Cuál es el estadio del Liverpool?",
+          "¿Dónde juega el Liverpool?",
+          "Nombre del campo del Liverpool"
+        ],
+        "responses": [
+          "El estadio del Liverpool FC es Anfield, ubicado en Liverpool. Es famoso por su increíble atmósfera, especialmente en la grada conocida como 'The Kop'."
+        ]
+      },
+      {
+        "tag": "pl_club_manager_actual_liverpool",
+        "patterns": [
+          "¿Quién es el entrenador del Liverpool?",
+          "Manager actual del Liverpool",
+          "Técnico del Liverpool hoy"
+        ],
+        "responses": [
+          "Jürgen Klopp fue el exitoso entrenador del Liverpool desde octubre de 2015 hasta el final de la temporada 2023-24, ganando la Premier League y la Champions League. Para conocer al entrenador actual, necesitaría datos actualizados."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_liverpool_gerrard",
+        "patterns": [
+          "¿Quién es Steven Gerrard?",
+          "Carrera de Gerrard en el Liverpool",
+          "Leyenda del Liverpool: Gerrard"
+        ],
+        "responses": [
+          "Steven Gerrard es un exfutbolista inglés y leyenda absoluta del Liverpool FC, donde jugó la mayor parte de su carrera (1998-2015). Fue capitán del club durante muchos años y es recordado por su liderazgo, goles espectaculares y por liderar la remontada en la final de la Champions League de 2005 en Estambul."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_liverpool_dalglish",
+        "patterns": [
+          "¿Quién fue Kenny Dalglish?",
+          "Háblame de Dalglish en el Liverpool",
+          "Leyenda del Liverpool: 'King Kenny'"
+        ],
+        "responses": [
+          "Kenny Dalglish, apodado 'King Kenny', es una leyenda escocesa del Liverpool FC, tanto como jugador (1977-1990) como entrenador en dos etapas. Como jugador, fue clave en una de las épocas más gloriosas del club, ganando múltiples ligas y Copas de Europa. Es venerado por los aficionados."
+        ]
+      },
+    {
+      "tag": "pl_club_info_arsenal",
+      "patterns": [
+        "Háblame del Arsenal FC",
+        "Información sobre el Arsenal",
+        "¿Qué es el Arsenal?"
+      ],
+      "responses": [
+        "El Arsenal FC es un club de fútbol con sede en el norte de Londres, uno de los más exitosos de Inglaterra. Han ganado 13 títulos de liga (3 en la era Premier League), un récord de 14 FA Cups y varios títulos europeos menores. Son conocidos por su estilo de juego ofensivo y por la temporada invicta de 2003-04."
+      ]
+    },
+    {
+        "tag": "pl_club_estadio_arsenal",
+        "patterns": [
+          "¿Cuál es el estadio del Arsenal?",
+          "¿Dónde juega el Arsenal?",
+          "Nombre del campo del Arsenal"
+        ],
+        "responses": [
+          "El estadio del Arsenal es el Emirates Stadium, ubicado en Holloway, Londres. Anteriormente jugaban en el histórico Highbury."
+        ]
+      },
+      {
+        "tag": "pl_club_manager_actual_arsenal",
+        "patterns": [
+          "¿Quién es el entrenador del Arsenal?",
+          "Manager actual del Arsenal",
+          "Técnico del Arsenal hoy"
+        ],
+        "responses": [
+          "Mikel Arteta, exjugador del club, ha sido el entrenador del Arsenal desde diciembre de 2019. Ha dirigido al equipo en varias temporadas competitivas recientes."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_arsenal_henry",
+        "patterns": [
+          "¿Quién es Thierry Henry?",
+          "Carrera de Henry en el Arsenal",
+          "Leyenda del Arsenal: Henry"
+        ],
+        "responses": [
+          "Thierry Henry es un exfutbolista francés y el máximo goleador histórico del Arsenal. Es considerado uno de los mejores delanteros de la historia de la Premier League y fue la figura clave del equipo 'Invincible' de 2003-04. Ganó dos títulos de liga y es venerado por los aficionados 'Gunners'."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_arsenal_bergkamp",
+        "patterns": [
+          "¿Quién fue Dennis Bergkamp?",
+          "Háblame de Bergkamp en el Arsenal",
+          "Leyenda del Arsenal: Bergkamp, el holandés no volador"
+        ],
+        "responses": [
+          "Dennis Bergkamp fue un talentoso delantero holandés que jugó en el Arsenal entre 1995 y 2006. Famoso por su técnica exquisita, visión de juego y goles memorables, fue una pieza fundamental en los éxitos del club bajo Arsène Wenger. Tenía un conocido miedo a volar."
+        ]
+      },
+      {
+        "tag": "pl_temporada_invencibles",
+        "patterns": [
+          "¿Qué fue la temporada de los Invencibles del Arsenal?",
+          "¿Cuándo ganó el Arsenal la liga sin perder?",
+          "Arsenal Invincibles 2003-04"
+        ],
+        "responses": [
+          "La temporada de los 'Invencibles' se refiere a la campaña 2003-04 de la Premier League, en la que el Arsenal, dirigido por Arsène Wenger y liderado por Thierry Henry, ganó el título sin perder ni un solo partido (26 victorias, 12 empates). Es un logro único en la era Premier League."
+        ]
+      },
+    {
+      "tag": "pl_club_info_chelsea",
+      "patterns": [
+        "Háblame del Chelsea FC",
+        "Información sobre el Chelsea",
+        "¿Qué es el Chelsea?"
+      ],
+      "responses": [
+        "El Chelsea FC es un club de fútbol con sede en Fulham, oeste de Londres. Han ganado 6 títulos de liga inglesa (5 en la era Premier League), 8 FA Cups y 2 Champions League. Experimentaron un gran éxito a partir de 2003 con la llegada del propietario Roman Abramovich, aunque la propiedad cambió en 2022."
+      ]
+    },
+     {
+        "tag": "pl_club_estadio_chelsea",
+        "patterns": [
+          "¿Cuál es el estadio del Chelsea?",
+          "¿Dónde juega el Chelsea?",
+          "Nombre del campo del Chelsea"
+        ],
+        "responses": [
+          "El estadio del Chelsea FC es Stamford Bridge, ubicado en Fulham, Londres. Ha sido su hogar desde la fundación del club en 1905."
+        ]
+      },
+      {
+        "tag": "pl_club_manager_actual_chelsea",
+        "patterns": [
+          "¿Quién es el entrenador del Chelsea?",
+          "Manager actual del Chelsea",
+          "Técnico del Chelsea hoy"
+        ],
+        "responses": [
+          "El puesto de entrenador del Chelsea ha tenido bastantes cambios en los últimos años. Mauricio Pochettino fue el entrenador durante la temporada 2023-24. Para saber quién está actualmente, necesitaría la información más reciente."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_chelsea_lampard",
+        "patterns": [
+          "¿Quién es Frank Lampard?",
+          "Carrera de Lampard en el Chelsea",
+          "Leyenda del Chelsea: Lampard"
+        ],
+        "responses": [
+          "Frank Lampard es un exfutbolista inglés y leyenda del Chelsea FC, donde jugó como centrocampista entre 2001 y 2014. Es el máximo goleador histórico del club, a pesar de no ser delantero. Ganó 3 títulos de Premier League, 4 FA Cups y la Champions League en 2012."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_chelsea_terry",
+        "patterns": [
+          "¿Quién es John Terry?",
+          "Carrera de Terry en el Chelsea",
+          "Leyenda del Chelsea: Capitán Terry"
+        ],
+        "responses": [
+          "John Terry es un exfutbolista inglés, considerado uno de los mejores defensas centrales de su generación y una leyenda del Chelsea FC. Fue capitán del club durante su época más exitosa, levantando 5 títulos de Premier League, 5 FA Cups y la Champions League. Pasó casi toda su carrera en Stamford Bridge (1998-2017)."
+        ]
+      },
+    {
+      "tag": "pl_club_info_mancity",
+      "patterns": [
+        "Háblame del Manchester City",
+        "Información sobre el Man City",
+        "¿Qué es el Manchester City?"
+      ],
+      "responses": [
+        "El Manchester City FC es un club de fútbol con sede en Manchester. Han experimentado un éxito sin precedentes desde que fueron adquiridos por el Abu Dhabi United Group en 2008. Han ganado múltiples títulos de Premier League (8 en total, 6 desde 2012), FA Cups y su primera Champions League en 2023, completando el triplete."
+      ]
+    },
+    {
+        "tag": "pl_club_estadio_mancity",
+        "patterns": [
+          "¿Cuál es el estadio del Manchester City?",
+          "¿Dónde juega el Man City?",
+          "Nombre del campo del City"
+        ],
+        "responses": [
+          "El estadio del Manchester City es el Etihad Stadium (también conocido como City of Manchester Stadium), ubicado en Manchester. Se mudaron allí en 2003 desde su antiguo estadio, Maine Road."
+        ]
+      },
+      {
+        "tag": "pl_club_manager_actual_mancity",
+        "patterns": [
+          "¿Quién es el entrenador del Manchester City?",
+          "Manager actual del Man City",
+          "Técnico del City hoy"
+        ],
+        "responses": [
+          "Pep Guardiola ha sido el entrenador del Manchester City desde 2016. Bajo su dirección, el club ha vivido la época más exitosa de su historia, ganando numerosos títulos con un estilo de juego distintivo."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_mancity_aguero",
+        "patterns": [
+          "¿Quién es Sergio Agüero?",
+          "Carrera de Agüero en el Man City",
+          "Leyenda del City: Kun Agüero"
+        ],
+        "responses": [
+          "Sergio 'Kun' Agüero es un exfutbolista argentino y leyenda del Manchester City, donde jugó de 2011 a 2021. Es el máximo goleador histórico del club y marcó el famoso gol en el último minuto contra el QPR en 2012 que les dio su primer título de Premier League."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_mancity_kompany",
+        "patterns": [
+          "¿Quién es Vincent Kompany?",
+          "Carrera de Kompany en el Man City",
+          "Leyenda del City: Capitán Kompany"
+        ],
+        "responses": [
+          "Vincent Kompany es un exfutbolista y entrenador belga. Fue defensa central y capitán del Manchester City durante muchos años (2008-2019), liderando al equipo en su ascenso a la élite y ganando 4 títulos de Premier League. Es considerado una figura icónica del club."
+        ]
+      },
+      {
+        "tag": "pl_temporada_centuriones",
+        "patterns": [
+          "¿Qué fue la temporada de los Centuriones del Man City?",
+          "¿Cuándo hizo el City 100 puntos?",
+          "Man City Centurions 2017-18"
+        ],
+        "responses": [
+          "La temporada de los 'Centuriones' se refiere a la campaña 2017-18 de la Premier League, en la que el Manchester City, dirigido por Pep Guardiola, ganó el título alcanzando la cifra récord de 100 puntos. También establecieron récords de victorias (32) y goles marcados (106) en una sola temporada."
+        ]
+      },
+    {
+      "tag": "pl_club_info_tottenham",
+      "patterns": [
+        "Háblame del Tottenham Hotspur",
+        "Información sobre los Spurs",
+        "¿Qué es el Tottenham?"
+      ],
+      "responses": [
+        "El Tottenham Hotspur FC, comúnmente conocido como Spurs, es un club de fútbol del norte de Londres. Aunque no han ganado la liga en la era Premier League, son un equipo habitual en las competiciones europeas y han ganado 2 títulos de liga (antes de 1992), 8 FA Cups y 2 Copas de la UEFA. Son conocidos por su lema 'Audere est Facere' (Atreverse es Hacer)."
+      ]
+    },
+    {
+        "tag": "pl_club_estadio_tottenham",
+        "patterns": [
+          "¿Cuál es el estadio del Tottenham?",
+          "¿Dónde juega el Tottenham?",
+          "Nombre del campo de los Spurs"
+        ],
+        "responses": [
+          "El estadio del Tottenham Hotspur es el Tottenham Hotspur Stadium, inaugurado en 2019 en el sitio de su antiguo hogar, White Hart Lane. Es uno de los estadios más modernos del mundo."
+        ]
+      },
+      {
+        "tag": "pl_club_manager_actual_tottenham",
+        "patterns": [
+          "¿Quién es el entrenador del Tottenham?",
+          "Manager actual de los Spurs",
+          "Técnico del Tottenham hoy"
+        ],
+        "responses": [
+          "Ange Postecoglou fue nombrado entrenador del Tottenham Hotspur al inicio de la temporada 2023-24. Para conocer la situación actual, se requerirían datos más recientes."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_tottenham_kane",
+        "patterns": [
+          "¿Quién es Harry Kane?",
+          "Carrera de Kane en el Tottenham",
+          "Leyenda de los Spurs: Kane"
+        ],
+        "responses": [
+          "Harry Kane es un delantero inglés y el máximo goleador histórico del Tottenham Hotspur, donde jugó la mayor parte de su carrera antes de fichar por el Bayern Munich en 2023. A pesar de no ganar títulos con los Spurs, es considerado una leyenda por su increíble capacidad goleadora, ganando varias Botas de Oro de la Premier League."
+        ]
+      },
+      {
+        "tag": "pl_club_leyenda_tottenham_gascoigne",
+        "patterns": [
+          "¿Quién fue Paul Gascoigne?",
+          "Háblame de Gascoigne en el Tottenham",
+          "Leyenda de los Spurs: Gazza"
+        ],
+        "responses": [
+          "Paul 'Gazza' Gascoigne fue un talentoso y carismático centrocampista inglés que jugó en el Tottenham Hotspur entre 1988 y 1992. Aunque su paso fue relativamente corto, dejó una huella imborrable por su habilidad, creatividad y momentos icónicos, como su gol de falta en la semifinal de la FA Cup de 1991."
+        ]
+      },
+    {
+      "tag": "pl_jugador_info_salah",
+      "patterns": [
+        "¿Quién es Mohamed Salah?",
+        "Háblame de Salah",
+        "Carrera de Mo Salah"
+      ],
+      "responses": [
+        "Mohamed Salah es un delantero egipcio que juega principalmente como extremo derecho. Es una estrella mundial y figura clave del Liverpool FC desde su llegada en 2017. Ha ganado múltiples Botas de Oro de la Premier League, el premio al Jugador del Año y ha sido fundamental en los éxitos recientes del Liverpool, incluyendo la Premier League y la Champions League."
+      ]
+    },
+    {
+      "tag": "pl_jugador_info_kdb",
+      "patterns": [
+        "¿Quién es Kevin De Bruyne?",
+        "Háblame de De Bruyne",
+        "Carrera de Kevin De Bruyne"
+      ],
+      "responses": [
+        "Kevin De Bruyne es un centrocampista belga, considerado uno de los mejores del mundo por su visión de juego, pases y capacidad de llegada. Es una pieza fundamental del Manchester City desde 2015, donde ha ganado numerosos títulos de Premier League y ha sido nombrado Jugador del Año de la PFA en dos ocasiones."
+      ]
+    },
+    {
+      "tag": "pl_jugador_info_haaland",
+      "patterns": [
+        "¿Quién es Erling Haaland?",
+        "Háblame de Haaland",
+        "Carrera de Erling Haaland"
+      ],
+      "responses": [
+        "Erling Haaland es un delantero noruego conocido por su increíble capacidad goleadora. Fichó por el Manchester City en 2022 y en su primera temporada rompió el récord de goles en una sola campaña de la Premier League (36 goles), ganando la Bota de Oro y ayudando al City a conseguir el triplete (Premier League, FA Cup, Champions League)."
+      ]
+    },
+    {
+      "tag": "pl_jugador_leyenda_rooney",
+      "patterns": [
+        "¿Quién es Wayne Rooney?",
+        "Carrera de Wayne Rooney",
+        "Leyenda del fútbol inglés: Rooney"
+      ],
+      "responses": [
+        "Wayne Rooney es un exfutbolista inglés, leyenda del Manchester United y de la selección inglesa. Es el máximo goleador histórico tanto del Manchester United como de la selección de Inglaterra (aunque Harry Kane superó este último). Ganó 5 títulos de Premier League y la Champions League con el United. Era conocido por su talento, garra y versatilidad."
+      ]
+    },
+    {
+      "tag": "pl_jugador_leyenda_scholes",
+      "patterns": [
+        "¿Quién es Paul Scholes?",
+        "Carrera de Paul Scholes",
+        "Leyenda del Man Utd: Scholes"
+      ],
+      "responses": [
+        "Paul Scholes es un exfutbolista inglés, considerado uno de los mejores centrocampistas de su generación. Pasó toda su carrera en el Manchester United (1993-2011 y 2012-2013), formando parte de la famosa 'Clase del 92'. Era admirado por su inteligencia táctica, rango de pase y potentes disparos. Ganó 11 títulos de Premier League."
+      ]
+    },
+     {
+      "tag": "pl_jugador_leyenda_vieira",
+      "patterns": [
+        "¿Quién es Patrick Vieira?",
+        "Carrera de Patrick Vieira",
+        "Leyenda del Arsenal: Vieira"
+      ],
+      "responses": [
+        "Patrick Vieira fue un dominante centrocampista francés, capitán y leyenda del Arsenal. Jugó en el club entre 1996 y 2005, siendo el líder del equipo 'Invincible' de 2003-04. Conocido por su físico imponente, habilidad técnica y liderazgo, ganó 3 títulos de Premier League y 4 FA Cups con los Gunners. Tuvo una famosa rivalidad con Roy Keane del Manchester United."
+      ]
+    },
+    {
+      "tag": "pl_jugador_leyenda_drogba",
+      "patterns": [
+        "¿Quién es Didier Drogba?",
+        "Carrera de Didier Drogba",
+        "Leyenda del Chelsea: Drogba"
+      ],
+      "responses": [
+        "Didier Drogba fue un delantero marfileño, leyenda del Chelsea FC. Jugó en el club en dos etapas (2004-2012 y 2014-2015) y fue clave en muchos de sus éxitos. Conocido por su fuerza, potencia y habilidad para marcar en partidos importantes, anotó el gol del empate y el penalti decisivo en la final de la Champions League de 2012. Ganó 4 títulos de Premier League."
+      ]
+    },
+    {
+      "tag": "pl_bota_oro",
+      "patterns": [
+        "¿Qué es la Bota de Oro de la Premier League?",
+        "Premio al máximo goleador Premier League",
+        "¿Quién gana la Golden Boot?"
+      ],
+      "responses": [
+        "La Bota de Oro (Premier League Golden Boot) es el premio que se otorga anualmente al jugador que marca más goles durante la temporada de la Premier League. Si hay empate, el premio se comparte."
+      ]
+    },
+     {
+      "tag": "pl_bota_oro_ganadores_multiples",
+      "patterns": [
+        "¿Qué jugadores han ganado más Botas de Oro de la Premier League?",
+        "Máximos ganadores de la Golden Boot",
+        "Jugadores con varias Botas de Oro PL"
+      ],
+      "responses": [
+        "Thierry Henry es el jugador que más veces ha ganado la Bota de Oro de la Premier League, con 4 galardones. Mohamed Salah y Harry Kane la han ganado 3 veces cada uno. Alan Shearer también la ganó 3 veces."
+      ]
+    },
+    {
+      "tag": "pl_guante_oro",
+      "patterns": [
+        "¿Qué es el Guante de Oro de la Premier League?",
+        "Premio al portero con más porterías a cero",
+        "¿Quién gana el Golden Glove?"
+      ],
+      "responses": [
+        "El Guante de Oro (Premier League Golden Glove) es el premio que se otorga anualmente al portero que consigue mantener su portería a cero (clean sheet) en más partidos durante la temporada de la Premier League. Si hay empate, el premio se comparte."
+      ]
+    },
+    {
+      "tag": "pl_guante_oro_ganadores_multiples",
+      "patterns": [
+        "¿Qué porteros han ganado más Guantes de Oro de la Premier League?",
+        "Máximos ganadores del Golden Glove",
+        "Porteros con varios Guantes de Oro PL"
+      ],
+      "responses": [
+        "Joe Hart (mientras jugaba en el Manchester City) y Petr Čech (jugando para Chelsea y Arsenal) son los porteros que más veces han ganado el Guante de Oro de la Premier League, con 4 galardones cada uno."
+      ]
+    },
+    {
+      "tag": "pl_premio_pfa_jugador",
+      "patterns": [
+        "¿Qué es el premio PFA al Jugador del Año?",
+        "Premio PFA Players' Player of the Year",
+        "¿Quién elige al mejor jugador PFA?"
+      ],
+      "responses": [
+        "El premio PFA Players' Player of the Year (Jugador del Año elegido por los Jugadores) es un galardón anual otorgado por la Professional Footballers' Association (Asociación de Futbolistas Profesionales) al jugador considerado el mejor de la temporada en el fútbol inglés, votado por sus propios compañeros de profesión."
+      ]
+    },
+    {
+        "tag": "pl_premio_pfa_jugador_ganadores_multiples",
+        "patterns": [
+          "¿Qué jugadores han ganado más veces el premio PFA al Jugador del Año?",
+          "Máximos ganadores del PFA Player of the Year"
+        ],
+        "responses": [
+          "Varios jugadores han ganado el premio PFA Players' Player of the Year dos veces, incluyendo a Mark Hughes, Alan Shearer, Thierry Henry, Cristiano Ronaldo, Gareth Bale, Kevin De Bruyne y Mohamed Salah. Nadie lo ha ganado más de dos veces hasta la fecha."
+        ]
+      },
+    {
+      "tag": "pl_manager_mas_titulos",
+      "patterns": [
+        "¿Qué entrenador ha ganado más títulos de Premier League?",
+        "Manager con más ligas inglesas (formato Premier)",
+        "Entrenador más exitoso de la Premier League"
+      ],
+      "responses": [
+        "Sir Alex Ferguson es, con diferencia, el entrenador más exitoso en la historia de la Premier League. Ganó 13 títulos de liga durante su legendaria etapa al frente del Manchester United (1986-2013)."
+      ]
+    },
+    {
+      "tag": "pl_manager_info_ferguson",
+      "patterns": [
+        "Háblame de Sir Alex Ferguson",
+        "Carrera de Alex Ferguson",
+        "¿Quién es Ferguson?"
+      ],
+      "responses": [
+        "Sir Alex Ferguson es un entrenador de fútbol escocés, considerado uno de los mejores de todos los tiempos. Dirigió al Manchester United durante 26 años, transformando al club y llevándolo a un dominio sin precedentes en el fútbol inglés y europeo. Ganó 13 Premier Leagues, 5 FA Cups y 2 Champions Leagues, entre muchos otros trofeos."
+      ]
+    },
+    {
+      "tag": "pl_manager_info_wenger",
+      "patterns": [
+        "Háblame de Arsène Wenger",
+        "Carrera de Arsène Wenger",
+        "¿Quién es Wenger?"
+      ],
+      "responses": [
+        "Arsène Wenger es un entrenador de fútbol francés que dirigió al Arsenal durante 22 años (1996-2018). Revolucionó el club y el fútbol inglés con sus métodos innovadores en entrenamiento, dieta y táctica. Ganó 3 títulos de Premier League, incluyendo la famosa temporada 'Invincible', y 7 FA Cups (récord para un entrenador)."
+      ]
+    },
+    {
+      "tag": "pl_manager_info_guardiola",
+      "patterns": [
+        "Háblame de Pep Guardiola",
+        "Carrera de Pep Guardiola en la Premier",
+        "¿Quién es Guardiola?"
+      ],
+      "responses": [
+        "Pep Guardiola es un entrenador de fútbol español, actualmente en el Manchester City (desde 2016). Es uno de los entrenadores más exitosos e influyentes del mundo. Ha ganado múltiples títulos de Premier League con el City, implementando un estilo de juego basado en la posesión y el ataque posicional. También ganó el triplete en 2023."
+      ]
+    },
+    {
+      "tag": "pl_manager_info_klopp",
+      "patterns": [
+        "Háblame de Jürgen Klopp",
+        "Carrera de Jürgen Klopp en la Premier",
+        "¿Quién es Klopp?"
+      ],
+      "responses": [
+        "Jürgen Klopp es un entrenador de fútbol alemán que dirigió al Liverpool FC desde 2015 hasta 2024. Revitalizó al club y lo llevó a ganar la Premier League (su primer título en 30 años) y la Champions League. Es conocido por su carisma, su estilo de fútbol 'Gegenpressing' (presión tras pérdida) y su fuerte conexión con los aficionados."
+      ]
+    },
+    {
+      "tag": "pl_rivalidad_manutd_liverpool",
+      "patterns": [
+        "¿Cuál es la mayor rivalidad de la Premier League?",
+        "Rivalidad Manchester United vs Liverpool",
+        "Derbi del Noroeste de Inglaterra"
+      ],
+      "responses": [
+        "La rivalidad entre el Manchester United y el Liverpool FC es considerada por muchos como la más grande e intensa del fútbol inglés. Se basa en la proximidad geográfica (Derbi del Noroeste), el éxito histórico de ambos clubes (son los dos equipos con más títulos de liga) y la competencia por ser el club más grande de Inglaterra."
+      ]
+    },
+    {
+      "tag": "pl_rivalidad_arsenal_tottenham",
+      "patterns": [
+        "Háblame de la rivalidad Arsenal vs Tottenham",
+        "Derbi del Norte de Londres",
+        "North London Derby"
+      ],
+      "responses": [
+        "La rivalidad entre Arsenal y Tottenham Hotspur, conocida como el Derbi del Norte de Londres (North London Derby), es una de las más feroces y antiguas de Inglaterra. Se debe a la cercanía geográfica de los clubes en el norte de Londres y a una intensa competencia local que se remonta a más de un siglo."
+      ]
+    },
+    {
+      "tag": "pl_rivalidad_manutd_mancity",
+      "patterns": [
+        "Háblame de la rivalidad Manchester United vs Manchester City",
+        "Derbi de Manchester",
+        "Manchester Derby"
+      ],
+      "responses": [
+        "La rivalidad entre Manchester United y Manchester City, el Derbi de Manchester, ha ganado mucha intensidad en el siglo XXI, especialmente desde la adquisición del City y su ascenso a la élite. Aunque históricamente el United fue dominante, el City ha igualado e incluso superado a sus vecinos en éxito reciente, añadiendo picante a la rivalidad local."
+      ]
+    },
+    {
+      "tag": "pl_fichaje_record_liga",
+      "patterns": [
+        "¿Cuál es el fichaje más caro de la historia de la Premier League?",
+        "Récord de traspaso Premier League",
+        "Jugador más caro comprado por un club inglés"
+      ],
+      "responses": [
+        "El récord de fichajes en la Premier League cambia con frecuencia. Algunos de los traspasos más caros históricamente han sido los de Enzo Fernández y Moisés Caicedo al Chelsea, y Declan Rice al Arsenal, todos superando los 100 millones de libras esterlinas. Para el récord absoluto actual, se necesitaría verificar la información más reciente."
+      ]
+    },
+    {
+      "tag": "pl_var",
+      "patterns": [
+        "¿Se usa el VAR en la Premier League?",
+        "¿Cómo funciona el VAR en Inglaterra?",
+        "Videoarbitraje en la Premier League"
+      ],
+      "responses": [
+        "Sí, el Video Assistant Referee (VAR) se utiliza en la Premier League desde la temporada 2019-20. Se usa para revisar decisiones arbitrales clave relacionadas con goles, penaltis, tarjetas rojas directas y errores de identidad."
+      ]
+    },
+    {
+      "tag": "pl_temporada_leicester_campeon",
+      "patterns": [
+        "¿Cuándo ganó el Leicester la Premier League?",
+        "La hazaña del Leicester City en 2016",
+        "Leicester campeón 2015-16"
+      ],
+      "responses": [
+        "El Leicester City protagonizó una de las mayores sorpresas en la historia del deporte al ganar la Premier League en la temporada 2015-16. Dirigidos por Claudio Ranieri y con jugadores clave como Jamie Vardy, Riyad Mahrez y N'Golo Kanté, superaron todas las expectativas, ya que empezaron la temporada con apuestas de 5000 a 1 en su contra para ser campeones."
+      ]
+    },
+    {
+        "tag": "pl_jugador_info_vardy",
+        "patterns": [
+          "¿Quién es Jamie Vardy?",
+          "Carrera de Jamie Vardy",
+          "Goleador del Leicester City"
+        ],
+        "responses": [
+          "Jamie Vardy es un delantero inglés, leyenda del Leicester City. Es famoso por su increíble ascenso desde las ligas inferiores hasta convertirse en un goleador de élite en la Premier League. Fue una pieza fundamental en el título de liga del Leicester en 2016 y ganó la Bota de Oro de la Premier League en la temporada 2019-20."
+        ]
+      },
+      {
+        "tag": "pl_jugador_info_kante",
+        "patterns": [
+          "¿Quién es N'Golo Kanté?",
+          "Carrera de N'Golo Kanté",
+          "Centrocampista Kanté"
+        ],
+        "responses": [
+          "N'Golo Kanté es un centrocampista defensivo francés, conocido por su increíble energía, capacidad para recuperar balones y humildad. Fue crucial en el título del Leicester City en 2016 y luego ganó la Premier League de nuevo con el Chelsea al año siguiente. También ganó el Mundial 2018 con Francia."
+        ]
+      },
+      {
+          "tag": "pl_patrocinador",
+          "patterns": [
+              "¿Quién patrocina la Premier League?",
+              "Patrocinador principal de la liga inglesa",
+              "Nombre oficial de la Premier League por patrocinio"
+          ],
+          "responses": [
+              "Desde la temporada 2016-17, la Premier League no tiene un patrocinador principal titular, operando simplemente como 'The Premier League'. Anteriormente fue patrocinada por Barclays (Barclays Premier League)."
+          ]
+      },
+      {
+          "tag": "pl_himno",
+          "patterns": [
+              "¿Tiene himno la Premier League?",
+              "Música de la Premier League",
+              "Canción oficial Premier League"
+          ],
+          "responses": [
+              "Sí, la Premier League tiene un himno oficial que se escucha antes de los partidos y en las retransmisiones televisivas. Es una pieza orquestal reconocible compuesta específicamente para la liga."
+          ]
+      },
+      {
+        "tag": "pl_trofeo",
+        "patterns": [
+            "¿Cómo es el trofeo de la Premier League?",
+            "Descripción del trofeo de la liga inglesa",
+            "Material del trofeo Premier"
+        ],
+        "responses": [
+            "El trofeo de la Premier League está hecho de plata maciza y plata dorada. Pesa alrededor de 25 kg y presenta una corona dorada en la parte superior. Hay dos trofeos idénticos: uno para el campeón reinante y otro de repuesto. El diseño se inspira en los 'Tres Leones' asociados con el fútbol inglés."
+        ]
+     },
+     {
+        "tag": "pl_club_mas_descensos",
+        "patterns": [
+            "¿Qué equipo ha descendido más veces de la Premier League?",
+            "Equipo con más descensos a Championship",
+            "Récord de descensos PL"
+        ],
+        "responses": [
+            "Norwich City ostenta el récord de ser el equipo que más veces ha descendido de la Premier League desde su creación en 1992. Han sufrido el descenso en múltiples ocasiones."
+        ]
+     },
+     {
+        "tag": "pl_gol_mas_rapido",
+        "patterns": [
+            "¿Cuál es el gol más rápido de la historia de la Premier League?",
+            "Récord del gol más rápido PL",
+            "Quién marcó el gol más rápido"
+        ],
+        "responses": [
+            "Shane Long marcó el gol más rápido en la historia de la Premier League. Lo anotó para el Southampton contra el Watford en abril de 2019, ¡solo 7.69 segundos después del inicio del partido!"
+        ]
+     },
+     {
+        "tag": "pl_hat_trick_mas_rapido",
+        "patterns": [
+            "¿Cuál es el 'hat-trick' más rápido de la historia de la Premier League?",
+            "Récord del triplete más rápido PL",
+            "Quién marcó el hat-trick más rápido"
+        ],
+        "responses": [
+            "Sadio Mané ostenta el récord del 'hat-trick' (tres goles en un mismo partido) más rápido en la historia de la Premier League. Lo consiguió jugando para el Southampton contra el Aston Villa en mayo de 2015, marcando sus tres goles en tan solo 2 minutos y 56 segundos."
+        ]
+     },
+      {
+        "tag": "pl_jugador_mas_joven",
+        "patterns": [
+            "¿Quién es el jugador más joven en jugar en la Premier League?",
+            "Récord de jugador más joven PL",
+            "Debutante más joven Premier League"
+        ],
+        "responses": [
+            "Ethan Nwaneri, jugando para el Arsenal, se convirtió en el jugador más joven en la historia de la Premier League en septiembre de 2022, cuando debutó contra el Brentford a la edad de 15 años y 181 días."
+        ]
+     },
+     {
+        "tag": "pl_goleador_mas_joven",
+        "patterns": [
+            "¿Quién es el goleador más joven de la historia de la Premier League?",
+            "Récord de goleador más joven PL",
+            "Jugador más joven en marcar en Premier League"
+        ],
+        "responses": [
+            "James Vaughan es el goleador más joven en la historia de la Premier League. Marcó para el Everton contra el Crystal Palace en abril de 2005 a la edad de 16 años y 271 días."
+        ]
+     },
+     {
+        "tag": "pl_manager_mas_joven",
+        "patterns": [
+            "¿Quién ha sido el entrenador más joven de la Premier League?",
+            "Manager más joven en dirigir en PL",
+            "Récord entrenador más joven"
+        ],
+        "responses": [
+            "Ryan Mason se convirtió en el entrenador más joven en la historia de la Premier League cuando dirigió interinamente al Tottenham Hotspur en abril de 2021 a la edad de 29 años y 312 días."
+        ]
+     },
+     {
+        "tag": "pl_club_everton_presencia",
+        "patterns": [
+            "¿Ha descendido alguna vez el Everton de la Premier League?",
+            "Equipos que siempre han estado en Premier League",
+            "Everton nunca ha bajado?"
+        ],
+        "responses": [
+            "El Everton es uno de los pocos clubes que han disputado todas las temporadas de la Premier League desde su inicio en 1992 y nunca han descendido. Los otros clubes con esta distinción son Arsenal, Chelsea, Liverpool, Manchester United y Tottenham Hotspur. (Nota: Verificar si esta lista sigue vigente, ya que depende de que no desciendan)."
+        ]
+     },
+      {
+        "tag": "pl_goles_propia_puerta_record",
+        "patterns": [
+            "¿Qué jugador ha marcado más goles en propia puerta en la Premier League?",
+            "Récord de autogoles PL",
+            "Jugador con más goles en contra"
+        ],
+        "responses": [
+            "Richard Dunne ostenta el desafortunado récord de ser el jugador con más goles en propia puerta en la historia de la Premier League, con un total de 10 autogoles marcados durante su carrera."
+        ]
+     },
+     {
+        "tag": "pl_mas_tarjetas_rojas_jugador",
+        "patterns": [
+            "¿Qué jugador ha recibido más tarjetas rojas en la Premier League?",
+            "Jugador más expulsado PL",
+            "Récord de expulsiones jugador"
+        ],
+        "responses": [
+            "El récord de más tarjetas rojas recibidas por un jugador en la historia de la Premier League es compartido por tres jugadores: Patrick Vieira, Duncan Ferguson y Richard Dunne, todos con 8 expulsiones."
+        ]
+     },
+      {
+        "tag": "pl_mas_tarjetas_rojas_equipo_temporada",
+        "patterns": [
+            "¿Qué equipo ha recibido más tarjetas rojas en una sola temporada de Premier League?",
+            "Récord de expulsiones equipo en una temporada PL"
+        ],
+        "responses": [
+            "Sunderland (en la temporada 2009-10) y Queens Park Rangers (en la temporada 2011-12) comparten el récord de ser los equipos con más tarjetas rojas recibidas en una sola temporada de la Premier League, con 9 expulsiones cada uno."
+        ]
+     },
+     {
+        "tag": "pl_partido_mas_goles",
+        "patterns": [
+            "¿Cuál ha sido el partido con más goles en la historia de la Premier League?",
+            "Partido con mayor marcador PL",
+            "Récord de goles en un partido"
+        ],
+        "responses": [
+            "El partido con más goles en la historia de la Premier League fue la victoria del Portsmouth por 7-4 sobre el Reading en septiembre de 2007. Se marcaron un total de 11 goles."
+        ]
+     },
+     {
+        "tag": "pl_mayor_victoria_local",
+        "patterns": [
+            "¿Cuál ha sido la mayor victoria local en la historia de la Premier League?",
+            "Mayor goleada de un equipo local PL",
+            "Récord victoria en casa"
+        ],
+        "responses": [
+            "El récord de la mayor victoria local en la Premier League es de 9-0. Este resultado se ha dado varias veces: Manchester United venció a Ipswich Town 9-0 en 1995, Leicester City venció a Southampton 9-0 en 2019, Manchester United venció a Southampton 9-0 en 2021 y Liverpool venció a Bournemouth 9-0 en 2022."
+        ]
+     },
+     {
+        "tag": "pl_mayor_victoria_visitante",
+        "patterns": [
+            "¿Cuál ha sido la mayor victoria visitante en la historia de la Premier League?",
+            "Mayor goleada de un equipo visitante PL",
+            "Récord victoria fuera de casa"
+        ],
+        "responses": [
+            "La mayor victoria como visitante en la historia de la Premier League es el 0-9 que logró el Leicester City contra el Southampton en octubre de 2019."
+        ]
+      },
+      {
+        "tag": "pl_influencia_global",
+        "patterns": [
+            "¿Por qué es tan popular la Premier League?",
+            "Audiencia global de la Premier League",
+            "Impacto mundial de la liga inglesa"
+        ],
+        "responses": [
+            "La Premier League es la liga de fútbol más vista del mundo, transmitida en cientos de países. Su popularidad se debe a la alta calidad del fútbol, la presencia de estrellas mundiales, la competitividad, la excelente producción televisiva y un marketing global muy efectivo."
+        ]
+      },
+      {
+        "tag": "pl_derechos_tv",
+        "patterns": [
+            "¿Cuánto valen los derechos de televisión de la Premier League?",
+            "Acuerdos de TV de la Premier League",
+            "Ingresos por televisión liga inglesa"
+        ],
+        "responses": [
+            "Los derechos de televisión de la Premier League son extremadamente lucrativos, generando miles de millones de libras esterlinas tanto en acuerdos nacionales como internacionales. Estos ingresos son una fuente fundamental de financiación para los clubes y contribuyen a su poderío económico."
+        ]
+      },
+      {
+        "tag": "pl_jugadores_extranjeros",
+        "patterns": [
+            "¿Hay muchos jugadores extranjeros en la Premier League?",
+            "Nacionalidades en la Premier League",
+            "Impacto de los jugadores extranjeros"
+        ],
+        "responses": [
+            "Sí, la Premier League es conocida por atraer talento de todo el mundo. Cuenta con una gran proporción de jugadores extranjeros, lo que contribuye a su nivel competitivo y atractivo global. Jugadores de Europa, Sudamérica, África y Asia han brillado en la liga."
+        ]
+      },
+       {
+        "tag": "pl_mercado_fichajes",
+        "patterns": [
+            "¿Cuándo son las ventanas de fichajes en la Premier League?",
+            "Mercado de verano e invierno PL",
+            "Periodo de traspasos Inglaterra"
+        ],
+        "responses": [
+            "La Premier League tiene dos ventanas de fichajes al año. La ventana de verano generalmente va desde el final de la temporada (junio) hasta finales de agosto/principios de septiembre. La ventana de invierno ocurre durante el mes de enero."
+        ]
+      },
+      {
+        "tag": "pl_fair_play_financiero",
+        "patterns": [
+            "¿Existen reglas de Fair Play Financiero en la Premier League?",
+            "Control económico en la PL",
+            "Reglas financieras para clubes ingleses"
+        ],
+        "responses": [
+            "Sí, la Premier League tiene sus propias reglas de rentabilidad y sostenibilidad (Profitability and Sustainability Rules - PSR), a menudo comparadas con el Fair Play Financiero de la UEFA. Estas reglas limitan las pérdidas que los clubes pueden tener durante un período determinado para asegurar su viabilidad financiera."
+        ]
+      },
+       {
+        "tag": "pl_club_newcastle",
+        "patterns": [
+            "Háblame del Newcastle United",
+            "Información sobre el Newcastle",
+            "¿Quién es el dueño del Newcastle?"
+        ],
+        "responses": [
+            "El Newcastle United es un club histórico del noreste de Inglaterra, con una base de aficionados muy apasionada ('The Toon Army'). Juegan en St James' Park. Aunque no han ganado la liga desde 1927, tienen 4 títulos de liga y 6 FA Cups. En 2021 fueron adquiridos por un consorcio liderado por el Fondo de Inversión Pública de Arabia Saudita, lo que les ha dado un gran poder financiero."
+        ]
+      },
+      {
+        "tag": "pl_club_aston_villa",
+        "patterns": [
+            "Háblame del Aston Villa",
+            "Información sobre el Aston Villa",
+            "Historia del Aston Villa"
+        ],
+        "responses": [
+            "El Aston Villa es un club de fútbol con sede en Birmingham, uno de los clubes fundadores de la Football League en 1888 y de la Premier League en 1992. Tienen una historia rica, habiendo ganado 7 títulos de liga, 7 FA Cups y la Copa de Europa en 1982. Juegan en Villa Park."
+        ]
+      },
+       {
+        "tag": "pl_club_west_ham",
+        "patterns": [
+            "Háblame del West Ham United",
+            "Información sobre el West Ham",
+            "¿Quiénes son los Hammers?"
+        ],
+        "responses": [
+            "El West Ham United es un club del este de Londres, apodados 'The Hammers'. Son conocidos por su apasionada afición y su academia de fútbol, que ha producido grandes talentos ingleses. Han ganado la FA Cup 3 veces y la Recopa de Europa en 1965 y la Conference League en 2023. Juegan en el London Stadium."
+        ]
+      },
+       {
+        "tag": "pl_asistencias_record_jugador",
+        "patterns": [
+          "¿Quién es el jugador con más asistencias en la historia de la Premier League?",
+          "Récord de asistencias Premier League",
+          "Máximo asistente PL"
+        ],
+        "responses": [
+          "Ryan Giggs ostenta el récord de más asistencias en la historia de la Premier League, con 162 pases de gol registrados durante su carrera en el Manchester United."
+        ]
+      },
+       {
+        "tag": "pl_asistencias_record_temporada",
+        "patterns": [
+          "¿Quién tiene el récord de más asistencias en una sola temporada de Premier League?",
+          "Récord asistencias en una temporada PL",
+          "Máximo asistente en una campaña"
+        ],
+        "responses": [
+          "El récord de más asistencias en una sola temporada de la Premier League es compartido por Thierry Henry (Arsenal, 2002-03) y Kevin De Bruyne (Manchester City, 2019-20), ambos con 20 asistencias."
+        ]
+      }
+  ]
+}

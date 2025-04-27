@@ -1,0 +1,264 @@
+{
+    "intents": [
+      {
+        "tag": "libertadores_2005",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2005?",
+          "Campeón Copa Libertadores 2005",
+          "Subcampeón Copa Libertadores 2005",
+          "Goleador Copa Libertadores 2005",
+          "Mejor jugador Libertadores 2005"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2005, el campeón fue **São Paulo** (Brasil). El subcampeón fue **Athletico Paranaense** (Brasil). El máximo goleador fue **Santiago Salcedo** (Cerro Porteño) con 9 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época."
+        ]
+      },
+      {
+        "tag": "libertadores_2006",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2006?",
+          "Campeón Copa Libertadores 2006",
+          "Subcampeón Copa Libertadores 2006",
+          "Goleador Copa Libertadores 2006",
+          "Mejor jugador Libertadores 2006"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2006, el campeón fue **Internacional** (Brasil). El subcampeón fue **São Paulo** (Brasil). Hubo 14 máximos goleadores con 5 goles cada uno, entre ellos **Fernandão** (Internacional), **Aloísio** (São Paulo), **Félix Borja** (El Nacional) y **José Luis Calderón** (Estudiantes LP). No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época."
+        ]
+      },
+      {
+        "tag": "libertadores_2007",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2007?",
+          "Campeón Copa Libertadores 2007",
+          "Subcampeón Copa Libertadores 2007",
+          "Goleador Copa Libertadores 2007",
+          "Mejor jugador Libertadores 2007"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2007, el campeón fue **Boca Juniors** (Argentina). El subcampeón fue **Grêmio** (Brasil). El máximo goleador fue **Salvador Cabañas** (América) con 10 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Juan Román Riquelme fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2008",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2008?",
+          "Campeón Copa Libertadores 2008",
+          "Subcampeón Copa Libertadores 2008",
+          "Goleador Copa Libertadores 2008",
+          "Mejor jugador Libertadores 2008"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2008, el campeón fue **LDU Quito** (Ecuador). El subcampeón fue **Fluminense** (Brasil). Los máximos goleadores fueron **Marcelo Moreno** (Cruzeiro) y **Salvador Cabañas** (América) con 8 goles cada uno. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (José Francisco Cevallos fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2009",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2009?",
+          "Campeón Copa Libertadores 2009",
+          "Subcampeón Copa Libertadores 2009",
+          "Goleador Copa Libertadores 2009",
+          "Mejor jugador Libertadores 2009"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2009, el campeón fue **Estudiantes (LP)** (Argentina). El subcampeón fue **Cruzeiro** (Brasil). El máximo goleador fue **Mauro Boselli** (Estudiantes LP) con 8 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Juan Sebastián Verón fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2010",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2010?",
+          "Campeón Copa Libertadores 2010",
+          "Subcampeón Copa Libertadores 2010",
+          "Goleador Copa Libertadores 2010",
+          "Mejor jugador Libertadores 2010"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2010, el campeón fue **Internacional** (Brasil). El subcampeón fue **Guadalajara** (México). El máximo goleador fue **Thiago Ribeiro** (Cruzeiro) con 8 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Giuliano fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2011",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2011?",
+          "Campeón Copa Libertadores 2011",
+          "Subcampeón Copa Libertadores 2011",
+          "Goleador Copa Libertadores 2011",
+          "Mejor jugador Libertadores 2011"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2011, el campeón fue **Santos** (Brasil). El subcampeón fue **Peñarol** (Uruguay). Los máximos goleadores fueron **Roberto Nanni** (Cerro Porteño) y **Wallyson** (Cruzeiro) con 7 goles cada uno. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Neymar fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2012",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2012?",
+          "Campeón Copa Libertadores 2012",
+          "Subcampeón Copa Libertadores 2012",
+          "Goleador Copa Libertadores 2012",
+          "Mejor jugador Libertadores 2012"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2012, el campeón fue **Corinthians** (Brasil). El subcampeón fue **Boca Juniors** (Argentina). Los máximos goleadores fueron **Matías Alustiza** (Deportivo Quito) y **Neymar** (Santos) con 8 goles cada uno. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Emerson Sheik fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2013",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2013?",
+          "Campeón Copa Libertadores 2013",
+          "Subcampeón Copa Libertadores 2013",
+          "Goleador Copa Libertadores 2013",
+          "Mejor jugador Libertadores 2013"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2013, el campeón fue **Atlético Mineiro** (Brasil). El subcampeón fue **Olimpia** (Paraguay). El máximo goleador fue **Jô** (Atlético Mineiro) con 7 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Ronaldinho fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2014",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2014?",
+          "Campeón Copa Libertadores 2014",
+          "Subcampeón Copa Libertadores 2014",
+          "Goleador Copa Libertadores 2014",
+          "Mejor jugador Libertadores 2014"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2014, el campeón fue **San Lorenzo** (Argentina). El subcampeón fue **Nacional** (Paraguay). Los máximos goleadores fueron **Julio dos Santos** (Cerro Porteño) y **Nicolás Olivera** (Defensor Sporting) con 5 goles cada uno. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Néstor Ortigoza fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2015",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2015?",
+          "Campeón Copa Libertadores 2015",
+          "Subcampeón Copa Libertadores 2015",
+          "Goleador Copa Libertadores 2015",
+          "Mejor jugador Libertadores 2015"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2015, el campeón fue **River Plate** (Argentina). El subcampeón fue **Tigres UANL** (México). El máximo goleador fue **Gustavo Bou** (Racing Club) con 8 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Carlos Sánchez fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2016",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2016?",
+          "Campeón Copa Libertadores 2016",
+          "Subcampeón Copa Libertadores 2016",
+          "Goleador Copa Libertadores 2016",
+          "Mejor jugador Libertadores 2016"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2016, el campeón fue **Atlético Nacional** (Colombia). El subcampeón fue **Independiente del Valle** (Ecuador). El máximo goleador fue **Jonathan Calleri** (São Paulo) con 9 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Alejandro Guerra fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2017",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2017?",
+          "Campeón Copa Libertadores 2017",
+          "Subcampeón Copa Libertadores 2017",
+          "Goleador Copa Libertadores 2017",
+          "Mejor jugador Libertadores 2017"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2017, el campeón fue **Grêmio** (Brasil). El subcampeón fue **Lanús** (Argentina). El máximo goleador fue **José Sand** (Lanús) con 9 goles. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Luan Vieira fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2018",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2018?",
+          "Campeón Copa Libertadores 2018",
+          "Subcampeón Copa Libertadores 2018",
+          "Goleador Copa Libertadores 2018",
+          "Mejor jugador Libertadores 2018"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2018, el campeón fue **River Plate** (Argentina). El subcampeón fue **Boca Juniors** (Argentina). Los máximos goleadores fueron **Miguel Borja** (Palmeiras) y **Wilson Morelo** (Santa Fe) con 9 goles cada uno. No existía un premio oficial consistente al 'Mejor Jugador' del torneo en esta época (Gonzalo 'Pity' Martínez fue considerado figura clave)."
+        ]
+      },
+      {
+        "tag": "libertadores_2019",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2019?",
+          "Campeón Copa Libertadores 2019",
+          "Subcampeón Copa Libertadores 2019",
+          "Goleador Copa Libertadores 2019",
+          "Mejor jugador Libertadores 2019"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2019, el campeón fue **Flamengo** (Brasil). El subcampeón fue **River Plate** (Argentina). El máximo goleador fue **Gabriel Barbosa 'Gabigol'** (Flamengo) con 9 goles. El premio al Mejor Jugador del Torneo fue para **Bruno Henrique** (Flamengo)."
+        ]
+      },
+      {
+        "tag": "libertadores_2020",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2020?",
+          "Campeón Copa Libertadores 2020",
+          "Subcampeón Copa Libertadores 2020",
+          "Goleador Copa Libertadores 2020",
+          "Mejor jugador Libertadores 2020"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2020 (final jugada en enero 2021 por pandemia), el campeón fue **Palmeiras** (Brasil). El subcampeón fue **Santos** (Brasil). El máximo goleador fue **Fidel Martínez** (Barcelona SC) con 8 goles. El premio al Mejor Jugador del Torneo fue para **Marinho** (Santos)."
+        ]
+      },
+      {
+        "tag": "libertadores_2021",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2021?",
+          "Campeón Copa Libertadores 2021",
+          "Subcampeón Copa Libertadores 2021",
+          "Goleador Copa Libertadores 2021",
+          "Mejor jugador Libertadores 2021"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2021, el campeón fue **Palmeiras** (Brasil). El subcampeón fue **Flamengo** (Brasil). El máximo goleador fue **Gabriel Barbosa 'Gabigol'** (Flamengo) con 11 goles. El premio al Mejor Jugador del Torneo fue para **Gabriel Barbosa 'Gabigol'** (Flamengo)."
+        ]
+      },
+      {
+        "tag": "libertadores_2022",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2022?",
+          "Campeón Copa Libertadores 2022",
+          "Subcampeón Copa Libertadores 2022",
+          "Goleador Copa Libertadores 2022",
+          "Mejor jugador Libertadores 2022"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2022, el campeón fue **Flamengo** (Brasil). El subcampeón fue **Athletico Paranaense** (Brasil). El máximo goleador fue **Pedro** (Flamengo) con 12 goles. El premio al Mejor Jugador del Torneo fue para **Pedro** (Flamengo)."
+        ]
+      },
+      {
+        "tag": "libertadores_2023",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2023?",
+          "Campeón Copa Libertadores 2023",
+          "Subcampeón Copa Libertadores 2023",
+          "Goleador Copa Libertadores 2023",
+          "Mejor jugador Libertadores 2023"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2023, el campeón fue **Fluminense** (Brasil). El subcampeón fue **Boca Juniors** (Argentina). El máximo goleador fue **Germán Cano** (Fluminense) con 13 goles. El premio al Mejor Jugador del Torneo fue para **Germán Cano** (Fluminense)."
+        ]
+      },
+      {
+        "tag": "libertadores_2024",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2024?",
+          "Campeón Copa Libertadores 2024",
+          "Subcampeón Copa Libertadores 2024",
+          "Goleador Copa Libertadores 2024",
+          "Mejor jugador Libertadores 2024"
+        ],
+        "responses": [
+          "En la Copa Libertadores 2024, el campeón fue **Botafogo** (Brasil). El subcampeón fue **Atlético Mineiro** (Brasil). El máximo goleador fue **Júnior Santos** (Botafogo) con 10 goles. El premio al Mejor Jugador del Torneo fue para **Júnior Santos** (Botafogo)."
+        ]
+      }
+    ]
+  }

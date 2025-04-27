@@ -1,0 +1,364 @@
+{
+    "intents": [
+      {
+        "tag": "arg_clausura_2005",
+        "patterns": [
+          "¿Quién ganó el Clausura 2005 Argentina?",
+          "Campeón Clausura 2005 Argentina",
+          "Subcampeón Clausura 2005 Argentina",
+          "Goleador Clausura 2005 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2005 de la Primera División Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Banfield**. El máximo goleador fue **Mariano Pavone** (Estudiantes LP) con 16 goles."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2005",
+        "patterns": [
+          "¿Quién ganó el Apertura 2005 Argentina?",
+          "Campeón Apertura 2005 Argentina",
+          "Subcampeón Apertura 2005 Argentina",
+          "Goleador Apertura 2005 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2005 de la Primera División Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Gimnasia y Esgrima (LP)**. El máximo goleador fue **Javier Cámpora** (Tiro Federal) con 13 goles."
+        ]
+      },
+      {
+        "tag": "arg_clausura_2006",
+        "patterns": [
+          "¿Quién ganó el Clausura 2006 Argentina?",
+          "Campeón Clausura 2006 Argentina",
+          "Subcampeón Clausura 2006 Argentina",
+          "Goleador Clausura 2006 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2006 de la Primera División Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Lanús**. El máximo goleador fue **Gonzalo Vargas** (Gimnasia y Esgrima LP) con 12 goles."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2006",
+        "patterns": [
+          "¿Quién ganó el Apertura 2006 Argentina?",
+          "Campeón Apertura 2006 Argentina",
+          "Subcampeón Apertura 2006 Argentina",
+          "Goleador Apertura 2006 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2006 de la Primera División Argentina, el campeón fue **Estudiantes (LP)** (tras final desempate). El subcampeón fue **Boca Juniors**. Los máximos goleadores fueron **Rodrigo Palacio** (Boca Juniors) y **Mauro Zárate** (Vélez Sarsfield) con 12 goles cada uno."
+        ]
+      },
+      {
+        "tag": "arg_clausura_2007",
+        "patterns": [
+          "¿Quién ganó el Clausura 2007 Argentina?",
+          "Campeón Clausura 2007 Argentina",
+          "Subcampeón Clausura 2007 Argentina",
+          "Goleador Clausura 2007 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2007 de la Primera División Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Martín Palermo** (Boca Juniors) con 11 goles."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2007",
+        "patterns": [
+          "¿Quién ganó el Apertura 2007 Argentina?",
+          "Campeón Apertura 2007 Argentina",
+          "Subcampeón Apertura 2007 Argentina",
+          "Goleador Apertura 2007 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2007 de la Primera División Argentina, el campeón fue **Lanús**. El subcampeón fue **Tigre**. El máximo goleador fue **Germán Denis** (Independiente) con 18 goles."
+        ]
+      },
+      {
+        "tag": "arg_clausura_2008",
+        "patterns": [
+          "¿Quién ganó el Clausura 2008 Argentina?",
+          "Campeón Clausura 2008 Argentina",
+          "Subcampeón Clausura 2008 Argentina",
+          "Goleador Clausura 2008 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2008 de la Primera División Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Darío Cvitanich** (Banfield) con 13 goles."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2008",
+        "patterns": [
+          "¿Quién ganó el Apertura 2008 Argentina?",
+          "Campeón Apertura 2008 Argentina",
+          "Subcampeón Apertura 2008 Argentina",
+          "Goleador Apertura 2008 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2008 de la Primera División Argentina, el campeón fue **Boca Juniors** (tras triangular final). Los otros participantes del triangular fueron **Tigre** y **San Lorenzo**. El máximo goleador fue **José Sand** (Lanús) con 15 goles."
+        ]
+      },
+       {
+        "tag": "arg_clausura_2009",
+        "patterns": [
+          "¿Quién ganó el Clausura 2009 Argentina?",
+          "Campeón Clausura 2009 Argentina",
+          "Subcampeón Clausura 2009 Argentina",
+          "Goleador Clausura 2009 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2009 de la Primera División Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Huracán**. El máximo goleador fue **José Sand** (Lanús) con 13 goles."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2009",
+        "patterns": [
+          "¿Quién ganó el Apertura 2009 Argentina?",
+          "Campeón Apertura 2009 Argentina",
+          "Subcampeón Apertura 2009 Argentina",
+          "Goleador Apertura 2009 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2009 de la Primera División Argentina, el campeón fue **Banfield**. El subcampeón fue **Newell's Old Boys**. El máximo goleador fue **Santiago Silva** (Banfield) con 14 goles."
+        ]
+      },
+      {
+        "tag": "arg_clausura_2010",
+        "patterns": [
+          "¿Quién ganó el Clausura 2010 Argentina?",
+          "Campeón Clausura 2010 Argentina",
+          "Subcampeón Clausura 2010 Argentina",
+          "Goleador Clausura 2010 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2010 de la Primera División Argentina, el campeón fue **Argentinos Juniors**. El subcampeón fue **Estudiantes (LP)**. Hubo tres máximos goleadores con 10 goles: **Martín Palermo** (Boca Juniors), **Mauro Boselli** (Estudiantes LP) y **Javier Cámpora** (Huracán)."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2010",
+        "patterns": [
+          "¿Quién ganó el Apertura 2010 Argentina?",
+          "Campeón Apertura 2010 Argentina",
+          "Subcampeón Apertura 2010 Argentina",
+          "Goleador Apertura 2010 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2010 de la Primera División Argentina, el campeón fue **Estudiantes (LP)**. El subcampeón fue **Vélez Sarsfield**. El máximo goleador fue **Santiago Silva** (Vélez Sarsfield) con 11 goles."
+        ]
+      },
+      {
+        "tag": "arg_clausura_2011",
+        "patterns": [
+          "¿Quién ganó el Clausura 2011 Argentina?",
+          "Campeón Clausura 2011 Argentina",
+          "Subcampeón Clausura 2011 Argentina",
+          "Goleador Clausura 2011 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2011 de la Primera División Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Lanús**. El máximo goleador fue **Javier Cámpora** (Huracán) con 11 goles."
+        ]
+      },
+      {
+        "tag": "arg_apertura_2011",
+        "patterns": [
+          "¿Quién ganó el Apertura 2011 Argentina?",
+          "Campeón Apertura 2011 Argentina",
+          "Subcampeón Apertura 2011 Argentina",
+          "Goleador Apertura 2011 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Apertura 2011 de la Primera División Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Rubén Ramírez** (Godoy Cruz) con 12 goles."
+        ]
+      },
+      {
+        "tag": "arg_clausura_2012",
+        "patterns": [
+          "¿Quién ganó el Clausura 2012 Argentina?",
+          "Campeón Clausura 2012 Argentina",
+          "Subcampeón Clausura 2012 Argentina",
+          "Goleador Clausura 2012 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Clausura 2012 de la Primera División Argentina, el campeón fue **Arsenal de Sarandí**. El subcampeón fue **Tigre**. Hubo dos máximos goleadores con 11 goles: **Carlos Luna** (Tigre) y **Martín Rolle** (Olimpo)."
+        ]
+      },
+      {
+        "tag": "arg_inicial_2012",
+        "patterns": [
+          "¿Quién ganó el Inicial 2012 Argentina?",
+          "Campeón Inicial 2012 Argentina",
+          "Subcampeón Inicial 2012 Argentina",
+          "Goleador Inicial 2012 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Inicial 2012 de la Primera División Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Newell's Old Boys**. El máximo goleador fue **Ignacio Scocco** (Newell's Old Boys) con 13 goles."
+        ]
+      },
+      {
+        "tag": "arg_final_2013",
+        "patterns": [
+          "¿Quién ganó el Final 2013 Argentina?",
+          "Campeón Final 2013 Argentina",
+          "Subcampeón Final 2013 Argentina",
+          "Goleador Final 2013 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Final 2013 de la Primera División Argentina, el campeón fue **Newell's Old Boys**. El subcampeón fue **River Plate**. El máximo goleador fue **Emmanuel Gigliotti** (Colón) con 11 goles. Vélez Sarsfield ganó la Superfinal 2012/13 a Newell's."
+        ]
+      },
+      {
+        "tag": "arg_inicial_2013",
+        "patterns": [
+          "¿Quién ganó el Inicial 2013 Argentina?",
+          "Campeón Inicial 2013 Argentina",
+          "Subcampeón Inicial 2013 Argentina",
+          "Goleador Inicial 2013 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Inicial 2013 de la Primera División Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Lanús**. El máximo goleador fue **César Pereyra** (Belgrano) con 11 goles."
+        ]
+      },
+       {
+        "tag": "arg_final_2014",
+        "patterns": [
+          "¿Quién ganó el Final 2014 Argentina?",
+          "Campeón Final 2014 Argentina",
+          "Subcampeón Final 2014 Argentina",
+          "Goleador Final 2014 Argentina"
+        ],
+        "responses": [
+          "En el Torneo Final 2014 de la Primera División Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Mauro Zárate** (Vélez Sarsfield) con 13 goles. River Plate ganó la Superfinal 2013/14 a San Lorenzo."
+        ]
+      },
+      {
+        "tag": "arg_transicion_2014",
+        "patterns": [
+          "¿Quién ganó el Transición 2014 Argentina?",
+          "Campeón Transición 2014 Argentina",
+          "Subcampeón Transición 2014 Argentina",
+          "Goleador Transición 2014 Argentina"
+        ],
+        "responses": [
+          "En el Torneo de Transición 2014 de la Primera División Argentina, el campeón fue **Racing Club**. El subcampeón fue **River Plate**. Los máximos goleadores fueron **Lucas Pratto** (Vélez Sarsfield), **Silvio Romero** (Lanús) y **Maxi Rodríguez** (Newell's Old Boys) con 11 goles cada uno."
+        ]
+      },
+      {
+        "tag": "arg_campeonato_2015",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina 2015?",
+          "Campeón Liga Argentina 2015",
+          "Subcampeón Liga Argentina 2015",
+          "Goleador Liga Argentina 2015"
+        ],
+        "responses": [
+          "En el Campeonato de Primera División 2015 (torneo largo de 30 equipos), el campeón fue **Boca Juniors**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Marco Ruben** (Rosario Central) con 21 goles."
+        ]
+      },
+      {
+        "tag": "arg_transicion_2016",
+        "patterns": [
+          "¿Quién ganó el Transición 2016 Argentina?",
+          "Campeón Transición 2016 Argentina",
+          "Subcampeón Transición 2016 Argentina",
+          "Goleador Transición 2016 Argentina"
+        ],
+        "responses": [
+          "En el Torneo de Transición 2016 de la Primera División Argentina (dividido en 2 zonas), el campeón fue **Lanús** (ganó la final a San Lorenzo). El subcampeón fue **San Lorenzo**. El máximo goleador fue **José Sand** (Lanús) con 15 goles."
+        ]
+      },
+      {
+        "tag": "arg_campeonato_2016_2017",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina 2016-17?",
+          "Campeón Liga Argentina 2016-17",
+          "Subcampeón Liga Argentina 2016-17",
+          "Goleador Liga Argentina 2016-17"
+        ],
+        "responses": [
+          "En el Campeonato de Primera División 2016-17, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Darío Benedetto** (Boca Juniors) con 21 goles."
+        ]
+      },
+      {
+        "tag": "arg_superliga_2017_2018",
+        "patterns": [
+          "¿Quién ganó la Superliga Argentina 2017-18?",
+          "Campeón Superliga Argentina 2017-18",
+          "Subcampeón Superliga Argentina 2017-18",
+          "Goleador Superliga Argentina 2017-18"
+        ],
+        "responses": [
+          "En la Superliga Argentina 2017-18, el campeón fue **Boca Juniors**. El subcampeón fue **Godoy Cruz**. El máximo goleador fue **Santiago García** (Godoy Cruz) con 17 goles."
+        ]
+      },
+      {
+        "tag": "arg_superliga_2018_2019",
+        "patterns": [
+          "¿Quién ganó la Superliga Argentina 2018-19?",
+          "Campeón Superliga Argentina 2018-19",
+          "Subcampeón Superliga Argentina 2018-19",
+          "Goleador Superliga Argentina 2018-19"
+        ],
+        "responses": [
+          "En la Superliga Argentina 2018-19, el campeón fue **Racing Club**. El subcampeón fue **Defensa y Justicia**. El máximo goleador fue **Lisandro López** (Racing Club) con 17 goles."
+        ]
+      },
+      {
+        "tag": "arg_superliga_2019_2020",
+        "patterns": [
+          "¿Quién ganó la Superliga Argentina 2019-20?",
+          "Campeón Superliga Argentina 2019-20",
+          "Subcampeón Superliga Argentina 2019-20",
+          "Goleador Superliga Argentina 2019-20"
+        ],
+        "responses": [
+          "En la Superliga Argentina 2019-20, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. Los máximos goleadores fueron **Rafael Santos Borré** (River Plate) y **Silvio Romero** (Independiente) con 12 goles cada uno."
+        ]
+      },
+      {
+        "tag": "arg_liga_2021",
+        "patterns": [
+          "¿Quién ganó la Liga Profesional Argentina 2021?",
+          "Campeón Liga Argentina 2021",
+          "Subcampeón Liga Argentina 2021",
+          "Goleador Liga Argentina 2021"
+        ],
+        "responses": [
+          "En la Liga Profesional 2021 de Argentina (no hubo liga en 2020 por pandemia/transición), el campeón fue **River Plate**. El subcampeón fue **Defensa y Justicia**. El máximo goleador fue **Julián Álvarez** (River Plate) con 18 goles."
+        ]
+      },
+      {
+        "tag": "arg_liga_2022",
+        "patterns": [
+          "¿Quién ganó la Liga Profesional Argentina 2022?",
+          "Campeón Liga Argentina 2022",
+          "Subcampeón Liga Argentina 2022",
+          "Goleador Liga Argentina 2022"
+        ],
+        "responses": [
+          "En la Liga Profesional 2022 de Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Mateo Retegui** (Tigre) con 19 goles."
+        ]
+      },
+      {
+        "tag": "arg_liga_2023",
+        "patterns": [
+          "¿Quién ganó la Liga Profesional Argentina 2023?",
+          "Campeón Liga Argentina 2023",
+          "Subcampeón Liga Argentina 2023",
+          "Goleador Liga Argentina 2023"
+        ],
+        "responses": [
+          "En la Liga Profesional 2023 de Argentina, el campeón fue **River Plate**. El subcampeón fue **Talleres (C)**. Los máximos goleadores fueron **Michael Santos** (Talleres C) y **Pablo Vegetti** (Belgrano) con 13 goles cada uno."
+        ]
+      },
+      {
+          "tag": "arg_liga_2024",
+          "patterns": [
+            "¿Quién ganó la Liga Profesional Argentina 2024?",
+            "Campeón Liga Argentina 2024",
+            "Subcampeón Liga Argentina 2024",
+            "Goleador Liga Argentina 2024"
+          ],
+          "responses": [
+            "En la Liga Profesional 2024 de Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Talleres (C)**. El máximo goleador fue **Walter Bou** (Lanús) con 12 goles."
+          ]
+        }
+    ]
+  }

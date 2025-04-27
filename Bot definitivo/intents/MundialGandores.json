@@ -1,0 +1,312 @@
+{
+    "intents": [
+      {
+        "tag": "world_cup_1930",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1930?",
+          "Campeón Copa del Mundo 1930",
+          "Subcampeón Mundial 1930",
+          "Goleador Mundial 1930",
+          "Mejor jugador Mundial 1930",
+          "Sede Mundial 1930"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1930, celebrada en **Uruguay**, el campeón fue **Uruguay**. El subcampeón fue **Argentina**. El máximo goleador fue **Guillermo Stábile** (Argentina) con 8 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo."
+        ]
+      },
+      {
+        "tag": "world_cup_1934",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1934?",
+          "Campeón Copa del Mundo 1934",
+          "Subcampeón Mundial 1934",
+          "Goleador Mundial 1934",
+          "Mejor jugador Mundial 1934",
+          "Sede Mundial 1934"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1934, celebrada en **Italia**, el campeón fue **Italia**. El subcampeón fue **Checoslovaquia**. El máximo goleador fue **Oldřich Nejedlý** (Checoslovaquia) con 5 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo."
+        ]
+      },
+      {
+        "tag": "world_cup_1938",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1938?",
+          "Campeón Copa del Mundo 1938",
+          "Subcampeón Mundial 1938",
+          "Goleador Mundial 1938",
+          "Mejor jugador Mundial 1938",
+          "Sede Mundial 1938"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1938, celebrada en **Francia**, el campeón fue **Italia**. El subcampeón fue **Hungría**. El máximo goleador fue **Leônidas da Silva** (Brasil) con 7 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo."
+        ]
+      },
+      {
+        "tag": "world_cup_1950",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1950?",
+          "Campeón Copa del Mundo 1950",
+          "Subcampeón Mundial 1950",
+          "Goleador Mundial 1950",
+          "Mejor jugador Mundial 1950",
+          "Sede Mundial 1950"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1950, celebrada en **Brasil**, el campeón fue **Uruguay** (en el formato de liguilla final, conocido como 'Maracanazo'). El subcampeón de facto fue **Brasil**. El máximo goleador fue **Ademir** (Brasil) con 8 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo."
+        ]
+      },
+      {
+        "tag": "world_cup_1954",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1954?",
+          "Campeón Copa del Mundo 1954",
+          "Subcampeón Mundial 1954",
+          "Goleador Mundial 1954",
+          "Mejor jugador Mundial 1954",
+          "Sede Mundial 1954"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1954, celebrada en **Suiza**, el campeón fue **Alemania Occidental**. El subcampeón fue **Hungría**. El máximo goleador fue **Sándor Kocsis** (Hungría) con 11 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo."
+        ]
+      },
+      {
+        "tag": "world_cup_1958",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1958?",
+          "Campeón Copa del Mundo 1958",
+          "Subcampeón Mundial 1958",
+          "Goleador Mundial 1958",
+          "Mejor jugador Mundial 1958",
+          "Sede Mundial 1958"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1958, celebrada en **Suecia**, el campeón fue **Brasil**. El subcampeón fue **Suecia**. El máximo goleador fue **Just Fontaine** (Francia) con 13 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo (aunque Didi es a menudo reconocido)."
+        ]
+      },
+      {
+        "tag": "world_cup_1962",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1962?",
+          "Campeón Copa del Mundo 1962",
+          "Subcampeón Mundial 1962",
+          "Goleador Mundial 1962",
+          "Mejor jugador Mundial 1962",
+          "Sede Mundial 1962"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1962, celebrada en **Chile**, el campeón fue **Brasil**. El subcampeón fue **Checoslovaquia**. Hubo seis máximos goleadores con 4 goles cada uno: **Garrincha** (Brasil), **Vavá** (Brasil), **Leonel Sánchez** (Chile), **Flórián Albert** (Hungría), **Valentin Ivanov** (Unión Soviética) y **Dražan Jerković** (Yugoslavia). No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo (aunque Garrincha es a menudo reconocido)."
+        ]
+      },
+      {
+        "tag": "world_cup_1966",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1966?",
+          "Campeón Copa del Mundo 1966",
+          "Subcampeón Mundial 1966",
+          "Goleador Mundial 1966",
+          "Mejor jugador Mundial 1966",
+          "Sede Mundial 1966"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1966, celebrada en **Inglaterra**, el campeón fue **Inglaterra**. El subcampeón fue **Alemania Occidental**. El máximo goleador fue **Eusébio** (Portugal) con 9 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo (aunque Bobby Charlton es a menudo reconocido)."
+        ]
+      },
+      {
+        "tag": "world_cup_1970",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1970?",
+          "Campeón Copa del Mundo 1970",
+          "Subcampeón Mundial 1970",
+          "Goleador Mundial 1970",
+          "Mejor jugador Mundial 1970",
+          "Sede Mundial 1970"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1970, celebrada en **México**, el campeón fue **Brasil**. El subcampeón fue **Italia**. El máximo goleador fue **Gerd Müller** (Alemania Occidental) con 10 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo (aunque Pelé es a menudo reconocido)."
+        ]
+      },
+      {
+        "tag": "world_cup_1974",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1974?",
+          "Campeón Copa del Mundo 1974",
+          "Subcampeón Mundial 1974",
+          "Goleador Mundial 1974",
+          "Mejor jugador Mundial 1974",
+          "Sede Mundial 1974"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1974, celebrada en **Alemania Occidental**, el campeón fue **Alemania Occidental**. El subcampeón fue **Países Bajos**. El máximo goleador fue **Grzegorz Lato** (Polonia) con 7 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo (aunque Johan Cruyff es a menudo reconocido)."
+        ]
+      },
+      {
+        "tag": "world_cup_1978",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1978?",
+          "Campeón Copa del Mundo 1978",
+          "Subcampeón Mundial 1978",
+          "Goleador Mundial 1978",
+          "Mejor jugador Mundial 1978",
+          "Sede Mundial 1978"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1978, celebrada en **Argentina**, el campeón fue **Argentina**. El subcampeón fue **Países Bajos**. El máximo goleador fue **Mario Kempes** (Argentina) con 6 goles. No existía el premio oficial 'Balón de Oro' al Mejor Jugador en este torneo (aunque Mario Kempes es a menudo reconocido)."
+        ]
+      },
+      {
+        "tag": "world_cup_1982",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1982?",
+          "Campeón Copa del Mundo 1982",
+          "Subcampeón Mundial 1982",
+          "Goleador Mundial 1982",
+          "Mejor jugador Mundial 1982",
+          "Sede Mundial 1982"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1982, celebrada en **España**, el campeón fue **Italia**. El subcampeón fue **Alemania Occidental**. El máximo goleador (Bota de Oro) fue **Paolo Rossi** (Italia) con 6 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Paolo Rossi** (Italia)."
+        ]
+      },
+      {
+        "tag": "world_cup_1986",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1986?",
+          "Campeón Copa del Mundo 1986",
+          "Subcampeón Mundial 1986",
+          "Goleador Mundial 1986",
+          "Mejor jugador Mundial 1986",
+          "Sede Mundial 1986"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1986, celebrada en **México**, el campeón fue **Argentina**. El subcampeón fue **Alemania Occidental**. El máximo goleador (Bota de Oro) fue **Gary Lineker** (Inglaterra) con 6 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Diego Maradona** (Argentina)."
+        ]
+      },
+      {
+        "tag": "world_cup_1990",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1990?",
+          "Campeón Copa del Mundo 1990",
+          "Subcampeón Mundial 1990",
+          "Goleador Mundial 1990",
+          "Mejor jugador Mundial 1990",
+          "Sede Mundial 1990"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1990, celebrada en **Italia**, el campeón fue **Alemania Occidental**. El subcampeón fue **Argentina**. El máximo goleador (Bota de Oro) fue **Salvatore Schillaci** (Italia) con 6 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Salvatore Schillaci** (Italia)."
+        ]
+      },
+      {
+        "tag": "world_cup_1994",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1994?",
+          "Campeón Copa del Mundo 1994",
+          "Subcampeón Mundial 1994",
+          "Goleador Mundial 1994",
+          "Mejor jugador Mundial 1994",
+          "Sede Mundial 1994"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1994, celebrada en **Estados Unidos**, el campeón fue **Brasil**. El subcampeón fue **Italia**. Los máximos goleadores (Bota de Oro) fueron **Oleg Salenko** (Rusia) y **Hristo Stoichkov** (Bulgaria) con 6 goles cada uno. El premio al Mejor Jugador (Balón de Oro) fue para **Romário** (Brasil)."
+        ]
+      },
+      {
+        "tag": "world_cup_1998",
+        "patterns": [
+          "¿Quién ganó el Mundial en 1998?",
+          "Campeón Copa del Mundo 1998",
+          "Subcampeón Mundial 1998",
+          "Goleador Mundial 1998",
+          "Mejor jugador Mundial 1998",
+          "Sede Mundial 1998"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 1998, celebrada en **Francia**, el campeón fue **Francia**. El subcampeón fue **Brasil**. El máximo goleador (Bota de Oro) fue **Davor Šuker** (Croacia) con 6 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Ronaldo** (Brasil)."
+        ]
+      },
+      {
+        "tag": "world_cup_2002",
+        "patterns": [
+          "¿Quién ganó el Mundial en 2002?",
+          "Campeón Copa del Mundo 2002",
+          "Subcampeón Mundial 2002",
+          "Goleador Mundial 2002",
+          "Mejor jugador Mundial 2002",
+          "Sede Mundial 2002"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 2002, celebrada en **Corea del Sur y Japón**, el campeón fue **Brasil**. El subcampeón fue **Alemania**. El máximo goleador (Bota de Oro) fue **Ronaldo** (Brasil) con 8 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Oliver Kahn** (Alemania)."
+        ]
+      },
+      {
+        "tag": "world_cup_2006",
+        "patterns": [
+          "¿Quién ganó el Mundial en 2006?",
+          "Campeón Copa del Mundo 2006",
+          "Subcampeón Mundial 2006",
+          "Goleador Mundial 2006",
+          "Mejor jugador Mundial 2006",
+          "Sede Mundial 2006"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 2006, celebrada en **Alemania**, el campeón fue **Italia**. El subcampeón fue **Francia**. El máximo goleador (Bota de Oro) fue **Miroslav Klose** (Alemania) con 5 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Zinedine Zidane** (Francia)."
+        ]
+      },
+      {
+        "tag": "world_cup_2010",
+        "patterns": [
+          "¿Quién ganó el Mundial en 2010?",
+          "Campeón Copa del Mundo 2010",
+          "Subcampeón Mundial 2010",
+          "Goleador Mundial 2010",
+          "Mejor jugador Mundial 2010",
+          "Sede Mundial 2010"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 2010, celebrada en **Sudáfrica**, el campeón fue **España**. El subcampeón fue **Países Bajos**. Los máximos goleadores (Bota de Oro) fueron **Thomas Müller** (Alemania), **Wesley Sneijder** (Países Bajos), **David Villa** (España) y **Diego Forlán** (Uruguay) con 5 goles cada uno (Müller ganó la Bota de Oro por tener más asistencias). El premio al Mejor Jugador (Balón de Oro) fue para **Diego Forlán** (Uruguay)."
+        ]
+      },
+      {
+        "tag": "world_cup_2014",
+        "patterns": [
+          "¿Quién ganó el Mundial en 2014?",
+          "Campeón Copa del Mundo 2014",
+          "Subcampeón Mundial 2014",
+          "Goleador Mundial 2014",
+          "Mejor jugador Mundial 2014",
+          "Sede Mundial 2014"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 2014, celebrada en **Brasil**, el campeón fue **Alemania**. El subcampeón fue **Argentina**. El máximo goleador (Bota de Oro) fue **James Rodríguez** (Colombia) con 6 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Lionel Messi** (Argentina)."
+        ]
+      },
+      {
+        "tag": "world_cup_2018",
+        "patterns": [
+          "¿Quién ganó el Mundial en 2018?",
+          "Campeón Copa del Mundo 2018",
+          "Subcampeón Mundial 2018",
+          "Goleador Mundial 2018",
+          "Mejor jugador Mundial 2018",
+          "Sede Mundial 2018"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 2018, celebrada en **Rusia**, el campeón fue **Francia**. El subcampeón fue **Croacia**. El máximo goleador (Bota de Oro) fue **Harry Kane** (Inglaterra) con 6 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Luka Modrić** (Croacia)."
+        ]
+      },
+      {
+        "tag": "world_cup_2022",
+        "patterns": [
+          "¿Quién ganó el Mundial en 2022?",
+          "Campeón Copa del Mundo 2022",
+          "Subcampeón Mundial 2022",
+          "Goleador Mundial 2022",
+          "Mejor jugador Mundial 2022",
+          "Sede Mundial 2022"
+        ],
+        "responses": [
+          "En la Copa Mundial de la FIFA 2022, celebrada en **Catar**, el campeón fue **Argentina**. El subcampeón fue **Francia**. El máximo goleador (Bota de Oro) fue **Kylian Mbappé** (Francia) con 8 goles. El premio al Mejor Jugador (Balón de Oro) fue para **Lionel Messi** (Argentina)."
+        ]
+      }
+    ]
+  }
