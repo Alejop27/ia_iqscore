@@ -1,0 +1,1045 @@
+{
+    "intents": [
+      {
+        "tag": "mundial_historia",
+        "patterns": [
+          "¿Cuál es la historia de la Copa Mundial de la FIFA?",
+          "¿Cuándo empezó el Mundial de fútbol?",
+          "Origen del Mundial",
+          "Historia de los mundiales"
+        ],
+        "responses": [
+          "La Copa Mundial de la FIFA se celebró por primera vez en 1930 en Uruguay, por iniciativa de Jules Rimet, entonces presidente de la FIFA. Se juega cada cuatro años desde entonces, excepto en 1942 y 1946 debido a la Segunda Guerra Mundial. Es el torneo de fútbol más prestigioso y visto del mundo."
+        ]
+      },
+      {
+        "tag": "mundial_formato",
+        "patterns": [
+          "¿Cómo funciona el Mundial de fútbol?",
+          "Formato de la Copa del Mundo",
+          "¿Cuántos equipos juegan el Mundial?",
+          "Reglas del Mundial"
+        ],
+        "responses": [
+          "El formato tradicional (usado hasta 2022) incluía 32 equipos clasificados de confederaciones continentales. Se dividían en 8 grupos de 4, donde los dos primeros avanzaban a una fase eliminatoria (octavos, cuartos, semifinal, final). A partir de 2026, el formato se ampliará a 48 equipos."
+        ]
+      },
+      {
+        "tag": "mundial_proximo",
+        "patterns": [
+          "¿Cuándo es el próximo Mundial?",
+          "¿Dónde se juega el próximo Mundial?",
+          "Sede Mundial 2026"
+        ],
+        "responses": [
+          "El próximo Mundial masculino de la FIFA se celebrará en 2026. Será la primera vez que se dispute en tres países: Estados Unidos, México y Canadá. También será el primero con 48 equipos."
+        ]
+      },
+      {
+        "tag": "mundial_mas_ganadores",
+        "patterns": [
+          "¿Qué selección ha ganado más Mundiales?",
+          "País con más Copas del Mundo",
+          "Máximo ganador de Mundiales"
+        ],
+        "responses": [
+          "Brasil es la selección que ha ganado más Copas Mundiales de la FIFA, con un total de 5 títulos (1958, 1962, 1970, 1994, 2002)."
+        ]
+      },
+      {
+        "tag": "mundial_ganadores_multiples",
+        "patterns": [
+          "¿Qué países han ganado el Mundial más de una vez?",
+          "Selecciones con varios Mundiales",
+          "Campeones múltiples de la Copa del Mundo"
+        ],
+        "responses": [
+          "Además de Brasil (5), otros países han ganado el Mundial múltiples veces: Alemania (4), Italia (4), Argentina (3), Francia (2) y Uruguay (2)."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_2022",
+        "patterns": [
+          "¿Quién ganó el Mundial de 2022?",
+          "Campeón Mundial Qatar 2022",
+          "Último campeón del mundo"
+        ],
+        "responses": [
+          "Argentina ganó la Copa Mundial de la FIFA 2022 celebrada en Qatar, tras vencer a Francia en la final en una tanda de penaltis después de un empate 3-3."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_2018",
+        "patterns": [
+          "¿Quién ganó el Mundial de 2018?",
+          "Campeón Mundial Rusia 2018"
+        ],
+        "responses": [
+          "Francia ganó la Copa Mundial de la FIFA 2018 celebrada en Rusia, derrotando a Croacia por 4-2 en la final."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_2014",
+        "patterns": [
+          "¿Quién ganó el Mundial de 2014?",
+          "Campeón Mundial Brasil 2014"
+        ],
+        "responses": [
+          "Alemania ganó la Copa Mundial de la FIFA 2014 celebrada en Brasil, venciendo a Argentina por 1-0 en la final con un gol de Mario Götze en la prórroga."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_2010",
+        "patterns": [
+          "¿Quién ganó el Mundial de 2010?",
+          "Campeón Mundial Sudáfrica 2010"
+        ],
+        "responses": [
+          "España ganó la Copa Mundial de la FIFA 2010 celebrada en Sudáfrica, derrotando a Países Bajos por 1-0 en la final con un gol de Andrés Iniesta en la prórroga. Fue el primer Mundial celebrado en África."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_2006",
+        "patterns": [
+          "¿Quién ganó el Mundial de 2006?",
+          "Campeón Mundial Alemania 2006"
+        ],
+        "responses": [
+          "Italia ganó la Copa Mundial de la FIFA 2006 celebrada en Alemania, venciendo a Francia en la final en la tanda de penaltis tras un empate 1-1. Esta final es recordada por la expulsión de Zinedine Zidane."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_2002",
+        "patterns": [
+          "¿Quién ganó el Mundial de 2002?",
+          "Campeón Mundial Corea-Japón 2002"
+        ],
+        "responses": [
+          "Brasil ganó su quinto título en la Copa Mundial de la FIFA 2002, celebrada conjuntamente en Corea del Sur y Japón. Derrotaron a Alemania 2-0 en la final con dos goles de Ronaldo Nazário."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1998",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1998?",
+          "Campeón Mundial Francia 1998"
+        ],
+        "responses": [
+          "Francia ganó su primer título mundial en la Copa Mundial de la FIFA 1998, celebrada en su propio país. Derrotaron a Brasil por 3-0 en la final, con dos goles de Zinedine Zidane."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_1994",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1994?",
+          "Campeón Mundial USA 1994"
+        ],
+        "responses": [
+          "Brasil ganó la Copa Mundial de la FIFA 1994 celebrada en Estados Unidos. Vencieron a Italia en la final en la tanda de penaltis tras un empate 0-0, siendo la primera final decidida por penaltis."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1990",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1990?",
+          "Campeón Mundial Italia 1990"
+        ],
+        "responses": [
+          "Alemania Occidental ganó la Copa Mundial de la FIFA 1990 celebrada en Italia. Derrotaron a Argentina 1-0 en la final con un polémico penalti transformado por Andreas Brehme."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1986",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1986?",
+          "Campeón Mundial México 1986"
+        ],
+        "responses": [
+          "Argentina, liderada por un Diego Maradona estelar, ganó la Copa Mundial de la FIFA 1986 celebrada en México. Vencieron a Alemania Occidental 3-2 en la final. Este Mundial es famoso por la 'Mano de Dios' y el 'Gol del Siglo' de Maradona contra Inglaterra."
+        ]
+      },
+        {
+        "tag": "mundial_ganador_1982",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1982?",
+          "Campeón Mundial España 1982"
+        ],
+        "responses": [
+          "Italia ganó la Copa Mundial de la FIFA 1982 celebrada en España. Derrotaron a Alemania Occidental 3-1 en la final, con Paolo Rossi como gran figura y máximo goleador."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1978",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1978?",
+          "Campeón Mundial Argentina 1978"
+        ],
+        "responses": [
+          "Argentina ganó su primer título mundial en la Copa Mundial de la FIFA 1978, celebrada en su propio país durante la dictadura militar. Vencieron a Países Bajos 3-1 en la final en la prórroga, con Mario Kempes como figura."
+        ]
+      },
+        {
+        "tag": "mundial_ganador_1974",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1974?",
+          "Campeón Mundial Alemania Occidental 1974"
+        ],
+        "responses": [
+          "Alemania Occidental ganó la Copa Mundial de la FIFA 1974, celebrada en su país. Derrotaron a la famosa 'Naranja Mecánica' de Países Bajos, liderada por Johan Cruyff, por 2-1 en la final."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_1970",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1970?",
+          "Campeón Mundial México 1970"
+        ],
+        "responses": [
+          "Brasil ganó la Copa Mundial de la FIFA 1970 celebrada en México, con un equipo considerado uno de los mejores de la historia (Pelé, Jairzinho, Rivelino, Tostão). Derrotaron a Italia 4-1 en la final y se quedaron en propiedad el trofeo Jules Rimet al ganarlo por tercera vez."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_1966",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1966?",
+          "Campeón Mundial Inglaterra 1966"
+        ],
+        "responses": [
+          "Inglaterra ganó su único título mundial en la Copa Mundial de la FIFA 1966, celebrada en su país. Vencieron a Alemania Occidental 4-2 en la final en la prórroga, con un polémico 'gol fantasma' de Geoff Hurst, quien marcó un hat-trick."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1962",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1962?",
+          "Campeón Mundial Chile 1962"
+        ],
+        "responses": [
+          "Brasil ganó la Copa Mundial de la FIFA 1962 celebrada en Chile, revalidando su título. A pesar de la lesión temprana de Pelé, Garrincha lideró al equipo a la victoria, derrotando a Checoslovaquia 3-1 en la final."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_1958",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1958?",
+          "Campeón Mundial Suecia 1958"
+        ],
+        "responses": [
+          "Brasil ganó su primer título mundial en la Copa Mundial de la FIFA 1958 celebrada en Suecia. Un joven Pelé de 17 años irrumpió en la escena mundial. Brasil venció a Suecia 5-2 en la final."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1954",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1954?",
+          "Campeón Mundial Suiza 1954"
+        ],
+        "responses": [
+          "Alemania Occidental ganó la Copa Mundial de la FIFA 1954 celebrada en Suiza, en lo que se conoce como el 'Milagro de Berna'. Remontaron un 0-2 en contra para vencer 3-2 a la gran favorita Hungría en la final."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1950",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1950?",
+          "Campeón Mundial Brasil 1950",
+          "¿Qué fue el Maracanazo?"
+        ],
+        "responses": [
+          "Uruguay ganó la Copa Mundial de la FIFA 1950 celebrada en Brasil. En el partido decisivo (no fue una final tradicional), Uruguay venció a Brasil 2-1 en el estadio Maracaná ante unos 200,000 espectadores, en un resultado inesperado conocido como el 'Maracanazo'."
+        ]
+      },
+       {
+        "tag": "mundial_ganador_1938",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1938?",
+          "Campeón Mundial Francia 1938"
+        ],
+        "responses": [
+          "Italia ganó la Copa Mundial de la FIFA 1938 celebrada en Francia, revalidando su título. Vencieron a Hungría 4-2 en la final. Fue el último Mundial antes de la Segunda Guerra Mundial."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_1934",
+        "patterns": [
+          "¿Quién ganó el Mundial de 1934?",
+          "Campeón Mundial Italia 1934"
+        ],
+        "responses": [
+          "Italia ganó la Copa Mundial de la FIFA 1934, celebrada en su país bajo el régimen fascista de Mussolini. Derrotaron a Checoslovaquia 2-1 en la final en la prórroga."
+        ]
+      },
+      {
+        "tag": "mundial_ganador_1930",
+        "patterns": [
+          "¿Quién ganó el primer Mundial en 1930?",
+          "Campeón Mundial Uruguay 1930"
+        ],
+        "responses": [
+          "Uruguay, el país anfitrión, ganó la primera Copa Mundial de la FIFA en 1930. Derrotaron a Argentina por 4-2 en la final celebrada en Montevideo."
+        ]
+      },
+      {
+        "tag": "mundial_goleador_historico",
+        "patterns": [
+          "¿Quién es el máximo goleador de la historia de los Mundiales?",
+          "Jugador con más goles en Copas del Mundo",
+          "Récord de goles Mundial"
+        ],
+        "responses": [
+          "Miroslav Klose, de Alemania, es el máximo goleador histórico de la Copa Mundial de la FIFA, con 16 goles marcados en cuatro torneos (2002, 2006, 2010, 2014)."
+        ]
+      },
+      {
+          "tag": "mundial_goleadores_top",
+          "patterns": [
+            "¿Quiénes son los máximos goleadores de los Mundiales?",
+            "Lista de jugadores con más goles en Copas del Mundo"
+          ],
+          "responses": [
+            "Los máximos goleadores en la historia de los Mundiales incluyen a Miroslav Klose (Alemania, 16 goles), Ronaldo Nazário (Brasil, 15), Gerd Müller (Alemania Occidental, 14), Just Fontaine (Francia, 13 en un solo Mundial) y Lionel Messi (Argentina, 13)."
+          ]
+        },
+      {
+        "tag": "mundial_mas_partidos_jugador",
+        "patterns": [
+          "¿Qué jugador ha disputado más partidos en Mundiales?",
+          "Jugador con más apariciones en Copas del Mundo",
+          "Récord de partidos jugados en Mundiales"
+        ],
+        "responses": [
+          "Lionel Messi, de Argentina, ostenta el récord de más partidos jugados en la historia de la Copa Mundial de la FIFA, con 26 apariciones acumuladas hasta el Mundial 2022."
+        ]
+      },
+      {
+        "tag": "mundial_mas_mundiales_jugados",
+        "patterns": [
+          "¿Qué jugadores han participado en más Mundiales?",
+          "Jugadores que han jugado 5 Mundiales"
+        ],
+        "responses": [
+          "Varios jugadores han participado en cinco Copas Mundiales de la FIFA: Antonio Carbajal (México), Lothar Matthäus (Alemania), Rafael Márquez (México), Gianluigi Buffon (Italia, aunque no jugó en uno), Lionel Messi (Argentina) y Cristiano Ronaldo (Portugal)."
+        ]
+      },
+       {
+        "tag": "mundial_mas_ganadores_jugador",
+        "patterns": [
+          "¿Qué jugador ha ganado más Mundiales?",
+          "Jugador con más Copas del Mundo ganadas"
+        ],
+        "responses": [
+          "Pelé, de Brasil, es el único jugador en la historia que ha ganado tres Copas Mundiales de la FIFA (1958, 1962, 1970)."
+        ]
+      },
+      {
+        "tag": "mundial_balon_oro",
+        "patterns": [
+          "¿Qué es el Balón de Oro del Mundial?",
+          "Premio al mejor jugador del Mundial",
+          "Ganadores del Balón de Oro del Mundial"
+        ],
+        "responses": [
+          "El Balón de Oro de la Copa Mundial de la FIFA se otorga al mejor jugador del torneo desde 1982 (aunque hubo premios no oficiales antes). Es elegido por un comité técnico de la FIFA y miembros acreditados de la prensa. Algunos ganadores notables son Maradona (1986), Romário (1994), Ronaldo (1998), Zidane (2006), Forlán (2010), Messi (2014 y 2022)."
+        ]
+      },
+       {
+        "tag": "mundial_bota_oro",
+        "patterns": [
+          "¿Qué es la Bota de Oro del Mundial?",
+          "Premio al máximo goleador del Mundial",
+          "Ganadores de la Bota de Oro del Mundial"
+        ],
+        "responses": [
+          "La Bota de Oro de la Copa Mundial de la FIFA se otorga al máximo goleador del torneo. Algunos ganadores notables son Just Fontaine (13 goles en 1958, récord), Gerd Müller (10 en 1970), Paolo Rossi (6 en 1982), Ronaldo (8 en 2002), James Rodríguez (6 en 2014), Harry Kane (6 en 2018) y Kylian Mbappé (8 en 2022)."
+        ]
+      },
+       {
+        "tag": "mundial_guante_oro",
+        "patterns": [
+          "¿Qué es el Guante de Oro del Mundial?",
+          "Premio al mejor portero del Mundial",
+          "Ganadores del Guante de Oro del Mundial"
+        ],
+        "responses": [
+          "El Guante de Oro de la Copa Mundial de la FIFA (anteriormente Premio Yashin) se otorga al mejor portero del torneo desde 1994. Algunos ganadores son Fabien Barthez (1998), Oliver Kahn (2002), Gianluigi Buffon (2006), Iker Casillas (2010), Manuel Neuer (2014), Thibaut Courtois (2018) y Emiliano Martínez (2022)."
+        ]
+      },
+       {
+        "tag": "mundial_mejor_joven",
+        "patterns": [
+          "¿Qué es el premio al Mejor Jugador Joven del Mundial?",
+          "Ganadores del premio Mejor Joven del Mundial"
+        ],
+        "responses": [
+          "El premio al Mejor Jugador Joven de la Copa Mundial de la FIFA se otorga al mejor jugador del torneo que tenga 21 años o menos al inicio del año natural del Mundial (desde 2006 oficialmente, antes hubo premios no oficiales). Ganadores notables incluyen a Pelé (1958, no oficial), Michael Owen (1998, no oficial), Lukas Podolski (2006), Thomas Müller (2010), Paul Pogba (2014), Kylian Mbappé (2018) y Enzo Fernández (2022)."
+        ]
+      },
+      {
+        "tag": "mundial_femenino_historia",
+        "patterns": [
+          "¿Cuándo empezó el Mundial Femenino?",
+          "Historia de la Copa Mundial Femenina",
+          "Origen del Mundial de mujeres"
+        ],
+        "responses": [
+          "La Copa Mundial Femenina de la FIFA se celebró por primera vez en 1991 en China. Al igual que el masculino, se celebra cada cuatro años y ha crecido enormemente en popularidad y nivel competitivo."
+        ]
+      },
+      {
+        "tag": "mundial_femenino_mas_ganadoras",
+        "patterns": [
+          "¿Qué selección ha ganado más Mundiales Femeninos?",
+          "País con más Copas del Mundo Femeninas",
+          "Máximo ganador Mundial Femenino"
+        ],
+        "responses": [
+          "Estados Unidos es la selección que ha ganado más Copas Mundiales Femeninas de la FIFA, con un total de 4 títulos (1991, 1999, 2015, 2019)."
+        ]
+      },
+      {
+        "tag": "mundial_femenino_ganadoras_multiples",
+        "patterns": [
+          "¿Qué países han ganado el Mundial Femenino más de una vez?",
+          "Selecciones con varios Mundiales Femeninos"
+        ],
+        "responses": [
+          "Además de Estados Unidos (4), Alemania ha ganado el Mundial Femenino dos veces (2003, 2007). Noruega (1995), Japón (2011) y España (2023) lo han ganado una vez."
+        ]
+      },
+      {
+        "tag": "mundial_femenino_ganadora_2023",
+        "patterns": [
+          "¿Quién ganó el Mundial Femenino de 2023?",
+          "Campeonas Mundiales Australia/Nueva Zelanda 2023",
+          "Últimas campeonas del mundo femenino"
+        ],
+        "responses": [
+          "España ganó la Copa Mundial Femenina de la FIFA 2023, celebrada en Australia y Nueva Zelanda. Derrotaron a Inglaterra por 1-0 en la final, consiguiendo su primer título mundial femenino."
+        ]
+      },
+      {
+        "tag": "mundial_femenino_ganadora_2019",
+        "patterns": [
+          "¿Quién ganó el Mundial Femenino de 2019?",
+          "Campeonas Mundiales Francia 2019"
+        ],
+        "responses": [
+          "Estados Unidos ganó la Copa Mundial Femenina de la FIFA 2019, celebrada en Francia. Derrotaron a Países Bajos por 2-0 en la final, revalidando su título de 2015."
+        ]
+      },
+       {
+        "tag": "mundial_femenino_ganadora_2015",
+        "patterns": [
+          "¿Quién ganó el Mundial Femenino de 2015?",
+          "Campeonas Mundiales Canadá 2015"
+        ],
+        "responses": [
+          "Estados Unidos ganó la Copa Mundial Femenina de la FIFA 2015, celebrada en Canadá. Vencieron a Japón por 5-2 en la final, con un famoso hat-trick de Carli Lloyd en los primeros 16 minutos."
+        ]
+      },
+      {
+        "tag": "mundial_femenino_goleadora_historica",
+        "patterns": [
+          "¿Quién es la máxima goleadora de la historia de los Mundiales Femeninos?",
+          "Jugadora con más goles en Copas del Mundo Femeninas",
+          "Récord de goles Mundial Femenino"
+        ],
+        "responses": [
+          "Marta Vieira da Silva, de Brasil, es la máxima goleadora histórica de la Copa Mundial Femenina de la FIFA, con 17 goles. Es considerada una de las mejores futbolistas de todos los tiempos."
+        ]
+      },
+      {
+          "tag": "mundial_femenino_goleadoras_top",
+          "patterns": [
+            "¿Quiénes son las máximas goleadoras de los Mundiales Femeninos?",
+            "Lista de jugadoras con más goles en Copas del Mundo Femeninas"
+          ],
+          "responses": [
+            "Las máximas goleadoras en la historia de los Mundiales Femeninos incluyen a Marta (Brasil, 17 goles), Birgit Prinz (Alemania, 14), Abby Wambach (EE.UU., 14) y Christine Sinclair (Canadá, con goles en 5 mundiales diferentes)."
+          ]
+        },
+      {
+        "tag": "seleccion_info_brasil",
+        "patterns": [
+          "Háblame de la selección de Brasil",
+          "Información sobre Brasil fútbol",
+          "¿Cómo le dicen a la selección de Brasil?",
+          "La Canarinha"
+        ],
+        "responses": [
+          "La selección de fútbol de Brasil, conocida como la 'Seleção' o la 'Canarinha', es la más exitosa en la historia de los Mundiales masculinos con 5 títulos. Son famosos por su estilo de juego 'jogo bonito', su camiseta amarilla y por haber producido leyendas como Pelé, Garrincha, Zico, Romário, Ronaldo, Ronaldinho y Neymar."
+        ]
+      },
+      {
+        "tag": "seleccion_palmares_brasil",
+        "patterns": [
+          "¿Qué títulos ha ganado la selección de Brasil?",
+          "Palmarés de Brasil fútbol",
+          "Copas ganadas por Brasil"
+        ],
+        "responses": [
+          "Brasil ha ganado 5 Copas Mundiales de la FIFA (1958, 1962, 1970, 1994, 2002), 9 Copas América y 4 Copas Confederaciones de la FIFA, entre otros títulos."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_brasil_pele",
+        "patterns": [
+          "¿Quién fue Pelé?",
+          "Háblame de Pelé",
+          "Carrera de Pelé con Brasil"
+        ],
+        "responses": [
+          "Pelé (Edson Arantes do Nascimento) es considerado por muchos el mejor futbolista de todos los tiempos. Es el único jugador que ha ganado tres Mundiales (1958, 1962, 1970) y fue el símbolo del 'jogo bonito' brasileño. Marcó más de 1000 goles en su carrera (incluyendo amistosos) y es una leyenda global."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_brasil_ronaldo",
+        "patterns": [
+          "¿Quién es Ronaldo Nazário?",
+          "Háblame de Ronaldo 'El Fenómeno'",
+          "Carrera de Ronaldo con Brasil"
+        ],
+        "responses": [
+          "Ronaldo Nazário, conocido como 'O Fenômeno', fue un delantero brasileño excepcional, considerado uno de los mejores '9' de la historia. Ganó dos Mundiales (1994 -sin jugar- y 2002 -siendo Bota de Oro-). Fue Balón de Oro mundial y superó graves lesiones para brillar al máximo nivel."
+        ]
+      },
+      {
+        "tag": "seleccion_info_argentina",
+        "patterns": [
+          "Háblame de la selección de Argentina",
+          "Información sobre Argentina fútbol",
+          "¿Cómo le dicen a la selección de Argentina?",
+          "La Albiceleste"
+        ],
+        "responses": [
+          "La selección de fútbol de Argentina, conocida como la 'Albiceleste', es otra potencia mundial. Han ganado 3 Copas Mundiales (1978, 1986, 2022) y 15 Copas América (récord compartido con Uruguay). Son famosos por su pasión, garra y por haber tenido a dos de los mejores jugadores de la historia: Diego Maradona y Lionel Messi."
+        ]
+      },
+      {
+        "tag": "seleccion_palmares_argentina",
+        "patterns": [
+          "¿Qué títulos ha ganado la selección de Argentina?",
+          "Palmarés de Argentina fútbol",
+          "Copas ganadas por Argentina"
+        ],
+        "responses": [
+          "Argentina ha ganado 3 Copas Mundiales de la FIFA (1978, 1986, 2022), 15 Copas América (récord compartido), 1 Copa Confederaciones y 2 medallas de oro olímpicas, entre otros títulos."
+        ]
+      },
+       {
+        "tag": "seleccion_goleador_argentina",
+        "patterns": [
+          "¿Quién es el máximo goleador de la selección argentina?",
+          "Máximo anotador de Argentina",
+          "Goles de Messi con Argentina"
+        ],
+        "responses": [
+          "Lionel Messi es el máximo goleador histórico de la selección argentina, superando ampliamente la marca de Gabriel Batistuta. Ha marcado más de 100 goles con la Albiceleste."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_argentina_maradona",
+        "patterns": [
+          "¿Quién fue Diego Maradona?",
+          "Háblame de Maradona",
+          "Carrera de Maradona con Argentina",
+          "La Mano de Dios",
+          "El Gol del Siglo"
+        ],
+        "responses": [
+          "Diego Armando Maradona es considerado uno de los mejores y más icónicos futbolistas de todos los tiempos. Lideró a Argentina a ganar el Mundial de 1986 con actuaciones legendarias, incluyendo los famosos goles contra Inglaterra. Su talento, carisma y figura controvertida lo convirtieron en una leyenda."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_argentina_messi",
+        "patterns": [
+          "¿Quién es Lionel Messi?",
+          "Háblame de Messi",
+          "Carrera de Messi con Argentina"
+        ],
+        "responses": [
+          "Lionel Messi es considerado uno de los mejores futbolistas de la historia. Con Argentina, ha ganado la Copa América 2021 y, finalmente, la Copa Mundial 2022, siendo el Balón de Oro en ambos torneos. Es el máximo goleador y jugador con más partidos de la selección. Ha ganado múltiples Balones de Oro a nivel individual."
+        ]
+      },
+      {
+        "tag": "seleccion_info_alemania",
+        "patterns": [
+          "Háblame de la selección de Alemania",
+          "Información sobre Alemania fútbol",
+          "¿Cómo le dicen a la selección de Alemania?",
+          "Die Mannschaft"
+        ],
+        "responses": [
+          "La selección de fútbol de Alemania, conocida como 'Die Mannschaft', es una de las más consistentes y exitosas del mundo. Han ganado 4 Copas Mundiales (1954, 1974, 1990, 2014) y 3 Eurocopas. Son conocidos por su eficiencia, disciplina táctica y mentalidad ganadora."
+        ]
+      },
+      {
+        "tag": "seleccion_palmares_alemania",
+        "patterns": [
+          "¿Qué títulos ha ganado la selección de Alemania?",
+          "Palmarés de Alemania fútbol",
+          "Copas ganadas por Alemania"
+        ],
+        "responses": [
+          "Alemania ha ganado 4 Copas Mundiales de la FIFA (1954, 1974, 1990, 2014), 3 Eurocopas (1972, 1980, 1996) y 1 Copa Confederaciones."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_alemania_beckenbauer",
+        "patterns": [
+          "¿Quién fue Franz Beckenbauer?",
+          "Háblame de Beckenbauer",
+          "Carrera de Beckenbauer con Alemania",
+          "El Káiser"
+        ],
+        "responses": [
+          "Franz Beckenbauer, apodado 'Der Kaiser' (El Emperador), es una leyenda del fútbol alemán y mundial. Es una de las pocas personas que ha ganado el Mundial como jugador (capitán en 1974) y como entrenador (1990). Revolucionó la posición de líbero."
+        ]
+      },
+       {
+        "tag": "seleccion_leyenda_alemania_muller_gerd",
+        "patterns": [
+          "¿Quién fue Gerd Müller?",
+          "Háblame de Gerd Müller",
+          "Carrera de Gerd Müller con Alemania",
+          "El Bombardero"
+        ],
+        "responses": [
+          "Gerd Müller, apodado 'Der Bomber' (El Bombardero), fue uno de los delanteros más letales de la historia. Máximo goleador histórico de Alemania durante mucho tiempo (superado por Klose), fue Bota de Oro del Mundial 1970 y marcó el gol de la victoria en la final del Mundial 1974. También ganó la Eurocopa 1972."
+        ]
+      },
+      {
+        "tag": "seleccion_info_italia",
+        "patterns": [
+          "Háblame de la selección de Italia",
+          "Información sobre Italia fútbol",
+          "¿Cómo le dicen a la selección de Italia?",
+          "La Azzurra"
+        ],
+        "responses": [
+          "La selección de fútbol de Italia, conocida como la 'Azzurra', es otra potencia histórica. Han ganado 4 Copas Mundiales (1934, 1938, 1982, 2006) y 2 Eurocopas (1968, 2020). Son famosos por su solidez defensiva ('catenaccio' históricamente), su inteligencia táctica y su capacidad competitiva."
+        ]
+      },
+       {
+        "tag": "seleccion_palmares_italia",
+        "patterns": [
+          "¿Qué títulos ha ganado la selección de Italia?",
+          "Palmarés de Italia fútbol",
+          "Copas ganadas por Italia"
+        ],
+        "responses": [
+          "Italia ha ganado 4 Copas Mundiales de la FIFA (1934, 1938, 1982, 2006) y 2 Eurocopas (1968, 2020)."
+        ]
+      },
+       {
+        "tag": "seleccion_leyenda_italia_maldini",
+        "patterns": [
+          "¿Quién es Paolo Maldini?",
+          "Háblame de Maldini",
+          "Carrera de Maldini con Italia"
+        ],
+        "responses": [
+          "Paolo Maldini es considerado uno de los mejores defensas de todos los tiempos. Jugó toda su carrera en el AC Milan y fue capitán tanto de su club como de la selección italiana durante muchos años. Disputó 4 Mundiales y 3 Eurocopas, siendo subcampeón mundial en 1994 y europeo en 2000."
+        ]
+      },
+      {
+        "tag": "seleccion_info_francia",
+        "patterns": [
+          "Háblame de la selección de Francia",
+          "Información sobre Francia fútbol",
+          "¿Cómo le dicen a la selección de Francia?",
+          "Les Bleus"
+        ],
+        "responses": [
+          "La selección de fútbol de Francia, conocida como 'Les Bleus', ha sido una fuerza dominante en las últimas décadas. Han ganado 2 Copas Mundiales (1998, 2018) y 2 Eurocopas (1984, 2000). Han producido grandes generaciones de talento, con figuras como Platini, Zidane, Henry, Mbappé."
+        ]
+      },
+       {
+        "tag": "seleccion_palmares_francia",
+        "patterns": [
+          "¿Qué títulos ha ganado la selección de Francia?",
+          "Palmarés de Francia fútbol",
+          "Copas ganadas por Francia"
+        ],
+        "responses": [
+          "Francia ha ganado 2 Copas Mundiales de la FIFA (1998, 2018), 2 Eurocopas (1984, 2000), 2 Copas Confederaciones y 1 UEFA Nations League."
+        ]
+      },
+       {
+        "tag": "seleccion_leyenda_francia_zidane",
+        "patterns": [
+          "¿Quién es Zinedine Zidane?",
+          "Háblame de Zidane",
+          "Carrera de Zidane con Francia",
+          "Zizou"
+        ],
+        "responses": [
+          "Zinedine Zidane, apodado 'Zizou', es considerado uno de los mejores centrocampistas ofensivos de la historia. Lideró a Francia a ganar el Mundial 1998 (marcando dos goles en la final) y la Eurocopa 2000. Ganó el Balón de Oro y fue famoso por su elegancia, técnica y visión de juego. Su carrera terminó con la expulsión en la final del Mundial 2006."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_francia_mbappe",
+        "patterns": [
+          "¿Quién es Kylian Mbappé?",
+          "Háblame de Mbappé",
+          "Carrera de Mbappé con Francia"
+        ],
+        "responses": [
+          "Kylian Mbappé es un delantero francés, considerado una de las mayores estrellas actuales. Ganó el Mundial 2018 con solo 19 años (siendo elegido Mejor Jugador Joven) y fue Bota de Oro del Mundial 2022 tras marcar un hat-trick en la final. Es conocido por su velocidad explosiva y capacidad goleadora."
+        ]
+      },
+      {
+        "tag": "seleccion_info_espana",
+        "patterns": [
+          "Háblame de la selección de España",
+          "Información sobre España fútbol",
+          "¿Cómo le dicen a la selección de España?",
+          "La Roja"
+        ],
+        "responses": [
+          "La selección de fútbol de España, conocida como 'La Roja', vivió su época dorada entre 2008 y 2012, ganando dos Eurocopas (2008, 2012) y su única Copa Mundial (2010). Desarrollaron un estilo de juego basado en la posesión y el pase ('tiki-taka') que dominó el fútbol mundial, con leyendas como Casillas, Ramos, Puyol, Xavi, Iniesta y Villa."
+        ]
+      },
+      {
+        "tag": "seleccion_palmares_espana",
+        "patterns": [
+          "¿Qué títulos ha ganado la selección de España?",
+          "Palmarés de España fútbol",
+          "Copas ganadas por España"
+        ],
+        "responses": [
+          "España ha ganado 1 Copa Mundial de la FIFA (2010), 3 Eurocopas (1964, 2008, 2012) y 1 UEFA Nations League. La selección femenina ganó el Mundial en 2023."
+        ]
+      },
+       {
+        "tag": "seleccion_leyenda_espana_xavi_iniesta",
+        "patterns": [
+          "¿Quiénes fueron Xavi e Iniesta?",
+          "Háblame de Xavi e Iniesta",
+          "El mediocampo de España"
+        ],
+        "responses": [
+          "Xavi Hernández y Andrés Iniesta formaron una de las mejores parejas de centrocampistas de la historia, tanto en el FC Barcelona como en la selección española. Fueron el cerebro y corazón de 'La Roja' durante su época dorada (Euro 2008, Mundial 2010, Euro 2012), controlando los partidos con su visión, precisión en el pase y inteligencia táctica. Iniesta marcó el gol de la victoria en la final del Mundial 2010."
+        ]
+      },
+      {
+        "tag": "seleccion_info_inglaterra",
+        "patterns": [
+          "Háblame de la selección de Inglaterra",
+          "Información sobre Inglaterra fútbol",
+          "¿Cómo le dicen a la selección de Inglaterra?",
+          "The Three Lions"
+        ],
+        "responses": [
+          "La selección de fútbol de Inglaterra, conocida como 'The Three Lions', es la cuna del fútbol moderno. Ganaron su única Copa Mundial en 1966 como anfitriones. A pesar de tener ligas muy potentes y grandes jugadores a lo largo de su historia (Charlton, Moore, Lineker, Gascoigne, Beckham, Rooney, Kane), no han logrado repetir ese éxito, aunque alcanzaron la final de la Eurocopa 2020."
+        ]
+      },
+      {
+        "tag": "seleccion_info_holanda",
+        "patterns": [
+          "Háblame de la selección de Países Bajos / Holanda",
+          "Información sobre Holanda fútbol",
+          "¿Cómo le dicen a la selección de Holanda?",
+          "La Naranja Mecánica",
+          "Oranje"
+        ],
+        "responses": [
+          "La selección de fútbol de Países Bajos (a menudo llamada Holanda), conocida como 'Oranje', es famosa por su 'Fútbol Total' de los años 70 liderado por Johan Cruyff. Han llegado a tres finales de Mundial (1974, 1978, 2010) pero las perdieron todas. Ganaron la Eurocopa en 1988. Siempre producen jugadores de gran talento técnico."
+        ]
+      },
+       {
+        "tag": "seleccion_leyenda_holanda_cruyff",
+        "patterns": [
+          "¿Quién fue Johan Cruyff?",
+          "Háblame de Cruyff",
+          "Carrera de Cruyff con Holanda",
+          "Fútbol Total"
+        ],
+        "responses": [
+          "Johan Cruyff fue un futbolista y entrenador neerlandés, considerado uno de los más influyentes de la historia. Como jugador, fue el líder de la 'Naranja Mecánica' subcampeona del mundo en 1974 y del Ajax tricampeón de Europa. Revolucionó el juego con el concepto de 'Fútbol Total'. Como entrenador, sentó las bases del estilo del FC Barcelona."
+        ]
+      },
+      {
+        "tag": "seleccion_info_portugal",
+        "patterns": [
+          "Háblame de la selección de Portugal",
+          "Información sobre Portugal fútbol",
+          "¿Cómo le dicen a la selección de Portugal?",
+          "Seleção das Quinas"
+        ],
+        "responses": [
+          "La selección de fútbol de Portugal ha crecido mucho en las últimas décadas, especialmente con la 'Generación de Oro' (Figo, Rui Costa) y luego con Cristiano Ronaldo. Ganaron su primer gran título en la Eurocopa 2016 y también la UEFA Nations League 2019. Antes de eso, su mejor resultado había sido el tercer puesto en el Mundial 1966 con Eusébio."
+        ]
+      },
+      {
+        "tag": "seleccion_goleador_portugal",
+        "patterns": [
+          "¿Quién es el máximo goleador de la selección de Portugal?",
+          "Máximo anotador de Portugal",
+          "Goles de Cristiano Ronaldo con Portugal"
+        ],
+        "responses": [
+          "Cristiano Ronaldo es el máximo goleador histórico de la selección de Portugal y también el máximo goleador histórico a nivel de selecciones masculinas en el mundo. Ha superado ampliamente la marca de Pauleta y Eusébio."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_portugal_cr7",
+        "patterns": [
+          "¿Quién es Cristiano Ronaldo?",
+          "Háblame de Cristiano Ronaldo",
+          "Carrera de Cristiano Ronaldo con Portugal"
+        ],
+        "responses": [
+          "Cristiano Ronaldo es un delantero portugués, considerado uno de los mejores futbolistas de todos los tiempos. Es el máximo goleador histórico a nivel de clubes (Champions League) y selecciones. Con Portugal, lideró al equipo a ganar la Eurocopa 2016 y la Nations League 2019. Ha ganado múltiples Balones de Oro y es conocido por su físico, ambición y capacidad goleadora."
+        ]
+      },
+       {
+        "tag": "seleccion_leyenda_portugal_eusebio",
+        "patterns": [
+          "¿Quién fue Eusébio?",
+          "Háblame de Eusébio",
+          "Carrera de Eusébio con Portugal",
+          "La Pantera Negra"
+        ],
+        "responses": [
+          "Eusébio da Silva Ferreira, conocido como Eusébio y apodado 'La Pantera Negra', fue un delantero portugués nacido en Mozambique, considerado uno de los mejores de la historia. Lideró a Portugal al tercer puesto en el Mundial 1966, siendo el máximo goleador del torneo con 9 goles. Fue Balón de Oro en 1965."
+        ]
+      },
+      {
+        "tag": "seleccion_info_uruguay",
+        "patterns": [
+          "Háblame de la selección de Uruguay",
+          "Información sobre Uruguay fútbol",
+          "¿Cómo le dicen a la selección de Uruguay?",
+          "La Celeste"
+        ],
+        "responses": [
+          "La selección de fútbol de Uruguay, 'La Celeste', es una potencia histórica a pesar de ser un país pequeño. Ganaron los dos primeros Mundiales en los que participaron (1930 como anfitriones y 1950 con el 'Maracanazo'). También tienen 15 Copas América (récord compartido) y 2 oros olímpicos (considerados campeonatos mundiales en su época). Son conocidos por su 'garra charrúa'."
+        ]
+      },
+       {
+        "tag": "rivalidad_brasil_argentina",
+        "patterns": [
+          "Háblame de la rivalidad Brasil vs Argentina",
+          "Clásico sudamericano",
+          "Mayor rivalidad de selecciones"
+        ],
+        "responses": [
+          "La rivalidad entre Brasil y Argentina es una de las más grandes y apasionadas del fútbol mundial. Representa el choque de los dos gigantes de Sudamérica, con estilos a menudo contrapuestos y una historia llena de partidos memorables, títulos disputados y leyendas como Pelé, Maradona, Messi y Ronaldo."
+        ]
+      },
+       {
+        "tag": "rivalidad_alemania_holanda",
+        "patterns": [
+          "Háblame de la rivalidad Alemania vs Holanda",
+          "Clásico europeo Alemania Países Bajos"
+        ],
+        "responses": [
+          "La rivalidad entre Alemania y Países Bajos (Holanda) tiene raíces históricas y futbolísticas profundas. Vivió su apogeo en los 70s (final del Mundial 74) y finales de los 80s/principios de los 90s (Euro 88, Mundial 90), con partidos muy intensos y cargados de tensión."
+        ]
+      },
+       {
+        "tag": "rivalidad_inglaterra_alemania",
+        "patterns": [
+          "Háblame de la rivalidad Inglaterra vs Alemania",
+          "Clásico Inglaterra Alemania"
+        ],
+        "responses": [
+          "La rivalidad entre Inglaterra y Alemania está marcada por partidos históricos en Mundiales, como la final de 1966 (ganada por Inglaterra), la semifinal de 1990 (ganada por Alemania en penaltis) y los octavos de 2010 (con el 'gol fantasma' no concedido a Lampard). Es una rivalidad con mucha historia y momentos dramáticos."
+        ]
+      },
+      {
+        "tag": "eurocopa_historia",
+        "patterns": [
+          "¿Qué es la Eurocopa?",
+          "Historia del Campeonato Europeo de la UEFA",
+          "Origen de la Euro"
+        ],
+        "responses": [
+          "La Eurocopa (Campeonato Europeo de la UEFA) es el principal torneo de selecciones nacionales de Europa. Se celebra cada cuatro años desde 1960 (originalmente llamada Copa de Naciones de Europa). Es uno de los torneos más prestigiosos después del Mundial."
+        ]
+      },
+      {
+        "tag": "eurocopa_mas_ganadores",
+        "patterns": [
+          "¿Qué selección ha ganado más Eurocopas?",
+          "País con más Eurocopas",
+          "Máximos ganadores de la Euro"
+        ],
+        "responses": [
+          "Alemania y España son las selecciones que han ganado más Eurocopas, con 3 títulos cada una."
+        ]
+      },
+       {
+        "tag": "eurocopa_ganador_2020",
+        "patterns": [
+          "¿Quién ganó la Eurocopa 2020?",
+          "Campeón Euro 2020 (jugada en 2021)"
+        ],
+        "responses": [
+          "Italia ganó la Eurocopa 2020 (celebrada en 2021 debido a la pandemia). Vencieron a Inglaterra en la final en el estadio de Wembley en la tanda de penaltis."
+        ]
+      },
+       {
+        "tag": "eurocopa_ganador_2016",
+        "patterns": [
+          "¿Quién ganó la Eurocopa 2016?",
+          "Campeón Euro 2016 Francia"
+        ],
+        "responses": [
+          "Portugal ganó la Eurocopa 2016 celebrada en Francia. Derrotaron a la anfitriona Francia por 1-0 en la final en la prórroga, a pesar de que Cristiano Ronaldo se lesionó al principio del partido."
+        ]
+      },
+      {
+        "tag": "copa_america_historia",
+        "patterns": [
+          "¿Qué es la Copa América?",
+          "Historia de la Copa América",
+          "Torneo de selecciones más antiguo"
+        ],
+        "responses": [
+          "La Copa América es el principal torneo de selecciones nacionales de Sudamérica (organizado por CONMEBOL), y es el torneo continental de selecciones más antiguo del mundo, cuya primera edición se disputó en 1916. A menudo invita a selecciones de otras confederaciones."
+        ]
+      },
+      {
+        "tag": "copa_america_mas_ganadores",
+        "patterns": [
+          "¿Qué selección ha ganado más Copas América?",
+          "País con más Copas América",
+          "Máximos ganadores Copa América"
+        ],
+        "responses": [
+          "Argentina y Uruguay son las selecciones que han ganado más Copas América, con 15 títulos cada una."
+        ]
+      },
+      {
+        "tag": "copa_america_ganador_2024",
+        "patterns": [
+          "¿Quién ganó la Copa América 2024?",
+          "Campeón Copa América USA 2024"
+        ],
+        "responses": [
+          "Argentina ganó la Copa América 2024, celebrada en Estados Unidos. Vencieron a Colombia por 1-0 en la final con gol de Lautaro Martínez en la prórroga, revalidando su título de 2021."
+        ]
+      },
+       {
+        "tag": "copa_america_ganador_2021",
+        "patterns": [
+          "¿Quién ganó la Copa América 2021?",
+          "Campeón Copa América Brasil 2021"
+        ],
+        "responses": [
+          "Argentina ganó la Copa América 2021, celebrada en Brasil. Derrotaron a Brasil por 1-0 en la final en el estadio Maracaná, significando el primer título mayor de Lionel Messi con la selección absoluta."
+        ]
+      },
+       {
+        "tag": "copa_africa_historia",
+        "patterns": [
+          "¿Qué es la Copa Africana de Naciones?",
+          "Historia de la Copa de África (AFCON)",
+          "Principal torneo de África"
+        ],
+        "responses": [
+          "La Copa Africana de Naciones (AFCON) es el principal torneo internacional de fútbol masculino en África, organizado por la Confederación Africana de Fútbol (CAF). Se celebra generalmente cada dos años."
+        ]
+      },
+      {
+        "tag": "copa_africa_mas_ganadores",
+        "patterns": [
+          "¿Qué selección ha ganado más Copas de África?",
+          "País con más AFCON",
+          "Máximos ganadores Copa Africana"
+        ],
+        "responses": [
+          "Egipto es la selección que ha ganado más Copas Africanas de Naciones, con 7 títulos."
+        ]
+      },
+      {
+        "tag": "copa_africa_ganador_reciente",
+        "patterns": [
+            "¿Quién ganó la última Copa de África?",
+            "Campeón AFCON más reciente"
+        ],
+        "responses": [
+            "Costa de Marfil ganó la Copa Africana de Naciones 2023 (celebrada a principios de 2024), derrotando a Nigeria en la final. Eran los anfitriones del torneo."
+        ]
+      },
+       {
+        "tag": "copa_oro_historia",
+        "patterns": [
+          "¿Qué es la Copa Oro?",
+          "Historia de la Copa Oro de la CONCACAF",
+          "Principal torneo de Norteamérica, Centroamérica y Caribe"
+        ],
+        "responses": [
+          "La Copa Oro de la CONCACAF es el principal torneo internacional de fútbol masculino de la confederación de Norteamérica, Centroamérica y el Caribe. Se celebra generalmente cada dos años."
+        ]
+      },
+      {
+        "tag": "copa_oro_mas_ganadores",
+        "patterns": [
+          "¿Qué selección ha ganado más Copas Oro?",
+          "País con más Gold Cups",
+          "Máximos ganadores Copa Oro"
+        ],
+        "responses": [
+          "México es la selección que ha ganado más Copas Oro de la CONCACAF, seguida por Estados Unidos. Han dominado históricamente el torneo."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_femenina_marta",
+        "patterns": [
+          "¿Quién es Marta Vieira da Silva?",
+          "Háblame de Marta (futbolista)",
+          "Carrera de Marta con Brasil"
+        ],
+        "responses": [
+          "Marta Vieira da Silva, conocida simplemente como Marta, es una futbolista brasileña considerada una de las mejores de todos los tiempos. Ha ganado el premio FIFA a la Mejor Jugadora del Mundo 6 veces. Es la máxima goleadora histórica de los Mundiales (femeninos y masculinos combinados hasta que Klose la superó) y de la selección brasileña. Ha sido subcampeona mundial y olímpica."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_femenina_hamm",
+        "patterns": [
+          "¿Quién fue Mia Hamm?",
+          "Háblame de Mia Hamm",
+          "Carrera de Mia Hamm con Estados Unidos"
+        ],
+        "responses": [
+          "Mia Hamm fue una delantera estadounidense, icono del fútbol femenino y una de las pioneras que popularizó el deporte. Ganó dos Mundiales (1991, 1999) y dos medallas de oro olímpicas (1996, 2004) con Estados Unidos. Fue nombrada Jugadora Mundial de la FIFA en sus dos primeras ediciones (2001, 2002) y fue la máxima goleadora internacional durante mucho tiempo."
+        ]
+      },
+      {
+        "tag": "seleccion_leyenda_femenina_sinclair",
+        "patterns": [
+          "¿Quién es Christine Sinclair?",
+          "Háblame de Christine Sinclair",
+          "Carrera de Sinclair con Canadá"
+        ],
+        "responses": [
+          "Christine Sinclair es una delantera canadiense, leyenda de su país y del fútbol femenino. Es la máxima goleadora de todos los tiempos en el fútbol internacional (masculino y femenino). Ha participado en múltiples Mundiales y Juegos Olímpicos, ganando la medalla de oro olímpica en Tokio 2020 (celebrado en 2021)."
+        ]
+      },
+       {
+        "tag": "fifa_info",
+        "patterns": [
+          "¿Qué es la FIFA?",
+          "Federación Internacional de Fútbol Asociación",
+          "Organismo rector del fútbol mundial"
+        ],
+        "responses": [
+          "La FIFA (Fédération Internationale de Football Association) es la institución que gobierna las federaciones de fútbol en todo el mundo. Fundada en 1904 y con sede en Zúrich, Suiza, es responsable de organizar los torneos de fútbol más importantes a nivel mundial, como la Copa Mundial masculina y femenina, y de establecer las reglas del juego."
+        ]
+      },
+      {
+        "tag": "ranking_fifa",
+        "patterns": [
+          "¿Qué es el Ranking FIFA?",
+          "¿Cómo funciona el Ranking Mundial de la FIFA?",
+          "Clasificación de selecciones FIFA"
+        ],
+        "responses": [
+          "El Ranking Mundial de la FIFA es un sistema de clasificación para las selecciones nacionales masculinas de fútbol. Se basa en los resultados de los partidos internacionales, ponderando la importancia del partido, la fuerza del oponente y la confederación. Se utiliza a menudo para determinar los cabezas de serie en los sorteos de los torneos."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,1051 @@
+{
+    "intents": [
+      {
+        "tag": "col_fundacion_liga",
+        "patterns": [
+          "¿Cuándo se fundó la Liga Colombiana?",
+          "¿En qué año empezó la Liga de Fútbol en Colombia?",
+          "Historia de la fundación de la Liga Colombiana",
+          "Origen de la Liga Colombiana"
+        ],
+        "responses": [
+          "La Liga Colombiana de Fútbol fue fundada en 1948. El primer campeón fue el Independiente Santa Fe."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_titulos",
+        "patterns": [
+          "¿Qué equipo ha ganado más títulos de la Liga Colombiana?",
+          "Equipo con más ligas en Colombia",
+          "Máximo ganador de la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo con más títulos de la Liga Colombiana, con 17 campeonatos (hasta 2023)."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_reciente_campeon",
+        "patterns": [
+          "¿Quién es el campeón más reciente de la Liga Colombiana?",
+          "Último campeón de la Liga Colombiana",
+          "¿Qué equipo ganó la última Liga Colombiana?"
+        ],
+        "responses": [
+          "Para conocer el campeón más reciente de la Liga Colombiana, necesitaría saber la fecha actual. En 2023, el campeón fue el Millonarios."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goleador_historico",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles en la historia de la Liga Colombiana?",
+          "Equipo con más goles en la Liga Colombiana",
+          "Máximo goleador histórico de la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha marcado más goles en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goleador_historico",
+        "patterns": [
+          "¿Quién es el máximo goleador de la historia de la Liga Colombiana?",
+          "Jugador con más goles en la Liga Colombiana",
+          "Récord de goles en la Liga Colombiana"
+        ],
+        "responses": [
+          "Sergio Galván Rey es el máximo goleador histórico de la Liga Colombiana, con 224 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_partidos",
+        "patterns": [
+          "¿Quién es el jugador con más partidos en la historia de la Liga Colombiana?",
+          "Jugador con más apariciones en la Liga Colombiana",
+          "Récord de partidos jugados en la Liga Colombiana"
+        ],
+        "responses": [
+          "Alexis García es el jugador con más partidos en la historia de la Liga Colombiana, con 634 apariciones."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_temporada",
+        "patterns": [
+          "¿Quién es el jugador con más goles en una sola temporada de la Liga Colombiana?",
+          "Récord de goles en una temporada de la Liga Colombiana",
+          "Jugador más goleador en una campaña de la Liga Colombiana"
+        ],
+        "responses": [
+          "Hugo Horacio Lóndero es el jugador con más goles en una sola temporada de la Liga Colombiana, con 38 goles en 1972."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goleadas",
+        "patterns": [
+          "¿Qué equipo ha dado la mayor goleada en la historia de la Liga Colombiana?",
+          "Récord de mayor goleada en la Liga Colombiana",
+          "Equipo con más goles en un partido de la Liga Colombiana"
+        ],
+        "responses": [
+          "El récord de la mayor goleada en la historia de la Liga Colombiana lo tiene el América de Cali, que venció al Deportivo Samarios 10-1 en 1959."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_invicto",
+        "patterns": [
+          "¿Qué equipo ha tenido la racha más larga de invicto en la Liga Colombiana?",
+          "Récord de invicto en la Liga Colombiana",
+          "Equipo con más partidos sin perder en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional tiene la racha más larga de invicto en la Liga Colombiana, con 36 partidos sin perder entre 2013 y 2014."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_temporada",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles en una sola temporada de la Liga Colombiana?",
+          "Récord de goles en una temporada de la Liga Colombiana",
+          "Equipo más goleador en una campaña de la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha marcado más goles en una sola temporada de la Liga Colombiana, con 120 goles en 1949."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_clean_sheets",
+        "patterns": [
+          "¿Qué equipo ha tenido más porterías a cero en la historia de la Liga Colombiana?",
+          "Récord de clean sheets en la Liga Colombiana",
+          "Equipo con más porterías imbatidas en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo con más porterías a cero en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_tarjetas_rojas",
+        "patterns": [
+          "¿Qué equipo ha recibido más tarjetas rojas en la historia de la Liga Colombiana?",
+          "Récord de tarjetas rojas en la Liga Colombiana",
+          "Equipo con más expulsiones en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Deportivo Cali es el equipo que ha recibido más tarjetas rojas en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_tarjetas_amarillas",
+        "patterns": [
+          "¿Qué equipo ha recibido más tarjetas amarillas en la historia de la Liga Colombiana?",
+          "Récord de tarjetas amarillas en la Liga Colombiana",
+          "Equipo con más amonestaciones en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha recibido más tarjetas amarillas en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_faltas",
+        "patterns": [
+          "¿Qué equipo ha cometido más faltas en la historia de la Liga Colombiana?",
+          "Récord de faltas en la Liga Colombiana",
+          "Equipo con más infracciones en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha cometido más faltas en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_corners",
+        "patterns": [
+          "¿Qué equipo ha sacado más córners en la historia de la Liga Colombiana?",
+          "Récord de córners en la Liga Colombiana",
+          "Equipo con más saques de esquina en la Liga Colombiana"
+        ],
+        "responses": [
+          "El América de Cali es el equipo que ha sacado más córners en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_remates",
+        "patterns": [
+          "¿Qué equipo ha hecho más remates en la historia de la Liga Colombiana?",
+          "Récord de remates en la Liga Colombiana",
+          "Equipo con más tiros en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha hecho más remates en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_remates_a_puerta",
+        "patterns": [
+          "¿Qué equipo ha hecho más remates a puerta en la historia de la Liga Colombiana?",
+          "Récord de remates a puerta en la Liga Colombiana",
+          "Equipo con más tiros al arco en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha hecho más remates a puerta en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_paradas",
+        "patterns": [
+          "¿Qué equipo ha hecho más paradas en la historia de la Liga Colombiana?",
+          "Récord de paradas en la Liga Colombiana",
+          "Equipo con más salvadas en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Deportivo Cali es el equipo que ha hecho más paradas en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_intercepciones",
+        "patterns": [
+          "¿Qué equipo ha hecho más intercepciones en la historia de la Liga Colombiana?",
+          "Récord de intercepciones en la Liga Colombiana",
+          "Equipo con más cortes en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha hecho más intercepciones en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_entradas",
+        "patterns": [
+          "¿Qué equipo ha hecho más entradas en la historia de la Liga Colombiana?",
+          "Récord de entradas en la Liga Colombiana",
+          "Equipo con más tackles en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha hecho más entradas en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_duelos_ganados",
+        "patterns": [
+          "¿Qué equipo ha ganado más duelos en la historia de la Liga Colombiana?",
+          "Récord de duelos ganados en la Liga Colombiana",
+          "Equipo con más enfrentamientos ganados en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha ganado más duelos en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_duelos_aereos_ganados",
+        "patterns": [
+          "¿Qué equipo ha ganado más duelos aéreos en la historia de la Liga Colombiana?",
+          "Récord de duelos aéreos ganados en la Liga Colombiana",
+          "Equipo con más cabezazos ganados en la Liga Colombiana"
+        ],
+        "responses": [
+          "El América de Cali es el equipo que ha ganado más duelos aéreos en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_pases",
+        "patterns": [
+          "¿Qué equipo ha hecho más pases en la historia de la Liga Colombiana?",
+          "Récord de pases en la Liga Colombiana",
+          "Equipo con más circulación de balón en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha hecho más pases en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_pases_acertados",
+        "patterns": [
+          "¿Qué equipo ha hecho más pases acertados en la historia de la Liga Colombiana?",
+          "Récord de pases acertados en la Liga Colombiana",
+          "Equipo con más precisión en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha hecho más pases acertados en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_pases_clave",
+        "patterns": [
+          "¿Qué equipo ha hecho más pases clave en la historia de la Liga Colombiana?",
+          "Récord de pases clave en la Liga Colombiana",
+          "Equipo con más pases decisivos en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha hecho más pases clave en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_cambios",
+        "patterns": [
+          "¿Qué equipo ha hecho más cambios en la historia de la Liga Colombiana?",
+          "Récord de cambios en la Liga Colombiana",
+          "Equipo con más sustituciones en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Deportivo Cali es el equipo que ha hecho más cambios en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_fueras_de_juego",
+        "patterns": [
+          "¿Qué equipo ha estado más veces en fuera de juego en la historia de la Liga Colombiana?",
+          "Récord de fueras de juego en la Liga Colombiana",
+          "Equipo con más offsides en la Liga Colombiana"
+        ],
+        "responses": [
+          "El América de Cali es el equipo que ha estado más veces en fuera de juego en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_lesiones",
+        "patterns": [
+          "¿Qué equipo ha sufrido más lesiones en la historia de la Liga Colombiana?",
+          "Récord de lesiones en la Liga Colombiana",
+          "Equipo con más bajas en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha sufrido más lesiones en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_penaltis_a_favor",
+        "patterns": [
+          "¿Qué equipo ha recibido más penaltis a favor en la historia de la Liga Colombiana?",
+          "Récord de penaltis a favor en la Liga Colombiana",
+          "Equipo con más penalties en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha recibido más penaltis a favor en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_penaltis_en_contra",
+        "patterns": [
+          "¿Qué equipo ha recibido más penaltis en contra en la historia de la Liga Colombiana?",
+          "Récord de penaltis en contra en la Liga Colombiana",
+          "Equipo con más penalties en contra en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Deportivo Cali es el equipo que ha recibido más penaltis en contra en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_penalti",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de penalti en la historia de la Liga Colombiana?",
+          "Récord de goles de penalti en la Liga Colombiana",
+          "Equipo con más goles desde el punto de penalti en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha marcado más goles de penalti en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_falta",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de falta en la historia de la Liga Colombiana?",
+          "Récord de goles de falta en la Liga Colombiana",
+          "Equipo con más goles desde tiros libres en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha marcado más goles de falta en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_cabeza",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de cabeza en la historia de la Liga Colombiana?",
+          "Récord de goles de cabeza en la Liga Colombiana",
+          "Equipo con más goles de cabezazo en la Liga Colombiana"
+        ],
+        "responses": [
+          "El América de Cali es el equipo que ha marcado más goles de cabeza en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_esquina",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de córner en la historia de la Liga Colombiana?",
+          "Récord de goles de córner en la Liga Colombiana",
+          "Equipo con más goles desde saques de esquina en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha marcado más goles de córner en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_contraataque",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de contraataque en la historia de la Liga Colombiana?",
+          "Récord de goles de contraataque en la Liga Colombiana",
+          "Equipo con más goles en transiciones rápidas en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha marcado más goles de contraataque en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_posesion",
+        "patterns": [
+          "¿Qué equipo ha marcado más goles de posesión en la historia de la Liga Colombiana?",
+          "Récord de goles de posesión en la Liga Colombiana",
+          "Equipo con más goles en juego posicional en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha marcado más goles de posesión en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_penalti_contra",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de penalti en la historia de la Liga Colombiana?",
+          "Récord de goles de penalti en contra en la Liga Colombiana",
+          "Equipo con más goles encajados desde el punto de penalti en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Deportivo Cali es el equipo que ha encajado más goles de penalti en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_falta_contra",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de falta en la historia de la Liga Colombiana?",
+          "Récord de goles de falta en contra en la Liga Colombiana",
+          "Equipo con más goles encajados desde tiros libres en la Liga Colombiana"
+        ],
+        "responses": [
+          "El América de Cali es el equipo que ha encajado más goles de falta en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_cabeza_contra",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de cabeza en la historia de la Liga Colombiana?",
+          "Récord de goles de cabeza en contra en la Liga Colombiana",
+          "Equipo con más goles encajados de cabezazo en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha encajado más goles de cabeza en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_corners_contra",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de córner en la historia de la Liga Colombiana?",
+          "Récord de goles de córner en contra en la Liga Colombiana",
+          "Equipo con más goles encajados desde saques de esquina en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Millonarios es el equipo que ha encajado más goles de córner en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_contraataque_contra",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de contraataque en la historia de la Liga Colombiana?",
+          "Récord de goles de contraataque en contra en la Liga Colombiana",
+          "Equipo con más goles encajados en transiciones rápidas en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Deportivo Cali es el equipo que ha encajado más goles de contraataque en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_equipo_mas_goles_de_posesion_contra",
+        "patterns": [
+          "¿Qué equipo ha encajado más goles de posesión en la historia de la Liga Colombiana?",
+          "Récord de goles de posesión en contra en la Liga Colombiana",
+          "Equipo con más goles encajados en juego posicional en la Liga Colombiana"
+        ],
+        "responses": [
+          "El Atlético Nacional es el equipo que ha encajado más goles de posesión en la historia de la Liga Colombiana."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_joven",
+        "patterns": [
+          "¿Quién es el jugador más joven en jugar en la Liga Colombiana?",
+          "Récord de jugador más joven en la Liga Colombiana",
+          "Debutante más joven en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador más joven en jugar en la Liga Colombiana es Juan Fernando Quintero, quien debutó a los 15 años y 363 días con el Envigado FC."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_viejo",
+        "patterns": [
+          "¿Quién es el jugador más viejo en jugar en la Liga Colombiana?",
+          "Récord de jugador más viejo en la Liga Colombiana",
+          "Debutante más viejo en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador más viejo en jugar en la Liga Colombiana es Faryd Mondragón, quien jugó a los 43 años con el Deportivo Cali."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_joven_goleador",
+        "patterns": [
+          "¿Quién es el goleador más joven en la historia de la Liga Colombiana?",
+          "Récord de goleador más joven en la Liga Colombiana",
+          "Jugador más joven en marcar en la Liga Colombiana"
+        ],
+        "responses": [
+          "El goleador más joven en la historia de la Liga Colombiana es Juan Fernando Quintero, quien marcó su primer gol a los 16 años y 45 días con el Envigado FC."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_viejo_goleador",
+        "patterns": [
+          "¿Quién es el goleador más viejo en la historia de la Liga Colombiana?",
+          "Récord de goleador más viejo en la Liga Colombiana",
+          "Jugador más viejo en marcar en la Liga Colombiana"
+        ],
+        "responses": [
+          "El goleador más viejo en la historia de la Liga Colombiana es Faryd Mondragón, quien marcó su último gol a los 43 años con el Deportivo Cali."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_asistencias_historico",
+        "patterns": [
+          "¿Quién es el jugador con más asistencias en la historia de la Liga Colombiana?",
+          "Récord de asistencias en la Liga Colombiana",
+          "Máximo asistente en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más asistencias en la historia de la Liga Colombiana es Carlos Valderrama, con 120 asistencias."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_asistencias_temporada",
+        "patterns": [
+          "¿Quién es el jugador con más asistencias en una sola temporada de la Liga Colombiana?",
+          "Récord de asistencias en una temporada de la Liga Colombiana",
+          "Máximo asistente en una campaña de la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más asistencias en una sola temporada de la Liga Colombiana es Carlos Valderrama, con 25 asistencias en 1987."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_hat_tricks",
+        "patterns": [
+          "¿Quién es el jugador con más 'hat-tricks' en la historia de la Liga Colombiana?",
+          "Récord de 'hat-tricks' en la Liga Colombiana",
+          "Jugador con más triples goles en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más 'hat-tricks' en la historia de la Liga Colombiana es Iván René Valenciano, con 8 triples goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_finales",
+        "patterns": [
+          "¿Quién es el jugador con más goles en finales de la Liga Colombiana?",
+          "Récord de goles en finales de la Liga Colombiana",
+          "Jugador con más goles en finales de la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles en finales de la Liga Colombiana es Víctor Aristizábal, con 7 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_eliminatorias",
+        "patterns": [
+          "¿Quién es el jugador con más goles en eliminatorias de la Liga Colombiana?",
+          "Récord de goles en eliminatorias de la Liga Colombiana",
+          "Jugador con más goles en fases eliminatorias de la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles en eliminatorias de la Liga Colombiana es Iván René Valenciano, con 15 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_fase_grupos",
+        "patterns": [
+          "¿Quién es el jugador con más goles en la fase de grupos de la Liga Colombiana?",
+          "Récord de goles en fase de grupos de la Liga Colombiana",
+          "Jugador con más goles en grupos de la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles en la fase de grupos de la Liga Colombiana es Sergio Galván Rey, con 20 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_visitante",
+        "patterns": [
+          "¿Quién es el jugador con más goles como visitante en la historia de la Liga Colombiana?",
+          "Récord de goles como visitante en la Liga Colombiana",
+          "Jugador con más goles fuera de casa en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles como visitante en la historia de la Liga Colombiana es Iván René Valenciano, con 45 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_local",
+        "patterns": [
+          "¿Quién es el jugador con más goles como local en la historia de la Liga Colombiana?",
+          "Récord de goles como local en la Liga Colombiana",
+          "Jugador con más goles en casa en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles como local en la historia de la Liga Colombiana es Sergio Galván Rey, con 50 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_penalti",
+        "patterns": [
+          "¿Quién es el jugador con más goles de penalti en la historia de la Liga Colombiana?",
+          "Récord de goles de penalti en la Liga Colombiana",
+          "Jugador con más goles desde el punto de penalti en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles de penalti en la historia de la Liga Colombiana es Iván René Valenciano, con 15 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_falta",
+        "patterns": [
+          "¿Quién es el jugador con más goles de falta en la historia de la Liga Colombiana?",
+          "Récord de goles de falta en la Liga Colombiana",
+          "Jugador con más goles desde tiros libres en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles de falta en la historia de la Liga Colombiana es Carlos Valderrama, con 10 goles."
+        ]
+      },
+      {
+        "tag": "col_jugador_mas_goles_cabeza",
+        "patterns": [
+          "¿Quién es el jugador con más goles de cabeza en la historia de la Liga Colombiana?",
+          "Récord de goles de cabeza en la Liga Colombiana",
+          "Jugador con más goles de cabezazo en la Liga Colombiana"
+        ],
+        "responses": [
+          "El jugador con más goles de cabeza en la historia de la Liga Colombiana es Iván René Valenciano, con 20 goles."
+        ]
+      },
+     
+            {
+              "tag": "col_jugador_mas_goles_posesion",
+              "patterns": [
+                "¿Quién es el jugador con más goles de posesión en la historia de la Liga Colombiana?",
+                "Récord de goles de posesión en la Liga Colombiana",
+                "Jugador con más goles en juego posicional en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de posesión en la historia de la Liga Colombiana es Carlos Valderrama, con 18 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_penalti_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de penalti en la historia de la Liga Colombiana?",
+                "Récord de goles de penalti en contra en la Liga Colombiana",
+                "Jugador con más goles encajados desde el punto de penalti en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de penalti en la historia de la Liga Colombiana es Faryd Mondragón, con 10 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_falta_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de falta en la historia de la Liga Colombiana?",
+                "Récord de goles de falta en contra en la Liga Colombiana",
+                "Jugador con más goles encajados desde tiros libres en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de falta en la historia de la Liga Colombiana es Faryd Mondragón, con 8 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_cabeza_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de cabeza en la historia de la Liga Colombiana?",
+                "Récord de goles de cabeza en contra en la Liga Colombiana",
+                "Jugador con más goles encajados de cabezazo en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de cabeza en la historia de la Liga Colombiana es Faryd Mondragón, con 12 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_corners_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de córner en la historia de la Liga Colombiana?",
+                "Récord de goles de córner en contra en la Liga Colombiana",
+                "Jugador con más goles encajados desde saques de esquina en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de córner en la historia de la Liga Colombiana es Faryd Mondragón, con 7 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_contraataque_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de contraataque en la historia de la Liga Colombiana?",
+                "Récord de goles de contraataque en contra en la Liga Colombiana",
+                "Jugador con más goles encajados en transiciones rápidas en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de contraataque en la historia de la Liga Colombiana es Faryd Mondragón, con 5 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_posesion_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de posesión en la historia de la Liga Colombiana?",
+                "Récord de goles de posesión en contra en la Liga Colombiana",
+                "Jugador con más goles encajados en juego posicional en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de posesión en la historia de la Liga Colombiana es Faryd Mondragón, con 9 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_tarjetas_rojas",
+              "patterns": [
+                "¿Quién es el jugador con más tarjetas rojas en la historia de la Liga Colombiana?",
+                "Récord de tarjetas rojas en la Liga Colombiana",
+                "Jugador más expulsado en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más tarjetas rojas en la historia de la Liga Colombiana es Gerardo Bedoya, con 46 expulsiones."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_tarjetas_amarillas",
+              "patterns": [
+                "¿Quién es el jugador con más tarjetas amarillas en la historia de la Liga Colombiana?",
+                "Récord de tarjetas amarillas en la Liga Colombiana",
+                "Jugador más amonestado en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más tarjetas amarillas en la historia de la Liga Colombiana es Gerardo Bedoya, con 120 amonestaciones."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_faltas",
+              "patterns": [
+                "¿Quién es el jugador con más faltas en la historia de la Liga Colombiana?",
+                "Récord de faltas en la Liga Colombiana",
+                "Jugador con más infracciones en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más faltas en la historia de la Liga Colombiana es Gerardo Bedoya, con 350 faltas."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_corners",
+              "patterns": [
+                "¿Quién es el jugador con más córners en la historia de la Liga Colombiana?",
+                "Récord de córners en la Liga Colombiana",
+                "Jugador con más saques de esquina en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más córners en la historia de la Liga Colombiana es Carlos Valderrama, con 120 saques de esquina."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_remates",
+              "patterns": [
+                "¿Quién es el jugador con más remates en la historia de la Liga Colombiana?",
+                "Récord de remates en la Liga Colombiana",
+                "Jugador con más tiros en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más remates en la historia de la Liga Colombiana es Iván René Valenciano, con 250 tiros."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_remates_a_puerta",
+              "patterns": [
+                "¿Quién es el jugador con más remates a puerta en la historia de la Liga Colombiana?",
+                "Récord de remates a puerta en la Liga Colombiana",
+                "Jugador con más tiros al arco en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más remates a puerta en la historia de la Liga Colombiana es Iván René Valenciano, con 150 tiros al arco."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_paradas",
+              "patterns": [
+                "¿Quién es el jugador con más paradas en la historia de la Liga Colombiana?",
+                "Récord de paradas en la Liga Colombiana",
+                "Jugador con más salvadas en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más paradas en la historia de la Liga Colombiana es Faryd Mondragón, con 200 salvadas."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_intercepciones",
+              "patterns": [
+                "¿Quién es el jugador con más intercepciones en la historia de la Liga Colombiana?",
+                "Récord de intercepciones en la Liga Colombiana",
+                "Jugador con más cortes en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más intercepciones en la historia de la Liga Colombiana es Carlos Valderrama, con 150 cortes."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_entradas",
+              "patterns": [
+                "¿Quién es el jugador con más entradas en la historia de la Liga Colombiana?",
+                "Récord de entradas en la Liga Colombiana",
+                "Jugador con más tackles en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más entradas en la historia de la Liga Colombiana es Gerardo Bedoya, con 200 tackles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_duelos_ganados",
+              "patterns": [
+                "¿Quién es el jugador con más duelos ganados en la historia de la Liga Colombiana?",
+                "Récord de duelos ganados en la Liga Colombiana",
+                "Jugador con más enfrentamientos ganados en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más duelos ganados en la historia de la Liga Colombiana es Gerardo Bedoya, con 150 duelos ganados."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_duelos_aereos_ganados",
+              "patterns": [
+                "¿Quién es el jugador con más duelos aéreos ganados en la historia de la Liga Colombiana?",
+                "Récord de duelos aéreos ganados en la Liga Colombiana",
+                "Jugador con más cabezazos ganados en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más duelos aéreos ganados en la historia de la Liga Colombiana es Iván René Valenciano, con 100 cabezazos ganados."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_pases",
+              "patterns": [
+                "¿Quién es el jugador con más pases en la historia de la Liga Colombiana?",
+                "Récord de pases en la Liga Colombiana",
+                "Jugador con más circulación de balón en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más pases en la historia de la Liga Colombiana es Carlos Valderrama, con 10,000 pases."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_pases_acertados",
+              "patterns": [
+                "¿Quién es el jugador con más pases acertados en la historia de la Liga Colombiana?",
+                "Récord de pases acertados en la Liga Colombiana",
+                "Jugador con más precisión en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más pases acertados en la historia de la Liga Colombiana es Carlos Valderrama, con 8,000 pases acertados."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_pases_clave",
+              "patterns": [
+                "¿Quién es el jugador con más pases clave en la historia de la Liga Colombiana?",
+                "Récord de pases clave en la Liga Colombiana",
+                "Jugador con más pases decisivos en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más pases clave en la historia de la Liga Colombiana es Carlos Valderrama, con 500 pases clave."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_cambios",
+              "patterns": [
+                "¿Quién es el jugador con más cambios en la historia de la Liga Colombiana?",
+                "Récord de cambios en la Liga Colombiana",
+                "Jugador con más sustituciones en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más cambios en la historia de la Liga Colombiana es Carlos Valderrama, con 200 sustituciones."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_fueras_de_juego",
+              "patterns": [
+                "¿Quién es el jugador con más fueras de juego en la historia de la Liga Colombiana?",
+                "Récord de fueras de juego en la Liga Colombiana",
+                "Jugador con más offsides en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más fueras de juego en la historia de la Liga Colombiana es Iván René Valenciano, con 50 offsides."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_lesiones",
+              "patterns": [
+                "¿Quién es el jugador con más lesiones en la historia de la Liga Colombiana?",
+                "Récord de lesiones en la Liga Colombiana",
+                "Jugador con más bajas en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más lesiones en la historia de la Liga Colombiana es Faryd Mondragón, con 20 lesiones."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_penaltis_a_favor",
+              "patterns": [
+                "¿Quién es el jugador con más penaltis a favor en la historia de la Liga Colombiana?",
+                "Récord de penaltis a favor en la Liga Colombiana",
+                "Jugador con más penalties en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más penaltis a favor en la historia de la Liga Colombiana es Iván René Valenciano, con 15 penalties."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_penaltis_en_contra",
+              "patterns": [
+                "¿Quién es el jugador con más penaltis en contra en la historia de la Liga Colombiana?",
+                "Récord de penaltis en contra en la Liga Colombiana",
+                "Jugador con más penalties en contra en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más penaltis en contra en la historia de la Liga Colombiana es Faryd Mondragón, con 10 penalties."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_de_penalti",
+              "patterns": [
+                "¿Quién es el jugador con más goles de penalti en la historia de la Liga Colombiana?",
+                "Récord de goles de penalti en la Liga Colombiana",
+                "Jugador con más goles desde el punto de penalti en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de penalti en la historia de la Liga Colombiana es Iván René Valenciano, con 15 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_de_falta",
+              "patterns": [
+                "¿Quién es el jugador con más goles de falta en la historia de la Liga Colombiana?",
+                "Récord de goles de falta en la Liga Colombiana",
+                "Jugador con más goles desde tiros libres en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de falta en la historia de la Liga Colombiana es Carlos Valderrama, con 10 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_de_cabeza",
+              "patterns": [
+                "¿Quién es el jugador con más goles de cabeza en la historia de la Liga Colombiana?",
+                "Récord de goles de cabeza en la Liga Colombiana",
+                "Jugador con más goles de cabezazo en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de cabeza en la historia de la Liga Colombiana es Iván René Valenciano, con 20 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_de_esquina",
+              "patterns": [
+                "¿Quién es el jugador con más goles de córner en la historia de la Liga Colombiana?",
+                "Récord de goles de córner en la Liga Colombiana",
+                "Jugador con más goles desde saques de esquina en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de córner en la historia de la Liga Colombiana es Carlos Valderrama, con 5 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_de_contraataque",
+              "patterns": [
+                "¿Quién es el jugador con más goles de contraataque en la historia de la Liga Colombiana?",
+                "Récord de goles de contraataque en la Liga Colombiana",
+                "Jugador con más goles en transiciones rápidas en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de contraataque en la historia de la Liga Colombiana es Faustino Asprilla, con 12 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_de_posesion",
+              "patterns": [
+                "¿Quién es el jugador con más goles de posesión en la historia de la Liga Colombiana?",
+                "Récord de goles de posesión en la Liga Colombiana",
+                "Jugador con más goles en juego posicional en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador con más goles de posesión en la historia de la Liga Colombiana es Carlos Valderrama, con 18 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_penalti_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de penalti en la historia de la Liga Colombiana?",
+                "Récord de goles de penalti en contra en la Liga Colombiana",
+                "Jugador con más goles encajados desde el punto de penalti en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de penalti en la historia de la Liga Colombiana es Faryd Mondragón, con 10 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_falta_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de falta en la historia de la Liga Colombiana?",
+                "Récord de goles de falta en contra en la Liga Colombiana",
+                "Jugador con más goles encajados desde tiros libres en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de falta en la historia de la Liga Colombiana es Faryd Mondragón, con 8 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_cabeza_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de cabeza en la historia de la Liga Colombiana?",
+                "Récord de goles de cabeza en contra en la Liga Colombiana",
+                "Jugador con más goles encajados de cabezazo en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de cabeza en la historia de la Liga Colombiana es Faryd Mondragón, con 12 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_corners_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de córner en la historia de la Liga Colombiana?",
+                "Récord de goles de córner en contra en la Liga Colombiana",
+                "Jugador con más goles encajados desde saques de esquina en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de córner en la historia de la Liga Colombiana es Faryd Mondragón, con 7 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_contraataque_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de contraataque en la historia de la Liga Colombiana?",
+                "Récord de goles de contraataque en contra en la Liga Colombiana",
+                "Jugador con más goles encajados en transiciones rápidas en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de contraataque en la historia de la Liga Colombiana es Faryd Mondragón, con 5 goles."
+              ]
+            },
+            {
+              "tag": "col_jugador_mas_goles_posesion_contra",
+              "patterns": [
+                "¿Quién es el jugador que ha encajado más goles de posesión en la historia de la Liga Colombiana?",
+                "Récord de goles de posesión en contra en la Liga Colombiana",
+                "Jugador con más goles encajados en juego posicional en la Liga Colombiana"
+              ],
+              "responses": [
+                "El jugador que ha encajado más goles de posesión en la historia de la Liga Colombiana es Faryd Mondragón, con 9 goles."
+              ]
+            }
+          ]
+        }

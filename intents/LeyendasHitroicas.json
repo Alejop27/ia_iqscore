@@ -1,0 +1,394 @@
+{
+    "intents": [
+      {
+        "tag": "leyenda_global_pele",
+        "patterns": [
+          "¿Quién fue Pelé?",
+          "Háblame de Pelé",
+          "Logros de Pelé",
+          "Rey Pelé",
+          "Información sobre Edson Arantes do Nascimento"
+        ],
+        "responses": [
+          "Pelé (Edson Arantes do Nascimento) fue un futbolista brasileño, ampliamente considerado como uno de los mejores jugadores de todos los tiempos, si no el mejor. Ganó tres Copas del Mundo con Brasil (1958, 1962, 1970), un récord único. Jugó la mayor parte de su carrera en el Santos FC, marcando más de 1000 goles (incluyendo amistosos) y ganando numerosos títulos. Es un ícono global del fútbol, conocido por su habilidad, goles y carisma."
+        ]
+      },
+      {
+        "tag": "leyenda_global_maradona",
+        "patterns": [
+          "¿Quién fue Diego Maradona?",
+          "Háblame de Maradona",
+          "¿Qué hizo Maradona?",
+          "El Pelusa Maradona",
+          "Información sobre Diego Armando Maradona"
+        ],
+        "responses": [
+          "Diego Armando Maradona fue un futbolista argentino, considerado junto a Pelé como uno de los más grandes de la historia. Lideró a Argentina a ganar la Copa del Mundo de 1986, dejando actuaciones legendarias, incluyendo el 'Gol del Siglo' y la 'Mano de Dios' contra Inglaterra. Brilló en clubes como Argentinos Juniors, Boca Juniors, FC Barcelona y, sobre todo, el Napoli, donde se convirtió en un ídolo absoluto al ganar dos títulos de Serie A. Su talento, carácter y vida controvertida lo convirtieron en una figura mítica."
+        ]
+      },
+      {
+        "tag": "leyenda_global_messi",
+        "patterns": [
+          "¿Quién es Lionel Messi?",
+          "Háblame de Messi",
+          "Carrera de Lionel Messi",
+          "Logros de Messi",
+          "Información sobre Leo Messi"
+        ],
+        "responses": [
+          "Lionel Messi es un futbolista argentino, considerado uno de los mejores jugadores de todos los tiempos. Ha ganado un récord de 8 Balones de Oro. Pasó la mayor parte de su carrera en el FC Barcelona, donde ganó innumerables títulos, incluyendo 10 Ligas y 4 Champions League, convirtiéndose en el máximo goleador histórico del club. Con Argentina, ganó la Copa América 2021 y la Copa del Mundo 2022. Actualmente juega en el Inter Miami. Es conocido por su increíble habilidad de regate, visión de juego y capacidad goleadora."
+        ]
+      },
+      {
+        "tag": "leyenda_global_ronaldo_cristiano",
+        "patterns": [
+          "¿Quién es Cristiano Ronaldo?",
+          "Háblame de Cristiano Ronaldo",
+          "Carrera de CR7",
+          "Logros de Cristiano Ronaldo",
+          "Información sobre CR7"
+        ],
+        "responses": [
+          "Cristiano Ronaldo es un futbolista portugués, considerado uno de los mejores jugadores de la historia y uno de los máximos goleadores de todos los tiempos. Ha ganado 5 Balones de Oro. Ha tenido éxito en grandes clubes como el Manchester United (en dos etapas), Real Madrid (donde es el máximo goleador histórico) y Juventus. Ha ganado múltiples títulos de liga y 5 Champions League. Con Portugal, ganó la Eurocopa 2016. Es conocido por su físico, capacidad goleadora, profesionalismo y longevidad."
+        ]
+      },
+      {
+        "tag": "leyenda_global_cruyff",
+        "patterns": [
+          "¿Quién fue Johan Cruyff?",
+          "Háblame de Cruyff",
+          "Logros de Johan Cruyff",
+          "El Flaco Cruyff",
+          "Legado de Cruyff"
+        ],
+        "responses": [
+          "Johan Cruyff fue un futbolista y entrenador neerlandés, una de las figuras más influyentes en la historia del fútbol. Como jugador, lideró al Ajax a ganar 3 Copas de Europa consecutivas y a la selección de Países Bajos ('La Naranja Mecánica') a la final del Mundial 1974, personificando el 'Fútbol Total'. Ganó 3 Balones de Oro. Como entrenador, implantó un estilo de juego revolucionario en el FC Barcelona ('Dream Team'), sentando las bases de sus éxitos posteriores. Su filosofía de juego sigue siendo muy influyente."
+        ]
+      },
+      {
+        "tag": "leyenda_global_beckenbauer",
+        "patterns": [
+          "¿Quién fue Franz Beckenbauer?",
+          "Háblame de Beckenbauer",
+          "Logros de Beckenbauer",
+          "El Káiser Beckenbauer",
+          "Información sobre Franz Beckenbauer"
+        ],
+        "responses": [
+          "Franz Beckenbauer, apodado 'El Káiser', fue un futbolista y entrenador alemán, considerado uno de los mejores defensas (líbero) de la historia. Ganó la Copa del Mundo como capitán de Alemania Occidental en 1974 y como entrenador en 1990, un logro que solo comparten él, Mário Zagallo y Didier Deschamps. A nivel de clubes, lideró al Bayern Múnich a ganar 3 Copas de Europa consecutivas. Ganó 2 Balones de Oro."
+        ]
+      },
+      {
+        "tag": "leyenda_global_zidane",
+        "patterns": [
+          "¿Quién es Zinedine Zidane?",
+          "Háblame de Zidane",
+          "Carrera de Zizou",
+          "Logros de Zidane",
+          "Información sobre Zinedine Zidane"
+        ],
+        "responses": [
+          "Zinedine Zidane es un exfutbolista y entrenador francés, considerado uno de los centrocampistas más elegantes y talentosos de la historia. Ganó la Copa del Mundo 1998 y la Eurocopa 2000 con Francia. Brilló en clubes como la Juventus y el Real Madrid, ganando la Champions League con ambos y marcando un gol icónico en la final de 2002 para el Madrid. Ganó el Balón de Oro en 1998. Como entrenador del Real Madrid, ganó 3 Champions League consecutivas."
+        ]
+      },
+      {
+        "tag": "leyenda_global_distefano",
+        "patterns": [
+          "¿Quién fue Alfredo Di Stéfano?",
+          "Háblame de Di Stéfano",
+          "Logros de Alfredo Di Stéfano",
+          "La Saeta Rubia",
+          "Información sobre Di Stéfano"
+        ],
+        "responses": [
+          "Alfredo Di Stéfano, apodado 'La Saeta Rubia', fue un futbolista y entrenador argentino-español, considerado uno de los jugadores más completos de todos los tiempos. Fue la figura clave del Real Madrid que dominó Europa ganando las primeras 5 Copas de Europa (1956-1960), marcando en todas las finales. Ganó 2 Balones de Oro y múltiples ligas españolas. Jugó para las selecciones de Argentina y España."
+        ]
+      },
+      {
+        "tag": "leyenda_global_ronaldo_nazario",
+        "patterns": [
+          "¿Quién es Ronaldo Nazário?",
+          "Háblame de Ronaldo (El Fenómeno)",
+          "Carrera de Ronaldo Nazário",
+          "Logros de R9",
+          "Información sobre Ronaldo Luís Nazário de Lima"
+        ],
+        "responses": [
+          "Ronaldo Luís Nazário de Lima, conocido como Ronaldo o 'El Fenómeno', fue un delantero brasileño, considerado uno de los atacantes más letales y talentosos de la historia. Ganó dos Copas del Mundo con Brasil (1994 y 2002), siendo el máximo goleador en la edición de 2002. Ganó 2 Balones de Oro. Brilló en clubes como Cruzeiro, PSV, FC Barcelona, Inter de Milán, Real Madrid y Corinthians. A pesar de graves lesiones de rodilla, su velocidad, regate y definición marcaron una época."
+        ]
+      },
+      {
+        "tag": "leyenda_global_maldini",
+        "patterns": [
+          "¿Quién es Paolo Maldini?",
+          "Háblame de Maldini",
+          "Carrera de Paolo Maldini",
+          "Logros de Maldini",
+          "Información sobre el eterno capitán del Milan"
+        ],
+        "responses": [
+          "Paolo Maldini es un exfutbolista italiano, considerado uno de los mejores defensas de todos los tiempos. Jugó toda su carrera (25 temporadas) en el AC Milan, donde fue capitán durante muchos años. Ganó 7 títulos de Serie A y 5 Copas de Europa/Champions League. Podía jugar tanto de lateral izquierdo como de defensa central con igual maestría. Era conocido por su elegancia, inteligencia táctica, liderazgo y longevidad."
+        ]
+      },
+      {
+          "tag": "leyenda_global_platini",
+          "patterns": [
+            "¿Quién fue Michel Platini?",
+            "Háblame de Platini",
+            "Carrera de Michel Platini",
+            "Logros de Platini",
+            "Información sobre Le Roi Platini"
+          ],
+          "responses": [
+            "Michel Platini fue un futbolista francés, considerado uno de los mejores centrocampistas ofensivos y lanzadores de faltas de la historia. Ganó 3 Balones de Oro consecutivos (1983-1985). Lideró a Francia a ganar la Eurocopa 1984, siendo el máximo goleador del torneo. A nivel de clubes, brilló especialmente en la Juventus, donde ganó la Copa de Europa en 1985. Tras su retiro, fue presidente de la UEFA."
+          ]
+        },
+        {
+          "tag": "leyenda_global_puskas",
+          "patterns": [
+            "¿Quién fue Ferenc Puskás?",
+            "Háblame de Puskás",
+            "Carrera de Ferenc Puskás",
+            "Logros de Puskás",
+            "Información sobre el Cañoncito Pum"
+          ],
+          "responses": [
+            "Ferenc Puskás fue un futbolista húngaro-español, uno de los delanteros más prolíficos de la historia. Fue el capitán de la legendaria selección húngara de los años 50 ('Equipo de Oro'). Tras la Revolución Húngara de 1956, fichó por el Real Madrid, formando una dupla letal con Di Stéfano y ganando 3 Copas de Europa. Era conocido por su increíble zurda y capacidad goleadora. El premio de la FIFA al mejor gol del año lleva su nombre."
+          ]
+        },
+        {
+          "tag": "leyenda_global_best",
+          "patterns": [
+            "¿Quién fue George Best?",
+            "Háblame de Best",
+            "Carrera de George Best",
+            "Logros de Best",
+            "Información sobre El Quinto Beatle"
+          ],
+          "responses": [
+            "George Best fue un futbolista norirlandés, considerado uno de los jugadores más talentosos de la historia. Brilló en el Manchester United, donde ganó la Copa de Europa en 1968 y el Balón de Oro ese mismo año. Era famoso por su habilidad para el regate, su velocidad y su carisma, convirtiéndose en una de las primeras superestrellas mediáticas del fútbol. Su carrera, sin embargo, se vio truncada por problemas extradeportivos."
+          ]
+        },
+        {
+          "tag": "leyenda_global_eusebio",
+          "patterns": [
+            "¿Quién fue Eusébio?",
+            "Háblame de Eusébio",
+            "Carrera de Eusébio da Silva Ferreira",
+            "Logros de Eusébio",
+            "Información sobre La Pantera Negra"
+          ],
+          "responses": [
+            "Eusébio da Silva Ferreira, conocido como Eusébio, fue un futbolista portugués nacido en Mozambique, considerado uno de los mejores delanteros de todos los tiempos. Apodado 'La Pantera Negra', brilló en el Benfica, donde ganó la Copa de Europa en 1962 y múltiples ligas portuguesas, siendo el máximo goleador histórico del club. Ganó el Balón de Oro en 1965. Lideró a Portugal al tercer puesto en el Mundial 1966, siendo el máximo goleador del torneo."
+          ]
+        },
+        {
+          "tag": "leyenda_global_garrincha",
+          "patterns": [
+            "¿Quién fue Garrincha?",
+            "Háblame de Garrincha",
+            "Carrera de Mané Garrincha",
+            "Logros de Garrincha",
+            "Información sobre el Ángel de las Piernas Torcidas"
+          ],
+          "responses": [
+            "Manuel Francisco dos Santos, conocido como Mané Garrincha, fue un futbolista brasileño, considerado uno de los mejores regateadores de la historia. Apodado 'La Alegría del Pueblo' y 'El Ángel de las Piernas Torcidas' (debido a una deformidad congénita), fue fundamental en las victorias de Brasil en los Mundiales de 1958 y 1962. En 1962, tras la lesión de Pelé, lideró al equipo al título siendo la gran figura. Jugó la mayor parte de su carrera en el Botafogo."
+          ]
+        },
+        {
+          "tag": "leyenda_global_yashin",
+          "patterns": [
+            "¿Quién fue Lev Yashin?",
+            "Háblame de Yashin",
+            "Carrera de Lev Yashin",
+            "Logros de Yashin",
+            "Información sobre La Araña Negra"
+          ],
+          "responses": [
+            "Lev Yashin fue un portero soviético, considerado por muchos como el mejor guardameta de la historia del fútbol. Apodado 'La Araña Negra' por su vestimenta y agilidad, jugó toda su carrera en el Dinamo de Moscú. Es el único portero en haber ganado el Balón de Oro (1963). Ganó la medalla de oro olímpica en 1956 y la Eurocopa en 1960 con la Unión Soviética. Revolucionó la posición del portero con su autoridad en el área y su habilidad para iniciar ataques."
+          ]
+        },
+        {
+          "tag": "leyenda_global_bobby_charlton",
+          "patterns": [
+            "¿Quién fue Sir Bobby Charlton?",
+            "Háblame de Bobby Charlton",
+            "Carrera de Bobby Charlton",
+            "Logros de Bobby Charlton",
+            "Información sobre Sir Bobby"
+          ],
+          "responses": [
+            "Sir Bobby Charlton fue un futbolista inglés, leyenda del Manchester United y de la selección inglesa. Sobrevivió al Desastre Aéreo de Múnich en 1958. Fue una figura clave en la reconstrucción del United, con el que ganó la Copa de Europa en 1968. Lideró a Inglaterra a ganar su única Copa del Mundo en 1966, año en que también ganó el Balón de Oro. Era un centrocampista ofensivo conocido por sus potentes disparos y su caballerosidad."
+          ]
+        },
+        {
+          "tag": "leyenda_global_buffon",
+          "patterns": [
+            "¿Quién es Gianluigi Buffon?",
+            "Háblame de Buffon",
+            "Carrera de Gigi Buffon",
+            "Logros de Buffon",
+            "Información sobre Gianluigi Buffon"
+          ],
+          "responses": [
+            "Gianluigi Buffon es un exfutbolista italiano, considerado uno de los mejores porteros de todos los tiempos. Tuvo una carrera excepcionalmente larga al más alto nivel, jugando principalmente para la Juventus (donde ganó múltiples títulos de Serie A) y el Parma. Con la selección italiana, ganó la Copa del Mundo de 2006. Es el jugador con más partidos en la historia de la Serie A y de la selección italiana. Era conocido por su liderazgo, reflejos y consistencia."
+          ]
+        },
+        {
+          "tag": "leyenda_global_iniesta",
+          "patterns": [
+            "¿Quién es Andrés Iniesta?",
+            "Háblame de Iniesta",
+            "Carrera de Andrés Iniesta",
+            "Logros de Iniesta",
+            "Información sobre el héroe de Stamford Bridge y Johannesburgo"
+          ],
+          "responses": [
+            "Andrés Iniesta es un futbolista español, considerado uno de los mejores centrocampistas de su generación. Fue una pieza clave del FC Barcelona y de la selección española durante su época más gloriosa. Ganó 9 Ligas y 4 Champions League con el Barça. Con España, ganó dos Eurocopas (2008, 2012) y la Copa del Mundo 2010, marcando el gol decisivo en la final. Es admirado por su visión de juego, control del balón, regate y humildad."
+          ]
+        },
+        {
+          "tag": "leyenda_global_xavi",
+          "patterns": [
+            "¿Quién es Xavi Hernández?",
+            "Háblame de Xavi",
+            "Carrera de Xavi Hernández",
+            "Logros de Xavi",
+            "Información sobre el maestro del pase"
+          ],
+          "responses": [
+            "Xavi Hernández es un exfutbolista y entrenador español, considerado uno de los mejores centrocampistas organizadores de la historia. Fue el cerebro del FC Barcelona y de la selección española durante su edad de oro, personificando el estilo de juego 'tiki-taka'. Ganó 8 Ligas y 4 Champions League con el Barça. Con España, ganó dos Eurocopas (2008, 2012) y la Copa del Mundo 2010. Era conocido por su increíble precisión en el pase, visión de juego e inteligencia táctica."
+          ]
+        },
+         {
+          "tag": "leyenda_pl_henry",
+          "patterns": [
+            "¿Quién es Thierry Henry?",
+            "Háblame de Henry en el Arsenal",
+            "Carrera de Thierry Henry",
+            "Logros de Henry",
+            "Información sobre Tití Henry"
+          ],
+          "responses": [
+            "Thierry Henry es un exfutbolista francés, leyenda del Arsenal FC y considerado uno de los mejores delanteros de la era Premier League. Es el máximo goleador histórico del Arsenal, donde ganó 2 títulos de liga (incluyendo la temporada invicta 2003-04) y 3 FA Cups. Ganó 4 Botas de Oro de la Premier League. También ganó la Copa del Mundo 1998 y la Eurocopa 2000 con Francia, y la Champions League con el FC Barcelona. Era conocido por su velocidad, elegancia, técnica y definición."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_cantona",
+          "patterns": [
+            "¿Quién fue Eric Cantona?",
+            "Háblame de Cantona en el Man Utd",
+            "Carrera de Eric Cantona",
+            "Logros de Cantona",
+            "Información sobre El Rey Cantona"
+          ],
+          "responses": [
+            "Eric Cantona fue un futbolista francés, figura icónica y catalizador del éxito del Manchester United en los primeros años de la Premier League. Apodado 'Le Roi' (El Rey), jugó en el United entre 1992 y 1997, ganando 4 títulos de liga en 5 temporadas. Era conocido por su inmenso talento, carisma, visión de juego, goles espectaculares y su cuello de la camiseta levantado. Su fichaje es considerado uno de los más influyentes en la historia del club."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_giggs",
+          "patterns": [
+            "¿Quién es Ryan Giggs?",
+            "Háblame de Giggs en el Man Utd",
+            "Carrera de Ryan Giggs",
+            "Logros de Giggs",
+            "Información sobre la leyenda galesa del United"
+          ],
+          "responses": [
+            "Ryan Giggs es un exfutbolista galés que pasó toda su carrera profesional (1990-2014) en el Manchester United. Es el jugador con más partidos en la historia del club y el futbolista británico más laureado de todos los tiempos. Ganó un récord de 13 títulos de Premier League, 4 FA Cups y 2 Champions League, entre otros muchos trofeos. Comenzó como un extremo rápido y regateador, y adaptó su juego para seguir siendo influyente durante más de dos décadas."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_shearer",
+          "patterns": [
+            "¿Quién es Alan Shearer?",
+            "Háblame de Shearer",
+            "Carrera de Alan Shearer",
+            "Logros de Shearer",
+            "Información sobre el máximo goleador de la Premier"
+          ],
+          "responses": [
+            "Alan Shearer es un exfutbolista inglés, el máximo goleador histórico de la Premier League con 260 goles. Jugó para Southampton, Blackburn Rovers (donde ganó el título de liga en 1995) y Newcastle United, su club de infancia y donde se convirtió en leyenda. Ganó la Bota de Oro de la Premier League en 3 ocasiones. Era un delantero centro clásico, conocido por su potencia física, remate certero y celebración icónica con el brazo levantado."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_gerrard",
+          "patterns": [
+            "¿Quién es Steven Gerrard?",
+            "Háblame de Gerrard en el Liverpool",
+            "Carrera de Steven Gerrard",
+            "Logros de Gerrard",
+            "Información sobre Stevie G"
+          ],
+          "responses": [
+            "Steven Gerrard es un exfutbolista inglés, leyenda absoluta y excapitán del Liverpool FC. Jugó la mayor parte de su carrera (1998-2015) en Anfield. Aunque no ganó la Premier League, lideró al equipo a ganar la FA Cup (dos veces), la Copa de la UEFA y, sobre todo, la Champions League en 2005, protagonizando la histórica remontada en la final de Estambul. Era un centrocampista 'box-to-box' conocido por su liderazgo, pases largos, potentes disparos y goles decisivos."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_lampard",
+          "patterns": [
+            "¿Quién es Frank Lampard?",
+            "Háblame de Lampard en el Chelsea",
+            "Carrera de Frank Lampard",
+            "Logros de Lampard",
+            "Información sobre Super Frankie Lampard"
+          ],
+          "responses": [
+            "Frank Lampard es un exfutbolista y entrenador inglés, leyenda del Chelsea FC. Jugó como centrocampista en el club entre 2001 y 2014, convirtiéndose en su máximo goleador histórico (211 goles), un logro notable para un centrocampista. Ganó 3 títulos de Premier League, 4 FA Cups y la Champions League en 2012. Era conocido por su inteligencia, llegada desde segunda línea, resistencia y precisión en los disparos."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_rooney",
+          "patterns": [
+            "¿Quién es Wayne Rooney?",
+            "Háblame de Rooney",
+            "Carrera de Wayne Rooney",
+            "Logros de Rooney",
+            "Información sobre Wazza"
+          ],
+          "responses": [
+            "Wayne Rooney es un exfutbolista y entrenador inglés, leyenda del Manchester United y de la selección inglesa. Es el máximo goleador histórico del Manchester United (superando a Sir Bobby Charlton) y fue durante años el de la selección inglesa (superado luego por Harry Kane). Ganó 5 títulos de Premier League y la Champions League con el United. Irrumpió como un joven prodigio en el Everton y fue conocido por su talento, garra, versatilidad y espectaculares goles."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_scholes",
+          "patterns": [
+            "¿Quién es Paul Scholes?",
+            "Háblame de Scholes",
+            "Carrera de Paul Scholes",
+            "Logros de Scholes",
+            "Información sobre la leyenda silenciosa del United"
+          ],
+          "responses": [
+            "Paul Scholes es un exfutbolista inglés, considerado uno de los mejores centrocampistas de su generación. Pasó toda su carrera en el Manchester United (1993-2011 y 2012-2013), formando parte de la famosa 'Clase del 92'. Era admirado por su inteligencia táctica, rango de pase (corto y largo), visión de juego y potentes disparos desde fuera del área. Ganó 11 títulos de Premier League y 2 Champions League. A pesar de su timidez fuera del campo, era muy respetado por compañeros y rivales."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_keane",
+          "patterns": [
+            "¿Quién es Roy Keane?",
+            "Háblame de Keane",
+            "Carrera de Roy Keane",
+            "Logros de Keane",
+            "Información sobre el capitán Keano"
+          ],
+          "responses": [
+            "Roy Keane es un exfutbolista y comentarista irlandés, legendario capitán del Manchester United durante su época más dominante en la Premier League. Jugó en el club entre 1993 y 2005, ganando 7 títulos de liga y la Champions League en 1999 (aunque se perdió la final por sanción). Era un centrocampista defensivo conocido por su feroz competitividad, liderazgo implacable, entradas duras y su capacidad para impulsar al equipo. Tuvo una famosa rivalidad con Patrick Vieira del Arsenal."
+          ]
+        },
+        {
+          "tag": "leyenda_pl_vieira",
+          "patterns": [
+            "¿Quién es Patrick Vieira?",
+            "Háblame de Vieira",
+            "Carrera de Patrick Vieira",
+            "Logros de Vieira",
+            "Información sobre el capitán de los Invencibles"
+          ],
+          "responses": [
+            "Patrick Vieira es un exfutbolista y entrenador francés, leyenda y excapitán del Arsenal FC. Jugó en el club entre 1996 y 2005, liderando al equipo durante la famosa temporada de los 'Invencibles' (2003-04). Ganó 3 títulos de Premier League y 4 FA Cups con los Gunners. Era un centrocampista 'box-to-box' dominante, conocido por su físico imponente, zancada, habilidad técnica, liderazgo y temperamento. Su rivalidad con Roy Keane es una de las más recordadas de la Premier League. También ganó la Copa del Mundo 1998 y la Eurocopa 2000 con Francia."
+          ]
+        }
+      ]
+  }

@@ -1,0 +1,873 @@
+{
+    "intents": [
+      {
+        "tag": "afa_info",
+        "patterns": [
+          "¿Qué es la AFA?",
+          "Significado de AFA",
+          "Asociación del Fútbol Argentino",
+          "Organismo rector del fútbol argentino"
+        ],
+        "responses": [
+          "La AFA (Asociación del Fútbol Argentino) es el ente rector del fútbol en Argentina. Fundada en 1893, es la asociación de fútbol más antigua de Sudamérica y una de las más antiguas del mundo. Organiza los torneos de liga, las copas nacionales y administra las selecciones nacionales (masculina, femenina, juveniles)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_historia",
+        "patterns": [
+          "¿Cuándo empezó la liga argentina de fútbol?",
+          "Historia del fútbol profesional argentino",
+          "Origen del campeonato argentino"
+        ],
+        "responses": [
+          "El primer campeonato de liga en Argentina se disputó en 1891 (amateur). La era profesional comenzó en 1931 con la creación de la Liga Argentina de Football, que luego se integró a la AFA. Desde entonces, ha tenido numerosos cambios de formato y es conocida por su competitividad y pasión."
+        ]
+      },
+      {
+        "tag": "liga_argentina_formato_actual",
+        "patterns": [
+          "¿Cómo es el formato actual de la liga argentina?",
+          "Formato Liga Profesional de Fútbol Argentina",
+          "¿Cómo se juega el torneo argentino hoy?"
+        ],
+        "responses": [
+          "El formato de la primera división argentina (Liga Profesional de Fútbol) ha cambiado frecuentemente. A partir de 2023-2024, generalmente incluye un torneo de liga anual (todos contra todos) y una Copa de la Liga (formato de grupos y playoffs) por temporada. También existen promedios para determinar los descensos, aunque este sistema ha estado bajo revisión."
+        ]
+      },
+      {
+        "tag": "liga_argentina_formato_anterior",
+        "patterns": [
+          "¿Qué eran los torneos Apertura y Clausura?",
+          "Formato antiguo liga argentina",
+          "Torneos cortos en Argentina"
+        ],
+        "responses": [
+          "Durante muchos años (1991-2012 aproximadamente), la temporada argentina se dividió en dos torneos cortos por temporada: Apertura (primera mitad del año) y Clausura (segunda mitad). Cada uno coronaba a un campeón. Este formato fue muy popular pero luego se reemplazó por torneos largos y otros formatos."
+        ]
+      },
+       {
+        "tag": "liga_argentina_descensos_promedios",
+        "patterns": [
+          "¿Cómo funcionan los descensos en Argentina?",
+          "¿Qué son los promedios en el fútbol argentino?",
+          "Sistema de descenso por promedio"
+        ],
+        "responses": [
+          "Históricamente, Argentina ha utilizado un sistema de descenso basado en promedios para determinar qué equipos bajan de categoría. Se calcula el promedio de puntos obtenidos por un equipo dividido por la cantidad de partidos jugados en las últimas temporadas (generalmente tres). Los equipos con peor promedio descienden. Este sistema busca proteger a los equipos grandes de un mal año, pero es controvertido."
+        ]
+      },
+      {
+        "tag": "liga_argentina_mas_titulos",
+        "patterns": [
+          "¿Qué equipo ha ganado más ligas argentinas?",
+          "Equipo con más campeonatos argentinos",
+          "Máximo ganador del fútbol argentino (liga)"
+        ],
+        "responses": [
+          "River Plate es el club que ha ganado más títulos de Primera División en la historia del fútbol argentino (sumando amateurismo y profesionalismo)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_cinco_grandes",
+        "patterns": [
+          "¿Quiénes son los cinco grandes del fútbol argentino?",
+          "¿Cuáles son los equipos grandes de Argentina?",
+          "Concepto de los Cinco Grandes"
+        ],
+        "responses": [
+          "Se denomina 'los cinco grandes' a los clubes más populares e históricamente exitosos de Argentina: Boca Juniors, River Plate, Independiente, Racing Club y San Lorenzo de Almagro. Esta denominación se originó por una decisión de la AFA en los años 30 sobre el voto ponderado basado en socios y antigüedad."
+        ]
+      },
+      {
+        "tag": "club_arg_info_boca",
+        "patterns": [
+          "Háblame de Boca Juniors",
+          "Información sobre Boca",
+          "¿Qué es Boca Juniors?",
+          "Club Atlético Boca Juniors",
+          "Xeneizes"
+        ],
+        "responses": [
+          "Boca Juniors es uno de los dos clubes más populares y exitosos de Argentina, con sede en el barrio de La Boca, Buenos Aires. Fundado en 1905, juega en el icónico estadio La Bombonera. Conocidos como 'Xeneizes', tienen una rica historia de títulos nacionales e internacionales, destacando 6 Copas Libertadores. Su rivalidad con River Plate (Superclásico) es una de las más grandes del mundo."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_liga_boca",
+        "patterns": [
+          "¿Cuántas ligas argentinas tiene Boca Juniors?",
+          "Campeonatos locales de Boca"
+        ],
+        "responses": [
+          "Boca Juniors ha ganado numerosos títulos de la Primera División argentina, siendo el segundo club con más campeonatos locales en la era profesional, muy cerca de River Plate. Han ganado más de 30 ligas profesionales."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_libertadores_boca",
+        "patterns": [
+          "¿Cuántas Copas Libertadores tiene Boca Juniors?",
+          "Libertadores ganadas por Boca"
+        ],
+        "responses": [
+          "Boca Juniors ha ganado la Copa Libertadores 6 veces (1977, 1978, 2000, 2001, 2003, 2007), siendo el segundo máximo ganador histórico del torneo detrás de Independiente."
+        ]
+      },
+       {
+        "tag": "club_arg_titulos_intercontinental_boca",
+        "patterns": [
+          "¿Cuántas Copas Intercontinentales tiene Boca Juniors?",
+          "Mundiales de Clubes ganados por Boca"
+        ],
+        "responses": [
+          "Boca Juniors ha ganado la Copa Intercontinental 3 veces (1977, 2000, 2003), enfrentando al campeón de Europa. Es uno de los clubes con más títulos mundiales a nivel de clubes."
+        ]
+      },
+      {
+        "tag": "club_arg_estadio_boca",
+        "patterns": [
+          "¿Cuál es el estadio de Boca Juniors?",
+          "¿Cómo se llama la cancha de Boca?",
+          "La Bombonera"
+        ],
+        "responses": [
+          "El estadio de Boca Juniors es el Estadio Alberto J. Armando, mundialmente conocido como 'La Bombonera'. Inaugurado en 1940, es famoso por su estructura única con una tribuna casi vertical ('la doce') y su acústica que hace que 'lata' (vibre) cuando la hinchada salta. Es uno de los estadios más míticos del mundo."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_boca_maradona",
+        "patterns": [
+          "¿Jugó Maradona en Boca?",
+          "Maradona en Boca Juniors",
+          "Paso de Diego por Boca"
+        ],
+        "responses": [
+          "Sí, Diego Armando Maradona, el ídolo máximo del fútbol argentino, tuvo dos etapas en Boca Juniors. La primera en 1981, donde fue campeón del Metropolitano antes de irse a Europa, dejando una huella imborrable. Regresó para retirarse entre 1995 y 1997. Siempre se declaró hincha de Boca."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_boca_riquelme",
+        "patterns": [
+          "¿Quién es Juan Román Riquelme?",
+          "Riquelme en Boca Juniors",
+          "Ídolo de Boca: Riquelme"
+        ],
+        "responses": [
+          "Juan Román Riquelme es uno de los máximos ídolos de la historia de Boca Juniors. Un enganche clásico, famoso por su visión de juego, pausa y pases exquisitos. Lideró a Boca a ganar 3 Copas Libertadores (2000, 2001, 2007), siendo figura clave en todas. Actualmente es el presidente del club."
+        ]
+      },
+       {
+        "tag": "club_arg_idolos_boca_palermo",
+        "patterns": [
+          "¿Quién es Martín Palermo?",
+          "Palermo en Boca Juniors",
+          "Goles de Palermo",
+          "El Titán"
+        ],
+        "responses": [
+          "Martín Palermo, apodado 'El Titán' o 'El Loco', es el máximo goleador histórico de Boca Juniors. Un delantero centro conocido por su olfato de gol, su potencia y por marcar goles importantes y a menudo inverosímiles. Ganó múltiples títulos con Boca, incluyendo 2 Libertadores y 2 Intercontinentales."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_boca_tevez",
+        "patterns": [
+          "¿Quién es Carlos Tevez?",
+          "Tevez en Boca Juniors",
+          "El Apache"
+        ],
+        "responses": [
+          "Carlos Tevez, 'El Apache', es otro gran ídolo surgido de la cantera de Boca. Ganó la Copa Libertadores y la Intercontinental en 2003 antes de triunfar en Europa. Regresó a Boca en varias etapas, demostrando su liderazgo y ganando varios títulos locales. Actualmente es entrenador."
+        ]
+      },
+       {
+        "tag": "club_arg_epoca_dorada_boca_bianchi",
+        "patterns": [
+          "¿Cuál fue la época dorada de Boca con Bianchi?",
+          "El Boca de Bianchi",
+          "Logros de Carlos Bianchi en Boca"
+        ],
+        "responses": [
+          "La etapa de Carlos Bianchi como entrenador de Boca Juniors (1998-2001 y 2003-2004) es considerada la más exitosa de la historia del club. Ganó 3 Copas Libertadores (2000, 2001, 2003), 2 Copas Intercontinentales (2000 vs Real Madrid, 2003 vs Milan) y varios títulos locales, con un equipo plagado de figuras como Riquelme, Palermo, Schelotto, Córdoba, Bermúdez, Serna."
+        ]
+      },
+      {
+        "tag": "club_arg_info_river",
+        "patterns": [
+          "Háblame de River Plate",
+          "Información sobre River",
+          "¿Qué es River Plate?",
+          "Club Atlético River Plate",
+          "Millonarios",
+          "Gallinas"
+        ],
+        "responses": [
+          "River Plate es el otro club más popular y el más ganador de ligas locales en Argentina, con sede en el barrio de Núñez, Buenos Aires. Fundado en 1901, juega en el Estadio Monumental (el más grande del país). Conocidos como 'Millonarios', tienen una historia de grandes equipos y jugadores ('La Máquina'), 4 Copas Libertadores y una intensa rivalidad con Boca Juniors (Superclásico)."
+        ]
+      },
+       {
+        "tag": "club_arg_titulos_liga_river",
+        "patterns": [
+          "¿Cuántas ligas argentinas tiene River Plate?",
+          "Campeonatos locales de River"
+        ],
+        "responses": [
+          "River Plate es el club más ganador de la Primera División argentina en la era profesional, superando los 35 títulos de liga."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_libertadores_river",
+        "patterns": [
+          "¿Cuántas Copas Libertadores tiene River Plate?",
+          "Libertadores ganadas por River"
+        ],
+        "responses": [
+          "River Plate ha ganado la Copa Libertadores 4 veces: 1986, 1996, 2015 y 2018. La última fue especialmente significativa al ganarla en Madrid contra Boca Juniors."
+        ]
+      },
+       {
+        "tag": "club_arg_titulos_intercontinental_river",
+        "patterns": [
+          "¿Cuántas Copas Intercontinentales / Mundiales de Clubes tiene River Plate?",
+          "Títulos mundiales de River"
+        ],
+        "responses": [
+          "River Plate ha ganado la Copa Intercontinental una vez, en 1986, venciendo al Steaua Bucarest. No ha logrado ganar el Mundial de Clubes de la FIFA en sus participaciones posteriores."
+        ]
+      },
+      {
+        "tag": "club_arg_estadio_river",
+        "patterns": [
+          "¿Cuál es el estadio de River Plate?",
+          "¿Cómo se llama la cancha de River?",
+          "El Monumental"
+        ],
+        "responses": [
+          "El estadio de River Plate es el Estadio Antonio Vespucio Liberti, más conocido como 'El Monumental'. Es el estadio con mayor capacidad de Argentina y sede habitual de los partidos de la Selección Argentina. Ha albergado finales de Mundial (1978) y Copa América."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_river_labruna",
+        "patterns": [
+          "¿Quién fue Ángel Labruna?",
+          "Labruna en River Plate",
+          "Máximo goleador de River y Superclásicos"
+        ],
+        "responses": [
+          "Ángel Labruna es uno de los máximos ídolos de la historia de River Plate. Fue miembro de la legendaria delantera 'La Máquina' en los años 40. Es el máximo goleador histórico del club y también el máximo goleador en la historia del Superclásico contra Boca Juniors. También fue un exitoso entrenador en River."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_river_francescoli",
+        "patterns": [
+          "¿Quién es Enzo Francescoli?",
+          "Francescoli en River Plate",
+          "El Príncipe"
+        ],
+        "responses": [
+          "Enzo Francescoli, 'El Príncipe', es un exfutbolista uruguayo y uno de los grandes ídolos de River Plate. Tuvo dos etapas exitosas en el club, destacando por su elegancia, técnica y liderazgo. Ganó la Copa Libertadores en 1996. Actualmente trabaja como director deportivo del club."
+        ]
+      },
+       {
+        "tag": "club_arg_idolos_river_ortega",
+        "patterns": [
+          "¿Quién es Ariel Ortega?",
+          "Ortega en River Plate",
+          "El Burrito Ortega"
+        ],
+        "responses": [
+          "Ariel 'El Burrito' Ortega es otro gran ídolo de River Plate, surgido de la cantera. Un gambeteador excepcional, talentoso y querido por la hinchada. Tuvo varias etapas en el club, ganando la Copa Libertadores de 1996 y múltiples títulos locales."
+        ]
+      },
+       {
+        "tag": "club_arg_epoca_dorada_river_gallardo",
+        "patterns": [
+          "¿Cuál fue la época dorada de River con Gallardo?",
+          "El River de Gallardo",
+          "Logros de Marcelo Gallardo en River"
+        ],
+        "responses": [
+          "La etapa de Marcelo Gallardo como entrenador de River Plate (2014-2022) es considerada la más exitosa en la historia internacional del club y una de las mejores de siempre. Ganó 2 Copas Libertadores (2015 y 2018, esta última contra Boca en Madrid), 1 Copa Sudamericana, 3 Recopas Sudamericanas, además de ligas y copas nacionales. Se caracterizó por un estilo de juego ofensivo y una fuerte mentalidad competitiva."
+        ]
+      },
+        {
+        "tag": "manager_arg_info_gallardo",
+        "patterns": [
+          "Háblame de Marcelo Gallardo como entrenador",
+          "Carrera de Gallardo como DT",
+          "El Muñeco Gallardo"
+        ],
+        "responses": [
+          "Marcelo Gallardo, 'El Muñeco', es el entrenador más ganador de la historia de River Plate. Durante su ciclo (2014-2022) transformó al club, logrando 14 títulos, incluyendo 2 Copas Libertadores (una contra Boca), y consolidando un estilo de juego protagonista y una mentalidad ganadora. Es considerado uno de los mejores entrenadores del mundo."
+        ]
+      },
+      {
+        "tag": "clasico_superclasico",
+        "patterns": [
+          "¿Cuál es el Superclásico del fútbol argentino?",
+          "Boca vs River",
+          "River vs Boca",
+          "El partido más importante de Argentina"
+        ],
+        "responses": [
+          "El Superclásico es el partido que enfrenta a Boca Juniors y River Plate. Es considerado uno de los derbis más intensos, importantes y famosos del mundo, paralizando a todo el país. La rivalidad histórica, la popularidad de ambos clubes y la pasión de sus hinchadas lo convierten en un espectáculo único."
+        ]
+      },
+       {
+        "tag": "clasico_superclasico_origen",
+        "patterns": [
+          "¿Por qué existe la rivalidad Boca-River?",
+          "Origen del Superclásico",
+          "Historia de la rivalidad Boca vs River"
+        ],
+        "responses": [
+          "La rivalidad nació a principios del siglo XX. Ambos clubes se originaron en el barrio de La Boca, pero River luego se mudó a Núñez, una zona más acomodada. Esto generó una dicotomía social (aunque hoy ambos tienen hinchas de todas las clases). La competencia deportiva por ser el más grande hizo el resto."
+        ]
+      },
+      {
+        "tag": "club_arg_info_independiente",
+        "patterns": [
+          "Háblame de Independiente",
+          "Información sobre Independiente de Avellaneda",
+          "¿Qué es Independiente?",
+          "Club Atlético Independiente",
+          "El Rojo",
+          "Rey de Copas"
+        ],
+        "responses": [
+          "Independiente es otro de los cinco grandes, con sede en Avellaneda (provincia de Buenos Aires). Conocido como 'El Rojo' o 'Rey de Copas', ostenta el récord de ser el club que más veces ha ganado la Copa Libertadores, con 7 títulos (incluyendo cuatro consecutivos en los 70s). Su estadio es el Libertadores de América. Su clásico rival es Racing Club."
+        ]
+      },
+       {
+        "tag": "club_arg_titulos_liga_independiente",
+        "patterns": [
+          "¿Cuántas ligas argentinas tiene Independiente?",
+          "Campeonatos locales de Independiente"
+        ],
+        "responses": [
+          "Independiente ha ganado la Primera División argentina en numerosas ocasiones, siendo el tercer club con más títulos de liga profesional, detrás de River y Boca."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_libertadores_independiente",
+        "patterns": [
+          "¿Cuántas Copas Libertadores tiene Independiente?",
+          "Libertadores ganadas por Independiente",
+          "¿Por qué le dicen Rey de Copas a Independiente?"
+        ],
+        "responses": [
+          "Independiente es el máximo ganador histórico de la Copa Libertadores, con 7 títulos (1964, 1965, 1972, 1973, 1974, 1975, 1984). Ganaron las 7 finales que disputaron. Este récord le valió el apodo de 'Rey de Copas'."
+        ]
+      },
+       {
+        "tag": "club_arg_estadio_independiente",
+        "patterns": [
+          "¿Cuál es el estadio de Independiente?",
+          "¿Cómo se llama la cancha de Independiente?",
+          "Libertadores de América"
+        ],
+        "responses": [
+          "El estadio de Independiente es el Estadio Libertadores de América - Ricardo Enrique Bochini. Fue remodelado sobre el antiguo estadio ('La Doble Visera'). Lleva el nombre del máximo ídolo del club."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_independiente_bochini",
+        "patterns": [
+          "¿Quién es Ricardo Bochini?",
+          "Bochini en Independiente",
+          "El Bocha"
+        ],
+        "responses": [
+          "Ricardo Enrique Bochini, 'El Bocha', es el máximo ídolo de la historia de Independiente y uno de los mejores '10' del fútbol argentino. Jugó toda su carrera en Independiente (1972-1991), ganando 4 Copas Libertadores, 2 Intercontinentales y varios títulos locales. Era admirado por su inteligencia, pases filtrados ('pase bochinesco') y fue el ídolo de Maradona."
+        ]
+      },
+       {
+        "tag": "jugador_arg_info_bochini",
+        "patterns": [
+            "Háblame más de Bochini",
+            "Carrera de Ricardo Bochini",
+            "Estilo de juego del Bocha"
+        ],
+        "responses": [
+            "Bochini fue un 'enganche' clásico, cerebral, que no destacaba por su físico pero sí por una inteligencia superlativa para leer el juego y habilitar compañeros con pases milimétricos entre líneas. Es un 'one-club man', símbolo eterno de Independiente, y campeón del mundo con Argentina en 1986 (aunque jugó pocos minutos)."
+        ]
+    },
+      {
+        "tag": "club_arg_idolos_independiente_bertoni",
+        "patterns": [
+          "¿Quién fue Daniel Bertoni?",
+          "Bertoni en Independiente"
+        ],
+        "responses": [
+          "Daniel Bertoni fue un excepcional delantero/extremo derecho que brilló en Independiente en los años 70, formando una dupla letal con Bochini. Ganó 3 Copas Libertadores y 1 Intercontinental con el club. También fue campeón del mundo con Argentina en 1978, marcando un gol en la final."
+        ]
+      },
+       {
+        "tag": "club_arg_idolos_independiente_burruchaga",
+        "patterns": [
+          "¿Quién es Jorge Burruchaga?",
+          "Burruchaga en Independiente"
+        ],
+        "responses": [
+          "Jorge Burruchaga fue un talentoso mediocampista ofensivo/delantero, figura clave en Independiente campeón de la Libertadores y la Intercontinental en 1984. Es mundialmente famoso por marcar el gol de la victoria para Argentina en la final del Mundial 1986 contra Alemania, tras pase de Maradona."
+        ]
+      },
+      {
+        "tag": "club_arg_info_racing",
+        "patterns": [
+          "Háblame de Racing Club",
+          "Información sobre Racing de Avellaneda",
+          "¿Qué es Racing?",
+          "Racing Club de Avellaneda",
+          "La Academia"
+        ],
+        "responses": [
+          "Racing Club es otro de los cinco grandes, también de Avellaneda, vecino y clásico rival de Independiente. Conocido como 'La Academia' por la excelencia de sus equipos amateurs y de los años 50-60. Fue el primer club argentino en ganar la Copa Intercontinental (1967, 'El Equipo de José'). Su estadio es El Cilindro."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_liga_racing",
+        "patterns": [
+          "¿Cuántas ligas argentinas tiene Racing?",
+          "Campeonatos locales de Racing"
+        ],
+        "responses": [
+          "Racing Club ha ganado numerosos títulos de liga, incluyendo un tricampeonato en la era profesional (1949-51) y varios títulos amateurs. Es uno de los clubes más laureados del país."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_libertadores_racing",
+        "patterns": [
+          "¿Cuántas Copas Libertadores tiene Racing?",
+          "Libertadores ganadas por Racing"
+        ],
+        "responses": [
+          "Racing Club ha ganado la Copa Libertadores una vez, en 1967."
+        ]
+      },
+       {
+        "tag": "club_arg_titulos_intercontinental_racing",
+        "patterns": [
+          "¿Cuántas Copas Intercontinentales tiene Racing?",
+          "El Equipo de José",
+          "Primer campeón mundial argentino"
+        ],
+        "responses": [
+          "Racing Club ganó la Copa Intercontinental en 1967, venciendo al Celtic de Escocia en un tercer partido de desempate en Montevideo. Fue el primer club argentino en consagrarse campeón del mundo a nivel clubes. Ese equipo es recordado como 'El Equipo de José', dirigido por Juan José Pizzuti."
+        ]
+      },
+      {
+        "tag": "club_arg_estadio_racing",
+        "patterns": [
+          "¿Cuál es el estadio de Racing Club?",
+          "¿Cómo se llama la cancha de Racing?",
+          "El Cilindro de Avellaneda"
+        ],
+        "responses": [
+          "El estadio de Racing Club es el Estadio Presidente Perón, popularmente conocido como 'El Cilindro' por su forma circular. Es uno de los estadios más emblemáticos de Argentina, ubicado a pocos metros del estadio de Independiente."
+        ]
+      },
+      {
+        "tag": "club_arg_idolos_racing_milito",
+        "patterns": [
+          "¿Quién es Diego Milito?",
+          "Milito en Racing",
+          "El Príncipe Milito"
+        ],
+        "responses": [
+          "Diego Milito, 'El Príncipe', es uno de los máximos ídolos recientes de Racing. Tuvo dos etapas como jugador: surgió del club y luego regresó de Europa (donde ganó la Champions con Inter) para liderar a Racing a ganar dos títulos de liga (2014 y 2019), rompiendo largas sequías. También fue manager del club."
+        ]
+      },
+       {
+        "tag": "club_arg_idolos_racing_pizzuti",
+        "patterns": [
+          "¿Quién fue Juan José Pizzuti?",
+          "Pizzuti en Racing",
+          "Entrenador del Equipo de José"
+        ],
+        "responses": [
+          "Juan José Pizzuti fue un exitoso jugador y el legendario entrenador del 'Equipo de José', el Racing campeón de América y del Mundo en 1967. Como jugador también fue campeón con Racing."
+        ]
+      },
+       {
+        "tag": "club_arg_idolos_racing_corbatta",
+        "patterns": [
+          "¿Quién fue Oreste Corbatta?",
+          "Corbatta en Racing"
+        ],
+        "responses": [
+          "Oreste Corbatta fue un extraordinario wing derecho, considerado uno de los mejores gambeteadores de la historia del fútbol argentino. Brilló en Racing en los años 50 y 60, ganando varios títulos. También fue figura en la Selección Argentina campeona de América en 1957."
+        ]
+      },
+      {
+        "tag": "clasico_avellaneda",
+        "patterns": [
+          "¿Cuál es el Clásico de Avellaneda?",
+          "Independiente vs Racing",
+          "Racing vs Independiente",
+          "Rivalidad de Avellaneda"
+        ],
+        "responses": [
+          "El Clásico de Avellaneda enfrenta a Independiente y Racing Club. Es uno de los clásicos más importantes y tradicionales de Argentina. Sus estadios están ubicados a apenas unos 300 metros de distancia, lo que lo convierte en una rivalidad barrial única y muy intensa."
+        ]
+      },
+      {
+        "tag": "club_arg_info_sanlorenzo",
+        "patterns": [
+          "Háblame de San Lorenzo",
+          "Información sobre San Lorenzo de Almagro",
+          "¿Qué es San Lorenzo?",
+          "Club Atlético San Lorenzo de Almagro",
+          "El Ciclón",
+          "Cuervos",
+          "El equipo del Papa"
+        ],
+        "responses": [
+          "San Lorenzo de Almagro es el quinto grande del fútbol argentino. Fundado en el barrio de Boedo (aunque perdió su estadio allí y ahora juega en el Bajo Flores), es conocido como 'El Ciclón' o los 'Cuervos'. Ganó su primera y única Copa Libertadores en 2014. Es famoso por tener al Papa Francisco como hincha ilustre."
+        ]
+      },
+       {
+        "tag": "club_arg_titulos_liga_sanlorenzo",
+        "patterns": [
+          "¿Cuántas ligas argentinas tiene San Lorenzo?",
+          "Campeonatos locales de San Lorenzo"
+        ],
+        "responses": [
+          "San Lorenzo ha ganado la Primera División argentina en varias ocasiones, consolidándose como uno de los clubes más ganadores del país, detrás de River, Boca, Independiente y Racing."
+        ]
+      },
+      {
+        "tag": "club_arg_titulos_libertadores_sanlorenzo",
+        "patterns": [
+          "¿Cuántas Copas Libertadores tiene San Lorenzo?",
+          "Libertadores ganada por San Lorenzo"
+        ],
+        "responses": [
+          "San Lorenzo de Almagro ganó la Copa Libertadores por primera y única vez en 2014, bajo la dirección técnica de Edgardo Bauza. Era el único de los 'cinco grandes' que no la había ganado hasta entonces."
+        ]
+      },
+       {
+        "tag": "club_arg_estadio_sanlorenzo",
+        "patterns": [
+          "¿Cuál es el estadio de San Lorenzo?",
+          "¿Cómo se llama la cancha de San Lorenzo?",
+          "Nuevo Gasómetro",
+          "Vuelta a Boedo"
+        ],
+        "responses": [
+          "El estadio actual de San Lorenzo es el Estadio Pedro Bidegain, conocido como 'El Nuevo Gasómetro', ubicado en el Bajo Flores. Históricamente, su estadio estaba en Boedo ('El Viejo Gasómetro'), pero fue expropiado durante la dictadura militar. Existe un fuerte movimiento de hinchas por la 'Vuelta a Boedo' para construir un nuevo estadio en su lugar de origen."
+        ]
+      },
+        {
+        "tag": "club_arg_idolos_sanlorenzo_sanfilippo",
+        "patterns": [
+          "¿Quién fue José Sanfilippo?",
+          "Sanfilippo en San Lorenzo",
+          "El Nene Sanfilippo"
+        ],
+        "responses": [
+          "José Sanfilippo, 'El Nene', es el máximo goleador histórico de San Lorenzo y uno de los mayores goleadores del fútbol argentino. Brilló en las décadas del 50 y 60, siendo máximo artillero del campeonato argentino en cuatro ocasiones consecutivas."
+        ]
+      },
+         {
+        "tag": "club_arg_idolos_sanlorenzo_pontoni",
+        "patterns": [
+          "¿Quién fue René Pontoni?",
+          "Pontoni en San Lorenzo",
+          "El Maestro Pontoni"
+        ],
+        "responses": [
+          "René Pontoni, 'El Maestro', fue un exquisito delantero centro que formó parte del famoso trío de ataque de San Lorenzo en los años 40 junto a Martino y De la Mata. Era conocido por su inteligencia y habilidad."
+        ]
+      },
+       {
+        "tag": "clasico_porteno",
+        "patterns": [
+          "¿Cuál es el Clásico Porteño / Clásico de Barrio?",
+          "San Lorenzo vs Huracán",
+          "Huracán vs San Lorenzo"
+        ],
+        "responses": [
+          "El clásico entre San Lorenzo y Huracán es conocido como el 'Clásico Porteño' o 'Clásico de Barrio'. Es una de las rivalidades más antiguas y tradicionales de Buenos Aires, con origen en barrios vecinos (Boedo y Parque Patricios)."
+        ]
+      },
+      {
+        "tag": "club_arg_info_estudiantes",
+        "patterns": [
+          "Háblame de Estudiantes de La Plata",
+          "Información sobre Estudiantes LP",
+          "Pincharratas"
+        ],
+        "responses": [
+          "Estudiantes de La Plata es uno de los clubes más importantes fuera de los 'cinco grandes'. Vivió una época dorada a finales de los 60 bajo Osvaldo Zubeldía, ganando 3 Copas Libertadores consecutivas (1968, 1969, 1970) y 1 Intercontinental (1968 vs Man Utd). Son conocidos como 'Pincharratas'. Juan Sebastián Verón es uno de sus máximos ídolos recientes, ganando otra Libertadores en 2009."
+        ]
+      },
+        {
+        "tag": "club_arg_titulos_libertadores_estudiantes",
+        "patterns": [
+          "¿Cuántas Copas Libertadores tiene Estudiantes?",
+          "Libertadores ganadas por Estudiantes LP"
+        ],
+        "responses": [
+          "Estudiantes de La Plata ha ganado la Copa Libertadores 4 veces (1968, 1969, 1970, 2009)."
+        ]
+      },
+       {
+        "tag": "club_arg_epoca_dorada_estudiantes_zubeldia",
+        "patterns": [
+          "¿Quién fue Osvaldo Zubeldía?",
+          "El Estudiantes de Zubeldía",
+          "Antifútbol"
+        ],
+        "responses": [
+          "Osvaldo Zubeldía fue el revolucionario entrenador que dirigió a Estudiantes de La Plata a ganar 3 Libertadores y 1 Intercontinental a finales de los 60. Su equipo, liderado por Carlos Bilardo y Juan Ramón Verón (padre) en la cancha, fue pionero en la preparación física, el estudio del rival y la táctica, aunque también fue acusado de 'antifútbol' por su pragmatismo y rudeza."
+        ]
+      },
+      {
+        "tag": "club_arg_info_velez",
+        "patterns": [
+          "Háblame de Vélez Sarsfield",
+          "Información sobre Vélez",
+          "El Fortín"
+        ],
+        "responses": [
+          "Vélez Sarsfield, del barrio de Liniers (Buenos Aires) y conocido como 'El Fortín', vivió su época más gloriosa en los años 90 bajo la dirección de Carlos Bianchi. Ganaron la Copa Libertadores y la Copa Intercontinental (vs Milan) en 1994, además de varios títulos locales. José Luis Chilavert, el arquero goleador paraguayo, fue símbolo de ese equipo."
+        ]
+      },
+       {
+        "tag": "club_arg_epoca_dorada_velez_bianchi",
+        "patterns": [
+          "La época dorada de Vélez con Bianchi",
+          "El Vélez de Bianchi",
+          "Logros de Carlos Bianchi en Vélez"
+        ],
+        "responses": [
+          "La etapa de Carlos Bianchi como entrenador de Vélez Sarsfield en los años 90 fue la más exitosa de la historia del club. Ganó 1 Copa Libertadores (1994), 1 Copa Intercontinental (1994 vs Milan), 1 Copa Interamericana y 3 títulos de liga local. Ese equipo es recordado por figuras como Chilavert, Trotta, Bassedas, Asad."
+        ]
+      },
+        {
+        "tag": "manager_arg_info_bianchi",
+        "patterns": [
+          "Háblame de Carlos Bianchi como entrenador",
+          "Carrera de Bianchi como DT",
+          "El Virrey"
+        ],
+        "responses": [
+          "Carlos Bianchi, 'El Virrey', es el entrenador argentino más exitoso a nivel de clubes. Ganó 4 Copas Libertadores (1 con Vélez, 3 con Boca) y 3 Copas Intercontinentales (1 con Vélez, 2 con Boca). Es venerado tanto en Vélez como en Boca por liderar sus épocas más gloriosas."
+        ]
+      },
+      {
+        "tag": "club_arg_info_newells",
+        "patterns": [
+          "Háblame de Newell's Old Boys",
+          "Información sobre Newell's",
+          "Leprosos"
+        ],
+        "responses": [
+          "Newell's Old Boys es un club importante de la ciudad de Rosario. Conocidos como 'Leprosos', han ganado varios títulos de liga. Son famosos por su cantera, de donde surgieron figuras como Lionel Messi (aunque no debutó allí), Gabriel Batistuta, Mauricio Pochettino, Walter Samuel, y por haber sido dirigidos por Marcelo Bielsa en una etapa exitosa a principios de los 90. Diego Maradona también jugó brevemente en el club."
+        ]
+      },
+      {
+        "tag": "club_arg_info_central",
+        "patterns": [
+          "Háblame de Rosario Central",
+          "Información sobre Central",
+          "Canallas"
+        ],
+        "responses": [
+          "Rosario Central es el otro gran club de Rosario, clásico rival de Newell's. Conocidos como 'Canallas', también han ganado títulos de liga y la Copa Conmebol (precursora de la Sudamericana) en 1995. Mario Kempes, Ángel Di María y César Luis Menotti son algunas de sus figuras históricas."
+        ]
+      },
+      {
+        "tag": "clasico_rosarino",
+        "patterns": [
+          "¿Cuál es el Clásico Rosarino?",
+          "Newell's vs Rosario Central",
+          "Rosario Central vs Newell's",
+          "Rivalidad de Rosario"
+        ],
+        "responses": [
+          "El Clásico Rosarino enfrenta a Newell's Old Boys y Rosario Central. Es uno de los clásicos más apasionados y calientes de Argentina, dividiendo a la ciudad de Rosario. La rivalidad es muy fuerte tanto dentro como fuera de la cancha."
+        ]
+      },
+      {
+        "tag": "club_arg_info_huracan",
+        "patterns": [
+          "Háblame de Huracán",
+          "Información sobre Huracán",
+          "El Globo",
+          "Quemeros"
+        ],
+        "responses": [
+          "Huracán es un club tradicional de Buenos Aires (Parque Patricios), clásico rival de San Lorenzo. Conocidos como 'El Globo' o 'Quemeros'. Tuvieron una gran época amateur y ganaron un título profesional en 1973 con un equipo recordado por su buen juego ('El Huracán de Menotti'), base de la selección campeona del 78. René Houseman fue uno de sus grandes ídolos."
+        ]
+      },
+       {
+        "tag": "club_arg_info_argentinos",
+        "patterns": [
+          "Háblame de Argentinos Juniors",
+          "Información sobre Argentinos Jrs.",
+          "El Bicho",
+          "Semillero del Mundo"
+        ],
+        "responses": [
+          "Argentinos Juniors, del barrio de La Paternal (Buenos Aires) y conocido como 'El Bicho', es famoso mundialmente por su cantera, apodada 'El Semillero del Mundo'. De allí surgieron Diego Maradona, Juan Román Riquelme, Fernando Redondo, Claudio Borghi, Esteban Cambiasso, entre muchos otros. Ganaron la Copa Libertadores en 1985."
+        ]
+      },
+      {
+        "tag": "seleccion_arg_mundial_1978",
+        "patterns": [
+          "Háblame del Mundial 78 ganado por Argentina",
+          "Argentina campeón 1978",
+          "Kempes en el 78",
+          "Menotti campeón del mundo"
+        ],
+        "responses": [
+          "Argentina ganó su primer Mundial en 1978, siendo anfitrión durante la dictadura militar. Dirigidos por César Luis Menotti y con Mario Alberto Kempes como gran figura y goleador ('El Matador'), vencieron a Países Bajos 3-1 en la final disputada en el Monumental. Daniel Passarella fue el capitán."
+        ]
+      },
+       {
+        "tag": "manager_arg_info_menotti",
+        "patterns": [
+          "¿Quién es César Luis Menotti?",
+          "Háblame de Menotti",
+          "El Flaco Menotti"
+        ],
+        "responses": [
+          "César Luis Menotti, 'El Flaco', fue el entrenador que llevó a Argentina a ganar su primer Mundial en 1978. Defensor de un estilo de juego ofensivo y lírico, tuvo una famosa rivalidad filosófica con Carlos Bilardo. También dirigió al Huracán campeón del 73 y a clubes como Barcelona y Boca."
+        ]
+      },
+      {
+        "tag": "seleccion_arg_mundial_1986",
+        "patterns": [
+          "Háblame del Mundial 86 ganado por Argentina",
+          "Argentina campeón 1986",
+          "Maradona en México 86",
+          "Bilardo campeón del mundo"
+        ],
+        "responses": [
+          "Argentina ganó su segundo Mundial en México 1986, con una actuación legendaria de Diego Armando Maradona, considerado uno de los mejores desempeños individuales en la historia del torneo. Dirigidos por Carlos Salvador Bilardo, vencieron a Alemania Federal 3-2 en la final. El torneo quedó marcado por los goles de Maradona a Inglaterra."
+        ]
+      },
+       {
+        "tag": "manager_arg_info_bilardo",
+        "patterns": [
+          "¿Quién es Carlos Salvador Bilardo?",
+          "Háblame de Bilardo",
+          "El Narigón Bilardo"
+        ],
+        "responses": [
+          "Carlos Salvador Bilardo, 'El Narigón', fue el entrenador campeón del mundo con Argentina en 1986 y subcampeón en 1990. Exitoso jugador del Estudiantes de Zubeldía, como técnico era conocido por su pragmatismo, su obsesión por los detalles tácticos y su rivalidad con Menotti."
+        ]
+      },
+      {
+        "tag": "seleccion_arg_mundial_2022",
+        "patterns": [
+          "Háblame del Mundial 2022 ganado por Argentina",
+          "Argentina campeón Qatar 2022",
+          "Messi campeón del mundo",
+          "Scaloni campeón del mundo",
+          "La Scaloneta"
+        ],
+        "responses": [
+          "Argentina ganó su tercer Mundial en Qatar 2022, liderada por Lionel Messi en una actuación consagratoria. Dirigidos por Lionel Scaloni ('La Scaloneta'), vencieron a Francia en una final épica (3-3, victoria por penales). El equipo mostró una gran unión y contó con figuras clave como Emiliano 'Dibu' Martínez, Enzo Fernández y Julián Álvarez, además de Messi."
+        ]
+      },
+      {
+        "tag": "seleccion_arg_leyenda_maradona",
+        "patterns": [
+          "Importancia de Maradona para Argentina",
+          "Legado de Diego Maradona",
+          "Maradona D10S"
+        ],
+        "responses": [
+          "Diego Maradona es mucho más que un futbolista para Argentina; es un ícono cultural, un símbolo de rebeldía y esperanza. Su actuación en el Mundial 86 lo elevó a la categoría de héroe nacional. A pesar de sus controversias, su figura es venerada y su legado futbolístico es innegable."
+        ]
+      },
+       {
+        "tag": "seleccion_arg_leyenda_messi",
+        "patterns": [
+          "Importancia de Messi para Argentina",
+          "Legado de Lionel Messi",
+          "Messi campeón del mundo y América"
+        ],
+        "responses": [
+          "Lionel Messi, tras años de comparaciones y presión, finalmente alcanzó la gloria máxima con la Selección Argentina al ganar la Copa América 2021 y el Mundial 2022, siendo figura en ambos. Es el máximo goleador histórico y jugador con más partidos de la selección, y es considerado por muchos el mejor de la historia."
+        ]
+      },
+      {
+        "tag": "seleccion_arg_leyenda_kempes",
+        "patterns": [
+          "¿Quién fue Mario Kempes?",
+          "Kempes en el Mundial 78",
+          "El Matador Kempes"
+        ],
+        "responses": [
+          "Mario Alberto Kempes, 'El Matador', fue la gran figura y máximo goleador (Bota de Oro) del Mundial 1978 ganado por Argentina. Marcó dos goles en la final contra Holanda. Fue un delantero potente y goleador que también brilló en Rosario Central y Valencia (España)."
+        ]
+      },
+        {
+        "tag": "seleccion_arg_leyenda_passarella",
+        "patterns": [
+          "¿Quién es Daniel Passarella?",
+          "Passarella capitán del 78",
+          "El Kaiser Passarella"
+        ],
+        "responses": [
+          "Daniel Passarella, 'El Gran Capitán' o 'El Kaiser', fue el capitán de la Selección Argentina campeona del mundo en 1978. Un defensor central con gran liderazgo, personalidad y capacidad goleadora. Es el único jugador argentino que estuvo en los planteles de los dos primeros Mundiales ganados (aunque no jugó en el 86 por enfermedad). Ídolo de River Plate."
+        ]
+      },
+       {
+        "tag": "seleccion_arg_leyenda_batistuta",
+        "patterns": [
+          "¿Quién es Gabriel Batistuta?",
+          "Batistuta en la Selección Argentina",
+          "Batigol"
+        ],
+        "responses": [
+          "Gabriel Batistuta, 'Batigol', fue un potente delantero centro y durante mucho tiempo el máximo goleador histórico de la Selección Argentina (superado luego por Messi). Conocido por la potencia de sus remates, ganó dos Copas América (1991, 1993) y participó en tres Mundiales. Ídolo en la Fiorentina (Italia)."
+        ]
+      },
+       {
+        "tag": "copa_argentina_info",
+        "patterns": [
+          "¿Qué es la Copa Argentina?",
+          "Formato de la Copa Argentina",
+          "Campeones Copa Argentina"
+        ],
+        "responses": [
+          "La Copa Argentina es un torneo oficial de eliminación directa que enfrenta a equipos de todas las categorías del fútbol argentino (desde la Primera División hasta ligas regionales). Se reeditó en 2011 tras muchos años de ausencia y otorga al campeón una plaza para la Copa Libertadores."
+        ]
+      },
+        {
+        "tag": "copa_libertadores_equipos_argentinos",
+        "patterns": [
+          "¿Cómo les va a los equipos argentinos en la Libertadores?",
+          "Dominio argentino en Copa Libertadores",
+          "Equipos argentinos campeones de América"
+        ],
+        "responses": [
+          "Los clubes argentinos son los más exitosos en la historia de la Copa Libertadores. Han ganado el torneo más veces que los clubes de cualquier otro país (más de 25 títulos). Independiente (7), Boca Juniors (6), River Plate (4) y Estudiantes LP (4) lideran la lista de campeones argentinos."
+        ]
+      },
+      {
+        "tag": "concepto_potrero",
+        "patterns": [
+          "¿Qué significa 'potrero' en el fútbol argentino?",
+          "Fútbol de potrero",
+          "La esencia del potrero"
+        ],
+        "responses": [
+          "El 'potrero' se refiere a las canchas improvisadas de barrio o campo donde muchos futbolistas argentinos dieron sus primeros pasos. Representa un estilo de juego basado en la habilidad individual, la gambeta, la picardía y la creatividad, forjado en condiciones difíciles. Es parte de la mística del fútbol argentino."
+        ]
+      },
+      {
+        "tag": "concepto_barrabrava",
+        "patterns": [
+          "¿Qué son las barras bravas?",
+          "Hinchadas organizadas en Argentina",
+          "Violencia en el fútbol argentino"
+        ],
+        "responses": [
+          "Las 'barras bravas' son grupos organizados de hinchas caracterizados por su fervor y colorido, pero también asociados históricamente con la violencia, negocios ilícitos y poder dentro y fuera de los clubes. Son un fenómeno complejo y controvertido del fútbol argentino."
+        ]
+      }
+    ]
+  }

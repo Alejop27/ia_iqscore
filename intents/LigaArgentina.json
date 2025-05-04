@@ -1,0 +1,1293 @@
+{
+    "intents": [
+      {
+        "tag": "liga_argentina_1931",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1931?",
+          "Campeón Liga Argentina 1931",
+          "Subcampeón Liga Argentina 1931",
+          "Goleador Liga Argentina 1931",
+          "Asistidor Liga Argentina 1931",
+          "Jugador de la temporada Liga Argentina 1931"
+        ],
+        "responses": [
+          "En la temporada 1931 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Alberto Zozaya** (Estudiantes de La Plata) con 33 goles. No se registraron asistencias en esa época. El jugador destacado fue **Alberto Zozaya** (Estudiantes de La Plata)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1932",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1932?",
+          "Campeón Liga Argentina 1932",
+          "Subcampeón Liga Argentina 1932",
+          "Goleador Liga Argentina 1932",
+          "Asistidor Liga Argentina 1932",
+          "Jugador de la temporada Liga Argentina 1932"
+        ],
+        "responses": [
+          "En la temporada 1932 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Independiente**. El máximo goleador fue **Bernabé Ferreyra** (River Plate) con 43 goles. No se registraron asistencias en esa época. El jugador destacado fue **Bernabé Ferreyra** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1933",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1933?",
+          "Campeón Liga Argentina 1933",
+          "Subcampeón Liga Argentina 1933",
+          "Goleador Liga Argentina 1933",
+          "Asistidor Liga Argentina 1933",
+          "Jugador de la temporada Liga Argentina 1933"
+        ],
+        "responses": [
+          "En la temporada 1933 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Francisco Varallo** (Boca Juniors) con 34 goles. No se registraron asistencias en esa época. El jugador destacado fue **Francisco Varallo** (Boca Juniors)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1934",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1934?",
+          "Campeón Liga Argentina 1934",
+          "Subcampeón Liga Argentina 1934",
+          "Goleador Liga Argentina 1934",
+          "Asistidor Liga Argentina 1934",
+          "Jugador de the temporada Liga Argentina 1934"
+        ],
+        "responses": [
+          "En la temporada 1934 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Independiente**. El máximo goleador fue **Evaristo Barrera** (Boca Juniors) con 34 goles. No se registraron asistencias en esa época. El jugador destacado fue **Evaristo Barrera** (Boca Juniors)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1935",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1935?",
+          "Campeón Liga Argentina 1935",
+          "Subcampeón Liga Argentina 1935",
+          "Goleador Liga Argentina 1935",
+          "Asistidor Liga Argentina 1935",
+          "Jugador de la temporada Liga Argentina 1935"
+        ],
+        "responses": [
+          "En la temporada 1935 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Independiente**. El máximo goleador fue **Evaristo Barrera** (Boca Juniors) con 32 goles. No se registraron asistencias en esa época. El jugador destacado fue **Evaristo Barrera** (Boca Juniors)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1936",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1936?",
+          "Campeón Liga Argentina 1936",
+          "Subcampeón Liga Argentina 1936",
+          "Goleador Liga Argentina 1936",
+          "Asistidor Liga Argentina 1936",
+          "Jugador de la temporada Liga Argentina 1936"
+        ],
+        "responses": [
+          "En la temporada 1936 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Evaristo Barrera** (Boca Juniors) con 32 goles. No se registraron asistencias en esa época. El jugador destacado fue **Evaristo Barrera** (Boca Juniors)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1937",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1937?",
+          "Campeón Liga Argentina 1937",
+          "Subcampeón Liga Argentina 1937",
+          "Goleador Liga Argentina 1937",
+          "Asistidor Liga Argentina 1937",
+          "Jugador de la temporada Liga Argentina 1937"
+        ],
+        "responses": [
+          "En la temporada 1937 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Independiente**. El máximo goleador fue **Vicente de la Mata** (Independiente) con 27 goles. No se registraron asistencias en esa época. El jugador destacado fue **Vicente de la Mata** (Independiente)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1938",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1938?",
+          "Campeón Liga Argentina 1938",
+          "Subcampeón Liga Argentina 1938",
+          "Goleador Liga Argentina 1938",
+          "Asistidor Liga Argentina 1938",
+          "Jugador de la temporada Liga Argentina 1938"
+        ],
+        "responses": [
+          "En la temporada 1938 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **River Plate**. El máximo goleador fue **Arsenio Erico** (Independiente) con 43 goles. No se registraron asistencias en esa época. El jugador destacado fue **Arsenio Erico** (Independiente)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1939",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1939?",
+          "Campeón Liga Argentina 1939",
+          "Subcampeón Liga Argentina 1939",
+          "Goleador Liga Argentina 1939",
+          "Asistidor Liga Argentina 1939",
+          "Jugador de la temporada Liga Argentina 1939"
+        ],
+        "responses": [
+          "En la temporada 1939 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **River Plate**. El máximo goleador fue **Arsenio Erico** (Independiente) con 40 goles. No se registraron asistencias en esa época. El jugador destacado fue **Arsenio Erico** (Independiente)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1940",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1940?",
+          "Campeón Liga Argentina 1940",
+          "Subcampeón Liga Argentina 1940",
+          "Goleador Liga Argentina 1940",
+          "Asistidor Liga Argentina 1940",
+          "Jugador de la temporada Liga Argentina 1940"
+        ],
+        "responses": [
+          "En la temporada 1940 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Independiente**. El máximo goleador fue **Delfín Benítez Cáceres** (Boca Juniors) con 29 goles. No se registraron asistencias en esa época. El jugador destacado fue **Delfín Benítez Cáceres** (Boca Juniors)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1941",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1941?",
+          "Campeón Liga Argentina 1941",
+          "Subcampeón Liga Argentina 1941",
+          "Goleador Liga Argentina 1941",
+          "Asistidor Liga Argentina 1941",
+          "Jugador de la temporada Liga Argentina 1941"
+        ],
+        "responses": [
+          "En la temporada 1941 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **José Manuel Moreno** (River Plate) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **José Manuel Moreno** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1942",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1942?",
+          "Campeón Liga Argentina 1942",
+          "Subcampeón Liga Argentina 1942",
+          "Goleador Liga Argentina 1942",
+          "Asistidor Liga Argentina 1942",
+          "Jugador de la temporada Liga Argentina 1942"
+        ],
+        "responses": [
+          "En la temporada 1942 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **José Manuel Moreno** (River Plate) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **José Manuel Moreno** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1943",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1943?",
+          "Campeón Liga Argentina 1943",
+          "Subcampeón Liga Argentina 1943",
+          "Goleador Liga Argentina 1943",
+          "Asistidor Liga Argentina 1943",
+          "Jugador de la temporada Liga Argentina 1943"
+        ],
+        "responses": [
+          "En la temporada 1943 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Rinaldo Martino** (San Lorenzo) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Rinaldo Martino** (San Lorenzo)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1944",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1944?",
+          "Campeón Liga Argentina 1944",
+          "Subcampeón Liga Argentina 1944",
+          "Goleador Liga Argentina 1944",
+          "Asistidor Liga Argentina 1944",
+          "Jugador de la temporada Liga Argentina 1944"
+        ],
+        "responses": [
+          "En la temporada 1944 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Ángel Labruna** (River Plate) con 23 goles. No se registraron asistencias en esa época. El jugador destacado fue **Ángel Labruna** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1945",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1945?",
+          "Campeón Liga Argentina 1945",
+          "Subcampeón Liga Argentina 1945",
+          "Goleador Liga Argentina 1945",
+          "Asistidor Liga Argentina 1945",
+          "Jugador de la temporada Liga Argentina 1945"
+        ],
+        "responses": [
+          "En la temporada 1945 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Ángel Labruna** (River Plate) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Ángel Labruna** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1946",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1946?",
+          "Campeón Liga Argentina 1946",
+          "Subcampeón Liga Argentina 1946",
+          "Goleador Liga Argentina 1946",
+          "Asistidor Liga Argentina 1946",
+          "Jugador de la temporada Liga Argentina 1946"
+        ],
+        "responses": [
+          "En la temporada 1946 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Mario Boyé** (Boca Juniors) con 24 goles. No se registraron asistencias en esa época. El jugador destacado fue **Mario Boyé** (Boca Juniors)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1947",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1947?",
+          "Campeón Liga Argentina 1947",
+          "Subcampeón Liga Argentina 1947",
+          "Goleador Liga Argentina 1947",
+          "Asistidor Liga Argentina 1947",
+          "Jugador de la temporada Liga Argentina 1947"
+        ],
+        "responses": [
+          "En la temporada 1947 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Ángel Labruna** (River Plate) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Ángel Labruna** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1948",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1948?",
+          "Campeón Liga Argentina 1948",
+          "Subcampeón Liga Argentina 1948",
+          "Goleador Liga Argentina 1948",
+          "Asistidor Liga Argentina 1948",
+          "Jugador de la temporada Liga Argentina 1948"
+        ],
+        "responses": [
+          "En la temporada 1948 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **River Plate**. El máximo goleador fue **Ángel Labruna** (River Plate) con 23 goles. No se registraron asistencias en esa época. El jugador destacado fue **Ángel Labruna** (River Plate)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1949",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1949?",
+          "Campeón Liga Argentina 1949",
+          "Subcampeón Liga Argentina 1949",
+          "Goleador Liga Argentina 1949",
+          "Asistidor Liga Argentina 1949",
+          "Jugador de la temporada Liga Argentina 1949"
+        ],
+        "responses": [
+          "En la temporada 1949 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **River Plate**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1950",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1950?",
+          "Campeón Liga Argentina 1950",
+          "Subcampeón Liga Argentina 1950",
+          "Goleador Liga Argentina 1950",
+          "Asistidor Liga Argentina 1950",
+          "Jugador de la temporada Liga Argentina 1950"
+        ],
+        "responses": [
+          "En la temporada 1950 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1951",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1951?",
+          "Campeón Liga Argentina 1951",
+          "Subcampeón Liga Argentina 1951",
+          "Goleador Liga Argentina 1951",
+          "Asistidor Liga Argentina 1951",
+          "Jugador de la temporada Liga Argentina 1951"
+        ],
+        "responses": [
+          "En la temporada 1951 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1952",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1952?",
+          "Campeón Liga Argentina 1952",
+          "Subcampeón Liga Argentina 1952",
+          "Goleador Liga Argentina 1952",
+          "Asistidor Liga Argentina 1952",
+          "Jugador de la temporada Liga Argentina 1952"
+        ],
+        "responses": [
+          "En la temporada 1952 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Racing Club**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1953",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1953?",
+          "Campeón Liga Argentina 1953",
+          "Subcampeón Liga Argentina 1953",
+          "Goleador Liga Argentina 1953",
+          "Asistidor Liga Argentina 1953",
+          "Jugador de la temporada Liga Argentina 1953"
+        ],
+        "responses": [
+          "En la temporada 1953 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Vélez Sarsfield**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1954",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1954?",
+          "Campeón Liga Argentina 1954",
+          "Subcampeón Liga Argentina 1954",
+          "Goleador Liga Argentina 1954",
+          "Asistidor Liga Argentina 1954",
+          "Jugador de la temporada Liga Argentina 1954"
+        ],
+        "responses": [
+          "En la temporada 1954 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Independiente**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1955",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1955?",
+          "Campeón Liga Argentina 1955",
+          "Subcampeón Liga Argentina 1955",
+          "Goleador Liga Argentina 1955",
+          "Asistidor Liga Argentina 1955",
+          "Jugador de la temporada Liga Argentina 1955"
+        ],
+        "responses": [
+          "En la temporada 1955 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Racing Club**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) with 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1956",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1956?",
+          "Campeón Liga Argentina 1956",
+          "Subcampeón Liga Argentina 1956",
+          "Goleador Liga Argentina 1956",
+          "Asistidor Liga Argentina 1956",
+          "Jugador de la temporada Liga Argentina 1956"
+        ],
+        "responses": [
+          "En la temporada 1956 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Lanús**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1957",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1957?",
+          "Campeón Liga Argentina 1957",
+          "Subcampeón Liga Argentina 1957",
+          "Goleador Liga Argentina 1957",
+          "Asistidor Liga Argentina 1957",
+          "Jugador de la temporada Liga Argentina 1957"
+        ],
+        "responses": [
+          "En la temporada 1957 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1958",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1958?",
+          "Campeón Liga Argentina 1958",
+          "Subcampeón Liga Argentina 1958",
+          "Goleador Liga Argentina 1958",
+          "Asistidor Liga Argentina 1958",
+          "Jugador de la temporada Liga Argentina 1958"
+        ],
+        "responses": [
+          "En la temporada 1958 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1959",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1959?",
+          "Campeón Liga Argentina 1959",
+          "Subcampeón Liga Argentina 1959",
+          "Goleador Liga Argentina 1959",
+          "Asistidor Liga Argentina 1959",
+          "Jugador de la temporada Liga Argentina 1959"
+        ],
+        "responses": [
+          "En la temporada 1959 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Racing Club**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1960",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1960?",
+          "Campeón Liga Argentina 1960",
+          "Subcampeón Liga Argentina 1960",
+          "Goleador Liga Argentina 1960",
+          "Asistidor Liga Argentina 1960",
+          "Jugador de la temporada Liga Argentina 1960"
+        ],
+        "responses": [
+          "En la temporada 1960 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **River Plate**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1961",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1961?",
+          "Campeón Liga Argentina 1961",
+          "Subcampeón Liga Argentina 1961",
+          "Goleador Liga Argentina 1961",
+          "Asistidor Liga Argentina 1961",
+          "Jugador de la temporada Liga Argentina 1961"
+        ],
+        "responses": [
+          "En la temporada 1961 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1962",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1962?",
+          "Campeón Liga Argentina 1962",
+          "Subcampeón Liga Argentina 1962",
+          "Goleador Liga Argentina 1962",
+          "Asistidor Liga Argentina 1962",
+          "Jugador de la temporada Liga Argentina 1962"
+        ],
+        "responses": [
+          "En la temporada 1962 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1963",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1963?",
+          "Campeón Liga Argentina 1963",
+          "Subcampeón Liga Argentina 1963",
+          "Goleador Liga Argentina 1963",
+          "Asistidor Liga Argentina 1963",
+          "Jugador de la temporada Liga Argentina 1963"
+        ],
+        "responses": [
+          "En la temporada 1963 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **River Plate**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1964",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1964?",
+          "Campeón Liga Argentina 1964",
+          "Subcampeón Liga Argentina 1964",
+          "Goleador Liga Argentina 1964",
+          "Asistidor Liga Argentina 1964",
+          "Jugador de la temporada Liga Argentina 1964"
+        ],
+        "responses": [
+          "En la temporada 1964 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1965",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1965?",
+          "Campeón Liga Argentina 1965",
+          "Subcampeón Liga Argentina 1965",
+          "Goleador Liga Argentina 1965",
+          "Asistidor Liga Argentina 1965",
+          "Jugador de la temporada Liga Argentina 1965"
+        ],
+        "responses": [
+          "En la temporada 1965 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1966",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1966?",
+          "Campeón Liga Argentina 1966",
+          "Subcampeón Liga Argentina 1966",
+          "Goleador Liga Argentina 1966",
+          "Asistidor Liga Argentina 1966",
+          "Jugador de la temporada Liga Argentina 1966"
+        ],
+        "responses": [
+          "En la temporada 1966 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1967",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1967?",
+          "Campeón Liga Argentina 1967",
+          "Subcampeón Liga Argentina 1967",
+          "Goleador Liga Argentina 1967",
+          "Asistidor Liga Argentina 1967",
+          "Jugador de la temporada Liga Argentina 1967"
+        ],
+        "responses": [
+          "En la temporada 1967 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+      {
+        "tag": "liga_argentina_1968",
+        "patterns": [
+          "¿Quién ganó la Liga Argentina en 1968?",
+          "Campeón Liga Argentina 1968",
+          "Subcampeón Liga Argentina 1968",
+          "Goleador Liga Argentina 1968",
+          "Asistidor Liga Argentina 1968",
+          "Jugador de la temporada Liga Argentina 1968"
+        ],
+        "responses": [
+          "En la temporada 1968 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Juan José Pizzuti** (Racing Club) con 25 goles. No se registraron asistencias en esa época. El jugador destacado fue **Juan José Pizzuti** (Racing Club)."
+        ]
+      },
+     
+    {
+      "tag": "liga_argentina_1970",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1970?",
+        "Campeón Liga Argentina 1970",
+        "Subcampeón Liga Argentina 1970",
+        "Goleador Liga Argentina 1970",
+        "Asistidor Liga Argentina 1970",
+        "Jugador de la temporada Liga Argentina 1970"
+      ],
+      "responses": [
+        "En la temporada 1970 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Oscar Más** (River Plate) con 16 goles. No se registraron asistencias en esa época. El jugador destacado fue **Oscar Más** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1971",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1971?",
+        "Campeón Liga Argentina 1971",
+        "Subcampeón Liga Argentina 1971",
+        "Goleador Liga Argentina 1971",
+        "Asistidor Liga Argentina 1971",
+        "Jugador de la temporada Liga Argentina 1971"
+      ],
+      "responses": [
+        "En la temporada 1971 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **Vélez Sarsfield**. El máximo goleador fue **Oscar Más** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Oscar Más** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1972",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1972?",
+        "Campeón Liga Argentina 1972",
+        "Subcampeón Liga Argentina 1972",
+        "Goleador Liga Argentina 1972",
+        "Asistidor Liga Argentina 1972",
+        "Jugador de la temporada Liga Argentina 1972"
+      ],
+      "responses": [
+        "En la temporada 1972 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Racing Club**. El máximo goleador fue **Oscar Más** (River Plate) con 20 goles. No se registraron asistencias en esa época. El jugador destacado fue **Oscar Más** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1973",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1973?",
+        "Campeón Liga Argentina 1973",
+        "Subcampeón Liga Argentina 1973",
+        "Goleador Liga Argentina 1973",
+        "Asistidor Liga Argentina 1973",
+        "Jugador de la temporada Liga Argentina 1973"
+      ],
+      "responses": [
+        "En la temporada 1973 de la Liga Argentina, el campeón fue **Huracán**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1974",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1974?",
+        "Campeón Liga Argentina 1974",
+        "Subcampeón Liga Argentina 1974",
+        "Goleador Liga Argentina 1974",
+        "Asistidor Liga Argentina 1974",
+        "Jugador de la temporada Liga Argentina 1974"
+      ],
+      "responses": [
+        "En la temporada 1974 de la Liga Argentina, el campeón fue **Newell's Old Boys**. El subcampeón fue **Rosario Central**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1975",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1975?",
+        "Campeón Liga Argentina 1975",
+        "Subcampeón Liga Argentina 1975",
+        "Goleador Liga Argentina 1975",
+        "Asistidor Liga Argentina 1975",
+        "Jugador de la temporada Liga Argentina 1975"
+      ],
+      "responses": [
+        "En la temporada 1975 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Huracán**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1976",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1976?",
+        "Campeón Liga Argentina 1976",
+        "Subcampeón Liga Argentina 1976",
+        "Goleador Liga Argentina 1976",
+        "Asistidor Liga Argentina 1976",
+        "Jugador de la temporada Liga Argentina 1976"
+      ],
+      "responses": [
+        "En la temporada 1976 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Huracán**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1977",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1977?",
+        "Campeón Liga Argentina 1977",
+        "Subcampeón Liga Argentina 1977",
+        "Goleador Liga Argentina 1977",
+        "Asistidor Liga Argentina 1977",
+        "Jugador de la temporada Liga Argentina 1977"
+      ],
+      "responses": [
+        "En la temporada 1977 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Independiente**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1978",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1978?",
+        "Campeón Liga Argentina 1978",
+        "Subcampeón Liga Argentina 1978",
+        "Goleador Liga Argentina 1978",
+        "Asistidor Liga Argentina 1978",
+        "Jugador de la temporada Liga Argentina 1978"
+      ],
+      "responses": [
+        "En la temporada 1978 de la Liga Argentina, el campeón fue **Quilmes**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1979",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1979?",
+        "Campeón Liga Argentina 1979",
+        "Subcampeón Liga Argentina 1979",
+        "Goleador Liga Argentina 1979",
+        "Asistidor Liga Argentina 1979",
+        "Jugador de la temporada Liga Argentina 1979"
+      ],
+      "responses": [
+        "En la temporada 1979 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Vélez Sarsfield**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1980",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1980?",
+        "Campeón Liga Argentina 1980",
+        "Subcampeón Liga Argentina 1980",
+        "Goleador Liga Argentina 1980",
+        "Asistidor Liga Argentina 1980",
+        "Jugador de la temporada Liga Argentina 1980"
+      ],
+      "responses": [
+        "En la temporada 1980 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Argentinos Juniors**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1981",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1981?",
+        "Campeón Liga Argentina 1981",
+        "Subcampeón Liga Argentina 1981",
+        "Goleador Liga Argentina 1981",
+        "Asistidor Liga Argentina 1981",
+        "Jugador de la temporada Liga Argentina 1981"
+      ],
+      "responses": [
+        "En la temporada 1981 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1982",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1982?",
+        "Campeón Liga Argentina 1982",
+        "Subcampeón Liga Argentina 1982",
+        "Goleador Liga Argentina 1982",
+        "Asistidor Liga Argentina 1982",
+        "Jugador de la temporada Liga Argentina 1982"
+      ],
+      "responses": [
+        "En la temporada 1982 de la Liga Argentina, el campeón fue **Estudiantes de La Plata**. El subcampeón fue **Independiente**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1983",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1983?",
+        "Campeón Liga Argentina 1983",
+        "Subcampeón Liga Argentina 1983",
+        "Goleador Liga Argentina 1983",
+        "Asistidor Liga Argentina 1983",
+        "Jugador de la temporada Liga Argentina 1983"
+      ],
+      "responses": [
+        "En la temporada 1983 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1984",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1984?",
+        "Campeón Liga Argentina 1984",
+        "Subcampeón Liga Argentina 1984",
+        "Goleador Liga Argentina 1984",
+        "Asistidor Liga Argentina 1984",
+        "Jugador de la temporada Liga Argentina 1984"
+      ],
+      "responses": [
+        "En la temporada 1984 de la Liga Argentina, el campeón fue **Argentinos Juniors**. El subcampeón fue **Ferro Carril Oeste**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1985",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1985?",
+        "Campeón Liga Argentina 1985",
+        "Subcampeón Liga Argentina 1985",
+        "Goleador Liga Argentina 1985",
+        "Asistidor Liga Argentina 1985",
+        "Jugador de la temporada Liga Argentina 1985"
+      ],
+      "responses": [
+        "En la temporada 1985 de la Liga Argentina, el campeón fue **Argentinos Juniors**. El subcampeón fue **Vélez Sarsfield**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1986",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1986?",
+        "Campeón Liga Argentina 1986",
+        "Subcampeón Liga Argentina 1986",
+        "Goleador Liga Argentina 1986",
+        "Asistidor Liga Argentina 1986",
+        "Jugador de la temporada Liga Argentina 1986"
+      ],
+      "responses": [
+        "En la temporada 1986 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Newell's Old Boys**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1987",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1987?",
+        "Campeón Liga Argentina 1987",
+        "Subcampeón Liga Argentina 1987",
+        "Goleador Liga Argentina 1987",
+        "Asistidor Liga Argentina 1987",
+        "Jugador de la temporada Liga Argentina 1987"
+      ],
+      "responses": [
+        "En la temporada 1987 de la Liga Argentina, el campeón fue **Rosario Central**. El subcampeón fue **Newell's Old Boys**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1988",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1988?",
+        "Campeón Liga Argentina 1988",
+        "Subcampeón Liga Argentina 1988",
+        "Goleador Liga Argentina 1988",
+        "Asistidor Liga Argentina 1988",
+        "Jugador de la temporada Liga Argentina 1988"
+      ],
+      "responses": [
+        "En la temporada 1988 de la Liga Argentina, el campeón fue **Newell's Old Boys**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1989",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1989?",
+        "Campeón Liga Argentina 1989",
+        "Subcampeón Liga Argentina 1989",
+        "Goleador Liga Argentina 1989",
+        "Asistidor Liga Argentina 1989",
+        "Jugador de la temporada Liga Argentina 1989"
+      ],
+      "responses": [
+        "En la temporada 1989 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1990",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1990?",
+        "Campeón Liga Argentina 1990",
+        "Subcampeón Liga Argentina 1990",
+        "Goleador Liga Argentina 1990",
+        "Asistidor Liga Argentina 1990",
+        "Jugador de la temporada Liga Argentina 1990"
+      ],
+      "responses": [
+        "En la temporada 1990 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Independiente**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1991",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina in 1991?",
+        "Campeón Liga Argentina 1991",
+        "Subcampeón Liga Argentina 1991",
+        "Goleador Liga Argentina 1991",
+        "Asistidor Liga Argentina 1991",
+        "Jugador de la temporada Liga Argentina 1991"
+      ],
+      "responses": [
+        "En la temporada 1991 de la Liga Argentina, el campeón fue **Newell's Old Boys**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1992",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1992?",
+        "Campeón Liga Argentina 1992",
+        "Subcampeón Liga Argentina 1992",
+        "Goleador Liga Argentina 1992",
+        "Asistidor Liga Argentina 1992",
+        "Jugador de la temporada Liga Argentina 1992"
+      ],
+      "responses": [
+        "En la temporada 1992 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1993",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1993?",
+        "Campeón Liga Argentina 1993",
+        "Subcampeón Liga Argentina 1993",
+        "Goleador Liga Argentina 1993",
+        "Asistidor Liga Argentina 1993",
+        "Jugador de la temporada Liga Argentina 1993"
+      ],
+      "responses": [
+        "En la temporada 1993 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Vélez Sarsfield**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1994",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1994?",
+        "Campeón Liga Argentina 1994",
+        "Subcampeón Liga Argentina 1994",
+        "Goleador Liga Argentina 1994",
+        "Asistidor Liga Argentina 1994",
+        "Jugador de la temporada Liga Argentina 1994"
+      ],
+      "responses": [
+        "En la temporada 1994 de la Liga Argentina, el campeón fue **Independiente**. El subcampeón fue **Huracán**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1995",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1995?",
+        "Campeón Liga Argentina 1995",
+        "Subcampeón Liga Argentina 1995",
+        "Goleador Liga Argentina 1995",
+        "Asistidor Liga Argentina 1995",
+        "Jugador de la temporada Liga Argentina 1995"
+      ],
+      "responses": [
+        "En la temporada 1995 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Gimnasia y Esgrima La Plata**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1996",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1996?",
+        "Campeón Liga Argentina 1996",
+        "Subcampeón Liga Argentina 1996",
+        "Goleador Liga Argentina 1996",
+        "Asistidor Liga Argentina 1996",
+        "Jugador de la temporada Liga Argentina 1996"
+      ],
+      "responses": [
+        "En la temporada 1996 de la Liga Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **River Plate**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1997",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1997?",
+        "Campeón Liga Argentina 1997",
+        "Subcampeón Liga Argentina 1997",
+        "Goleador Liga Argentina 1997",
+        "Asistidor Liga Argentina 1997",
+        "Jugador de la temporada Liga Argentina 1997"
+      ],
+      "responses": [
+        "En la temporada 1997 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Independiente**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1998",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1998?",
+        "Campeón Liga Argentina 1998",
+        "Subcampeón Liga Argentina 1998",
+        "Goleador Liga Argentina 1998",
+        "Asistidor Liga Argentina 1998",
+        "Jugador de la temporada Liga Argentina 1998"
+      ],
+      "responses": [
+        "En la temporada 1998 de la Liga Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Lanús**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_1999",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 1999?",
+        "Campeón Liga Argentina 1999",
+        "Subcampeón Liga Argentina 1999",
+        "Goleador Liga Argentina 1999",
+        "Asistidor Liga Argentina 1999",
+        "Jugador de la temporada Liga Argentina 1999"
+      ],
+      "responses": [
+        "En la temporada 1999 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2000",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2000?",
+        "Campeón Liga Argentina 2000",
+        "Subcampeón Liga Argentina 2000",
+        "Goleador Liga Argentina 2000",
+        "Asistidor Liga Argentina 2000",
+        "Jugador de la temporada Liga Argentina 2000"
+      ],
+      "responses": [
+        "En la temporada 2000 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Independiente**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2001",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2001?",
+        "Campeón Liga Argentina 2001",
+        "Subcampeón Liga Argentina 2001",
+        "Goleador Liga Argentina 2001",
+        "Asistidor Liga Argentina 2001",
+        "Jugador de la temporada Liga Argentina 2001"
+      ],
+      "responses": [
+        "En la temporada 2001 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **River Plate**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2002",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2002?",
+        "Campeón Liga Argentina 2002",
+        "Subcampeón Liga Argentina 2002",
+        "Goleador Liga Argentina 2002",
+        "Asistidor Liga Argentina 2002",
+        "Jugador de la temporada Liga Argentina 2002"
+      ],
+      "responses": [
+        "En la temporada 2002 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Gimnasia y Esgrima La Plata**. El máximo goleador fue **Carlos Morete** (River Plate) con 22 goles. No se registraron asistencias en esa época. El jugador destacado fue **Carlos Morete** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2003",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2003?",
+        "Campeón Liga Argentina 2003",
+        "Subcampeón Liga Argentina 2003",
+                "Goleador Liga Argentina 2003",
+        "Asistidor Liga Argentina 2003",
+        "Jugador de la temporada Liga Argentina 2003"
+      ],
+      "responses": [
+        "En la temporada 2003 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Carlos Tevez** (Boca Juniors) con 15 goles. El máximo asistidor fue **Andrés D'Alessandro** (River Plate) con 10 asistencias. El jugador de la temporada fue **Carlos Tevez** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2004",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2004?",
+        "Campeón Liga Argentina 2004",
+        "Subcampeón Liga Argentina 2004",
+        "Goleador Liga Argentina 2004",
+        "Asistidor Liga Argentina 2004",
+        "Jugador de la temporada Liga Argentina 2004"
+      ],
+      "responses": [
+        "En la temporada 2004 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Luciano Figueroa** (Rosario Central) con 17 goles. El máximo asistidor fue **Andrés D'Alessandro** (River Plate) con 12 asistencias. El jugador de la temporada fue **Luciano Figueroa** (Rosario Central)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2005",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2005?",
+        "Campeón Liga Argentina 2005",
+        "Subcampeón Liga Argentina 2005",
+        "Goleador Liga Argentina 2005",
+        "Asistidor Liga Argentina 2005",
+        "Jugador de la temporada Liga Argentina 2005"
+      ],
+      "responses": [
+        "En la temporada 2005 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Gimnasia y Esgrima La Plata**. El máximo goleador fue **Mariano Pavone** (Estudiantes de La Plata) con 16 goles. El máximo asistidor fue **Juan Román Riquelme** (Boca Juniors) con 10 asistencias. El jugador de la temporada fue **Juan Román Riquelme** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2006",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2006?",
+        "Campeón Liga Argentina 2006",
+        "Subcampeón Liga Argentina 2006",
+        "Goleador Liga Argentina 2006",
+                "Asistidor Liga Argentina 2006",
+        "Jugador de la temporada Liga Argentina 2006"
+      ],
+      "responses": [
+        "En la temporada 2006 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Lanús**. El máximo goleador fue **Rodrigo Palacio** (Boca Juniors) con 19 goles. El máximo asistidor fue **Juan Román Riquelme** (Boca Juniors) con 12 asistencias. El jugador de la temporada fue **Rodrigo Palacio** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2007",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2007?",
+        "Campeón Liga Argentina 2007",
+        "Subcampeón Liga Argentina 2007",
+        "Goleador Liga Argentina 2007",
+        "Asistidor Liga Argentina 2007",
+        "Jugador de la temporada Liga Argentina 2007"
+      ],
+      "responses": [
+        "En la temporada 2007 de la Liga Argentina, el campeón fue **San Lorenzo**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Martín Palermo** (Boca Juniors) con 22 goles. El máximo asistidor fue **Leandro Romagnoli** (San Lorenzo) con 10 asistencias. El jugador de la temporada fue **Martín Palermo** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2008",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2008?",
+        "Campeón Liga Argentina 2008",
+        "Subcampeón Liga Argentina 2008",
+        "Goleador Liga Argentina 2008",
+        "Asistidor Liga Argentina 2008",
+        "Jugador de la temporada Liga Argentina 2008"
+      ],
+      "responses": [
+        "En la temporada 2008 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **José Sand** (Lanús) con 15 goles. El máximo asistidor fue **Ariel Ortega** (River Plate) con 9 asistencias. El jugador de la temporada fue **José Sand** (Lanús)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2009",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2009?",
+        "Campeón Liga Argentina 2009",
+        "Subcampeón Liga Argentina 2009",
+        "Goleador Liga Argentina 2009",
+        "Asistidor Liga Argentina 2009",
+        "Jugador de la temporada Liga Argentina 2009"
+      ],
+      "responses": [
+        "En la temporada 2009 de la Liga Argentina, el campeón fue **Banfield**. El subcampeón fue **Newell's Old Boys**. El máximo goleador fue **Santiago Silva** (Banfield) con 14 goles. El máximo asistidor fue **Walter Erviti** (Banfield) con 10 asistencias. El jugador de la temporada fue **Santiago Silva** (Banfield)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2010",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2010?",
+        "Campeón Liga Argentina 2010",
+        "Subcampeón Liga Argentina 2010",
+        "Goleador Liga Argentina 2010",
+        "Asistidor Liga Argentina 2010",
+        "Jugador de la temporada Liga Argentina 2010"
+      ],
+      "responses": [
+        "En la temporada 2010 de la Liga Argentina, el campeón fue **Argentinos Juniors**. El subcampeón fue **Estudiantes de La Plata**. El máximo goleador fue **Santiago Silva** (Vélez Sarsfield) con 14 goles. El máximo asistidor fue **Juan Manuel Martínez** (Vélez Sarsfield) con 9 asistencias. El jugador de la temporada fue **Santiago Silva** (Vélez Sarsfield)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2011",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2011?",
+        "Campeón Liga Argentina 2011",
+        "Subcampeón Liga Argentina 2011",
+        "Goleador Liga Argentina 2011",
+        "Asistidor Liga Argentina 2011",
+        "Jugador de la temporada Liga Argentina 2011"
+      ],
+      "responses": [
+        "En la temporada 2011 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Rubén Ramírez** (Lanús) con 13 goles. El máximo asistidor fue **Juan Román Riquelme** (Boca Juniors) con 10 asistencias. El jugador de la temporada fue **Juan Román Riquelme** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2012",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2012?",
+        "Campeón Liga Argentina 2012",
+        "Subcampeón Liga Argentina 2012",
+        "Goleador Liga Argentina 2012",
+        "Asistidor Liga Argentina 2012",
+        "Jugador de la temporada Liga Argentina 2012"
+      ],
+      "responses": [
+        "En la temporada 2012 de la Liga Argentina, el campeón fue **Arsenal de Sarandí**. El subcampeón fue **Tigre**. El máximo goleador fue **César Pereyra** (Belgrano) con 13 goles. El máximo asistidor fue **Luciano Leguizamón** (Arsenal de Sarandí) con 8 asistencias. El jugador de la temporada fue **César Pereyra** (Belgrano)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2013",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2013?",
+        "Campeón Liga Argentina 2013",
+        "Subcampeón Liga Argentina 2013",
+        "Goleador Liga Argentina 2013",
+        "Asistidor Liga Argentina 2013",
+        "Jugador de la temporada Liga Argentina 2013"
+      ],
+      "responses": [
+        "En la temporada 2013 de la Liga Argentina, el campeón fue **Vélez Sarsfield**. El subcampeón fue **Newell's Old Boys**. El máximo goleador fue **Ignacio Scocco** (Newell's Old Boys) con 24 goles. El máximo asistidor fue **Maxi Rodríguez** (Newell's Old Boys) con 10 asistencias. El jugador de la temporada fue **Ignacio Scocco** (Newell's Old Boys)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2014",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2014?",
+        "Campeón Liga Argentina 2014",
+        "Subcampeón Liga Argentina 2014",
+        "Goleador Liga Argentina 2014",
+        "Asistidor Liga Argentina 2014",
+        "Jugador de la temporada Liga Argentina 2014"
+      ],
+      "responses": [
+        "En la temporada 2014 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Boca Juniors**. El máximo goleador fue **Marco Ruben** (Rosario Central) con 21 goles. El máximo asistidor fue **Fernando Gago** (Boca Juniors) con 9 asistencias. El jugador de la temporada fue **Marco Ruben** (Rosario Central)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2015",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2015?",
+        "Campeón Liga Argentina 2015",
+        "Subcampeón Liga Argentina 2015",
+        "Goleador Liga Argentina 2015",
+        "Asistidor Liga Argentina 2015",
+        "Jugador de la temporada Liga Argentina 2015"
+      ],
+      "responses": [
+        "En la temporada 2015 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Marco Ruben** (Rosario Central) con 21 goles. El máximo asistidor fue **Fernando Gago** (Boca Juniors) con 9 asistencias. El jugador de la temporada fue **Marco Ruben** (Rosario Central)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2016",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2016?",
+        "Campeón Liga Argentina 2016",
+        "Subcampeón Liga Argentina 2016",
+        "Goleador Liga Argentina 2016",
+        "Asistidor Liga Argentina 2016",
+        "Jugador de la temporada Liga Argentina 2016"
+      ],
+      "responses": [
+        "En la temporada 2016 de la Liga Argentina, el campeón fue **Lanús**. El subcampeón fue **San Lorenzo**. El máximo goleador fue **Marco Ruben** (Rosario Central) con 21 goles. El máximo asistidor fue **Fernando Gago** (Boca Juniors) con 9 asistencias. El jugador de la temporada fue **Marco Ruben** (Rosario Central)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2017",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2017?",
+        "Campeón Liga Argentina 2017",
+        "Subcampeón Liga Argentina 2017",
+        "Goleador Liga Argentina 2017",
+        "Asistidor Liga Argentina 2017",
+        "Jugador de la temporada Liga Argentina 2017"
+      ],
+      "responses": [
+        "En la temporada 2017 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Darío Benedetto** (Boca Juniors) con 21 goles. El máximo asistidor fue **Pablo Pérez** (Boca Juniors) con 10 asistencias. El jugador de la temporada fue **Darío Benedetto** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2018",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2018?",
+        "Campeón Liga Argentina 2018",
+        "Subcampeón Liga Argentina 2018",
+        "Goleador Liga Argentina 2018",
+        "Asistidor Liga Argentina 2018",
+        "Jugador de la temporada Liga Argentina 2018"
+      ],
+      "responses": [
+        "En la temporada 2018 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Godoy Cruz**. El máximo goleador fue **Darío Benedetto** (Boca Juniors) con 21 goles. El máximo asistidor fue **Pablo Pérez** (Boca Juniors) with 10 asistencias. El jugador de la temporada fue **Darío Benedetto** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2019",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2019?",
+        "Campeón Liga Argentina 2019",
+        "Subcampeón Liga Argentina 2019",
+        "Goleador Liga Argentina 2019",
+        "Asistidor Liga Argentina 2019",
+        "Jugador de la temporada Liga Argentina 2019"
+      ],
+      "responses": [
+        "En la temporada 2019 de la Liga Argentina, el campeón fue **Racing Club**. El subcampeón fue **Defensa y Justicia**. El máximo goleador fue **Lisandro López** (Racing Club) con 17 goles. El máximo asistidor fue **Matías Zaracho** (Racing Club) con 8 asistencias. El jugador de la temporada fue **Lisandro López** (Racing Club)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2020",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2020?",
+        "Campeón Liga Argentina 2020",
+        "Subcampeón Liga Argentina 2020",
+        "Goleador Liga Argentina 2020",
+        "Asistidor Liga Argentina 2020",
+        "Jugador de la temporada Liga Argentina 2020"
+      ],
+      "responses": [
+        "En la temporada 2020 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **River Plate**. El máximo goleador fue **Rafael Santos Borré** (River Plate) con 12 goles. El máximo asistidor fue **Ignacio Fernández** (River Plate) con 7 asistencias. El jugador de la temporada fue **Rafael Santos Borré** (River Plate)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2021",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2021?",
+        "Campeón Liga Argentina 2021",
+        "Subcampeón Liga Argentina 2021",
+        "Goleador Liga Argentina 2021",
+        "Asistidor Liga Argentina 2021",
+        "Jugador de la temporada Liga Argentina 2021"
+      ],
+      "responses": [
+        "En la temporada 2021 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Defensa y Justicia**. El máximo goleador fue **Julio César Furch** (Atlético Tucumán) con 19 goles. El máximo asistidor fue **Ignacio Fernández** (River Plate) con 9 asistencias. El jugador de la temporada fue **Julio César Furch** (Atlético Tucumán)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2022",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2022?",
+        "Campeón Liga Argentina 2022",
+        "Subcampeón Liga Argentina 2022",
+        "Goleador Liga Argentina 2022",
+        "Asistidor Liga Argentina 2022",
+        "Jugador de la temporada Liga Argentina 2022"
+      ],
+      "responses": [
+        "En la temporada 2022 de la Liga Argentina, el campeón fue **Boca Juniors**. El subcampeón fue **Racing Club**. El máximo goleador fue **Miguel Merentiel** (Boca Juniors) con 18 goles. El máximo asistidor fue **Sebastián Villa** (Boca Juniors) con 10 asistencias. El jugador de la temporada fue **Miguel Merentiel** (Boca Juniors)."
+      ]
+    },
+    {
+      "tag": "liga_argentina_2023",
+      "patterns": [
+        "¿Quién ganó la Liga Argentina en 2023?",
+        "Campeón Liga Argentina 2023",
+        "Subcampeón Liga Argentina 2023",
+        "Goleador Liga Argentina 2023",
+        "Asistidor Liga Argentina 2023",
+        "Jugador de la temporada Liga Argentina 2023"
+      ],
+      "responses": [
+        "En la temporada 2023 de la Liga Argentina, el campeón fue **River Plate**. El subcampeón fue **Talleres de Córdoba**. El máximo goleador fue **Miguel Borja** (River Plate) con 20 goles. El máximo asistidor fue **Esequiel Barco** (River Plate) con 12 asistencias. El jugador de la temporada fue **Miguel Borja** (River Plate)."
+      ]
+    }
+  ]
+}

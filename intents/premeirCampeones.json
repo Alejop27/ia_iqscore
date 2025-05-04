@@ -1,0 +1,1132 @@
+{
+    "intents": [
+      {
+        "tag": "english_league_1888_1889",
+        "patterns": [
+          "¿Quién ganó la liga inglesa en 1888-1889?", "Campeón liga inglesa 1888-1889", "Subcampeón liga inglesa 1888-1889", "Goleador liga inglesa 1888-1889"
+        ],
+        "responses": [
+          "En la temporada 1888-1889 de la Football League, el campeón fue **Preston North End** (Invictos). El subcampeón fue **Aston Villa**. El máximo goleador fue **John Goodall** (Preston North End) con 21 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1889_1890",
+        "patterns": [
+          "¿Quién ganó la liga inglesa en 1889-1890?", "Campeón liga inglesa 1889-1890", "Subcampeón liga inglesa 1889-1890", "Goleador liga inglesa 1889-1890"
+        ],
+        "responses": [
+          "En la temporada 1889-1890 de la Football League, el campeón fue **Preston North End**. El subcampeón fue **Everton**. El máximo goleador fue **Jimmy Ross** (Preston North End) con 24 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1890_1891",
+        "patterns": [
+          "¿Quién ganó la liga inglesa en 1890-1891?", "Campeón liga inglesa 1890-1891", "Subcampeón liga inglesa 1890-1891", "Goleador liga inglesa 1890-1891"
+        ],
+        "responses": [
+          "En la temporada 1890-1891 de la Football League, el campeón fue **Everton**. El subcampeón fue **Preston North End**. El máximo goleador fue **Jack Southworth** (Blackburn Rovers) con 26 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1891_1892",
+        "patterns": [
+          "¿Quién ganó la liga inglesa en 1891-1892?", "Campeón liga inglesa 1891-1892", "Subcampeón liga inglesa 1891-1892", "Goleador liga inglesa 1891-1892"
+        ],
+        "responses": [
+          "En la temporada 1891-1892 de la Football League, el campeón fue **Sunderland**. El subcampeón fue **Preston North End**. El máximo goleador fue **John Campbell** (Sunderland) con 32 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1892_1893",
+        "patterns": [
+          "¿Quién ganó la First Division en 1892-1893?", "Campeón First Division 1892-1893", "Subcampeón First Division 1892-1893", "Goleador First Division 1892-1893"
+        ],
+        "responses": [
+          "En la temporada 1892-1893 de la First Division, el campeón fue **Sunderland**. El subcampeón fue **Preston North End**. El máximo goleador fue **John Campbell** (Sunderland) con 31 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1893_1894",
+        "patterns": [
+          "¿Quién ganó la First Division en 1893-1894?", "Campeón First Division 1893-1894", "Subcampeón First Division 1893-1894", "Goleador First Division 1893-1894"
+        ],
+        "responses": [
+          "En la temporada 1893-1894 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Sunderland**. El máximo goleador fue **Jack Southworth** (Everton) con 27 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1894_1895",
+        "patterns": [
+          "¿Quién ganó la First Division en 1894-1895?", "Campeón First Division 1894-1895", "Subcampeón First Division 1894-1895", "Goleador First Division 1894-1895"
+        ],
+        "responses": [
+          "En la temporada 1894-1895 de la First Division, el campeón fue **Sunderland**. El subcampeón fue **Everton**. El máximo goleador fue **John Campbell** (Sunderland) con 22 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1895_1896",
+        "patterns": [
+          "¿Quién ganó la First Division en 1895-1896?", "Campeón First Division 1895-1896", "Subcampeón First Division 1895-1896", "Goleador First Division 1895-1896"
+        ],
+        "responses": [
+          "En la temporada 1895-1896 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Derby County**. Los máximos goleadores fueron **John Campbell** (Aston Villa) y **Steve Bloomer** (Derby County) con 20 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1896_1897",
+        "patterns": [
+          "¿Quién ganó la First Division en 1896-1897?", "Campeón First Division 1896-1897", "Subcampeón First Division 1896-1897", "Goleador First Division 1896-1897"
+        ],
+        "responses": [
+          "En la temporada 1896-1897 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Sheffield United**. El máximo goleador fue **Steve Bloomer** (Derby County) con 22 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1897_1898",
+        "patterns": [
+          "¿Quién ganó la First Division en 1897-1898?", "Campeón First Division 1897-1898", "Subcampeón First Division 1897-1898", "Goleador First Division 1897-1898"
+        ],
+        "responses": [
+          "En la temporada 1897-1898 de la First Division, el campeón fue **Sheffield United**. El subcampeón fue **Sunderland**. El máximo goleador fue **Fred Wheldon** (Aston Villa) con 21 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1898_1899",
+        "patterns": [
+          "¿Quién ganó la First Division en 1898-1899?", "Campeón First Division 1898-1899", "Subcampeón First Division 1898-1899", "Goleador First Division 1898-1899"
+        ],
+        "responses": [
+          "En la temporada 1898-1899 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Liverpool**. El máximo goleador fue **Steve Bloomer** (Derby County) con 23 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1899_1900",
+        "patterns": [
+          "¿Quién ganó la First Division en 1899-1900?", "Campeón First Division 1899-1900", "Subcampeón First Division 1899-1900", "Goleador First Division 1899-1900"
+        ],
+        "responses": [
+          "En la temporada 1899-1900 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Sheffield United**. El máximo goleador fue **Billy Garraty** (Aston Villa) con 27 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1900_1901",
+        "patterns": [
+          "¿Quién ganó la First Division en 1900-1901?", "Campeón First Division 1900-1901", "Subcampeón First Division 1900-1901", "Goleador First Division 1900-1901"
+        ],
+        "responses": [
+          "En la temporada 1900-1901 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Sunderland**. El máximo goleador fue **Steve Bloomer** (Derby County) con 23 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1901_1902",
+        "patterns": [
+          "¿Quién ganó la First Division en 1901-1902?", "Campeón First Division 1901-1902", "Subcampeón First Division 1901-1902", "Goleador First Division 1901-1902"
+        ],
+        "responses": [
+          "En la temporada 1901-1902 de la First Division, el campeón fue **Sunderland**. El subcampeón fue **Everton**. El máximo goleador fue **Jimmy Settle** (Everton) con 18 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1902_1903",
+        "patterns": [
+          "¿Quién ganó la First Division en 1902-1903?", "Campeón First Division 1902-1903", "Subcampeón First Division 1902-1903", "Goleador First Division 1902-1903"
+        ],
+        "responses": [
+          "En la temporada 1902-1903 de la First Division, el campeón fue **The Wednesday** (Sheffield Wednesday). El subcampeón fue **Aston Villa**. El máximo goleador fue **Sam Raybould** (Liverpool) con 31 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1903_1904",
+        "patterns": [
+          "¿Quién ganó la First Division en 1903-1904?", "Campeón First Division 1903-1904", "Subcampeón First Division 1903-1904", "Goleador First Division 1903-1904"
+        ],
+        "responses": [
+          "En la temporada 1903-1904 de la First Division, el campeón fue **The Wednesday** (Sheffield Wednesday). El subcampeón fue **Manchester City**. El máximo goleador fue **Steve Bloomer** (Derby County) con 20 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1904_1905",
+        "patterns": [
+          "¿Quién ganó la First Division en 1904-1905?", "Campeón First Division 1904-1905", "Subcampeón First Division 1904-1905", "Goleador First Division 1904-1905"
+        ],
+        "responses": [
+          "En la temporada 1904-1905 de la First Division, el campeón fue **Newcastle United**. El subcampeón fue **Everton**. El máximo goleador fue **Arthur Brown** (Sheffield United) con 22 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1905_1906",
+        "patterns": [
+          "¿Quién ganó la First Division en 1905-1906?", "Campeón First Division 1905-1906", "Subcampeón First Division 1905-1906", "Goleador First Division 1905-1906"
+        ],
+        "responses": [
+          "En la temporada 1905-1906 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Preston North End**. El máximo goleador fue **Albert Shepherd** (Bolton Wanderers) con 26 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1906_1907",
+        "patterns": [
+          "¿Quién ganó la First Division en 1906-1907?", "Campeón First Division 1906-1907", "Subcampeón First Division 1906-1907", "Goleador First Division 1906-1907"
+        ],
+        "responses": [
+          "En la temporada 1906-1907 de la First Division, el campeón fue **Newcastle United**. El subcampeón fue **Bristol City**. El máximo goleador fue **Alex Young** (Everton) con 28 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1907_1908",
+        "patterns": [
+          "¿Quién ganó la First Division en 1907-1908?", "Campeón First Division 1907-1908", "Subcampeón First Division 1907-1908", "Goleador First Division 1907-1908"
+        ],
+        "responses": [
+          "En la temporada 1907-1908 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Enoch West** (Nottingham Forest) con 27 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1908_1909",
+        "patterns": [
+          "¿Quién ganó la First Division en 1908-1909?", "Campeón First Division 1908-1909", "Subcampeón First Division 1908-1909", "Goleador First Division 1908-1909"
+        ],
+        "responses": [
+          "En la temporada 1908-1909 de la First Division, el campeón fue **Newcastle United**. El subcampeón fue **Everton**. El máximo goleador fue **Bert Freeman** (Everton) con 38 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1909_1910",
+        "patterns": [
+          "¿Quién ganó la First Division en 1909-1910?", "Campeón First Division 1909-1910", "Subcampeón First Division 1909-1910", "Goleador First Division 1909-1910"
+        ],
+        "responses": [
+          "En la temporada 1909-1910 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Liverpool**. El máximo goleador fue **Jack Parkinson** (Liverpool) con 30 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1910_1911",
+        "patterns": [
+          "¿Quién ganó la First Division en 1910-1911?", "Campeón First Division 1910-1911", "Subcampeón First Division 1910-1911", "Goleador First Division 1910-1911"
+        ],
+        "responses": [
+          "En la temporada 1910-1911 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Alex Young** (Everton) con 26 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1911_1912",
+        "patterns": [
+          "¿Quién ganó la First Division en 1911-1912?", "Campeón First Division 1911-1912", "Subcampeón First Division 1911-1912", "Goleador First Division 1911-1912"
+        ],
+        "responses": [
+          "En la temporada 1911-1912 de la First Division, el campeón fue **Blackburn Rovers**. El subcampeón fue **Everton**. Los máximos goleadores fueron **David McLean** (The Wednesday), **George Elliott** (Middlesbrough) y **Harry Hampton** (Aston Villa) con 25 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1912_1913",
+        "patterns": [
+          "¿Quién ganó la First Division en 1912-1913?", "Campeón First Division 1912-1913", "Subcampeón First Division 1912-1913", "Goleador First Division 1912-1913"
+        ],
+        "responses": [
+          "En la temporada 1912-1913 de la First Division, el campeón fue **Sunderland**. El subcampeón fue **Aston Villa**. El máximo goleador fue **David McLean** (The Wednesday) con 30 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1913_1914",
+        "patterns": [
+          "¿Quién ganó la First Division en 1913-1914?", "Campeón First Division 1913-1914", "Subcampeón First Division 1913-1914", "Goleador First Division 1913-1914"
+        ],
+        "responses": [
+          "En la temporada 1913-1914 de la First Division, el campeón fue **Blackburn Rovers**. El subcampeón fue **Aston Villa**. El máximo goleador fue **George Elliott** (Middlesbrough) con 32 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1914_1915",
+        "patterns": [
+          "¿Quién ganó la First Division en 1914-1915?", "Campeón First Division 1914-1915", "Subcampeón First Division 1914-1915", "Goleador First Division 1914-1915"
+        ],
+        "responses": [
+          "En la temporada 1914-1915 de la First Division, el campeón fue **Everton**. El subcampeón fue **Oldham Athletic**. El máximo goleador fue **Bobby Parker** (Everton) con 35 goles."
+        ]
+      },
+      
+      {
+        "tag": "english_league_1919_1920",
+        "patterns": [
+          "¿Quién ganó la First Division en 1919-1920?", "Campeón First Division 1919-1920", "Subcampeón First Division 1919-1920", "Goleador First Division 1919-1920"
+        ],
+        "responses": [
+          "En la temporada 1919-1920 de la First Division, el campeón fue **West Bromwich Albion**. El subcampeón fue **Burnley**. El máximo goleador fue **Fred Morris** (West Bromwich Albion) con 37 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1920_1921",
+        "patterns": [
+          "¿Quién ganó la First Division en 1920-1921?", "Campeón First Division 1920-1921", "Subcampeón First Division 1920-1921", "Goleador First Division 1920-1921"
+        ],
+        "responses": [
+          "En la temporada 1920-1921 de la First Division, el campeón fue **Burnley**. El subcampeón fue **Manchester City**. El máximo goleador fue **Joe Smith** (Bolton Wanderers) con 38 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1921_1922",
+        "patterns": [
+          "¿Quién ganó la First Division en 1921-1922?", "Campeón First Division 1921-1922", "Subcampeón First Division 1921-1922", "Goleador First Division 1921-1922"
+        ],
+        "responses": [
+          "En la temporada 1921-1922 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **Andy Wilson** (Middlesbrough) con 31 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1922_1923",
+        "patterns": [
+          "¿Quién ganó la First Division en 1922-1923?", "Campeón First Division 1922-1923", "Subcampeón First Division 1922-1923", "Goleador First Division 1922-1923"
+        ],
+        "responses": [
+          "En la temporada 1922-1923 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Sunderland**. El máximo goleador fue **Charlie Buchan** (Sunderland) con 30 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1923_1924",
+        "patterns": [
+          "¿Quién ganó la First Division en 1923-1924?", "Campeón First Division 1923-1924", "Subcampeón First Division 1923-1924", "Goleador First Division 1923-1924"
+        ],
+        "responses": [
+          "En la temporada 1923-1924 de la First Division, el campeón fue **Huddersfield Town**. El subcampeón fue **Cardiff City**. El máximo goleador fue **Wilf Chadwick** (Everton) con 28 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1924_1925",
+        "patterns": [
+          "¿Quién ganó la First Division en 1924-1925?", "Campeón First Division 1924-1925", "Subcampeón First Division 1924-1925", "Goleador First Division 1924-1925"
+        ],
+        "responses": [
+          "En la temporada 1924-1925 de la First Division, el campeón fue **Huddersfield Town**. El subcampeón fue **West Bromwich Albion**. El máximo goleador fue **Frank Roberts** (Manchester City) con 31 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1925_1926",
+        "patterns": [
+          "¿Quién ganó la First Division en 1925-1926?", "Campeón First Division 1925-1926", "Subcampeón First Division 1925-1926", "Goleador First Division 1925-1926"
+        ],
+        "responses": [
+          "En la temporada 1925-1926 de la First Division, el campeón fue **Huddersfield Town**. El subcampeón fue **Arsenal**. El máximo goleador fue **Ted Harper** (Blackburn Rovers) con 43 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1926_1927",
+        "patterns": [
+          "¿Quién ganó la First Division en 1926-1927?", "Campeón First Division 1926-1927", "Subcampeón First Division 1926-1927", "Goleador First Division 1926-1927"
+        ],
+        "responses": [
+          "En la temporada 1926-1927 de la First Division, el campeón fue **Newcastle United**. El subcampeón fue **Huddersfield Town**. El máximo goleador fue **Jimmy Trotter** (The Wednesday) con 37 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1927_1928",
+        "patterns": [
+          "¿Quién ganó la First Division en 1927-1928?", "Campeón First Division 1927-1928", "Subcampeón First Division 1927-1928", "Goleador First Division 1927-1928"
+        ],
+        "responses": [
+          "En la temporada 1927-1928 de la First Division, el campeón fue **Everton**. El subcampeón fue **Huddersfield Town**. El máximo goleador fue **Dixie Dean** (Everton) con 60 goles (récord histórico)."
+        ]
+      },
+      {
+        "tag": "english_league_1928_1929",
+        "patterns": [
+          "¿Quién ganó la First Division en 1928-1929?", "Campeón First Division 1928-1929", "Subcampeón First Division 1928-1929", "Goleador First Division 1928-1929"
+        ],
+        "responses": [
+          "En la temporada 1928-1929 de la First Division, el campeón fue **The Wednesday** (Sheffield Wednesday). El subcampeón fue **Leicester City**. El máximo goleador fue **Dave Halliday** (Sunderland) con 43 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1929_1930",
+        "patterns": [
+          "¿Quién ganó la First Division en 1929-1930?", "Campeón First Division 1929-1930", "Subcampeón First Division 1929-1930", "Goleador First Division 1929-1930"
+        ],
+        "responses": [
+          "En la temporada 1929-1930 de la First Division, el campeón fue **Sheffield Wednesday**. El subcampeón fue **Derby County**. El máximo goleador fue **Vic Watson** (West Ham United) con 41 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1930_1931",
+        "patterns": [
+          "¿Quién ganó la First Division en 1930-1931?", "Campeón First Division 1930-1931", "Subcampeón First Division 1930-1931", "Goleador First Division 1930-1931"
+        ],
+        "responses": [
+          "En la temporada 1930-1931 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Tom Waring** (Aston Villa) con 49 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1931_1932",
+        "patterns": [
+          "¿Quién ganó la First Division en 1931-1932?", "Campeón First Division 1931-1932", "Subcampeón First Division 1931-1932", "Goleador First Division 1931-1932"
+        ],
+        "responses": [
+          "En la temporada 1931-1932 de la First Division, el campeón fue **Everton**. El subcampeón fue **Arsenal**. El máximo goleador fue **Dixie Dean** (Everton) con 45 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1932_1933",
+        "patterns": [
+          "¿Quién ganó la First Division en 1932-1933?", "Campeón First Division 1932-1933", "Subcampeón First Division 1932-1933", "Goleador First Division 1932-1933"
+        ],
+        "responses": [
+          "En la temporada 1932-1933 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Jack Bowers** (Derby County) con 35 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1933_1934",
+        "patterns": [
+          "¿Quién ganó la First Division en 1933-1934?", "Campeón First Division 1933-1934", "Subcampeón First Division 1933-1934", "Goleador First Division 1933-1934"
+        ],
+        "responses": [
+          "En la temporada 1933-1934 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Huddersfield Town**. El máximo goleador fue **Jack Bowers** (Derby County) con 34 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1934_1935",
+        "patterns": [
+          "¿Quién ganó la First Division en 1934-1935?", "Campeón First Division 1934-1935", "Subcampeón First Division 1934-1935", "Goleador First Division 1934-1935"
+        ],
+        "responses": [
+          "En la temporada 1934-1935 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Sunderland**. El máximo goleador fue **Ted Drake** (Arsenal) con 42 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1935_1936",
+        "patterns": [
+          "¿Quién ganó la First Division en 1935-1936?", "Campeón First Division 1935-1936", "Subcampeón First Division 1935-1936", "Goleador First Division 1935-1936"
+        ],
+        "responses": [
+          "En la temporada 1935-1936 de la First Division, el campeón fue **Sunderland**. El subcampeón fue **Derby County**. El máximo goleador fue **W. G. Richardson** (West Bromwich Albion) con 39 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1936_1937",
+        "patterns": [
+          "¿Quién ganó la First Division en 1936-1937?", "Campeón First Division 1936-1937", "Subcampeón First Division 1936-1937", "Goleador First Division 1936-1937"
+        ],
+        "responses": [
+          "En la temporada 1936-1937 de la First Division, el campeón fue **Manchester City**. El subcampeón fue **Charlton Athletic**. El máximo goleador fue **Fred Steele** (Stoke City) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1937_1938",
+        "patterns": [
+          "¿Quién ganó la First Division en 1937-1938?", "Campeón First Division 1937-1938", "Subcampeón First Division 1937-1938", "Goleador First Division 1937-1938"
+        ],
+        "responses": [
+          "En la temporada 1937-1938 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Wolverhampton Wanderers**. El máximo goleador fue **Tommy Lawton** (Everton) con 38 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1938_1939",
+        "patterns": [
+          "¿Quién ganó la First Division en 1938-1939?", "Campeón First Division 1938-1939", "Subcampeón First Division 1938-1939", "Goleador First Division 1938-1939"
+        ],
+        "responses": [
+          "En la temporada 1938-1939 de la First Division, el campeón fue **Everton**. El subcampeón fue **Wolverhampton Wanderers**. El máximo goleador fue **Tommy Lawton** (Everton) con 35 goles."
+        ]
+      },
+      
+       {
+        "tag": "english_league_1946_1947",
+        "patterns": [
+          "¿Quién ganó la First Division en 1946-1947?", "Campeón First Division 1946-1947", "Subcampeón First Division 1946-1947", "Goleador First Division 1946-1947"
+        ],
+        "responses": [
+          "En la temporada 1946-1947 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Manchester United**. El máximo goleador fue **Dennis Westcott** (Wolverhampton Wanderers) con 37 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1947_1948",
+        "patterns": [
+          "¿Quién ganó la First Division en 1947-1948?", "Campeón First Division 1947-1948", "Subcampeón First Division 1947-1948", "Goleador First Division 1947-1948"
+        ],
+        "responses": [
+          "En la temporada 1947-1948 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Manchester United**. El máximo goleador fue **Ronnie Rooke** (Arsenal) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1948_1949",
+        "patterns": [
+          "¿Quién ganó la First Division en 1948-1949?", "Campeón First Division 1948-1949", "Subcampeón First Division 1948-1949", "Goleador First Division 1948-1949"
+        ],
+        "responses": [
+          "En la temporada 1948-1949 de la First Division, el campeón fue **Portsmouth**. El subcampeón fue **Manchester United**. El máximo goleador fue **Willie Moir** (Bolton Wanderers) con 25 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1949_1950",
+        "patterns": [
+          "¿Quién ganó la First Division en 1949-1950?", "Campeón First Division 1949-1950", "Subcampeón First Division 1949-1950", "Goleador First Division 1949-1950"
+        ],
+        "responses": [
+          "En la temporada 1949-1950 de la First Division, el campeón fue **Portsmouth**. El subcampeón fue **Wolverhampton Wanderers**. El máximo goleador fue **Dickie Davis** (Sunderland) con 25 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1950_1951",
+        "patterns": [
+          "¿Quién ganó la First Division en 1950-1951?", "Campeón First Division 1950-1951", "Subcampeón First Division 1950-1951", "Goleador First Division 1950-1951"
+        ],
+        "responses": [
+          "En la temporada 1950-1951 de la First Division, el campeón fue **Tottenham Hotspur**. El subcampeón fue **Manchester United**. El máximo goleador fue **Stan Mortensen** (Blackpool) con 30 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1951_1952",
+        "patterns": [
+          "¿Quién ganó la First Division en 1951-1952?", "Campeón First Division 1951-1952", "Subcampeón First Division 1951-1952", "Goleador First Division 1951-1952"
+        ],
+        "responses": [
+          "En la temporada 1951-1952 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **George Robledo** (Newcastle United) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1952_1953",
+        "patterns": [
+          "¿Quién ganó la First Division en 1952-1953?", "Campeón First Division 1952-1953", "Subcampeón First Division 1952-1953", "Goleador First Division 1952-1953"
+        ],
+        "responses": [
+          "En la temporada 1952-1953 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Preston North End**. El máximo goleador fue **Charlie Wayman** (Preston North End) con 24 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1953_1954",
+        "patterns": [
+          "¿Quién ganó la First Division en 1953-1954?", "Campeón First Division 1953-1954", "Subcampeón First Division 1953-1954", "Goleador First Division 1953-1954"
+        ],
+        "responses": [
+          "En la temporada 1953-1954 de la First Division, el campeón fue **Wolverhampton Wanderers**. El subcampeón fue **West Bromwich Albion**. El máximo goleador fue **Jimmy Glazzard** (Huddersfield Town) con 29 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1954_1955",
+        "patterns": [
+          "¿Quién ganó la First Division en 1954-1955?", "Campeón First Division 1954-1955", "Subcampeón First Division 1954-1955", "Goleador First Division 1954-1955"
+        ],
+        "responses": [
+          "En la temporada 1954-1955 de la First Division, el campeón fue **Chelsea**. El subcampeón fue **Wolverhampton Wanderers**. El máximo goleador fue **Ronnie Allen** (West Bromwich Albion) con 27 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1955_1956",
+        "patterns": [
+          "¿Quién ganó la First Division en 1955-1956?", "Campeón First Division 1955-1956", "Subcampeón First Division 1955-1956", "Goleador First Division 1955-1956"
+        ],
+        "responses": [
+          "En la temporada 1955-1956 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Blackpool**. El máximo goleador fue **Nat Lofthouse** (Bolton Wanderers) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1956_1957",
+        "patterns": [
+          "¿Quién ganó la First Division en 1956-1957?", "Campeón First Division 1956-1957", "Subcampeón First Division 1956-1957", "Goleador First Division 1956-1957"
+        ],
+        "responses": [
+          "En la temporada 1956-1957 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **John Charles** (Leeds United) con 38 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1957_1958",
+        "patterns": [
+          "¿Quién ganó la First Division en 1957-1958?", "Campeón First Division 1957-1958", "Subcampeón First Division 1957-1958", "Goleador First Division 1957-1958"
+        ],
+        "responses": [
+          "En la temporada 1957-1958 de la First Division, el campeón fue **Wolverhampton Wanderers**. El subcampeón fue **Preston North End**. El máximo goleador fue **Bobby Smith** (Tottenham Hotspur) con 36 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1958_1959",
+        "patterns": [
+          "¿Quién ganó la First Division en 1958-1959?", "Campeón First Division 1958-1959", "Subcampeón First Division 1958-1959", "Goleador First Division 1958-1959"
+        ],
+        "responses": [
+          "En la temporada 1958-1959 de la First Division, el campeón fue **Wolverhampton Wanderers**. El subcampeón fue **Manchester United**. El máximo goleador fue **Jimmy Greaves** (Chelsea) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1959_1960",
+        "patterns": [
+          "¿Quién ganó la First Division en 1959-1960?", "Campeón First Division 1959-1960", "Subcampeón First Division 1959-1960", "Goleador First Division 1959-1960"
+        ],
+        "responses": [
+          "En la temporada 1959-1960 de la First Division, el campeón fue **Burnley**. El subcampeón fue **Wolverhampton Wanderers**. El máximo goleador fue **Dennis Viollet** (Manchester United) con 32 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1960_1961",
+        "patterns": [
+          "¿Quién ganó la First Division en 1960-1961?", "Campeón First Division 1960-1961", "Subcampeón First Division 1960-1961", "Goleador First Division 1960-1961"
+        ],
+        "responses": [
+          "En la temporada 1960-1961 de la First Division, el campeón fue **Tottenham Hotspur** (Doblete). El subcampeón fue **Sheffield Wednesday**. El máximo goleador fue **Jimmy Greaves** (Chelsea) con 41 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1961_1962",
+        "patterns": [
+          "¿Quién ganó la First Division en 1961-1962?", "Campeón First Division 1961-1962", "Subcampeón First Division 1961-1962", "Goleador First Division 1961-1962"
+        ],
+        "responses": [
+          "En la temporada 1961-1962 de la First Division, el campeón fue **Ipswich Town**. El subcampeón fue **Burnley**. Los máximos goleadores fueron **Ray Crawford** (Ipswich Town) y **Derek Kevan** (West Bromwich Albion) con 33 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1962_1963",
+        "patterns": [
+          "¿Quién ganó la First Division en 1962-1963?", "Campeón First Division 1962-1963", "Subcampeón First Division 1962-1963", "Goleador First Division 1962-1963"
+        ],
+        "responses": [
+          "En la temporada 1962-1963 de la First Division, el campeón fue **Everton**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **Jimmy Greaves** (Tottenham Hotspur) con 37 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1963_1964",
+        "patterns": [
+          "¿Quién ganó la First Division en 1963-1964?", "Campeón First Division 1963-1964", "Subcampeón First Division 1963-1964", "Goleador First Division 1963-1964"
+        ],
+        "responses": [
+          "En la temporada 1963-1964 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Manchester United**. El máximo goleador fue **Jimmy Greaves** (Tottenham Hotspur) con 35 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1964_1965",
+        "patterns": [
+          "¿Quién ganó la First Division en 1964-1965?", "Campeón First Division 1964-1965", "Subcampeón First Division 1964-1965", "Goleador First Division 1964-1965"
+        ],
+        "responses": [
+          "En la temporada 1964-1965 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Leeds United**. Los máximos goleadores fueron **Andy McEvoy** (Blackburn Rovers) y **Jimmy Greaves** (Tottenham Hotspur) con 29 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1965_1966",
+        "patterns": [
+          "¿Quién ganó la First Division en 1965-1966?", "Campeón First Division 1965-1966", "Subcampeón First Division 1965-1966", "Goleador First Division 1965-1966"
+        ],
+        "responses": [
+          "En la temporada 1965-1966 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Leeds United**. El máximo goleador fue **Willie Irvine** (Burnley) con 29 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1966_1967",
+        "patterns": [
+          "¿Quién ganó la First Division en 1966-1967?", "Campeón First Division 1966-1967", "Subcampeón First Division 1966-1967", "Goleador First Division 1966-1967"
+        ],
+        "responses": [
+          "En la temporada 1966-1967 de la First Division, el campeón fue **Manchester United**. El subcampeón fue **Nottingham Forest**. El máximo goleador fue **Ron Davies** (Southampton) con 37 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1967_1968",
+        "patterns": [
+          "¿Quién ganó la First Division en 1967-1968?", "Campeón First Division 1967-1968", "Subcampeón First Division 1967-1968", "Goleador First Division 1967-1968"
+        ],
+        "responses": [
+          "En la temporada 1967-1968 de la First Division, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. Los máximos goleadores fueron **George Best** (Manchester United) y **Ron Davies** (Southampton) con 28 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1968_1969",
+        "patterns": [
+          "¿Quién ganó la First Division en 1968-1969?", "Campeón First Division 1968-1969", "Subcampeón First Division 1968-1969", "Goleador First Division 1968-1969"
+        ],
+        "responses": [
+          "En la temporada 1968-1969 de la First Division, el campeón fue **Leeds United**. El subcampeón fue **Liverpool**. El máximo goleador fue **Jimmy Greaves** (Tottenham Hotspur) con 27 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1969_1970",
+        "patterns": [
+          "¿Quién ganó la First Division en 1969-1970?", "Campeón First Division 1969-1970", "Subcampeón First Division 1969-1970", "Goleador First Division 1969-1970"
+        ],
+        "responses": [
+          "En la temporada 1969-1970 de la First Division, el campeón fue **Everton**. El subcampeón fue **Leeds United**. El máximo goleador fue **Jeff Astle** (West Bromwich Albion) con 25 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1970_1971",
+        "patterns": [
+          "¿Quién ganó la First Division en 1970-1971?", "Campeón First Division 1970-1971", "Subcampeón First Division 1970-1971", "Goleador First Division 1970-1971"
+        ],
+        "responses": [
+          "En la temporada 1970-1971 de la First Division, el campeón fue **Arsenal** (Doblete). El subcampeón fue **Leeds United**. El máximo goleador fue **Tony Brown** (West Bromwich Albion) con 28 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1971_1972",
+        "patterns": [
+          "¿Quién ganó la First Division en 1971-1972?", "Campeón First Division 1971-1972", "Subcampeón First Division 1971-1972", "Goleador First Division 1971-1972"
+        ],
+        "responses": [
+          "En la temporada 1971-1972 de la First Division, el campeón fue **Derby County**. El subcampeón fue **Leeds United**. El máximo goleador fue **Francis Lee** (Manchester City) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1972_1973",
+        "patterns": [
+          "¿Quién ganó la First Division en 1972-1973?", "Campeón First Division 1972-1973", "Subcampeón First Division 1972-1973", "Goleador First Division 1972-1973"
+        ],
+        "responses": [
+          "En la temporada 1972-1973 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Arsenal**. El máximo goleador fue **Pop Robson** (West Ham United) con 28 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1973_1974",
+        "patterns": [
+          "¿Quién ganó la First Division en 1973-1974?", "Campeón First Division 1973-1974", "Subcampeón First Division 1973-1974", "Goleador First Division 1973-1974"
+        ],
+        "responses": [
+          "En la temporada 1973-1974 de la First Division, el campeón fue **Leeds United**. El subcampeón fue **Liverpool**. El máximo goleador fue **Mick Channon** (Southampton) con 21 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1974_1975",
+        "patterns": [
+          "¿Quién ganó la First Division en 1974-1975?", "Campeón First Division 1974-1975", "Subcampeón First Division 1974-1975", "Goleador First Division 1974-1975"
+        ],
+        "responses": [
+          "En la temporada 1974-1975 de la First Division, el campeón fue **Derby County**. El subcampeón fue **Liverpool**. El máximo goleador fue **Malcolm Macdonald** (Newcastle United) con 21 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1975_1976",
+        "patterns": [
+          "¿Quién ganó la First Division en 1975-1976?", "Campeón First Division 1975-1976", "Subcampeón First Division 1975-1976", "Goleador First Division 1975-1976"
+        ],
+        "responses": [
+          "En la temporada 1975-1976 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Queens Park Rangers**. El máximo goleador fue **Ted MacDougall** (Norwich City) con 23 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1976_1977",
+        "patterns": [
+          "¿Quién ganó la First Division en 1976-1977?", "Campeón First Division 1976-1977", "Subcampeón First Division 1976-1977", "Goleador First Division 1976-1977"
+        ],
+        "responses": [
+          "En la temporada 1976-1977 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Manchester City**. Los máximos goleadores fueron **Malcolm Macdonald** (Arsenal) y **Andy Gray** (Aston Villa) con 25 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1977_1978",
+        "patterns": [
+          "¿Quién ganó la First Division en 1977-1978?", "Campeón First Division 1977-1978", "Subcampeón First Division 1977-1978", "Goleador First Division 1977-1978"
+        ],
+        "responses": [
+          "En la temporada 1977-1978 de la First Division, el campeón fue **Nottingham Forest**. El subcampeón fue **Liverpool**. El máximo goleador fue **Bob Latchford** (Everton) con 30 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1978_1979",
+        "patterns": [
+          "¿Quién ganó la First Division en 1978-1979?", "Campeón First Division 1978-1979", "Subcampeón First Division 1978-1979", "Goleador First Division 1978-1979"
+        ],
+        "responses": [
+          "En la temporada 1978-1979 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Nottingham Forest**. El máximo goleador fue **Frank Worthington** (Bolton Wanderers) con 24 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1979_1980",
+        "patterns": [
+          "¿Quién ganó la First Division en 1979-1980?", "Campeón First Division 1979-1980", "Subcampeón First Division 1979-1980", "Goleador First Division 1979-1980"
+        ],
+        "responses": [
+          "En la temporada 1979-1980 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Manchester United**. El máximo goleador fue **Phil Boyer** (Southampton) con 23 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1980_1981",
+        "patterns": [
+          "¿Quién ganó la First Division en 1980-1981?", "Campeón First Division 1980-1981", "Subcampeón First Division 1980-1981", "Goleador First Division 1980-1981"
+        ],
+        "responses": [
+          "En la temporada 1980-1981 de la First Division, el campeón fue **Aston Villa**. El subcampeón fue **Ipswich Town**. Los máximos goleadores fueron **Peter Withe** (Aston Villa) y **Steve Archibald** (Tottenham Hotspur) con 20 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1981_1982",
+        "patterns": [
+          "¿Quién ganó la First Division en 1981-1982?", "Campeón First Division 1981-1982", "Subcampeón First Division 1981-1982", "Goleador First Division 1981-1982"
+        ],
+        "responses": [
+          "En la temporada 1981-1982 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Ipswich Town**. El máximo goleador fue **Kevin Keegan** (Southampton) con 26 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1982_1983",
+        "patterns": [
+          "¿Quién ganó la First Division en 1982-1983?", "Campeón First Division 1982-1983", "Subcampeón First Division 1982-1983", "Goleador First Division 1982-1983"
+        ],
+        "responses": [
+          "En la temporada 1982-1983 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Watford**. El máximo goleador fue **Luther Blissett** (Watford) con 27 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1983_1984",
+        "patterns": [
+          "¿Quién ganó la First Division en 1983-1984?", "Campeón First Division 1983-1984", "Subcampeón First Division 1983-1984", "Goleador First Division 1983-1984"
+        ],
+        "responses": [
+          "En la temporada 1983-1984 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Southampton**. El máximo goleador fue **Ian Rush** (Liverpool) con 32 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1984_1985",
+        "patterns": [
+          "¿Quién ganó la First Division en 1984-1985?", "Campeón First Division 1984-1985", "Subcampeón First Division 1984-1985", "Goleador First Division 1984-1985"
+        ],
+        "responses": [
+          "En la temporada 1984-1985 de la First Division, el campeón fue **Everton**. El subcampeón fue **Liverpool**. Los máximos goleadores fueron **Kerry Dixon** (Chelsea) y **Gary Lineker** (Leicester City) con 24 goles cada uno."
+        ]
+      },
+      {
+        "tag": "english_league_1985_1986",
+        "patterns": [
+          "¿Quién ganó la First Division en 1985-1986?", "Campeón First Division 1985-1986", "Subcampeón First Division 1985-1986", "Goleador First Division 1985-1986"
+        ],
+        "responses": [
+          "En la temporada 1985-1986 de la First Division, el campeón fue **Liverpool** (Doblete). El subcampeón fue **Everton**. El máximo goleador fue **Gary Lineker** (Everton) con 30 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1986_1987",
+        "patterns": [
+          "¿Quién ganó la First Division en 1986-1987?", "Campeón First Division 1986-1987", "Subcampeón First Division 1986-1987", "Goleador First Division 1986-1987"
+        ],
+        "responses": [
+          "En la temporada 1986-1987 de la First Division, el campeón fue **Everton**. El subcampeón fue **Liverpool**. El máximo goleador fue **Clive Allen** (Tottenham Hotspur) con 33 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1987_1988",
+        "patterns": [
+          "¿Quién ganó la First Division en 1987-1988?", "Campeón First Division 1987-1988", "Subcampeón First Division 1987-1988", "Goleador First Division 1987-1988"
+        ],
+        "responses": [
+          "En la temporada 1987-1988 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Manchester United**. El máximo goleador fue **John Aldridge** (Liverpool) con 26 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1988_1989",
+        "patterns": [
+          "¿Quién ganó la First Division en 1988-1989?", "Campeón First Division 1988-1989", "Subcampeón First Division 1988-1889", "Goleador First Division 1988-1989"
+        ],
+        "responses": [
+          "En la temporada 1988-1989 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Liverpool**. El máximo goleador fue **Alan Smith** (Arsenal) con 23 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1989_1990",
+        "patterns": [
+          "¿Quién ganó la First Division en 1989-1990?", "Campeón First Division 1989-1990", "Subcampeón First Division 1989-1990", "Goleador First Division 1989-1990"
+        ],
+        "responses": [
+          "En la temporada 1989-1990 de la First Division, el campeón fue **Liverpool**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Gary Lineker** (Tottenham Hotspur) con 24 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1990_1991",
+        "patterns": [
+          "¿Quién ganó la First Division en 1990-1991?", "Campeón First Division 1990-1991", "Subcampeón First Division 1990-1991", "Goleador First Division 1990-1991"
+        ],
+        "responses": [
+          "En la temporada 1990-1991 de la First Division, el campeón fue **Arsenal**. El subcampeón fue **Liverpool**. El máximo goleador fue **Alan Smith** (Arsenal) con 22 goles."
+        ]
+      },
+      {
+        "tag": "english_league_1991_1992",
+        "patterns": [
+          "¿Quién ganó la First Division en 1991-1992?", "Campeón First Division 1991-1992", "Subcampeón First Division 1991-1992", "Goleador First Division 1991-1992"
+        ],
+        "responses": [
+          "En la temporada 1991-1992 de la First Division, la última antes de la Premier League, el campeón fue **Leeds United**. El subcampeón fue **Manchester United**. El máximo goleador fue **Ian Wright** (Crystal Palace/Arsenal) con 29 goles."
+        ]
+      },
+    
+      {
+        "tag": "premier_league_1992_1993",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1992-1993?", "Campeón Premier League 1992-1993", "Subcampeón Premier League 1992-1993", "Goleador Premier League 1992-1993", "Asistidor Premier League 1992-1993", "Jugador de la temporada Premier League 1992-1993"
+        ],
+        "responses": [
+          "En la temporada 1992-1993 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Aston Villa**. El máximo goleador fue **Teddy Sheringham** (Nottingham Forest/Tottenham Hotspur) con 22 goles. El máximo asistidor fue **Eric Cantona** (Leeds United/Manchester United) con 16 asistencias. No hubo un premio oficial de Jugador de la Temporada de la Premier League este año."
+        ]
+      },
+      {
+        "tag": "premier_league_1993_1994",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1993-1994?", "Campeón Premier League 1993-1994", "Subcampeón Premier League 1993-1994", "Goleador Premier League 1993-1994", "Asistidor Premier League 1993-1994", "Jugador de la temporada Premier League 1993-1994"
+        ],
+        "responses": [
+          "En la temporada 1993-1994 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Blackburn Rovers**. El máximo goleador fue **Andy Cole** (Newcastle United) con 34 goles. El máximo asistidor fue **Andy Townsend** (Aston Villa) con 13 asistencias. No hubo un premio oficial de Jugador de la Temporada de la Premier League este año."
+        ]
+      },
+      {
+        "tag": "premier_league_1994_1995",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1994-1995?", "Campeón Premier League 1994-1995", "Subcampeón Premier League 1994-1995", "Goleador Premier League 1994-1995", "Asistidor Premier League 1994-1995", "Jugador de la temporada Premier League 1994-1995"
+        ],
+        "responses": [
+          "En la temporada 1994-1995 de la Premier League, el campeón fue **Blackburn Rovers**. El subcampeón fue **Manchester United**. El máximo goleador fue **Alan Shearer** (Blackburn Rovers) con 34 goles. El máximo asistidor fue **Matt Le Tissier** (Southampton) con 15 asistencias. El jugador de la temporada fue **Alan Shearer** (Blackburn Rovers)."
+        ]
+      },
+      {
+        "tag": "premier_league_1995_1996",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1995-1996?", "Campeón Premier League 1995-1996", "Subcampeón Premier League 1995-1996", "Goleador Premier League 1995-1996", "Asistidor Premier League 1995-1996", "Jugador de la temporada Premier League 1995-1996"
+        ],
+        "responses": [
+          "En la temporada 1995-1996 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Newcastle United**. El máximo goleador fue **Alan Shearer** (Blackburn Rovers) con 31 goles. El máximo asistidor fue **Steve McManaman** (Liverpool) con 15 asistencias. El jugador de la temporada fue **Peter Schmeichel** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_1996_1997",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1996-1997?", "Campeón Premier League 1996-1997", "Subcampeón Premier League 1996-1997", "Goleador Premier League 1996-1997", "Asistidor Premier League 1996-1997", "Jugador de la temporada Premier League 1996-1997"
+        ],
+        "responses": [
+          "En la temporada 1996-1997 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Newcastle United**. El máximo goleador fue **Alan Shearer** (Newcastle United) con 25 goles. El máximo asistidor fue **Eric Cantona** (Manchester United) con 12 asistencias. El jugador de la temporada fue **Juninho Paulista** (Middlesbrough)."
+        ]
+      },
+      {
+        "tag": "premier_league_1997_1998",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1997-1998?", "Campeón Premier League 1997-1998", "Subcampeón Premier League 1997-1998", "Goleador Premier League 1997-1998", "Asistidor Premier League 1997-1998", "Jugador de la temporada Premier League 1997-1998"
+        ],
+        "responses": [
+          "En la temporada 1997-1998 de la Premier League, el campeón fue **Arsenal**. El subcampeón fue **Manchester United**. Los máximos goleadores fueron **Dion Dublin** (Coventry City), **Michael Owen** (Liverpool) y **Chris Sutton** (Blackburn Rovers) con 18 goles cada uno. El máximo asistidor fue **David Beckham** (Manchester United) con 13 asistencias. El jugador de la temporada fue **Michael Owen** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_1998_1999",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1998-1999?", "Campeón Premier League 1998-1999", "Subcampeón Premier League 1998-1999", "Goleador Premier League 1998-1999", "Asistidor Premier League 1998-1999", "Jugador de la temporada Premier League 1998-1999"
+        ],
+        "responses": [
+          "En la temporada 1998-1999 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. Los máximos goleadores fueron **Jimmy Floyd Hasselbaink** (Leeds United), **Michael Owen** (Liverpool) y **Dwight Yorke** (Manchester United) con 18 goles cada uno. El máximo asistidor fue **Dennis Bergkamp** (Arsenal) con 13 asistencias. El jugador de la temporada fue **Dwight Yorke** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_1999_2000",
+        "patterns": [
+          "¿Quién ganó la Premier League en 1999-2000?", "Campeón Premier League 1999-2000", "Subcampeón Premier League 1999-2000", "Goleador Premier League 1999-2000", "Asistidor Premier League 1999-2000", "Jugador de la temporada Premier League 1999-2000"
+        ],
+        "responses": [
+          "En la temporada 1999-2000 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. El máximo goleador fue **Kevin Phillips** (Sunderland) con 30 goles. Los máximos asistidores fueron **David Beckham** (Manchester United) y **Nolberto Solano** (Newcastle United) con 15 asistencias cada uno. El jugador de la temporada fue **Kevin Phillips** (Sunderland)."
+        ]
+      },
+      {
+        "tag": "premier_league_2000_2001",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2000-2001?", "Campeón Premier League 2000-2001", "Subcampeón Premier League 2000-2001", "Goleador Premier League 2000-2001", "Asistidor Premier League 2000-2001", "Jugador de la temporada Premier League 2000-2001"
+        ],
+        "responses": [
+          "En la temporada 2000-2001 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. El máximo goleador fue **Jimmy Floyd Hasselbaink** (Chelsea) con 23 goles. El máximo asistidor fue **David Beckham** (Manchester United) con 12 asistencias. El jugador de la temporada fue **Patrick Vieira** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2001_2002",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2001-2002?", "Campeón Premier League 2001-2002", "Subcampeón Premier League 2001-2002", "Goleador Premier League 2001-2002", "Asistidor Premier League 2001-2002", "Jugador de la temporada Premier League 2001-2002"
+        ],
+        "responses": [
+          "En la temporada 2001-2002 de la Premier League, el campeón fue **Arsenal**. El subcampeón fue **Liverpool**. El máximo goleador fue **Thierry Henry** (Arsenal) con 24 goles. El máximo asistidor fue **Robert Pires** (Arsenal) con 15 asistencias. El jugador de la temporada fue **Freddie Ljungberg** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2002_2003",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2002-2003?", "Campeón Premier League 2002-2003", "Subcampeón Premier League 2002-2003", "Goleador Premier League 2002-2003", "Asistidor Premier League 2002-2003", "Jugador de la temporada Premier League 2002-2003"
+        ],
+        "responses": [
+          "En la temporada 2002-2003 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Arsenal**. El máximo goleador fue **Ruud van Nistelrooy** (Manchester United) con 25 goles. El máximo asistidor fue **Thierry Henry** (Arsenal) con 20 asistencias. El jugador de la temporada fue **Ruud van Nistelrooy** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2003_2004",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2003-2004?", "Campeón Premier League 2003-2004", "Subcampeón Premier League 2003-2004", "Goleador Premier League 2003-2004", "Asistidor Premier League 2003-2004", "Jugador de la temporada Premier League 2003-2004"
+        ],
+        "responses": [
+          "En la temporada 2003-2004 de la Premier League, el campeón fue **Arsenal** (Invictos). El subcampeón fue **Chelsea**. El máximo goleador fue **Thierry Henry** (Arsenal) con 30 goles. El máximo asistidor fue **Muzzy Izzet** (Leicester City) con 14 asistencias. El jugador de la temporada fue **Thierry Henry** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2004_2005",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2004-2005?", "Campeón Premier League 2004-2005", "Subcampeón Premier League 2004-2005", "Goleador Premier League 2004-2005", "Asistidor Premier League 2004-2005", "Jugador de la temporada Premier League 2004-2005"
+        ],
+        "responses": [
+          "En la temporada 2004-2005 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Arsenal**. El máximo goleador fue **Thierry Henry** (Arsenal) con 25 goles. El máximo asistidor fue **Frank Lampard** (Chelsea) con 18 asistencias. El jugador de la temporada fue **Frank Lampard** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "premier_league_2005_2006",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2005-2006?", "Campeón Premier League 2005-2006", "Subcampeón Premier League 2005-2006", "Goleador Premier League 2005-2006", "Asistidor Premier League 2005-2006", "Jugador de la temporada Premier League 2005-2006"
+        ],
+        "responses": [
+          "En la temporada 2005-2006 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Manchester United**. El máximo goleador fue **Thierry Henry** (Arsenal) con 27 goles. El máximo asistidor fue **Didier Drogba** (Chelsea) con 11 asistencias. El jugador de la temporada fue **Thierry Henry** (Arsenal)."
+        ]
+      },
+      {
+        "tag": "premier_league_2006_2007",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2006-2007?", "Campeón Premier League 2006-2007", "Subcampeón Premier League 2006-2007", "Goleador Premier League 2006-2007", "Asistidor Premier League 2006-2007", "Jugador de la temporada Premier League 2006-2007"
+        ],
+        "responses": [
+          "En la temporada 2006-2007 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. El máximo goleador fue **Didier Drogba** (Chelsea) con 20 goles. Los máximos asistidores fueron **Cesc Fàbregas** (Arsenal) y **Wayne Rooney** (Manchester United) con 11 asistencias cada uno. El jugador de la temporada fue **Cristiano Ronaldo** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2007_2008",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2007-2008?", "Campeón Premier League 2007-2008", "Subcampeón Premier League 2007-2008", "Goleador Premier League 2007-2008", "Asistidor Premier League 2007-2008", "Jugador de la temporada Premier League 2007-2008"
+        ],
+        "responses": [
+          "En la temporada 2007-2008 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. El máximo goleador fue **Cristiano Ronaldo** (Manchester United) con 31 goles. El máximo asistidor fue **Cesc Fàbregas** (Arsenal) con 17 asistencias. El jugador de la temporada fue **Cristiano Ronaldo** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2008_2009",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2008-2009?", "Campeón Premier League 2008-2009", "Subcampeón Premier League 2008-2009", "Goleador Premier League 2008-2009", "Asistidor Premier League 2008-2009", "Jugador de la temporada Premier League 2008-2009"
+        ],
+        "responses": [
+          "En la temporada 2008-2009 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Liverpool**. El máximo goleador fue **Nicolas Anelka** (Chelsea) con 19 goles. El máximo asistidor fue **Frank Lampard** (Chelsea) con 19 asistencias. El jugador de la temporada fue **Nemanja Vidić** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2009_2010",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2009-2010?", "Campeón Premier League 2009-2010", "Subcampeón Premier League 2009-2010", "Goleador Premier League 2009-2010", "Asistidor Premier League 2009-2010", "Jugador de la temporada Premier League 2009-2010"
+        ],
+        "responses": [
+          "En la temporada 2009-2010 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Manchester United**. El máximo goleador fue **Didier Drogba** (Chelsea) con 29 goles. El máximo asistidor fue **Frank Lampard** (Chelsea) con 14 asistencias. El jugador de la temporada fue **Wayne Rooney** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2010_2011",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2010-2011?", "Campeón Premier League 2010-2011", "Subcampeón Premier League 2010-2011", "Goleador Premier League 2010-2011", "Asistidor Premier League 2010-2011", "Jugador de la temporada Premier League 2010-2011"
+        ],
+        "responses": [
+          "En la temporada 2010-2011 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. Los máximos goleadores fueron **Dimitar Berbatov** (Manchester United) y **Carlos Tevez** (Manchester City) con 20 goles cada uno. El máximo asistidor fue **Nani** (Manchester United) con 14 asistencias. El jugador de la temporada fue **Nemanja Vidić** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "premier_league_2011_2012",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2011-2012?", "Campeón Premier League 2011-2012", "Subcampeón Premier League 2011-2012", "Goleador Premier League 2011-2012", "Asistidor Premier League 2011-2012", "Jugador de la temporada Premier League 2011-2012"
+        ],
+        "responses": [
+          "En la temporada 2011-2012 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. El máximo goleador fue **Robin van Persie** (Arsenal) con 30 goles. El máximo asistidor fue **David Silva** (Manchester City) con 15 asistencias. El jugador de la temporada fue **Vincent Kompany** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2012_2013",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2012-2013?", "Campeón Premier League 2012-2013", "Subcampeón Premier League 2012-2013", "Goleador Premier League 2012-2013", "Asistidor Premier League 2012-2013", "Jugador de la temporada Premier League 2012-2013"
+        ],
+        "responses": [
+          "En la temporada 2012-2013 de la Premier League, el campeón fue **Manchester United**. El subcampeón fue **Manchester City**. El máximo goleador fue **Robin van Persie** (Manchester United) con 26 goles. El máximo asistidor fue **Juan Mata** (Chelsea) con 12 asistencias. El jugador de la temporada fue **Gareth Bale** (Tottenham Hotspur)."
+        ]
+      },
+      {
+        "tag": "premier_league_2013_2014",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2013-2014?", "Campeón Premier League 2013-2014", "Subcampeón Premier League 2013-2014", "Goleador Premier League 2013-2014", "Asistidor Premier League 2013-2014", "Jugador de la temporada Premier League 2013-2014"
+        ],
+        "responses": [
+          "En la temporada 2013-2014 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Liverpool**. El máximo goleador fue **Luis Suárez** (Liverpool) con 31 goles. El máximo asistidor fue **Steven Gerrard** (Liverpool) con 13 asistencias. El jugador de la temporada fue **Luis Suárez** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_2014_2015",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2014-2015?", "Campeón Premier League 2014-2015", "Subcampeón Premier League 2014-2015", "Goleador Premier League 2014-2015", "Asistidor Premier League 2014-2015", "Jugador de la temporada Premier League 2014-2015"
+        ],
+        "responses": [
+          "En la temporada 2014-2015 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Manchester City**. El máximo goleador fue **Sergio Agüero** (Manchester City) con 26 goles. El máximo asistidor fue **Cesc Fàbregas** (Chelsea) con 18 asistencias. El jugador de la temporada fue **Eden Hazard** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "premier_league_2015_2016",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2015-2016?", "Campeón Premier League 2015-2016", "Subcampeón Premier League 2015-2016", "Goleador Premier League 2015-2016", "Asistidor Premier League 2015-2016", "Jugador de la temporada Premier League 2015-2016"
+        ],
+        "responses": [
+          "En la temporada 2015-2016 de la Premier League, el campeón fue **Leicester City**. El subcampeón fue **Arsenal**. El máximo goleador fue **Harry Kane** (Tottenham Hotspur) con 25 goles. El máximo asistidor fue **Mesut Özil** (Arsenal) con 19 asistencias. El jugador de la temporada fue **Jamie Vardy** (Leicester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2016_2017",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2016-2017?", "Campeón Premier League 2016-2017", "Subcampeón Premier League 2016-2017", "Goleador Premier League 2016-2017", "Asistidor Premier League 2016-2017", "Jugador de la temporada Premier League 2016-2017"
+        ],
+        "responses": [
+          "En la temporada 2016-2017 de la Premier League, el campeón fue **Chelsea**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **Harry Kane** (Tottenham Hotspur) con 29 goles. El máximo asistidor fue **Kevin De Bruyne** (Manchester City) con 18 asistencias. El jugador de la temporada fue **N'Golo Kanté** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "premier_league_2017_2018",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2017-2018?", "Campeón Premier League 2017-2018", "Subcampeón Premier League 2017-2018", "Goleador Premier League 2017-2018", "Asistidor Premier League 2017-2018", "Jugador de la temporada Premier League 2017-2018"
+        ],
+        "responses": [
+          "En la temporada 2017-2018 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. El máximo goleador fue **Mohamed Salah** (Liverpool) con 32 goles. El máximo asistidor (Premio Playmaker) fue **Kevin De Bruyne** (Manchester City) con 16 asistencias. El jugador de la temporada fue **Mohamed Salah** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_2018_2019",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2018-2019?", "Campeón Premier League 2018-2019", "Subcampeón Premier League 2018-2019", "Goleador Premier League 2018-2019", "Asistidor Premier League 2018-2019", "Jugador de la temporada Premier League 2018-2019"
+        ],
+        "responses": [
+          "En la temporada 2018-2019 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Liverpool**. Los máximos goleadores fueron **Pierre-Emerick Aubameyang** (Arsenal), **Sadio Mané** (Liverpool) y **Mohamed Salah** (Liverpool) con 22 goles cada uno. El máximo asistidor (Premio Playmaker) fue **Eden Hazard** (Chelsea) con 15 asistencias. El jugador de la temporada fue **Virgil van Dijk** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "premier_league_2019_2020",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2019-2020?", "Campeón Premier League 2019-2020", "Subcampeón Premier League 2019-2020", "Goleador Premier League 2019-2020", "Asistidor Premier League 2019-2020", "Jugador de la temporada Premier League 2019-2020"
+        ],
+        "responses": [
+          "En la temporada 2019-2020 de la Premier League, el campeón fue **Liverpool**. El subcampeón fue **Manchester City**. El máximo goleador fue **Jamie Vardy** (Leicester City) con 23 goles. El máximo asistidor (Premio Playmaker) fue **Kevin De Bruyne** (Manchester City) con 20 asistencias. El jugador de la temporada fue **Kevin De Bruyne** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2020_2021",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2020-2021?", "Campeón Premier League 2020-2021", "Subcampeón Premier League 2020-2021", "Goleador Premier League 2020-2021", "Asistidor Premier League 2020-2021", "Jugador de la temporada Premier League 2020-2021"
+        ],
+        "responses": [
+          "En la temporada 2020-2021 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Manchester United**. El máximo goleador fue **Harry Kane** (Tottenham Hotspur) con 23 goles. El máximo asistidor (Premio Playmaker) fue **Harry Kane** (Tottenham Hotspur) con 14 asistencias. El jugador de la temporada fue **Rúben Dias** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2021_2022",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2021-2022?", "Campeón Premier League 2021-2022", "Subcampeón Premier League 2021-2022", "Goleador Premier League 2021-2022", "Asistidor Premier League 2021-2022", "Jugador de la temporada Premier League 2021-2022"
+        ],
+        "responses": [
+          "En la temporada 2021-2022 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Liverpool**. Los máximos goleadores fueron **Mohamed Salah** (Liverpool) y **Son Heung-min** (Tottenham Hotspur) con 23 goles cada uno. El máximo asistidor (Premio Playmaker) fue **Mohamed Salah** (Liverpool) con 13 asistencias. El jugador de la temporada fue **Kevin De Bruyne** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2022_2023",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2022-2023?", "Campeón Premier League 2022-2023", "Subcampeón Premier League 2022-2023", "Goleador Premier League 2022-2023", "Asistidor Premier League 2022-2023", "Jugador de la temporada Premier League 2022-2023"
+        ],
+        "responses": [
+          "En la temporada 2022-2023 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Arsenal**. El máximo goleador fue **Erling Haaland** (Manchester City) con 36 goles (récord Premier League). El máximo asistidor (Premio Playmaker) fue **Kevin De Bruyne** (Manchester City) con 16 asistencias. El jugador de la temporada fue **Erling Haaland** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "premier_league_2023_2024",
+        "patterns": [
+          "¿Quién ganó la Premier League en 2023-2024?", "Campeón Premier League 2023-2024", "Subcampeón Premier League 2023-2024", "Goleador Premier League 2023-2024", "Asistidor Premier League 2023-2024", "Jugador de la temporada Premier League 2023-2024"
+        ],
+        "responses": [
+          "En la temporada 2023-2024 de la Premier League, el campeón fue **Manchester City**. El subcampeón fue **Arsenal**. El máximo goleador fue **Erling Haaland** (Manchester City) con 27 goles. El máximo asistidor (Premio Playmaker) fue **Ollie Watkins** (Aston Villa) con 13 asistencias. El jugador de la temporada fue **Phil Foden** (Manchester City)."
+        ]
+      }
+    ]
+  }

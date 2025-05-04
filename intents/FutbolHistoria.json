@@ -1,0 +1,666 @@
+{
+    "intents": [
+      {
+        "tag": "futbol_historia_origen",
+        "patterns": [
+          "¿Dónde nació el fútbol moderno?",
+          "Origen del fútbol",
+          "Historia temprana del fútbol",
+          "¿Cuándo se crearon las reglas del fútbol?"
+        ],
+        "responses": [
+          "El fútbol moderno tiene sus orígenes en Inglaterra en el siglo XIX. Aunque existían juegos de pelota similares en culturas antiguas, las reglas modernas (Reglas de Cambridge, luego las de la Football Association - FA en 1863) se codificaron en escuelas y universidades británicas. La FA Cup (1871) es el torneo más antiguo."
+        ]
+      },
+      {
+        "tag": "futbol_reglas_campo",
+        "patterns": [
+          "¿Cuánto mide un campo de fútbol?",
+          "Dimensiones cancha de fútbol",
+          "Medidas reglamentarias campo de fútbol FIFA"
+        ],
+        "responses": [
+          "Las dimensiones de un campo de fútbol según la FIFA para partidos internacionales deben tener entre 100 y 110 metros de largo, y entre 64 y 75 metros de ancho. Las porterías miden 7.32 metros de ancho por 2.44 metros de alto."
+        ]
+      },
+      {
+        "tag": "futbol_reglas_duracion",
+        "patterns": [
+          "¿Cuánto dura un partido de fútbol?",
+          "Tiempo reglamentario fútbol",
+          "Duración de un partido"
+        ],
+        "responses": [
+          "Un partido de fútbol reglamentario dura 90 minutos, dividido en dos tiempos de 45 minutos cada uno, con un descanso intermedio de usualmente 15 minutos. El árbitro puede añadir tiempo de descuento al final de cada tiempo para compensar interrupciones."
+        ]
+      },
+      {
+        "tag": "futbol_reglas_jugadores",
+        "patterns": [
+          "¿Cuántos jugadores hay en un equipo de fútbol?",
+          "Número de jugadores por equipo",
+          "¿Cuántos suplentes se permiten?"
+        ],
+        "responses": [
+          "Cada equipo juega con un máximo de 11 jugadores en el campo, incluyendo un portero. El número de suplentes permitidos en el banquillo y el número de sustituciones permitidas durante el partido varía según la competición (por ejemplo, 5 sustituciones se volvieron comunes tras la pandemia)."
+        ]
+      },
+      {
+        "tag": "futbol_reglas_offside",
+        "patterns": [
+          "¿Qué es el fuera de juego?",
+          "Explica la regla del offside",
+          "Posición adelantada fútbol"
+        ],
+        "responses": [
+          "Un jugador está en posición de fuera de juego si se encuentra más cerca de la línea de meta contraria que el balón y el penúltimo adversario cuando el balón le es jugado por un compañero. No es infracción estar en fuera de juego, pero sí lo es si interviene en el juego (tocando el balón, influyendo a un adversario, etc.) en el momento en que el balón es jugado por su compañero. Hay excepciones (saque de meta, de banda, de esquina)."
+        ]
+      },
+      {
+        "tag": "futbol_reglas_tarjetas",
+        "patterns": [
+          "¿Qué significan las tarjetas amarilla y roja?",
+          "Tarjetas en el fútbol",
+          "Cuando se saca tarjeta roja directa"
+        ],
+        "responses": [
+          "La tarjeta amarilla sirve como amonestación a un jugador por conducta antideportiva, faltas reiteradas, etc. Dos tarjetas amarillas en el mismo partido implican una tarjeta roja y la expulsión. La tarjeta roja directa implica la expulsión inmediata del jugador por faltas graves (juego brusco grave, conducta violenta, evitar una ocasión manifiesta de gol ilegalmente, etc.). El equipo juega con un jugador menos tras una expulsión."
+        ]
+      },
+      {
+        "tag": "futbol_posiciones_portero",
+        "patterns": [
+          "¿Qué hace un portero?",
+          "Función del arquero / guardameta",
+          "Posición de portero"
+        ],
+        "responses": [
+          "El portero (también arquero o guardameta) es el único jugador que puede usar las manos dentro de su propia área penal. Su función principal es evitar que el balón entre en su portería. Viste un color diferente al de sus compañeros."
+        ]
+      },
+      {
+        "tag": "futbol_posiciones_defensa",
+        "patterns": [
+          "¿Qué hace un defensa?",
+          "Tipos de defensas (central, lateral)",
+          "Función de la defensa"
+        ],
+        "responses": [
+          "Los defensas juegan delante del portero y su principal objetivo es impedir que los rivales marquen goles. Los defensas centrales suelen ser altos y fuertes, encargados de marcar a los delanteros rivales y despejar balones aéreos. Los defensas laterales juegan por las bandas, defienden a los extremos rivales y a menudo se suman al ataque."
+        ]
+      },
+      {
+        "tag": "futbol_posiciones_centrocampista",
+        "patterns": [
+          "¿Qué hace un centrocampista?",
+          "Tipos de mediocampistas (pivote, interior, mediapunta)",
+          "Función del mediocampo"
+        ],
+        "responses": [
+          "Los centrocampistas (o mediocampistas) juegan en la zona central del campo, conectando la defensa con el ataque. Hay diferentes roles: el pivote o mediocentro defensivo recupera balones y protege la defensa; los interiores participan en la creación de juego y tienen recorrido; el mediapunta o enganche juega más adelantado, creando ocasiones de gol."
+        ]
+      },
+      {
+        "tag": "futbol_posiciones_delantero",
+        "patterns": [
+          "¿Qué hace un delantero?",
+          "Tipos de delanteros (centro, extremo)",
+          "Función del ataque"
+        ],
+        "responses": [
+          "Los delanteros son los jugadores más cercanos a la portería rival y su principal función es marcar goles. El delantero centro ('9') suele ser el principal referente ofensivo. Los extremos juegan por las bandas, buscando desbordar, centrar o finalizar jugadas."
+        ]
+      },
+      {
+        "tag": "fifa_info",
+        "patterns": [
+          "¿Qué es la FIFA?",
+          "Federación Internacional de Fútbol Asociación",
+          "Organismo rector del fútbol mundial"
+        ],
+        "responses": [
+          "La FIFA (Fédération Internationale de Football Association) es la institución que gobierna las federaciones de fútbol en todo el mundo. Fundada en 1904 y con sede en Zúrich, Suiza, es responsable de organizar los torneos de fútbol más importantes a nivel mundial, como la Copa Mundial masculina y femenina, y de establecer las reglas del juego (a través de la IFAB)."
+        ]
+      },
+      {
+        "tag": "confederaciones_fifa",
+        "patterns": [
+          "¿Cuáles son las confederaciones de la FIFA?",
+          "Confederaciones continentales de fútbol"
+        ],
+        "responses": [
+          "La FIFA agrupa a las federaciones nacionales en seis confederaciones continentales: AFC (Asia), CAF (África), CONCACAF (Norteamérica, Centroamérica y Caribe), CONMEBOL (Sudamérica), OFC (Oceanía) y UEFA (Europa)."
+        ]
+      },
+      {
+        "tag": "ballondor_info",
+        "patterns": [
+          "¿Qué es el Balón de Oro?",
+          "Historia del Balón de Oro",
+          "¿Quién entrega el Balón de Oro?",
+          "Ballon d'Or France Football"
+        ],
+        "responses": [
+          "El Balón de Oro (Ballon d'Or) es un prestigioso premio anual otorgado por la revista francesa France Football al mejor jugador de fútbol del mundo (originalmente al mejor jugador europeo). Se entrega desde 1956 (masculino) y 2018 (femenino). Entre 2010 y 2015 se fusionó temporalmente con el premio FIFA World Player."
+        ]
+      },
+      {
+        "tag": "ballondor_mas_ganadores_masc",
+        "patterns": [
+          "¿Quién ha ganado más Balones de Oro (masculino)?",
+          "Jugador con más Balones de Oro",
+          "Récord Balón de Oro"
+        ],
+        "responses": [
+          "Lionel Messi es el jugador que más veces ha ganado el Balón de Oro masculino, con 8 galardones."
+        ]
+      },
+      {
+        "tag": "ballondor_mas_ganadores_fem",
+        "patterns": [
+          "¿Quién ha ganado más Balones de Oro (femenino)?",
+          "Jugadora con más Balones de Oro Femeninos"
+        ],
+        "responses": [
+          "Alexia Putellas y Aitana Bonmatí (ambas de España y FC Barcelona) han ganado el Balón de Oro Femenino dos veces cada una (hasta 2024)."
+        ]
+      },
+      {
+        "tag": "ballondor_1956_ganador",
+        "patterns": ["¿Quién ganó el primer Balón de Oro en 1956?", "Ganador Balón de Oro 1956"],
+        "responses": ["Stanley Matthews (Inglaterra, Blackpool) ganó el primer Balón de Oro en 1956."]
+      },
+      {
+        "tag": "ballondor_1957_ganador",
+        "patterns": ["Ganador Balón de Oro 1957"],
+        "responses": ["Alfredo Di Stéfano (Argentina/España, Real Madrid) ganó el Balón de Oro en 1957."]
+      },
+      {
+        "tag": "ballondor_1958_ganador",
+        "patterns": ["Ganador Balón de Oro 1958"],
+        "responses": ["Raymond Kopa (Francia, Real Madrid) ganó el Balón de Oro en 1958."]
+      },
+      {
+        "tag": "ballondor_1959_ganador",
+        "patterns": ["Ganador Balón de Oro 1959"],
+        "responses": ["Alfredo Di Stéfano (Argentina/España, Real Madrid) ganó su segundo Balón de Oro en 1959."]
+      },
+      {
+        "tag": "ballondor_1960_ganador",
+        "patterns": ["Ganador Balón de Oro 1960"],
+        "responses": ["Luis Suárez Miramontes (España, FC Barcelona) ganó el Balón de Oro en 1960. Es el único español masculino en ganarlo."]
+      },
+      {
+        "tag": "ballondor_1963_ganador",
+        "patterns": ["Ganador Balón de Oro 1963", "¿Ganó Yashin el Balón de Oro?"],
+        "responses": ["Lev Yashin (Unión Soviética, Dinamo Moscú) ganó el Balón de Oro en 1963. Es el único portero en la historia que ha ganado este premio."]
+      },
+      {
+        "tag": "ballondor_1966_ganador",
+        "patterns": ["Ganador Balón de Oro 1966"],
+        "responses": ["Bobby Charlton (Inglaterra, Manchester United) ganó el Balón de Oro en 1966, año en que ganó el Mundial con Inglaterra."]
+      },
+      {
+        "tag": "ballondor_1971_ganador",
+        "patterns": ["Ganador Balón de Oro 1971", "¿Ganó Cruyff el Balón de Oro?"],
+        "responses": ["Johan Cruyff (Países Bajos, Ajax) ganó el primero de sus tres Balones de Oro en 1971."]
+      },
+      {
+        "tag": "ballondor_1973_ganador",
+        "patterns": ["Ganador Balón de Oro 1973"],
+        "responses": ["Johan Cruyff (Países Bajos, FC Barcelona) ganó su segundo Balón de Oro en 1973."]
+      },
+      {
+        "tag": "ballondor_1974_ganador",
+        "patterns": ["Ganador Balón de Oro 1974"],
+        "responses": ["Johan Cruyff (Países Bajos, FC Barcelona) ganó su tercer Balón de Oro consecutivo en 1974."]
+      },
+      {
+        "tag": "ballondor_1976_ganador",
+        "patterns": ["Ganador Balón de Oro 1976", "¿Ganó Beckenbauer el Balón de Oro?"],
+        "responses": ["Franz Beckenbauer (Alemania Occidental, Bayern Munich) ganó su segundo Balón de Oro en 1976 (el primero fue en 1972)."]
+      },
+      {
+        "tag": "ballondor_1983_ganador",
+        "patterns": ["Ganador Balón de Oro 1983", "¿Ganó Platini el Balón de Oro?"],
+        "responses": ["Michel Platini (Francia, Juventus) ganó el primero de sus tres Balones de Oro consecutivos en 1983."]
+      },
+      {
+        "tag": "ballondor_1984_ganador",
+        "patterns": ["Ganador Balón de Oro 1984"],
+        "responses": ["Michel Platini (Francia, Juventus) ganó su segundo Balón de Oro consecutivo en 1984, año en que ganó la Eurocopa con Francia siendo figura."]
+      },
+      {
+        "tag": "ballondor_1985_ganador",
+        "patterns": ["Ganador Balón de Oro 1985"],
+        "responses": ["Michel Platini (Francia, Juventus) ganó su tercer Balón de Oro consecutivo en 1985."]
+      },
+      {
+        "tag": "ballondor_1986_ganador",
+        "patterns": ["Ganador Balón de Oro 1986", "¿Ganó Maradona el Balón de Oro?"],
+        "responses": ["Igor Belánov (Unión Soviética, Dinamo Kiev) ganó el Balón de Oro en 1986. Nota: Diego Maradona no era elegible para el premio en esa época porque solo se otorgaba a jugadores europeos."]
+      },
+      {
+        "tag": "ballondor_1987_ganador",
+        "patterns": ["Ganador Balón de Oro 1987"],
+        "responses": ["Ruud Gullit (Países Bajos, AC Milan) ganó el Balón de Oro en 1987."]
+      },
+      {
+        "tag": "ballondor_1988_ganador",
+        "patterns": ["Ganador Balón de Oro 1988", "¿Ganó Van Basten el Balón de Oro?"],
+        "responses": ["Marco van Basten (Países Bajos, AC Milan) ganó el primero de sus tres Balones de Oro en 1988, año en que ganó la Eurocopa con Países Bajos."]
+      },
+      {
+        "tag": "ballondor_1989_ganador",
+        "patterns": ["Ganador Balón de Oro 1989"],
+        "responses": ["Marco van Basten (Países Bajos, AC Milan) ganó su segundo Balón de Oro consecutivo en 1989."]
+      },
+      {
+        "tag": "ballondor_1990_ganador",
+        "patterns": ["Ganador Balón de Oro 1990"],
+        "responses": ["Lothar Matthäus (Alemania, Inter de Milán) ganó el Balón de Oro en 1990, año en que capitaneó a Alemania a ganar el Mundial."]
+      },
+      {
+        "tag": "ballondor_1992_ganador",
+        "patterns": ["Ganador Balón de Oro 1992"],
+        "responses": ["Marco van Basten (Países Bajos, AC Milan) ganó su tercer Balón de Oro en 1992."]
+      },
+      {
+        "tag": "ballondor_1994_ganador",
+        "patterns": ["Ganador Balón de Oro 1994"],
+        "responses": ["Hristo Stoichkov (Bulgaria, FC Barcelona) ganó el Balón de Oro en 1994, tras ser figura en el Mundial de USA 94 con Bulgaria."]
+      },
+      {
+        "tag": "ballondor_1995_ganador",
+        "patterns": ["Ganador Balón de Oro 1995", "Primer no europeo en ganar Balón de Oro"],
+        "responses": ["George Weah (Liberia, AC Milan) ganó el Balón de Oro en 1995. Fue el primer año en que jugadores no europeos eran elegibles, y Weah es el único africano en ganarlo hasta la fecha."]
+      },
+      {
+        "tag": "ballondor_1997_ganador",
+        "patterns": ["Ganador Balón de Oro 1997", "¿Ganó Ronaldo Nazario el Balón de Oro?"],
+        "responses": ["Ronaldo Nazário (Brasil, Inter deMilán) ganó el primero de sus dos Balones de Oro en 1997. Fue el primer brasileño en ganarlo."]
+    },
+    {
+      "tag": "ballondor_1998_ganador",
+      "patterns": ["Ganador Balón de Oro 1998", "¿Ganó Zidane el Balón de Oro?"],
+      "responses": ["Zinedine Zidane (Francia, Juventus) ganó el Balón de Oro en 1998, año en que lideró a Francia a ganar su primer Mundial."]
+    },
+    {
+      "tag": "ballondor_1999_ganador",
+      "patterns": ["Ganador Balón de Oro 1999"],
+      "responses": ["Rivaldo (Brasil, FC Barcelona) ganó el Balón de Oro en 1999."]
+    },
+    {
+      "tag": "ballondor_2000_ganador",
+      "patterns": ["Ganador Balón de Oro 2000"],
+      "responses": ["Luís Figo (Portugal, Real Madrid) ganó el Balón de Oro en 2000, tras su polémico traspaso del Barcelona al Madrid."]
+    },
+    {
+      "tag": "ballondor_2001_ganador",
+      "patterns": ["Ganador Balón de Oro 2001"],
+      "responses": ["Michael Owen (Inglaterra, Liverpool) ganó el Balón de Oro en 2001."]
+    },
+    {
+      "tag": "ballondor_2002_ganador",
+      "patterns": ["Ganador Balón de Oro 2002"],
+      "responses": ["Ronaldo Nazário (Brasil, Real Madrid) ganó su segundo Balón de Oro en 2002, tras ser la figura y goleador del Brasil campeón del mundo."]
+    },
+    {
+      "tag": "ballondor_2003_ganador",
+      "patterns": ["Ganador Balón de Oro 2003"],
+      "responses": ["Pavel Nedvěd (República Checa, Juventus) ganó el Balón de Oro en 2003."]
+    },
+    {
+      "tag": "ballondor_2004_ganador",
+      "patterns": ["Ganador Balón de Oro 2004"],
+      "responses": ["Andriy Shevchenko (Ucrania, AC Milan) ganó el Balón de Oro en 2004."]
+    },
+    {
+      "tag": "ballondor_2005_ganador",
+      "patterns": ["Ganador Balón de Oro 2005", "¿Ganó Ronaldinho el Balón de Oro?"],
+      "responses": ["Ronaldinho (Brasil, FC Barcelona) ganó el Balón de Oro en 2005, en la cúspide de su magia con el Barça."]
+    },
+    {
+      "tag": "ballondor_2006_ganador",
+      "patterns": ["Ganador Balón de Oro 2006"],
+      "responses": ["Fabio Cannavaro (Italia, Real Madrid) ganó el Balón de Oro en 2006, tras capitanear a Italia a ganar el Mundial. Es uno de los pocos defensas en ganarlo."]
+    },
+    {
+      "tag": "ballondor_2007_ganador",
+      "patterns": ["Ganador Balón de Oro 2007", "¿Ganó Kaká el Balón de Oro?"],
+      "responses": ["Kaká (Brasil, AC Milan) ganó el Balón de Oro en 2007, tras liderar al Milan a ganar la Champions League. Fue el último ganador 'terrenal' antes de la era Messi-Cristiano."]
+    },
+    {
+      "tag": "ballondor_2008_ganador",
+      "patterns": ["Ganador Balón de Oro 2008", "Primer Balón de Oro de Cristiano Ronaldo"],
+      "responses": ["Cristiano Ronaldo (Portugal, Manchester United) ganó el primero de sus cinco Balones de Oro en 2008, tras ganar la Champions con el United."]
+    },
+    {
+      "tag": "ballondor_2009_ganador",
+      "patterns": ["Ganador Balón de Oro 2009", "Primer Balón de Oro de Messi"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó el primero de sus ocho Balones de Oro en 2009, tras liderar al Barça al histórico sextete."]
+    },
+    {
+      "tag": "ballondor_2010_ganador",
+      "patterns": ["Ganador FIFA Balón de Oro 2010", "Messi, Iniesta, Xavi 2010"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó el FIFA Balón de Oro en 2010. El podio fue completado por sus compañeros del Barça Andrés Iniesta y Xavi Hernández, campeones del mundo con España ese año."]
+    },
+    {
+      "tag": "ballondor_2011_ganador",
+      "patterns": ["Ganador FIFA Balón de Oro 2011"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó su tercer Balón de Oro consecutivo en 2011, tras ganar la Champions con el Barça."]
+    },
+    {
+      "tag": "ballondor_2012_ganador",
+      "patterns": ["Ganador FIFA Balón de Oro 2012", "Cuarto Balón de Oro de Messi"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó su cuarto Balón de Oro consecutivo en 2012, un récord."]
+    },
+    {
+      "tag": "ballondor_2013_ganador",
+      "patterns": ["Ganador FIFA Balón de Oro 2013"],
+      "responses": ["Cristiano Ronaldo (Portugal, Real Madrid) ganó su segundo Balón de Oro en 2013."]
+    },
+    {
+      "tag": "ballondor_2014_ganador",
+      "patterns": ["Ganador FIFA Balón de Oro 2014"],
+      "responses": ["Cristiano Ronaldo (Portugal, Real Madrid) ganó su tercer Balón de Oro en 2014, tras ganar la Champions ('La Décima') con el Madrid."]
+    },
+    {
+      "tag": "ballondor_2015_ganador",
+      "patterns": ["Ganador FIFA Balón de Oro 2015"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó su quinto Balón de Oro en 2015, tras ganar el triplete (Liga, Copa, Champions) con el Barça."]
+    },
+    {
+      "tag": "ballondor_2016_ganador",
+      "patterns": ["Ganador Balón de Oro 2016"],
+      "responses": ["Cristiano Ronaldo (Portugal, Real Madrid) ganó su cuarto Balón de Oro en 2016, tras ganar la Champions con el Madrid y la Eurocopa con Portugal."]
+    },
+    {
+      "tag": "ballondor_2017_ganador",
+      "patterns": ["Ganador Balón de Oro 2017", "Quinto Balón de Oro de Cristiano"],
+      "responses": ["Cristiano Ronaldo (Portugal, Real Madrid) ganó su quinto Balón de Oro en 2017, igualando a Messi en ese momento, tras ganar otra Champions con el Madrid."]
+    },
+    {
+      "tag": "ballondor_2018_ganador",
+      "patterns": ["Ganador Balón de Oro 2018", "¿Ganó Modric el Balón de Oro?"],
+      "responses": ["Luka Modrić (Croacia, Real Madrid) ganó el Balón de Oro en 2018, rompiendo la década de dominio Messi-Cristiano. Ganó la Champions con el Madrid y fue subcampeón del mundo con Croacia, siendo Balón de Oro del Mundial."]
+    },
+    {
+      "tag": "ballondor_2019_ganador",
+      "patterns": ["Ganador Balón de Oro 2019", "Sexto Balón de Oro de Messi"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó su sexto Balón de Oro en 2019."]
+    },
+    {
+      "tag": "ballondor_2020_cancelado",
+      "patterns": ["¿Quién ganó el Balón de Oro en 2020?", "Balón de Oro 2020"],
+      "responses": ["El Balón de Oro de 2020 fue cancelado debido a la pandemia de COVID-19. Robert Lewandowski era considerado el gran favorito ese año."]
+    },
+    {
+      "tag": "ballondor_2021_ganador",
+      "patterns": ["Ganador Balón de Oro 2021", "Séptimo Balón de Oro de Messi"],
+      "responses": ["Lionel Messi (Argentina, Paris Saint-Germain) ganó su séptimo Balón de Oro en 2021, en parte gracias a la conquista de la Copa América con Argentina."]
+    },
+    {
+      "tag": "ballondor_2022_ganador",
+      "patterns": ["Ganador Balón de Oro 2022", "¿Ganó Benzema el Balón de Oro?"],
+      "responses": ["Karim Benzema (Francia, Real Madrid) ganó el Balón de Oro en 2022, tras una temporada espectacular donde lideró al Real Madrid a ganar LaLiga y la Champions League."]
+    },
+    {
+      "tag": "ballondor_2023_ganador",
+      "patterns": ["Ganador Balón de Oro 2023", "Octavo Balón de Oro de Messi"],
+      "responses": ["Lionel Messi (Argentina, Inter Miami CF) ganó su octavo Balón de Oro en 2023, principalmente por liderar a Argentina a ganar el Mundial de Qatar 2022."]
+    },
+    {
+      "tag": "ballondor_2024_ganador",
+      "patterns": ["Ganador Balón de Oro 2024"],
+      "responses": ["Rodri (España, Manchester City) ganó el Balón de Oro masculino en 2024, tras una gran temporada con el City y ganar la Eurocopa con España."]
+    },
+    {
+      "tag": "ballondor_2018_femenino_ganadora",
+      "patterns": ["¿Quién ganó el primer Balón de Oro Femenino en 2018?", "Ganadora Balón de Oro Femenino 2018"],
+      "responses": ["Ada Hegerberg (Noruega, Olympique Lyonnais) ganó el primer Balón de Oro Femenino en 2018."]
+    },
+    {
+      "tag": "ballondor_2019_femenino_ganadora",
+      "patterns": ["Ganadora Balón de Oro Femenino 2019", "¿Ganó Rapinoe el Balón de Oro?"],
+      "responses": ["Megan Rapinoe (Estados Unidos, Reign FC) ganó el Balón de Oro Femenino en 2019, tras liderar a EE.UU. a ganar el Mundial Femenino."]
+    },
+    {
+      "tag": "ballondor_2021_femenino_ganadora",
+      "patterns": ["Ganadora Balón de Oro Femenino 2021", "Primer Balón de Oro de Alexia Putellas"],
+      "responses": ["Alexia Putellas (España, FC Barcelona) ganó el Balón de Oro Femenino en 2021."]
+    },
+    {
+      "tag": "ballondor_2022_femenino_ganadora",
+      "patterns": ["Ganadora Balón de Oro Femenino 2022", "Segundo Balón de Oro de Alexia Putellas"],
+      "responses": ["Alexia Putellas (España, FC Barcelona) ganó su segundo Balón de Oro Femenino consecutivo en 2022."]
+    },
+    {
+      "tag": "ballondor_2023_femenino_ganadora",
+      "patterns": ["Ganadora Balón de Oro Femenino 2023", "¿Ganó Aitana Bonmatí el Balón de Oro?"],
+      "responses": ["Aitana Bonmatí (España, FC Barcelona) ganó el Balón de Oro Femenino en 2023, tras ganar la Champions con el Barça y el Mundial Femenino con España, siendo MVP en ambos torneos."]
+    },
+    {
+      "tag": "ballondor_2024_femenino_ganadora",
+      "patterns": ["Ganadora Balón de Oro Femenino 2024"],
+      "responses": ["Aitana Bonmatí (España, FC Barcelona) ganó su segundo Balón de Oro Femenino consecutivo en 2024."]
+    },
+    {
+      "tag": "puskas_info",
+      "patterns": [
+        "¿Qué es el Premio Puskás?",
+        "Premio Puskás de la FIFA",
+        "Premio al mejor gol del año"
+      ],
+      "responses": [
+        "El Premio Puskás de la FIFA se otorga anualmente desde 2009 al jugador (hombre o mujer) que haya marcado el gol considerado estéticamente más significativo o 'más hermoso' del año calendario, sin importar la competición."
+      ]
+    },
+    {
+      "tag": "puskas_2009_ganador",
+      "patterns": ["¿Quién ganó el primer Premio Puskás en 2009?", "Ganador Puskás 2009"],
+      "responses": ["Cristiano Ronaldo ganó el primer Premio Puskás en 2009 por un golazo desde larga distancia con el Manchester United contra el Porto en la Champions League."]
+    },
+    {
+      "tag": "puskas_2010_ganador",
+      "patterns": ["Ganador Puskás 2010"],
+      "responses": ["Hamit Altıntop (Turquía) ganó el Premio Puskás 2010 por una espectacular volea desde fuera del área en un partido de clasificación para la Eurocopa contra Kazajistán."]
+    },
+    {
+      "tag": "puskas_2011_ganador",
+      "patterns": ["Ganador Puskás 2011"],
+      "responses": ["Neymar (Santos) ganó el Premio Puskás 2011 por un increíble gol individual con el Santos contra Flamengo, donde eludió a varios rivales."]
+    },
+    {
+      "tag": "puskas_2012_ganador",
+      "patterns": ["Ganador Puskás 2012"],
+      "responses": ["Miroslav Stoch (Eslovaquia, Fenerbahçe) ganó el Premio Puskás 2012 por una impresionante volea desde fuera del área tras un córner."]
+    },
+    {
+      "tag": "puskas_2013_ganador",
+      "patterns": ["Ganador Puskás 2013", "¿Ganó Ibrahimović el Puskás?"],
+      "responses": ["Zlatan Ibrahimović (Suecia) ganó el Premio Puskás 2013 por su famosa chilena desde casi 40 metros contra Inglaterra en un amistoso."]
+    },
+    {
+      "tag": "puskas_2014_ganador",
+      "patterns": ["Ganador Puskás 2014", "¿Ganó James Rodríguez el Puskás?"],
+      "responses": ["James Rodríguez (Colombia) ganó el Premio Puskás 2014 por su espectacular volea (control de pecho y remate) contra Uruguay en el Mundial de Brasil 2014."]
+    },
+    {
+      "tag": "puskas_2015_ganador",
+      "patterns": ["Ganador Puskás 2015"],
+      "responses": ["Wendell Lira (Brasil, Goianésia) ganó el Premio Puskás 2015 por una hermosa media chilena en una liga regional brasileña."]
+    },
+    {
+      "tag": "puskas_2016_ganador",
+      "patterns": ["Ganador Puskás 2016"],
+      "responses": ["Mohd Faiz Subri (Malasia, Penang FA) ganó el Premio Puskás 2016 por un increíble tiro libre con un efecto 'endiablado' en la liga de Malasia."]
+    },
+    {
+      "tag": "puskas_2017_ganador",
+      "patterns": ["Ganador Puskás 2017", "¿Ganó Giroud el Puskás?"],
+      "responses": ["Olivier Giroud (Francia, Arsenal) ganó el Premio Puskás 2017 por su famoso 'gol del escorpión' contra el Crystal Palace."]
+    },
+    {
+      "tag": "puskas_2018_ganador",
+      "patterns": ["Ganador Puskás 2018", "¿Ganó Salah el Puskás?"],
+      "responses": ["Mohamed Salah (Egipto, Liverpool) ganó el Premio Puskás 2018 por un gol con rosca en el derbi contra el Everton, aunque genereró debate si era el mejor del año."]
+    },
+    {
+      "tag": "puskas_2019_ganador",
+      "patterns": ["Ganador Puskás 2019"],
+      "responses": ["Dániel Zsóri (Hungría, Debrecen) ganó el Premio Puskás 2019 por una chilena espectacular en el último minuto en su debut profesional."]
+    },
+    {
+      "tag": "puskas_2020_ganador",
+      "patterns": ["Ganador Puskás 2020", "¿Ganó Son el Puskás?"],
+      "responses": ["Son Heung-min (Corea del Sur, Tottenham Hotspur) ganó el Premio Puskás 2020 por un increíble gol individual donde recorrió casi todo el campo eludiendo rivales contra el Burnley."]
+    },
+    {
+      "tag": "puskas_2021_ganador",
+      "patterns": ["Ganador Puskás 2021", "¿Ganó Lamela el Puskás?"],
+      "responses": ["Érik Lamela (Argentina, Tottenham Hotspur) ganó el Premio Puskás 2021 por un golazo de rabona en el derbi contra el Arsenal."]
+    },
+    {
+      "tag": "puskas_2022_ganador",
+      "patterns": ["Ganador Puskás 2022"],
+      "responses": ["Marcin Oleksy (Polonia, Warta Poznań - fútbol para amputados) ganó el Premio Puskás 2022 por una espectacular chilena, siendo el primer jugador de fútbol para amputados en ganar el premio."]
+    },
+    {
+      "tag": "puskas_2023_ganador",
+      "patterns": ["Ganador Puskás 2023"],
+      "responses": ["Guilherme Madruga (Brasil, Botafogo-SP) ganó el Premio Puskás 2023 por una impresionante chilena desde fuera del área en la Serie B brasileña."]
+    },
+    {
+      "tag": "puskas_2024_ganador",
+      "patterns": ["Ganador Puskás 2024"],
+      "responses": ["Alejandro Garnacho (Argentina, Manchester United) ganó el Premio Puskás 2024 por su espectacular chilena contra el Everton en la Premier League."]
+    },
+    {
+      "tag": "fifa_best_info",
+      "patterns": [
+        "¿Qué es el premio The Best de la FIFA?",
+        "Historia del premio The Best",
+        "Diferencia entre The Best y Balón de Oro"
+      ],
+      "responses": [
+        "El premio The Best FIFA Football Awards es una gala anual organizada por la FIFA desde 2016 para reconocer a los mejores del fútbol mundial. Reemplazó al FIFA World Player of the Year (1991-2009) y al FIFA Ballon d'Or (2010-2015). A diferencia del Balón de Oro (votado principalmente por periodistas), The Best incluye votos de capitanes de selecciones, entrenadores, periodistas y aficionados."
+      ]
+    },
+    {
+      "tag": "fifa_wpoy_1991_ganador",
+      "patterns": ["¿Quién ganó el primer FIFA World Player en 1991?"],
+      "responses": ["Lothar Matthäus (Alemania, Inter de Milán) ganó el primer premio FIFA World Player of the Year en 1991."]
+    },
+    {
+      "tag": "fifa_wpoy_1994_ganador",
+      "patterns": ["Ganador FIFA World Player 1994"],
+      "responses": ["Romário (Brasil, FC Barcelona) ganó el FIFA World Player en 1994, año en que ganó el Mundial con Brasil."]
+    },
+    {
+      "tag": "fifa_wpoy_1996_ganador",
+      "patterns": ["Ganador FIFA World Player 1996"],
+      "responses": ["Ronaldo Nazário (Brasil, FC Barcelona) ganó el primero de sus tres premios FIFA World Player en 1996."]
+    },
+    {
+      "tag": "fifa_wpoy_1998_ganador",
+      "patterns": ["Ganador FIFA World Player 1998"],
+      "responses": ["Zinedine Zidane (Francia, Juventus) ganó el primero de sus tres premios FIFA World Player en 1998."]
+    },
+    {
+      "tag": "fifa_wpoy_2004_ganador",
+      "patterns": ["Ganador FIFA World Player 2004"],
+      "responses": ["Ronaldinho (Brasil, FC Barcelona) ganó el primero de sus dos premios FIFA World Player consecutivos en 2004."]
+    },
+    {
+      "tag": "fifa_best_2016_ganador_masc",
+      "patterns": ["¿Quién ganó el primer The Best masculino en 2016?"],
+      "responses": ["Cristiano Ronaldo (Portugal, Real Madrid) ganó el primer premio The Best al Jugador de la FIFA en 2016."]
+    },
+    {
+      "tag": "fifa_best_2017_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2017"],
+      "responses": ["Cristiano Ronaldo (Portugal, Real Madrid) ganó su segundo premio The Best consecutivo en 2017."]
+    },
+    {
+      "tag": "fifa_best_2018_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2018"],
+      "responses": ["Luka Modrić (Croacia, Real Madrid) ganó el premio The Best en 2018."]
+    },
+    {
+      "tag": "fifa_best_2019_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2019"],
+      "responses": ["Lionel Messi (Argentina, FC Barcelona) ganó el premio The Best en 2019."]
+    },
+    {
+      "tag": "fifa_best_2020_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2020", "¿Ganó Lewandowski el The Best?"],
+      "responses": ["Robert Lewandowski (Polonia, Bayern Munich) ganó el premio The Best al Jugador de la FIFA en 2020."]
+    },
+    {
+      "tag": "fifa_best_2021_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2021"],
+      "responses": ["Robert Lewandowski (Polonia, Bayern Munich) ganó su segundo premio The Best consecutivo en 2021."]
+    },
+    {
+      "tag": "fifa_best_2022_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2022"],
+      "responses": ["Lionel Messi (Argentina, Paris Saint-Germain) ganó el premio The Best al Jugador de la FIFA en 2022."]
+    },
+    {
+      "tag": "fifa_best_2023_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2023"],
+      "responses": ["Lionel Messi (Argentina, Inter Miami CF) ganó el premio The Best al Jugador de la FIFA en 2023."]
+    },
+    {
+      "tag": "fifa_best_2024_ganador_masc",
+      "patterns": ["Ganador The Best masculino 2024"],
+      "responses": ["Kylian Mbappé (Francia, Real Madrid) ganó el premio The Best al Jugador de la FIFA en 2024."]
+    },
+    {
+      "tag": "fifa_best_2016_ganador_fem",
+      "patterns": ["¿Quién ganó el primer The Best femenino en 2016?"],
+      "responses": ["Carli Lloyd (Estados Unidos) ganó el primer premio The Best a la Jugadora de la FIFA en 2016."]
+    },
+    {
+      "tag": "fifa_best_2017_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2017"],
+      "responses": ["Lieke Martens (Países Bajos) ganó el premio The Best a la Jugadora de la FIFA en 2017."]
+    },
+    {
+      "tag": "fifa_best_2018_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2018"],
+      "responses": ["Marta (Brasil) ganó el premio The Best a la Jugadora de la FIFA en 2018."]
+    },
+    {
+      "tag": "fifa_best_2019_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2019"],
+      "responses": ["Megan Rapinoe (Estados Unidos) ganó el premio The Best a la Jugadora de la FIFA en 2019."]
+    },
+    {
+      "tag": "fifa_best_2020_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2020"],
+      "responses": ["Lucy Bronze (Inglaterra) ganó el premio The Best a la Jugadora de la FIFA en 2020."]
+    },
+    {
+      "tag": "fifa_best_2021_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2021"],
+      "responses": ["Alexia Putellas (España) ganó el premio The Best a la Jugadora de la FIFA en 2021."]
+    },
+    {
+      "tag": "fifa_best_2022_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2022"],
+      "responses": ["Alexia Putellas (España) ganó el premio The Best a la Jugadora de la FIFA en 2022."]
+    },
+    {
+      "tag": "fifa_best_2023_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2023"],
+      "responses": ["Aitana Bonmatí (España) ganó el premio The Best a la Jugadora de la FIFA en 2023."]
+    },
+    {
+      "tag": "fifa_best_2024_ganador_fem",
+      "patterns": ["Ganadora The Best femenino 2024"],
+      "responses": ["Jenni Hermoso (España) ganó el premio The Best a la Jugadora de la FIFA en 2024."]
+    }
+  ]
+}
