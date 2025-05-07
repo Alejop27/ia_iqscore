@@ -1,0 +1,1117 @@
+{
+    "intents": [
+      {
+        "tag": "libertadores_historia_origen",
+        "patterns": [
+          "¿Cuándo empezó la Copa Libertadores?",
+          "¿Cuál es el origen de la Copa Libertadores?",
+          "Historia de la Libertadores",
+          "¿Quién creó la Copa Libertadores?",
+          "Primera edición Copa Libertadores"
+        ],
+        "responses": [
+          "La Copa Libertadores de América, el torneo de clubes más prestigioso de Sudamérica, comenzó en 1960. Fue creada por la CONMEBOL, inspirada en la Copa de Europa y en campeonatos sudamericanos previos. Su objetivo era enfrentar a los campeones de las ligas sudamericanas. La primera edición fue ganada por Peñarol de Uruguay."
+        ]
+      },
+      {
+        "tag": "libertadores_nombre_origen",
+        "patterns": [
+          "¿Por qué se llama Copa Libertadores?",
+          "Significado del nombre Copa Libertadores",
+          "Origen del nombre Libertadores"
+        ],
+        "responses": [
+          "El torneo se llama 'Copa Libertadores de América' en honor a los líderes (Libertadores) de las guerras de independencia hispanoamericanas y brasileña, como Simón Bolívar, José de San Martín, Bernardo O'Higgins, José Gervasio Artigas, entre otros. Busca simbolizar la unión y la lucha por la gloria en el continente."
+        ]
+      },
+      {
+        "tag": "libertadores_formato_evolucion",
+        "patterns": [
+          "¿Cómo ha cambiado el formato de la Copa Libertadores?",
+          "Evolución del formato Libertadores",
+          "Historia de los formatos de la Copa Libertadores"
+        ],
+        "responses": [
+          "El formato ha evolucionado significativamente. Comenzó como un torneo de eliminación directa solo para campeones de liga. Luego se incluyeron subcampeones, se introdujeron fases de grupos, se amplió el número de participantes (llegando a 32 en la fase principal y luego a 47 con fases previas). Las finales fueron a doble partido (ida y vuelta) hasta 2018."
+        ]
+      },
+      {
+        "tag": "libertadores_formato_actual",
+        "patterns": [
+          "¿Cómo funciona la Copa Libertadores actualmente?",
+          "Formato actual Libertadores",
+          "Fases de la Copa Libertadores",
+          "Reglas Copa Libertadores"
+        ],
+        "responses": [
+          "El formato actual (desde 2017 aprox.) incluye fases preliminares (Fase 1, 2, 3) de eliminación directa para clasificar a 4 equipos. Estos se suman a 28 clasificados directos para formar una Fase de Grupos con 32 equipos (8 grupos de 4). Los dos primeros de cada grupo avanzan a octavos de final. Desde octavos hasta semifinales se juega a doble partido (ida y vuelta). La final se disputa a partido único en una sede predeterminada."
+        ]
+      },
+      {
+        "tag": "libertadores_final_unica",
+        "patterns": [
+          "¿Desde cuándo la final de la Libertadores es a partido único?",
+          "Cambio a final única Libertadores",
+          "¿Por qué la final de la Libertadores ya no es ida y vuelta?"
+        ],
+        "responses": [
+          "La final de la Copa Libertadores se disputa a partido único en una sede neutral predefinida desde la edición de 2019. La primera final bajo este formato fue Flamengo vs River Plate en Lima. CONMEBOL implementó este cambio buscando un modelo similar al de la UEFA Champions League, para aumentar el atractivo global y los ingresos, aunque ha generado debate entre los hinchas sudamericanos."
+        ]
+      },
+      {
+        "tag": "libertadores_clasificacion",
+        "patterns": [
+          "¿Cómo se clasifican los equipos a la Copa Libertadores?",
+          "¿Qué equipos van a la Libertadores?",
+          "Criterios de clasificación Copa Libertadores",
+          "Cupos por país para la Libertadores"
+        ],
+        "responses": [
+          "Los equipos clasifican a la Copa Libertadores principalmente a través de sus posiciones en las ligas nacionales de los 10 países miembros de CONMEBOL (Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay, Venezuela). También clasifican los campeones de la edición anterior de la Copa Libertadores y de la Copa Sudamericana. El número de cupos y los criterios específicos varían por país según el ranking de CONMEBOL."
+        ]
+      },
+      {
+        "tag": "libertadores_trofeo",
+        "patterns": [
+          "¿Cómo es el trofeo de la Copa Libertadores?",
+          "Descripción del trofeo Libertadores",
+          "Material del trofeo Libertadores",
+          "Placas en el trofeo de la Libertadores"
+        ],
+        "responses": [
+          "El trofeo de la Copa Libertadores es uno de los más icónicos del fútbol. Hecho principalmente de plata, tiene una figura en la parte superior que representa a un jugador pateando un balón. Su base de madera contiene pequeñas placas con el nombre y escudo de cada club campeón desde 1960. Pesa alrededor de 10 kg. El campeón recibe una réplica y el trofeo original se usa en la ceremonia."
+        ]
+      },
+      {
+        "tag": "libertadores_club_mas_titulos",
+        "patterns": [
+          "¿Qué equipo ha ganado más Copas Libertadores?",
+          "Club con más Libertadores",
+          "Máximo ganador de la Copa Libertadores",
+          "Rey de Copas Libertadores"
+        ],
+        "responses": [
+          "Independiente de Avellaneda (Argentina) es el club que más veces ha ganado la Copa Libertadores, con un récord de 7 títulos. Es conocido como el 'Rey de Copas' por este logro, además de haber ganado las 7 finales que disputó."
+        ]
+      },
+      {
+        "tag": "libertadores_club_lista_ganadores_multiples",
+        "patterns": [
+          "¿Qué equipos han ganado la Libertadores más de una vez?",
+          "Clubes con varias Copas Libertadores",
+          "Lista de máximos ganadores Libertadores"
+        ],
+        "responses": [
+          "Varios clubes han ganado la Copa Libertadores múltiples veces. Los más laureados son: Independiente (7), Boca Juniors (6), Peñarol (5), River Plate (4), Estudiantes LP (4), Olimpia (3), Nacional (URU) (3), São Paulo (3), Grêmio (3), Santos (3), Palmeiras (3), Flamengo (3)."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_pais",
+        "patterns": [
+          "¿Qué país tiene más Copas Libertadores?",
+          "País con más títulos de Libertadores",
+          "Títulos Libertadores por país"
+        ],
+        "responses": [
+          "Argentina es el país cuyos clubes han ganado más veces la Copa Libertadores (más de 25 títulos), seguido de cerca por Brasil. Uruguay también tiene una rica historia con 8 títulos entre Peñarol y Nacional."
+        ]
+      },
+      {
+          "tag": "libertadores_club_mas_finales",
+          "patterns": [
+            "¿Qué equipo ha jugado más finales de Copa Libertadores?",
+            "Club con más finales de Libertadores disputadas",
+            "Récord de finales jugadas Libertadores"
+          ],
+          "responses": [
+            "Boca Juniors es el club que más finales de Copa Libertadores ha disputado en la historia, superando las 10 finales jugadas (ganó 6 y perdió varias)."
+          ]
+        },
+        {
+          "tag": "libertadores_club_finales_perdidas_record",
+          "patterns": [
+            "¿Qué equipo ha perdido más finales de Copa Libertadores?",
+            "Club con más subcampeonatos Libertadores"
+          ],
+          "responses": [
+            "Boca Juniors y Peñarol son los clubes que más finales de Copa Libertadores han perdido."
+          ]
+        },
+      {
+        "tag": "libertadores_club_info_independiente",
+        "patterns": [
+          "Háblame de Independiente en la Libertadores",
+          "Historia de Independiente en Copa Libertadores",
+          "El Rey de Copas"
+        ],
+        "responses": [
+          "Independiente es el 'Rey de Copas' por sus 7 Libertadores. Ganaron las dos primeras ediciones que disputaron (1964, 1965). Su época dorada fue entre 1972 y 1975, cuando lograron un récord inigualado de 4 títulos consecutivos, con figuras como Bochini, Bertoni y Pavoni. Su séptimo título llegó en 1984, también con Bochini y Burruchaga."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_independiente",
+        "patterns": [
+          "¿En qué años ganó Independiente la Libertadores?",
+          "Títulos de Independiente en Copa Libertadores"
+        ],
+        "responses": [
+          "Independiente ganó la Copa Libertadores en 1964, 1965, 1972, 1973, 1974, 1975 y 1984."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_boca",
+        "patterns": [
+          "Háblame de Boca Juniors en la Libertadores",
+          "Historia de Boca en Copa Libertadores",
+          "Finales de Boca en Libertadores"
+        ],
+        "responses": [
+          "Boca Juniors es el segundo máximo ganador con 6 títulos y el que más finales ha jugado. Ganaron sus dos primeras en 1977 y 1978 con el 'Toto' Lorenzo como DT y figuras como Gatti y Mastrángelo. Su época más gloriosa fue bajo Carlos Bianchi, ganando en 2000, 2001 y 2003, con Riquelme y Palermo como estandartes. Ganaron la sexta en 2007, de nuevo con Riquelme figura. Han perdido varias finales importantes, incluyendo la de 2018 contra River y 2023 contra Fluminense."
+        ]
+      },
+      {
+        "tag": "libertadores_club_titulos_boca",
+        "patterns": [
+          "¿En qué años ganó Boca la Libertadores?",
+          "Títulos de Boca en Copa Libertadores"
+        ],
+        "responses": [
+          "Boca Juniors ganó la Copa Libertadores en 1977, 1978, 2000, 2001, 2003 y 2007."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_penarol",
+        "patterns": [
+          "Háblame de Peñarol en la Libertadores",
+          "Historia de Peñarol en Copa Libertadores",
+          "Mirasoles / Carboneros en la Copa"
+        ],
+        "responses": [
+          "Peñarol de Montevideo (Uruguay) es uno de los grandes pioneros y animadores históricos de la Copa. Ganaron la primera edición en 1960 y repitieron en 1961 y 1966, con figuras como Alberto Spencer (máximo goleador histórico) y Juan Joya. Volvieron a ser campeones en 1982 y 1987. Han disputado 10 finales, ganando 5. Su rivalidad con Nacional es legendaria."
+        ]
+      },
+      {
+        "tag": "libertadores_club_titulos_penarol",
+        "patterns": [
+          "¿En qué años ganó Peñarol la Libertadores?",
+          "Títulos de Peñarol en Copa Libertadores"
+        ],
+        "responses": [
+          "Peñarol ganó la Copa Libertadores en 1960, 1961, 1966, 1982 y 1987."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_river",
+        "patterns": [
+          "Háblame de River Plate en la Libertadores",
+          "Historia de River en Copa Libertadores"
+        ],
+        "responses": [
+          "River Plate ha ganado 4 Copas Libertadores. La primera en 1986 con Alonso y Alzamendi, y la segunda en 1996 con Francescoli y Crespo. Tuvieron que esperar hasta 2015 para la tercera, ya bajo Marcelo Gallardo. La cuarta, en 2018, fue la más icónica, ganada en la final histórica contra Boca Juniors disputada en Madrid."
+        ]
+      },
+      {
+        "tag": "libertadores_club_titulos_river",
+        "patterns": [
+          "¿En qué años ganó River la Libertadores?",
+          "Títulos de River en Copa Libertadores"
+        ],
+        "responses": [
+          "River Plate ganó la Copa Libertadores en 1986, 1996, 2015 y 2018."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_estudiantes",
+        "patterns": [
+          "Háblame de Estudiantes en la Libertadores",
+          "Historia de Estudiantes LP en Copa Libertadores"
+        ],
+        "responses": [
+          "Estudiantes de La Plata irrumpió en la escena continental ganando tres Libertadores consecutivas (1968, 1969, 1970) con el equipo de Osvaldo Zubeldía, Bilardo y Verón padre. Lograron su cuarto título en 2009, liderados por Juan Sebastián Verón (hijo) y dirigidos por Alejandro Sabella."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_estudiantes",
+        "patterns": [
+          "¿En qué años ganó Estudiantes la Libertadores?",
+          "Títulos de Estudiantes LP en Copa Libertadores"
+        ],
+        "responses": [
+          "Estudiantes de La Plata ganó la Copa Libertadores en 1968, 1969, 1970 y 2009."
+        ]
+      },
+        {
+        "tag": "libertadores_club_info_olimpia",
+        "patterns": [
+          "Háblame de Olimpia en la Libertadores",
+          "Historia de Olimpia (Paraguay) en Copa Libertadores",
+          "El Decano paraguayo"
+        ],
+        "responses": [
+          "Olimpia de Asunción (Paraguay), 'El Decano', es el único club paraguayo campeón de la Libertadores y uno de los más exitosos no argentinos/brasileños/uruguayos, con 3 títulos. Los ganó en 1979 (cortando la hegemonía rioplatense), 1990 y 2002, todos bajo la dirección o influencia de Luis Cubilla. También ha perdido 4 finales."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_olimpia",
+        "patterns": [
+          "¿En qué años ganó Olimpia la Libertadores?",
+          "Títulos de Olimpia en Copa Libertadores"
+        ],
+        "responses": [
+          "Olimpia ganó la Copa Libertadores en 1979, 1990 y 2002."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_nacional_uru",
+        "patterns": [
+          "Háblame de Nacional de Uruguay en la Libertadores",
+          "Historia de Nacional (URU) en Copa Libertadores",
+          "Bolsos / Tricolores en la Copa"
+        ],
+        "responses": [
+          "Nacional de Montevideo (Uruguay), 'El Bolso', es el otro grande uruguayo, con 3 títulos de Libertadores. Los ganó en 1971, 1980 y 1988. Al igual que Peñarol, fue un gran animador de las primeras décadas. Hugo De León fue capitán en las últimas dos conquistas."
+        ]
+      },
+        {
+        "tag": "libertadores_club_titulos_nacional_uru",
+        "patterns": [
+          "¿En qué años ganó Nacional (Uruguay) la Libertadores?",
+          "Títulos de Nacional en Copa Libertadores"
+        ],
+        "responses": [
+          "Nacional de Montevideo ganó la Copa Libertadores en 1971, 1980 y 1988."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_saopaulo",
+        "patterns": [
+          "Háblame de São Paulo en la Libertadores",
+          "Historia de São Paulo FC en Copa Libertadores",
+          "El Tricolor Paulista en la Copa"
+        ],
+        "responses": [
+          "São Paulo FC es uno de los clubes brasileños más exitosos en la Libertadores, con 3 títulos. Ganaron dos consecutivos en 1992 y 1993 con el legendario equipo de Telê Santana y figuras como Raí, Cafú, Leonardo y Müller. Ganaron el tercero en 2005, venciendo a Athletico Paranaense en la primera final entre equipos del mismo país."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_saopaulo",
+        "patterns": [
+          "¿En qué años ganó São Paulo la Libertadores?",
+          "Títulos de São Paulo en Copa Libertadores"
+        ],
+        "responses": [
+          "São Paulo FC ganó la Copa Libertadores en 1992, 1993 y 2005."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_gremio",
+        "patterns": [
+          "Háblame de Grêmio en la Libertadores",
+          "Historia de Grêmio en Copa Libertadores",
+          "El Imortal Tricolor en la Copa"
+        ],
+        "responses": [
+          "Grêmio de Porto Alegre (Brasil) también tiene 3 títulos de Libertadores. El primero en 1983. El segundo en 1995, dirigido por Luiz Felipe Scolari. El tercero en 2017, bajo la dirección de Renato Gaúcho (quien ya la había ganado como jugador en 1983), con figuras como Luan y Arthur."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_gremio",
+        "patterns": [
+          "¿En qué años ganó Grêmio la Libertadores?",
+          "Títulos de Grêmio en Copa Libertadores"
+        ],
+        "responses": [
+          "Grêmio ganó la Copa Libertadores en 1983, 1995 y 2017."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_santos",
+        "patterns": [
+          "Háblame de Santos en la Libertadores",
+          "Historia de Santos FC en Copa Libertadores",
+          "El Santos de Pelé",
+          "El Santos de Neymar"
+        ],
+        "responses": [
+          "Santos FC (Brasil) ganó sus dos primeras Libertadores de forma consecutiva en 1962 y 1963, liderados por Pelé, considerado el mejor jugador de todos los tiempos. Tuvieron que esperar casi 50 años para ganar la tercera en 2011, esta vez con Neymar como gran figura."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_santos",
+        "patterns": [
+          "¿En qué años ganó Santos la Libertadores?",
+          "Títulos de Santos en Copa Libertadores"
+        ],
+        "responses": [
+          "Santos FC ganó la Copa Libertadores en 1962, 1963 y 2011."
+        ]
+      },
+        {
+        "tag": "libertadores_club_info_palmeiras",
+        "patterns": [
+          "Háblame de Palmeiras en la Libertadores",
+          "Historia de Palmeiras en Copa Libertadores",
+          "El Verdão en la Copa"
+        ],
+        "responses": [
+          "Palmeiras (Brasil), 'El Verdão', ganó su primera Libertadores en 1999 bajo Luiz Felipe Scolari. Vivieron una nueva era dorada recientemente bajo el mando del portugués Abel Ferreira, ganando dos títulos consecutivos en 2020 y 2021. En total, tienen 3 títulos."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_palmeiras",
+        "patterns": [
+          "¿En qué años ganó Palmeiras la Libertadores?",
+          "Títulos de Palmeiras en Copa Libertadores"
+        ],
+        "responses": [
+          "Palmeiras ganó la Copa Libertadores en 1999, 2020 y 2021."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_flamengo",
+        "patterns": [
+          "Háblame de Flamengo en la Libertadores",
+          "Historia de Flamengo en Copa Libertadores",
+          "El Mengão en la Copa"
+        ],
+        "responses": [
+          "Flamengo (Brasil), el club más popular de Brasil ('Mengão'), ganó su primera Libertadores en 1981 con un equipo legendario liderado por Zico. Tuvieron que esperar 38 años para la segunda, en 2019, con una remontada épica en los últimos minutos contra River Plate en Lima, bajo Jorge Jesus y con Gabigol como héroe. Ganaron la tercera en 2022, venciendo a Athletico Paranaense."
+        ]
+      },
+       {
+        "tag": "libertadores_club_titulos_flamengo",
+        "patterns": [
+          "¿En qué años ganó Flamengo la Libertadores?",
+          "Títulos de Flamengo en Copa Libertadores"
+        ],
+        "responses": [
+          "Flamengo ganó la Copa Libertadores en 1981, 2019 y 2022."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_cruzeiro",
+        "patterns": [
+          "Háblame de Cruzeiro en la Libertadores",
+          "Historia de Cruzeiro en Copa Libertadores"
+        ],
+        "responses": [
+          "Cruzeiro (Brasil) ha ganado la Copa Libertadores 2 veces. La primera en 1976, venciendo a River Plate en la final. La segunda en 1997, derrotando a Sporting Cristal de Perú."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_internacional",
+        "patterns": [
+          "Háblame de Internacional en la Libertadores",
+          "Historia de Inter de Porto Alegre en Copa Libertadores"
+        ],
+        "responses": [
+          "Internacional de Porto Alegre (Brasil), rival de Grêmio, también ha ganado la Copa Libertadores 2 veces. Lo hizo en 2006 (venciendo a São Paulo) y en 2010 (venciendo a Chivas de Guadalajara)."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_atletico_nacional",
+        "patterns": [
+          "Háblame de Atlético Nacional en la Libertadores",
+          "Historia de Atlético Nacional (COL) en Copa Libertadores",
+          "Primer campeón colombiano"
+        ],
+        "responses": [
+          "Atlético Nacional de Medellín fue el primer club colombiano en ganar la Copa Libertadores, en 1989. Vencieron a Olimpia en la final por penales, con René Higuita como figura. Ganaron su segundo título en 2016, dirigidos por Reinaldo Rueda."
+        ]
+      },
+        {
+        "tag": "libertadores_club_titulos_atletico_nacional",
+        "patterns": [
+          "¿En qué años ganó Atlético Nacional la Libertadores?",
+          "Títulos de Atlético Nacional en Copa Libertadores"
+        ],
+        "responses": [
+          "Atlético Nacional ganó la Copa Libertadores en 1989 y 2016."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_colo_colo",
+        "patterns": [
+          "Háblame de Colo-Colo en la Libertadores",
+          "Historia de Colo-Colo (CHI) en Copa Libertadores",
+          "Único campeón chileno"
+        ],
+        "responses": [
+          "Colo-Colo es el único club chileno que ha ganado la Copa Libertadores. Lo lograron en 1991, dirigidos por Mirko Jozić, venciendo a Olimpia en la final."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_ldu_quito",
+        "patterns": [
+          "Háblame de LDU Quito en la Libertadores",
+          "Historia de Liga de Quito (ECU) en Copa Libertadores",
+          "Único campeón ecuatoriano"
+        ],
+        "responses": [
+          "Liga Deportiva Universitaria de Quito (LDU Quito) es el único club ecuatoriano campeón de la Libertadores. Ganaron el título en 2008, dirigidos por Edgardo Bauza, venciendo a Fluminense en la final en el Maracaná por penales, con una gran actuación del portero José Francisco Cevallos."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_once_caldas",
+        "patterns": [
+          "Háblame de Once Caldas en la Libertadores",
+          "Historia de Once Caldas (COL) en Copa Libertadores",
+          "Sorpresa de Once Caldas 2004"
+        ],
+        "responses": [
+          "Once Caldas de Manizales (Colombia) protagonizó una de las mayores sorpresas al ganar la Copa Libertadores en 2004. Dirigidos por Luis Fernando Montoya, vencieron al Boca Juniors de Bianchi (campeón vigente) en la final por penales, con el portero Juan Carlos Henao como héroe."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_corinthians",
+        "patterns": [
+          "Háblame de Corinthians en la Libertadores",
+          "Historia de Corinthians en Copa Libertadores",
+          "El Timão en la Copa"
+        ],
+        "responses": [
+          "Corinthians (Brasil), 'O Timão', ganó su primera y única Copa Libertadores de forma invicta en 2012. Dirigidos por Tite, vencieron a Boca Juniors en la final."
+        ]
+      },
+      {
+        "tag": "libertadores_club_info_vasco",
+        "patterns": [
+          "Háblame de Vasco da Gama en la Libertadores",
+          "Historia de Vasco en Copa Libertadores"
+        ],
+        "responses": [
+          "Vasco da Gama (Brasil) ganó la Copa Libertadores en 1998, coincidiendo con el centenario del club. Vencieron a Barcelona de Guayaquil (Ecuador) en la final."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_atletico_mineiro",
+        "patterns": [
+          "Háblame de Atlético Mineiro en la Libertadores",
+          "Historia de Atlético Mineiro en Copa Libertadores",
+          "El Galo en la Copa",
+          "Ronaldinho en Mineiro"
+        ],
+        "responses": [
+          "Atlético Mineiro (Brasil), 'O Galo', ganó su primera Copa Libertadores en 2013. Contaban con Ronaldinho como gran figura y vencieron a Olimpia en la final por penales tras remontar un 2-0 en contra de la ida."
+        ]
+      },
+       {
+        "tag": "libertadores_club_info_san_lorenzo",
+        "patterns": [
+          "Háblame de San Lorenzo en la Libertadores",
+          "Historia de San Lorenzo en Copa Libertadores"
+        ],
+        "responses": [
+          "San Lorenzo de Almagro (Argentina) ganó su ansiada primera Copa Libertadores en 2014, siendo el último de los 'cinco grandes' argentinos en lograrlo. Dirigidos por Edgardo Bauza, vencieron a Nacional de Paraguay en la final."
+        ]
+      },
+        {
+        "tag": "libertadores_club_info_fluminense",
+        "patterns": [
+          "Háblame de Fluminense en la Libertadores",
+          "Historia de Fluminense en Copa Libertadores",
+          "El Flu en la Copa"
+        ],
+        "responses": [
+          "Fluminense (Brasil), 'O Flu', ganó su primera Copa Libertadores en 2023. Dirigidos por Fernando Diniz y con Germán Cano como goleador, vencieron a Boca Juniors en la final disputada en el Maracaná."
+        ]
+      },
+        {
+        "tag": "libertadores_club_info_botafogo",
+        "patterns": [
+          "Háblame de Botafogo en la Libertadores",
+          "Historia de Botafogo en Copa Libertadores",
+          "El Fogão en la Copa"
+        ],
+        "responses": [
+          "Botafogo (Brasil), 'O Fogão', ganó su primera Copa Libertadores en 2024. Dirigidos por Artur Jorge, vencieron a Atlético Mineiro en la final, completando una gran campaña."
+        ]
+      },
+  
+   
+      {
+        "tag": "libertadores_final_1960_info",
+        "patterns": ["¿Quién ganó la primera Copa Libertadores en 1960?", "Final Libertadores 1960 Peñarol vs Olimpia"],
+        "responses": ["Peñarol de Uruguay ganó la primera edición de la Copa Libertadores en 1960, venciendo a Olimpia de Paraguay en la final (1-0 en Montevideo, 1-1 en Asunción). Alberto Spencer fue figura."]
+      },
+      {
+        "tag": "libertadores_final_1961_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1961?", "Final Libertadores 1961 Peñarol vs Palmeiras"],
+        "responses": ["Peñarol revalidó su título en 1961, derrotando a Palmeiras de Brasil en la final (1-0 en Montevideo, 1-1 en São Paulo)."]
+      },
+      {
+        "tag": "libertadores_final_1962_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1962?", "Final Libertadores 1962 Santos vs Peñarol", "El Santos de Pelé campeón"],
+        "responses": ["El Santos de Pelé ganó su primera Libertadores en 1962, venciendo al bicampeón Peñarol en una final a tres partidos (victoria para cada uno y desempate ganado por Santos 3-0 en Buenos Aires)."]
+      },
+       {
+        "tag": "libertadores_final_1963_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1963?", "Final Libertadores 1963 Santos vs Boca", "Pelé contra Boca"],
+        "responses": ["El Santos de Pelé ganó su segunda Libertadores consecutiva en 1963, derrotando a Boca Juniors en la final (3-2 en Brasil, 2-1 en La Bombonera)."]
+      },
+       {
+        "tag": "libertadores_final_1964_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1964?", "Final Libertadores 1964 Independiente vs Nacional"],
+        "responses": ["Independiente de Argentina ganó su primera Libertadores en 1964, venciendo a Nacional de Uruguay en la final (0-0 en Montevideo, 1-0 en Avellaneda)."]
+      },
+        {
+        "tag": "libertadores_final_1965_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1965?", "Final Libertadores 1965 Independiente vs Peñarol"],
+        "responses": ["Independiente revalidó su título en 1965, derrotando a Peñarol en una final a tres partidos (1-0 para Independiente, 3-1 para Peñarol, 4-1 para Independiente en el desempate en Chile)."]
+      },
+       {
+        "tag": "libertadores_final_1966_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1966?", "Final Libertadores 1966 Peñarol vs River"],
+        "responses": ["Peñarol ganó su tercer título en 1966, venciendo a River Plate en una final a tres partidos recordada por la remontada de Peñarol en el desempate (River ganaba 2-0 y perdió 4-2 en la prórroga en Chile). A raíz de esto, surgió el apodo de 'Gallinas' para River."]
+      },
+      {
+        "tag": "libertadores_final_1967_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1967?", "Final Libertadores 1967 Racing vs Nacional"],
+        "responses": ["Racing Club de Argentina ganó su única Libertadores en 1967, venciendo a Nacional de Uruguay en una final a tres partidos (0-0 en Avellaneda, 0-0 en Montevideo, 2-1 para Racing en el desempate en Chile)."]
+      },
+      {
+        "tag": "libertadores_final_1968_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1968?", "Final Libertadores 1968 Estudiantes vs Palmeiras"],
+        "responses": ["Estudiantes de La Plata ganó su primera Libertadores en 1968, venciendo a Palmeiras en una final a tres partidos (2-1 Estudiantes, 3-1 Palmeiras, 2-0 Estudiantes en el desempate en Montevideo)."]
+      },
+        {
+        "tag": "libertadores_final_1969_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1969?", "Final Libertadores 1969 Estudiantes vs Nacional"],
+        "responses": ["Estudiantes ganó su segunda Libertadores consecutiva en 1969, derrotando a Nacional de Uruguay en la final (1-0 en Montevideo, 2-0 en La Plata)."]
+      },
+      {
+        "tag": "libertadores_final_1970_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1970?", "Final Libertadores 1970 Estudiantes vs Peñarol"],
+        "responses": ["Estudiantes completó su tricampeonato en 1970, venciendo a Peñarol en la final (1-0 en La Plata, 0-0 en Montevideo)."]
+      },
+      {
+        "tag": "libertadores_final_1971_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1971?", "Final Libertadores 1971 Nacional vs Estudiantes"],
+        "responses": ["Nacional de Uruguay ganó su primera Libertadores en 1971, derrotando al tricampeón Estudiantes en una final a tres partidos (victoria para cada uno como local y 2-0 para Nacional en el desempate en Lima)."]
+      },
+       {
+        "tag": "libertadores_final_1972_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1972?", "Final Libertadores 1972 Independiente vs Universitario"],
+        "responses": ["Independiente inició su racha de cuatro títulos seguidos en 1972, venciendo a Universitario de Perú en la final (0-0 en Lima, 2-1 en Avellaneda)."]
+      },
+      {
+        "tag": "libertadores_final_1973_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1973?", "Final Libertadores 1973 Independiente vs Colo-Colo"],
+        "responses": ["Independiente ganó su cuarta Libertadores en 1973, derrotando a Colo-Colo de Chile en una final a tres partidos (1-1 en Avellaneda, 0-0 en Santiago, 2-1 para Independiente en el desempate en Montevideo en la prórroga)."]
+      },
+       {
+        "tag": "libertadores_final_1974_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1974?", "Final Libertadores 1974 Independiente vs São Paulo"],
+        "responses": ["Independiente continuó su dominio ganando en 1974 contra São Paulo en otra final a tres partidos (victoria local para cada uno y 1-0 para Independiente en el desempate en Chile)."]
+      },
+      {
+        "tag": "libertadores_final_1975_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1975?", "Final Libertadores 1975 Independiente vs Unión Española"],
+        "responses": ["Independiente completó su tetracampeonato (y sexto título) en 1975, venciendo a Unión Española de Chile en la final, de nuevo en un tercer partido de desempate (victoria local para cada uno y 2-0 para Independiente en Asunción)."]
+      },
+      {
+        "tag": "libertadores_final_1976_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1976?", "Final Libertadores 1976 Cruzeiro vs River"],
+        "responses": ["Cruzeiro de Brasil ganó su primera Libertadores en 1976, derrotando a River Plate en una final a tres partidos (victoria local para cada uno y 3-2 para Cruzeiro en el desempate en Chile)."]
+      },
+       {
+        "tag": "libertadores_final_1977_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1977?", "Final Libertadores 1977 Boca vs Cruzeiro"],
+        "responses": ["Boca Juniors ganó su primera Libertadores en 1977, venciendo al campeón Cruzeiro en una final a tres partidos decidida por penales en el desempate en Montevideo. El arquero Hugo Gatti fue el héroe." ]
+      },
+       {
+        "tag": "libertadores_final_1978_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1978?", "Final Libertadores 1978 Boca vs Deportivo Cali"],
+        "responses": ["Boca Juniors revalidó su título en 1978, derrotando a Deportivo Cali de Colombia en la final (0-0 en Cali, 4-0 en La Bombonera)."]
+      },
+       {
+        "tag": "libertadores_final_1979_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1979?", "Final Libertadores 1979 Olimpia vs Boca"],
+        "responses": ["Olimpia de Paraguay ganó su primera Libertadores en 1979, venciendo al bicampeón Boca Juniors en la final (2-0 en Asunción, 0-0 en La Bombonera), cortando la hegemonía argentino-uruguaya."]
+      },
+      {
+        "tag": "libertadores_final_1980_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1980?", "Final Libertadores 1980 Nacional vs Internacional"],
+        "responses": ["Nacional de Uruguay ganó su segunda Libertadores en 1980, derrotando a Internacional de Porto Alegre (Brasil) en la final (0-0 en Porto Alegre, 1-0 en Montevideo)."]
+      },
+      {
+        "tag": "libertadores_final_1981_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1981?", "Final Libertadores 1981 Flamengo vs Cobreloa", "El Flamengo de Zico campeón"],
+        "responses": ["Flamengo de Brasil ganó su primera Libertadores en 1981, con Zico como gran figura. Vencieron a Cobreloa de Chile en una final muy disputada y violenta a tres partidos (victoria local para cada uno y 2-0 para Flamengo en el desempate en Montevideo)."]
+      },
+      {
+        "tag": "libertadores_final_1982_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1982?", "Final Libertadores 1982 Peñarol vs Cobreloa"],
+        "responses": ["Peñarol ganó su cuarto título en 1982, derrotando a Cobreloa (subcampeón por segundo año seguido) en la final (0-0 en Montevideo, 1-0 en Santiago con gol agónico de Fernando Morena)."]
+      },
+      {
+        "tag": "libertadores_final_1983_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1983?", "Final Libertadores 1983 Grêmio vs Peñarol"],
+        "responses": ["Grêmio de Brasil ganó su primera Libertadores en 1983, venciendo al campeón Peñarol en la final (1-1 en Montevideo, 2-1 en Porto Alegre). Renato Gaúcho fue figura."]
+      },
+       {
+        "tag": "libertadores_final_1984_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1984?", "Final Libertadores 1984 Independiente vs Grêmio", "La séptima de Independiente"],
+        "responses": ["Independiente ganó su séptimo y último título hasta la fecha en 1984, derrotando al campeón Grêmio en la final (1-0 en Porto Alegre, 0-0 en Avellaneda). Bochini y Burruchaga eran las figuras."]
+      },
+       {
+        "tag": "libertadores_final_1985_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1985?", "Final Libertadores 1985 Argentinos Juniors vs América de Cali"],
+        "responses": ["Argentinos Juniors, el 'Semillero del Mundo', ganó su única Libertadores en 1985. Vencieron a América de Cali (Colombia) en una final a tres partidos decidida por penales en el desempate en Asunción."]
+      },
+       {
+        "tag": "libertadores_final_1986_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1986?", "Final Libertadores 1986 River vs América de Cali", "La primera de River"],
+        "responses": ["River Plate ganó su primera Libertadores en 1986, derrotando a América de Cali (subcampeón por segundo año) en la final (2-1 en Cali, 1-0 en Buenos Aires). Alonso y Alzamendi fueron figuras."]
+      },
+        {
+        "tag": "libertadores_final_1987_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1987?", "Final Libertadores 1987 Peñarol vs América de Cali"],
+        "responses": ["Peñarol ganó su quinto título en 1987, venciendo nuevamente a América de Cali (tercera final perdida consecutiva) en una final a tres partidos. Diego Aguirre marcó el gol agónico en el último minuto de la prórroga del desempate en Chile."]
+      },
+        {
+        "tag": "libertadores_final_1988_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1988?", "Final Libertadores 1988 Nacional vs Newell's"],
+        "responses": ["Nacional de Uruguay ganó su tercer título en 1988, derrotando a Newell's Old Boys de Argentina en la final (derrota 1-0 en Rosario, victoria 3-0 en Montevideo)."]
+      },
+       {
+        "tag": "libertadores_final_1989_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1989?", "Final Libertadores 1989 Atlético Nacional vs Olimpia", "Primer título colombiano"],
+        "responses": ["Atlético Nacional de Medellín se convirtió en el primer club colombiano en ganar la Libertadores en 1989. Vencieron a Olimpia en la final por penales en Bogotá, tras perder 2-0 en Asunción y ganar 2-0 la vuelta. El arquero René Higuita fue el héroe en los penales."]
+      },
+       {
+        "tag": "libertadores_final_1990_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1990?", "Final Libertadores 1990 Olimpia vs Barcelona SC"],
+        "responses": ["Olimpia ganó su segundo título en 1990, dirigido por Luis Cubilla, venciendo a Barcelona de Guayaquil (Ecuador) en la final (2-0 en Asunción, 1-1 en Guayaquil)."]
+      },
+       {
+        "tag": "libertadores_final_1991_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1991?", "Final Libertadores 1991 Colo-Colo vs Olimpia", "Primer título chileno"],
+        "responses": ["Colo-Colo se convirtió en el primer (y único hasta la fecha) club chileno en ganar la Libertadores en 1991. Vencieron al campeón Olimpia en la final (0-0 en Asunción, 3-0 en Santiago)."]
+      },
+       {
+        "tag": "libertadores_final_1992_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1992?", "Final Libertadores 1992 São Paulo vs Newell's", "El São Paulo de Telê Santana"],
+        "responses": ["São Paulo ganó su primera Libertadores en 1992, dirigido por Telê Santana. Vencieron a Newell's Old Boys (dirigido por Bielsa) en la final por penales, tras victoria 1-0 para cada uno como local. Raí fue la figura."]
+      },
+       {
+        "tag": "libertadores_final_1993_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1993?", "Final Libertadores 1993 São Paulo vs Universidad Católica"],
+        "responses": ["São Paulo revalidó su título en 1993, nuevamente con Telê Santana, derrotando a Universidad Católica de Chile en la final (5-1 en São Paulo, derrota 2-0 en Santiago)."]
+      },
+       {
+        "tag": "libertadores_final_1994_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1994?", "Final Libertadores 1994 Vélez vs São Paulo", "El Vélez de Bianchi y Chilavert"],
+        "responses": ["Vélez Sarsfield de Argentina ganó su única Libertadores en 1994, dirigido por Carlos Bianchi. Vencieron al bicampeón São Paulo en la final por penales en el Morumbí, tras victoria 1-0 para cada uno como local. El arquero José Luis Chilavert fue figura clave."]
+      },
+       {
+        "tag": "libertadores_final_1995_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1995?", "Final Libertadores 1995 Grêmio vs Atlético Nacional", "El Grêmio de Scolari"],
+        "responses": ["Grêmio ganó su segunda Libertadores en 1995, dirigido por Luiz Felipe Scolari ('Felipão'). Vencieron a Atlético Nacional en la final (3-1 en Porto Alegre, 1-1 en Medellín). Jardel fue el goleador."]
+      },
+       {
+        "tag": "libertadores_final_1996_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1996?", "Final Libertadores 1996 River vs América de Cali", "La segunda de River"],
+        "responses": ["River Plate ganó su segunda Libertadores en 1996, derrotando nuevamente a América de Cali en la final (derrota 1-0 en Cali, victoria 2-0 en Buenos Aires con dos goles de Hernán Crespo). Enzo Francescoli era el capitán."]
+      },
+        {
+        "tag": "libertadores_final_1997_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1997?", "Final Libertadores 1997 Cruzeiro vs Sporting Cristal"],
+        "responses": ["Cruzeiro ganó su segunda Libertadores en 1997, venciendo a Sporting Cristal de Perú en la final (0-0 en Lima, 1-0 en Belo Horizonte)."]
+      },
+       {
+        "tag": "libertadores_final_1998_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1998?", "Final Libertadores 1998 Vasco da Gama vs Barcelona SC"],
+        "responses": ["Vasco da Gama ganó su única Libertadores en 1998, coincidiendo con su centenario. Vencieron a Barcelona de Guayaquil (Ecuador) en la final (2-0 en Río, 2-1 en Guayaquil)."]
+      },
+        {
+        "tag": "libertadores_final_1999_info",
+        "patterns": ["¿Quién ganó la Libertadores en 1999?", "Final Libertadores 1999 Palmeiras vs Deportivo Cali", "El Palmeiras de Scolari"],
+        "responses": ["Palmeiras ganó su primera Libertadores en 1999, dirigido por Luiz Felipe Scolari. Vencieron a Deportivo Cali de Colombia en la final por penales, tras victoria local para cada uno. El arquero Marcos fue el héroe."]
+      },
+      {
+        "tag": "libertadores_final_2000_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2000?", "Final Libertadores 2000 Boca vs Palmeiras", "El inicio del ciclo Bianchi en Boca"],
+        "responses": ["Boca Juniors ganó su tercera Libertadores en 2000, iniciando el exitoso ciclo de Carlos Bianchi. Vencieron al campeón Palmeiras en la final por penales en el Morumbí, tras empatar ambos partidos. El arquero Óscar Córdoba fue figura en los penales y Riquelme brilló en el torneo."]
+      },
+       {
+        "tag": "libertadores_final_2001_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2001?", "Final Libertadores 2001 Boca vs Cruz Azul"],
+        "responses": ["Boca Juniors revalidó su título en 2001, venciendo a Cruz Azul de México (primer equipo mexicano en llegar a la final) nuevamente por penales, tras victoria 1-0 para cada uno como visitante. Córdoba volvió a ser héroe." ]
+      },
+      {
+        "tag": "libertadores_final_2002_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2002?", "Final Libertadores 2002 Olimpia vs São Caetano"],
+        "responses": ["Olimpia ganó su tercer título en 2002, dirigido nuevamente por Nery Pumpido (quien reemplazó a Cubilla). Vencieron a la sorpresa brasileña São Caetano en la final por penales, tras victoria local para cada uno."]
+      },
+       {
+        "tag": "libertadores_final_2003_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2003?", "Final Libertadores 2003 Boca vs Santos"],
+        "responses": ["Boca Juniors ganó su quinta Libertadores en 2003, con Carlos Bianchi de regreso. Vencieron claramente a Santos de Brasil en la final (2-0 en La Bombonera, 3-1 en el Morumbí). Carlos Tevez fue una de las figuras emergentes."]
+      },
+       {
+        "tag": "libertadores_final_2004_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2004?", "Final Libertadores 2004 Once Caldas vs Boca", "Sorpresa de Once Caldas"],
+        "responses": ["Once Caldas de Colombia dio la gran sorpresa al ganar la Libertadores 2004. Vencieron al campeón Boca Juniors en la final por penales en Manizales, tras empatar ambos partidos (0-0 y 1-1). El arquero Juan Carlos Henao fue la gran figura."]
+      },
+        {
+        "tag": "libertadores_final_2005_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2005?", "Final Libertadores 2005 São Paulo vs Athletico Paranaense", "Primera final del mismo país"],
+        "responses": ["São Paulo ganó su tercer título en 2005, en la primera final de Libertadores entre equipos del mismo país. Vencieron a Athletico Paranaense (1-1 en Curitiba, 4-0 en São Paulo). Amoroso y el arquero Rogério Ceni fueron figuras."]
+      },
+       {
+        "tag": "libertadores_final_2006_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2006?", "Final Libertadores 2006 Internacional vs São Paulo", "Primera de Inter"],
+        "responses": ["Internacional de Porto Alegre ganó su primera Libertadores en 2006, en otra final brasileña. Vencieron al campeón São Paulo (2-1 en São Paulo, 2-2 en Porto Alegre). Fernandão fue figura."]
+      },
+       {
+        "tag": "libertadores_final_2007_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2007?", "Final Libertadores 2007 Boca vs Grêmio", "La sexta de Boca con Riquelme estelar"],
+        "responses": ["Boca Juniors ganó su sexto título en 2007, con una actuación estelar de Juan Román Riquelme. Vencieron a Grêmio en la final (3-0 en La Bombonera con gol de Riquelme, 2-0 en Porto Alegre con dos goles de Riquelme)."]
+      },
+       {
+        "tag": "libertadores_final_2008_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2008?", "Final Libertadores 2008 LDU Quito vs Fluminense", "Primer título ecuatoriano"],
+        "responses": ["LDU Quito se convirtió en el primer (y único hasta la fecha) club ecuatoriano en ganar la Libertadores en 2008. Vencieron a Fluminense en la final por penales en el Maracaná, tras victoria local para cada uno (4-2 LDU en Quito, 3-1 Flu en Río). El arquero Cevallos fue el héroe." ]
+      },
+       {
+        "tag": "libertadores_final_2009_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2009?", "Final Libertadores 2009 Estudiantes vs Cruzeiro", "La cuarta de Estudiantes con Verón"],
+        "responses": ["Estudiantes de La Plata ganó su cuarto título en 2009, liderados por Juan Sebastián Verón y dirigidos por Alejandro Sabella. Vencieron a Cruzeiro en la final (0-0 en La Plata, 2-1 en Belo Horizonte)."]
+      },
+        {
+        "tag": "libertadores_final_2010_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2010?", "Final Libertadores 2010 Internacional vs Chivas"],
+        "responses": ["Internacional de Porto Alegre ganó su segunda Libertadores en 2010, venciendo a Chivas de Guadalajara (México) en la final (2-1 en Guadalajara, 3-2 en Porto Alegre)."]
+      },
+       {
+        "tag": "libertadores_final_2011_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2011?", "Final Libertadores 2011 Santos vs Peñarol", "El Santos de Neymar"],
+        "responses": ["Santos ganó su tercer título en 2011, con Neymar como gran figura. Vencieron a Peñarol en la final (0-0 en Montevideo, 2-1 en São Paulo)."]
+      },
+        {
+        "tag": "libertadores_final_2012_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2012?", "Final Libertadores 2012 Corinthians vs Boca", "Primera de Corinthians invicto"],
+        "responses": ["Corinthians ganó su primera Libertadores de forma invicta en 2012. Vencieron a Boca Juniors en la final (1-1 en La Bombonera, 2-0 en São Paulo). Emerson Sheik fue figura en la final."]
+      },
+       {
+        "tag": "libertadores_final_2013_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2013?", "Final Libertadores 2013 Atlético Mineiro vs Olimpia", "Mineiro de Ronaldinho"],
+        "responses": ["Atlético Mineiro ganó su primera Libertadores en 2013, con Ronaldinho como estrella. Vencieron a Olimpia en la final por penales en Belo Horizonte, tras remontar un 2-0 de la ida con un 2-0 en la vuelta. El arquero Victor fue héroe en los penales."]
+      },
+       {
+        "tag": "libertadores_final_2014_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2014?", "Final Libertadores 2014 San Lorenzo vs Nacional (PAR)", "Primera de San Lorenzo"],
+        "responses": ["San Lorenzo ganó su tan ansiada primera Libertadores en 2014. Vencieron a Nacional de Paraguay en la final (1-1 en Asunción, 1-0 en Buenos Aires con gol de penal de Ortigoza)."]
+      },
+        {
+        "tag": "libertadores_final_2015_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2015?", "Final Libertadores 2015 River vs Tigres", "La tercera de River con Gallardo"],
+        "responses": ["River Plate ganó su tercera Libertadores en 2015, ya con Marcelo Gallardo como DT. Vencieron a Tigres de México en la final (0-0 en Monterrey, 3-0 en Buenos Aires)."]
+      },
+       {
+        "tag": "libertadores_final_2016_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2016?", "Final Libertadores 2016 Atlético Nacional vs Independiente del Valle"],
+        "responses": ["Atlético Nacional ganó su segunda Libertadores en 2016, venciendo a la sorpresa ecuatoriana Independiente del Valle en la final (1-1 en Quito, 1-0 en Medellín)."]
+      },
+        {
+        "tag": "libertadores_final_2017_info",
+        "patterns": ["¿Quién ganó la Libertadores en 2017?", "Final Libertadores 2017 Grêmio vs Lanús", "La tercera de Grêmio"],
+        "responses": ["Grêmio ganó su tercer título en 2017, venciendo a Lanús de Argentina en la final (1-0 en Porto Alegre, 2-1 en Lanús). Luan fue elegido el mejor jugador."]
+      },
+       {
+        "tag": "libertadores_final_2018_info_madrid",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2018?",
+          "Final Libertadores 2018 River vs Boca en Madrid",
+          "La final más larga del mundo",
+          "Superfinal en el Bernabéu"
+          ],
+        "responses": [
+          "River Plate ganó su cuarta Libertadores en 2018, en una final histórica e inédita contra Boca Juniors. Tras empatar 2-2 en La Bombonera, la vuelta en El Monumental se suspendió por incidentes. El partido decisivo se jugó semanas después en el estadio Santiago Bernabéu de Madrid, España. River ganó 3-1 en la prórroga. Es conocida como 'La Final Eterna' o 'La Final de Madrid'."
+        ]
+      },
+        {
+        "tag": "libertadores_rivalidad_boca_river_final_2018",
+        "patterns": [
+          "Háblame más de la final River-Boca de 2018",
+          "Detalles de la Superfinal Libertadores 2018",
+          "¿Por qué se jugó en Madrid la final de 2018?"
+          ],
+        "responses": [
+          "La final de 2018 fue única. El 2-2 en la ida en Boca dejó todo abierto. La vuelta en River se suspendió porque el micro de Boca fue atacado cerca del estadio. CONMEBOL decidió, polémicamente, trasladar el partido a Madrid por seguridad. River remontó el gol inicial de Benedetto (Boca) con tantos de Pratto, Quintero (golazo en la prórroga) y 'Pity' Martínez (con Boca buscando el empate a la desesperada)."
+        ]
+      },
+         {
+        "tag": "libertadores_final_2019_info",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2019?",
+          "Final Libertadores 2019 Flamengo vs River en Lima",
+          "Primera final única",
+          "Remontada de Gabigol"
+          ],
+        "responses": [
+          "Flamengo ganó su segunda Libertadores en 2019, en la primera final a partido único, disputada en Lima (Perú). Vencieron a River Plate (campeón vigente) por 2-1 con una remontada increíble en los últimos minutos. River ganaba 1-0 hasta el minuto 89, pero Gabriel Barbosa 'Gabigol' marcó dos goles (89' y 92') para darle el título a Flamengo."
+        ]
+      },
+       {
+        "tag": "libertadores_final_2020_info",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2020?",
+          "Final Libertadores 2020 Palmeiras vs Santos",
+          "Final brasileña en el Maracaná (jugada en 2021)"
+          ],
+        "responses": [
+          "Palmeiras ganó su segunda Libertadores en la edición 2020 (cuya final se jugó a principios de 2021 por la pandemia). Vencieron a Santos por 1-0 en la final brasileña disputada en el Maracaná, con un gol agónico de Breno Lopes en el tiempo de descuento."
+        ]
+      },
+        {
+        "tag": "libertadores_final_2021_info",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2021?",
+          "Final Libertadores 2021 Palmeiras vs Flamengo",
+          "Bicampeonato de Palmeiras"
+          ],
+        "responses": [
+          "Palmeiras revalidó su título y ganó su tercera Libertadores en 2021. Vencieron a Flamengo por 2-1 en la prórroga en la final disputada en Montevideo. Deyverson marcó el gol decisivo en el tiempo extra."
+        ]
+      },
+         {
+        "tag": "libertadores_final_2022_info",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2022?",
+          "Final Libertadores 2022 Flamengo vs Athletico Paranaense",
+          "Tercera de Flamengo"
+          ],
+        "responses": [
+          "Flamengo ganó su tercera Libertadores en 2022, en otra final brasileña. Vencieron a Athletico Paranaense por 1-0 en la final disputada en Guayaquil (Ecuador), con gol de Gabigol."
+        ]
+      },
+        {
+        "tag": "libertadores_final_2023_info",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2023?",
+          "Final Libertadores 2023 Fluminense vs Boca Juniors",
+          "Primera de Fluminense"
+          ],
+        "responses": [
+          "Fluminense ganó su primera Copa Libertadores en 2023. Vencieron a Boca Juniors por 2-1 en la prórroga en la final disputada en el estadio Maracaná de Río de Janeiro. Germán Cano fue el goleador del torneo y John Kennedy marcó el gol decisivo en la prórroga."
+        ]
+      },
+       {
+        "tag": "libertadores_final_2024_info",
+        "patterns": [
+          "¿Quién ganó la Libertadores en 2024?",
+          "Final Libertadores 2024 Botafogo vs Atlético Mineiro",
+          "Primera de Botafogo"
+          ],
+        "responses": [
+          "Botafogo ganó su primera Copa Libertadores en 2024, en una final brasileña. Vencieron a Atlético Mineiro por 3-1 en la final disputada en Buenos Aires. Luiz Henrique fue una de las figuras del campeón."
+        ]
+      },
+  
+      {
+        "tag": "libertadores_jugador_goleador_historico",
+        "patterns": [
+          "¿Quién es el máximo goleador de la historia de la Copa Libertadores?",
+          "Jugador con más goles en Libertadores",
+          "Récord de goles Libertadores",
+          "Alberto Spencer"
+        ],
+        "responses": [
+          "El ecuatoriano Alberto Spencer es el máximo goleador histórico de la Copa Libertadores, con 54 goles marcados principalmente con la camiseta de Peñarol en las décadas de 1960 y 1970. Es una leyenda del torneo."
+        ]
+      },
+        {
+        "tag": "libertadores_jugador_info_spencer",
+        "patterns": [
+          "Háblame más de Alberto Spencer",
+          "Carrera de Spencer en Libertadores",
+          "Cabeza Mágica Spencer"
+        ],
+        "responses": [
+          "Alberto Spencer, apodado 'Cabeza Mágica', fue un delantero ecuatoriano letal, especialmente de cabeza. Brilló en Peñarol, ganando las 3 primeras Libertadores del club (1960, 1961, 1966) y siendo máximo goleador del torneo en varias ediciones. Sus 54 goles son un récord que perdura."
+        ]
+      },
+        {
+        "tag": "libertadores_jugador_goleadores_top",
+        "patterns": [
+          "¿Quiénes siguen a Spencer en la tabla de goleadores?",
+          "Máximos goleadores de la Libertadores después de Spencer"
+        ],
+        "responses": [
+          "Detrás de Alberto Spencer (54 goles), otros grandes goleadores históricos de la Libertadores son los uruguayos Fernando Morena (Peñarol) y Pedro Rocha (Peñarol, São Paulo), ambos con 37 y 36 goles respectivamente."
+        ]
+      },
+         {
+        "tag": "libertadores_jugador_mas_partidos",
+        "patterns": [
+          "¿Qué jugador ha jugado más partidos en la Copa Libertadores?",
+          "Jugador con más apariciones en Libertadores",
+          "Récord de partidos jugados Libertadores"
+        ],
+        "responses": [
+          "El arquero paraguayo Ever Hugo Almeida (Olimpia) ostenta el récord de más partidos jugados en la historia de la Copa Libertadores, superando las 110 apariciones."
+        ]
+      },
+        {
+        "tag": "libertadores_jugador_mas_titulos",
+        "patterns": [
+          "¿Qué jugador ha ganado más Copas Libertadores?",
+          "Jugador con más títulos de Libertadores",
+          "Récord de títulos Libertadores jugador",
+          "Pancho Sá"
+        ],
+        "responses": [
+          "El argentino Francisco 'Pancho' Sá es el jugador que más veces ha ganado la Copa Libertadores, con 6 títulos: 4 con Independiente (1972-75) y 2 con Boca Juniors (1977-78)."
+        ]
+      },
+       {
+        "tag": "libertadores_jugador_info_pele_libertadores",
+        "patterns": [
+          "¿Cómo le fue a Pelé en la Libertadores?",
+          "Participación de Pelé en Copa Libertadores",
+          "Logros de Pelé en Libertadores"
+        ],
+        "responses": [
+          "Pelé lideró al Santos a ganar las Copas Libertadores de 1962 y 1963, venciendo a Peñarol y Boca Juniors respectivamente. Marcó goles importantes en ambas finales y demostró su clase mundial también a nivel de clubes sudamericanos."
+        ]
+      },
+         {
+        "tag": "libertadores_jugador_info_bochini_libertadores",
+        "patterns": [
+          "¿Cómo le fue a Bochini en la Libertadores?",
+          "Participación de Bochini en Copa Libertadores",
+          "Logros de Bochini en Libertadores"
+        ],
+        "responses": [
+          "Ricardo Bochini fue fundamental en 4 de los 7 títulos de Independiente (1973, 1974, 1975, 1984). Su inteligencia y pases fueron clave en la era dorada del 'Rey de Copas', incluyendo el tetracampeonato consecutivo."
+        ]
+      },
+        {
+        "tag": "libertadores_jugador_info_riquelme_libertadores",
+        "patterns": [
+          "¿Cómo le fue a Riquelme en la Libertadores?",
+          "Participación de Riquelme en Copa Libertadores",
+          "Logros de Riquelme en Libertadores",
+          "Riquelme vs Palmeiras 2000",
+          "Riquelme vs Grêmio 2007"
+        ],
+        "responses": [
+          "Juan Román Riquelme es uno de los jugadores más dominantes en la historia moderna de la Libertadores. Lideró a Boca a 3 títulos (2000, 2001, 2007) y un subcampeonato (2012). Sus actuaciones en las fases finales, especialmente en las finales de 2000 y 2007, son legendarias. Es considerado por muchos el 'dueño' del patio de la Libertadores."
+        ]
+      },
+         {
+        "tag": "libertadores_jugador_info_zico_libertadores",
+        "patterns": [
+          "¿Cómo le fue a Zico en la Libertadores?",
+          "Participación de Zico en Copa Libertadores",
+          "Logros de Zico en Libertadores"
+        ],
+        "responses": [
+          "Zico fue la gran figura del Flamengo campeón de 1981. Marcó los dos goles en el partido de desempate de la final contra Cobreloa y fue el líder futbolístico de ese equipo histórico del 'Mengão'."
+        ]
+      },
+       {
+        "tag": "libertadores_jugador_info_gabigol_libertadores",
+        "patterns": [
+          "¿Cómo le fue a Gabigol en la Libertadores?",
+          "Goles de Gabigol en finales de Libertadores",
+          "Logros de Gabigol en Libertadores"
+        ],
+        "responses": [
+          "Gabriel Barbosa 'Gabigol' se ha convertido en un jugador decisivo en finales de Libertadores para Flamengo. Marcó los dos goles agónicos en la remontada de la final de 2019 contra River y el único gol en la final de 2022 contra Athletico Paranaense, siendo clave en dos de los tres títulos del club."
+        ]
+      },
+  
+      
+      {
+        "tag": "libertadores_manager_mas_titulos",
+        "patterns": [
+          "¿Qué entrenador ha ganado más Copas Libertadores?",
+          "Entrenador con más Libertadores",
+          "Récord de títulos Libertadores entrenador",
+          "Carlos Bianchi"
+        ],
+        "responses": [
+          "Carlos Bianchi es el entrenador que más veces ha ganado la Copa Libertadores, con 4 títulos: 1 con Vélez Sarsfield (1994) y 3 con Boca Juniors (2000, 2001, 2003)."
+        ]
+      },
+        {
+        "tag": "libertadores_manager_lista_ganadores_multiples",
+        "patterns": [
+          "¿Qué entrenadores han ganado la Libertadores más de una vez?",
+          "Entrenadores con varias Copas Libertadores"
+        ],
+        "responses": [
+          "Varios entrenadores han ganado la Libertadores múltiples veces. Tras Carlos Bianchi (4), están Osvaldo Zubeldía (3 con Estudiantes), Luis Cubilla (3 con Olimpia y Peñarol), Marcelo Gallardo (2 con River), Telê Santana (2 con São Paulo), Luiz Felipe Scolari (2 con Grêmio y Palmeiras), Edgardo Bauza (2 con LDU Quito y San Lorenzo), Abel Ferreira (2 con Palmeiras), entre otros."
+        ]
+      },
+       {
+        "tag": "libertadores_manager_info_bianchi",
+        "patterns": [
+          "Háblame de Carlos Bianchi en la Libertadores",
+          "Carrera de Bianchi como DT en Libertadores",
+          "Logros de Bianchi en Libertadores",
+          "El Virrey de América"
+        ],
+        "responses": [
+          "Carlos Bianchi, 'El Virrey', es el rey de la Libertadores como entrenador. Llevó a Vélez a su única conquista en 1994 y luego dirigió la época más gloriosa de Boca, ganando 3 Libertadores y 2 Intercontinentales. Su capacidad para armar equipos competitivos y ganar duelos mano a mano fue legendaria."
+        ]
+      },
+        {
+        "tag": "libertadores_manager_info_gallardo",
+        "patterns": [
+          "Háblame de Marcelo Gallardo en la Libertadores",
+          "Carrera de Gallardo como DT en Libertadores",
+          "Logros de Gallardo en Libertadores"
+        ],
+        "responses": [
+          "Marcelo Gallardo transformó a River Plate en una potencia continental durante su ciclo. Ganó 2 Libertadores (2015 y la histórica de 2018 contra Boca), además de llegar a otra final (2019) y varias semifinales. Sus equipos se caracterizaron por la intensidad, el buen juego y la capacidad para rendir en partidos clave."
+        ]
+      },
+        {
+        "tag": "libertadores_manager_info_cubilla",
+        "patterns": [
+          "Háblame de Luis Cubilla en la Libertadores",
+          "Carrera de Cubilla como DT y jugador en Libertadores"
+        ],
+        "responses": [
+          "Luis Cubilla, uruguayo, es una figura histórica de la Libertadores tanto como jugador (ganó con Peñarol y Nacional) como entrenador. Dirigió a Olimpia a ganar dos de sus tres títulos (1979 y 1990) y también ganó una con Peñarol (1982), siendo un técnico muy exitoso en la competición."
+        ]
+      },
+       {
+        "tag": "libertadores_manager_info_zubeldia",
+        "patterns": [
+          "Háblame de Osvaldo Zubeldía en la Libertadores",
+          "El Estudiantes de Zubeldía tricampeón"
+        ],
+        "responses": [
+          "Osvaldo Zubeldía fue el artífice del Estudiantes tricampeón de América (1968-70). Un técnico innovador para su época, introdujo métodos de trabajo rigurosos, estudio del rival y jugadas preparadas que llevaron a un equipo sin grandes estrellas a dominar el continente."
+        ]
+      },
+       {
+        "tag": "libertadores_manager_info_santana",
+        "patterns": [
+          "Háblame de Telê Santana en la Libertadores",
+          "El São Paulo de Telê Santana bicampeón"
+        ],
+        "responses": [
+          "Telê Santana dirigió al legendario equipo de São Paulo que ganó dos Libertadores consecutivas (1992, 1993) y dos Copas Intercontinentales. Su equipo practicaba un fútbol vistoso y efectivo, siendo uno de los mejores equipos brasileños de la historia."
+        ]
+      },
+  
+      
+      {
+        "tag": "conmebol_info",
+        "patterns": [
+          "¿Qué es la CONMEBOL?",
+          "Confederación Sudamericana de Fútbol",
+          "Organismo rector del fútbol sudamericano"
+        ],
+        "responses": [
+          "La CONMEBOL (Confederación Sudamericana de Fútbol) es la confederación de asociaciones nacionales de fútbol de Sudamérica. Fundada en 1916, es la confederación continental más antigua del mundo. Organiza la Copa Libertadores, la Copa Sudamericana, la Recopa Sudamericana y la Copa América, entre otros torneos."
+        ]
+      }
+    ]
+  }

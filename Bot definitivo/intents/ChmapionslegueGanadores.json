@@ -1,0 +1,452 @@
+{
+    "intents": [
+      {
+        "tag": "champions_league_1992_1993",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1992-1993?",
+          "Campeón Liga de Campeones 1992-1993",
+          "Subcampeón Liga de Campeones 1992-1993",
+          "Goleador Liga de Campeones 1992-1993",
+          "Asistidor Liga de Campeones 1992-1993",
+          "Jugador de la temporada Liga de Campeones 1992-1993"
+        ],
+        "responses": [
+          "En la temporada 1992-1993 de la Liga de Campeones de la UEFA, el campeón fue **Olympique de Marseille**. El subcampeón fue **AC Milan**. El máximo goleador fue **Romário** (PSV Eindhoven) con 7 goles. Las estadísticas de asistencias no se registraban/premiaban oficialmente de forma consistente en esta época. No hubo un premio oficial de Jugador de la Temporada de la UEFA para la competición este año."
+        ]
+      },
+      {
+        "tag": "champions_league_1993_1994",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1993-1994?",
+          "Campeón Liga de Campeones 1993-1994",
+          "Subcampeón Liga de Campeones 1993-1994",
+          "Goleador Liga de Campeones 1993-1994",
+          "Asistidor Liga de Campeones 1993-1994",
+          "Jugador de la temporada Liga de Campeones 1993-1994"
+        ],
+        "responses": [
+          "En la temporada 1993-1994 de la Liga de Campeones de la UEFA, el campeón fue **AC Milan**. El subcampeón fue **FC Barcelona**. Los máximos goleadores fueron **Ronald Koeman** (FC Barcelona) y **Wynton Rufer** (Werder Bremen) con 8 goles cada uno. Las estadísticas de asistencias no se registraban/premiaban oficialmente de forma consistente en esta época. No hubo un premio oficial de Jugador de la Temporada de la UEFA para la competición este año."
+        ]
+      },
+      {
+        "tag": "champions_league_1994_1995",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1994-1995?",
+          "Campeón Liga de Campeones 1994-1995",
+          "Subcampeón Liga de Campeones 1994-1995",
+          "Goleador Liga de Campeones 1994-1995",
+          "Asistidor Liga de Campeones 1994-1995",
+          "Jugador de la temporada Liga de Campeones 1994-1995"
+        ],
+        "responses": [
+          "En la temporada 1994-1995 de la Liga de Campeones de la UEFA, el campeón fue **Ajax**. El subcampeón fue **AC Milan**. El máximo goleador fue **George Weah** (Paris Saint-Germain) con 7 goles. Las estadísticas de asistencias no se registraban/premiaban oficialmente de forma consistente en esta época. No hubo un premio oficial de Jugador de la Temporada de la UEFA para la competición este año."
+        ]
+      },
+      {
+        "tag": "champions_league_1995_1996",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1995-1996?",
+          "Campeón Liga de Campeones 1995-1996",
+          "Subcampeón Liga de Campeones 1995-1996",
+          "Goleador Liga de Campeones 1995-1996",
+          "Asistidor Liga de Campeones 1995-1996",
+          "Jugador de la temporada Liga de Campeones 1995-1996"
+        ],
+        "responses": [
+          "En la temporada 1995-1996 de la Liga de Campeones de la UEFA, el campeón fue **Juventus**. El subcampeón fue **Ajax**. El máximo goleador fue **Jari Litmanen** (Ajax) con 9 goles. Las estadísticas de asistencias no se registraban/premiaban oficialmente de forma consistente en esta época (Angelo Di Livio es frecuentemente citado). No hubo un premio oficial de Jugador de la Temporada de la UEFA para la competición este año."
+        ]
+      },
+      {
+        "tag": "champions_league_1996_1997",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1996-1997?",
+          "Campeón Liga de Campeones 1996-1997",
+          "Subcampeón Liga de Campeones 1996-1997",
+          "Goleador Liga de Campeones 1996-1997",
+          "Asistidor Liga de Campeones 1996-1997",
+          "Jugador de la temporada Liga de Campeones 1996-1997"
+        ],
+        "responses": [
+          "En la temporada 1996-1997 de la Liga de Campeones de la UEFA, el campeón fue **Borussia Dortmund**. El subcampeón fue **Juventus**. El máximo goleador fue **Milinko Pantić** (Atlético de Madrid) con 5 goles. Las estadísticas de asistencias no se registraban/premiaban oficialmente de forma consistente en esta época (Zinedine Zidane es frecuentemente citado). No hubo un premio oficial de Jugador de la Temporada de la UEFA para la competición este año."
+        ]
+      },
+      {
+        "tag": "champions_league_1997_1998",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1997-1998?",
+          "Campeón Liga de Campeones 1997-1998",
+          "Subcampeón Liga de Campeones 1997-1998",
+          "Goleador Liga de Campeones 1997-1998",
+          "Asistidor Liga de Campeones 1997-1998",
+          "Jugador de la temporada Liga de Campeones 1997-1998"
+        ],
+        "responses": [
+          "En la temporada 1997-1998 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Juventus**. El máximo goleador fue **Alessandro Del Piero** (Juventus) con 10 goles. El máximo asistidor fue **Zinedine Zidane** (Juventus) con 5 asistencias (la recolección de datos empezó a ser más común). El premio 'Futbolista del Año de la UEFA' (UEFA Club Footballer of the Year) fue para **Ronaldo** (Inter Milan, aunque el premio consideraba el rendimiento general en clubes UEFA)."
+        ]
+      },
+       {
+        "tag": "champions_league_1998_1999",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1998-1999?",
+          "Campeón Liga de Campeones 1998-1999",
+          "Subcampeón Liga de Campeones 1998-1999",
+          "Goleador Liga de Campeones 1998-1999",
+          "Asistidor Liga de Campeones 1998-1999",
+          "Jugador de la temporada Liga de Campeones 1998-1999"
+        ],
+        "responses": [
+          "En la temporada 1998-1999 de la Liga de Campeones de la UEFA, el campeón fue **Manchester United**. El subcampeón fue **Bayern Munich**. Los máximos goleadores fueron **Andriy Shevchenko** (Dynamo Kyiv) y **Dwight Yorke** (Manchester United) con 8 goles cada uno. El máximo asistidor fue **Dwight Yorke** (Manchester United) con 7 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **David Beckham** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "champions_league_1999_2000",
+        "patterns": [
+          "¿Quién ganó la Champions League en 1999-2000?",
+          "Campeón Liga de Campeones 1999-2000",
+          "Subcampeón Liga de Campeones 1999-2000",
+          "Goleador Liga de Campeones 1999-2000",
+          "Asistidor Liga de Campeones 1999-2000",
+          "Jugador de la temporada Liga de Campeones 1999-2000"
+        ],
+        "responses": [
+          "En la temporada 1999-2000 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Valencia CF**. Los máximos goleadores fueron **Mário Jardel** (Porto), **Rivaldo** (FC Barcelona) y **Raúl** (Real Madrid) con 10 goles cada uno. El máximo asistidor fue **Luís Figo** (FC Barcelona) con 7 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Fernando Redondo** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2000_2001",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2000-2001?",
+          "Campeón Liga de Campeones 2000-2001",
+          "Subcampeón Liga de Campeones 2000-2001",
+          "Goleador Liga de Campeones 2000-2001",
+          "Asistidor Liga de Campeones 2000-2001",
+          "Jugador de la temporada Liga de Campeones 2000-2001"
+        ],
+        "responses": [
+          "En la temporada 2000-2001 de la Liga de Campeones de la UEFA, el campeón fue **Bayern Munich**. El subcampeón fue **Valencia CF**. El máximo goleador fue **Raúl** (Real Madrid) con 7 goles. El máximo asistidor fue **Gaizka Mendieta** (Valencia CF) con 6 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Stefan Effenberg** (Bayern Munich)."
+        ]
+      },
+      {
+        "tag": "champions_league_2001_2002",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2001-2002?",
+          "Campeón Liga de Campeones 2001-2002",
+          "Subcampeón Liga de Campeones 2001-2002",
+          "Goleador Liga de Campeones 2001-2002",
+          "Asistidor Liga de Campeones 2001-2002",
+          "Jugador de la temporada Liga de Campeones 2001-2002"
+        ],
+        "responses": [
+          "En la temporada 2001-2002 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Bayer Leverkusen**. El máximo goleador fue **Ruud van Nistelrooy** (Manchester United) con 10 goles. El máximo asistidor fue **Johan Micoud** (Parma/Werder Bremen) con 5 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Zinedine Zidane** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2002_2003",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2002-2003?",
+          "Campeón Liga de Campeones 2002-2003",
+          "Subcampeón Liga de Campeones 2002-2003",
+          "Goleador Liga de Campeones 2002-2003",
+          "Asistidor Liga de Campeones 2002-2003",
+          "Jugador de la temporada Liga de Campeones 2002-2003"
+        ],
+        "responses": [
+          "En la temporada 2002-2003 de la Liga de Campeones de la UEFA, el campeón fue **AC Milan**. El subcampeón fue **Juventus**. El máximo goleador fue **Ruud van Nistelrooy** (Manchester United) con 12 goles. Los máximos asistidores fueron **Pablo Aimar** (Valencia CF) y **Zinedine Zidane** (Real Madrid) con 5 asistencias cada uno. El premio 'Futbolista del Año de la UEFA' fue para **Gianluigi Buffon** (Juventus)."
+        ]
+      },
+      {
+        "tag": "champions_league_2003_2004",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2003-2004?",
+          "Campeón Liga de Campeones 2003-2004",
+          "Subcampeón Liga de Campeones 2003-2004",
+          "Goleador Liga de Campeones 2003-2004",
+          "Asistidor Liga de Campeones 2003-2004",
+          "Jugador de la temporada Liga de Campeones 2003-2004"
+        ],
+        "responses": [
+          "En la temporada 2003-2004 de la Liga de Campeones de la UEFA, el campeón fue **Porto**. El subcampeón fue **AS Monaco**. El máximo goleador fue **Fernando Morientes** (AS Monaco) con 9 goles. El máximo asistidor fue **Deco** (Porto) con 6 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Deco** (Porto)."
+        ]
+      },
+      {
+        "tag": "champions_league_2004_2005",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2004-2005?",
+          "Campeón Liga de Campeones 2004-2005",
+          "Subcampeón Liga de Campeones 2004-2005",
+          "Goleador Liga de Campeones 2004-2005",
+          "Asistidor Liga de Campeones 2004-2005",
+          "Jugador de la temporada Liga de Campeones 2004-2005"
+        ],
+        "responses": [
+          "En la temporada 2004-2005 de la Liga de Campeones de la UEFA, el campeón fue **Liverpool**. El subcampeón fue **AC Milan**. El máximo goleador fue **Ruud van Nistelrooy** (Manchester United) con 8 goles. El máximo asistidor fue **Kaká** (AC Milan) con 5 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Steven Gerrard** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "champions_league_2005_2006",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2005-2006?",
+          "Campeón Liga de Campeones 2005-2006",
+          "Subcampeón Liga de Campeones 2005-2006",
+          "Goleador Liga de Campeones 2005-2006",
+          "Asistidor Liga de Campeones 2005-2006",
+          "Jugador de la temporada Liga de Campeones 2005-2006"
+        ],
+        "responses": [
+          "En la temporada 2005-2006 de la Liga de Campeones de la UEFA, el campeón fue **FC Barcelona**. El subcampeón fue **Arsenal**. El máximo goleador fue **Andriy Shevchenko** (AC Milan) con 9 goles. El máximo asistidor fue **Johan Micoud** (Werder Bremen) con 5 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Ronaldinho** (FC Barcelona)."
+        ]
+      },
+      {
+        "tag": "champions_league_2006_2007",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2006-2007?",
+          "Campeón Liga de Campeones 2006-2007",
+          "Subcampeón Liga de Campeones 2006-2007",
+          "Goleador Liga de Campeones 2006-2007",
+          "Asistidor Liga de Campeones 2006-2007",
+          "Jugador de la temporada Liga de Campeones 2006-2007"
+        ],
+        "responses": [
+          "En la temporada 2006-2007 de la Liga de Campeones de la UEFA, el campeón fue **AC Milan**. El subcampeón fue **Liverpool**. El máximo goleador fue **Kaká** (AC Milan) con 10 goles. El máximo asistidor fue **Ryan Giggs** (Manchester United) con 6 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Kaká** (AC Milan)."
+        ]
+      },
+      {
+        "tag": "champions_league_2007_2008",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2007-2008?",
+          "Campeón Liga de Campeones 2007-2008",
+          "Subcampeón Liga de Campeones 2007-2008",
+          "Goleador Liga de Campeones 2007-2008",
+          "Asistidor Liga de Campeones 2007-2008",
+          "Jugador de la temporada Liga de Campeones 2007-2008"
+        ],
+        "responses": [
+          "En la temporada 2007-2008 de la Liga de Campeones de la UEFA, el campeón fue **Manchester United**. El subcampeón fue **Chelsea**. El máximo goleador fue **Cristiano Ronaldo** (Manchester United) con 8 goles. El máximo asistidor fue **Andrea Pirlo** (AC Milan) con 6 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Cristiano Ronaldo** (Manchester United)."
+        ]
+      },
+      {
+        "tag": "champions_league_2008_2009",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2008-2009?",
+          "Campeón Liga de Campeones 2008-2009",
+          "Subcampeón Liga de Campeones 2008-2009",
+          "Goleador Liga de Campeones 2008-2009",
+          "Asistidor Liga de Campeones 2008-2009",
+          "Jugador de la temporada Liga de Campeones 2008-2009"
+        ],
+        "responses": [
+          "En la temporada 2008-2009 de la Liga de Campeones de la UEFA, el campeón fue **FC Barcelona**. El subcampeón fue **Manchester United**. El máximo goleador fue **Lionel Messi** (FC Barcelona) con 9 goles. Los máximos asistidores fueron **Xavi** (FC Barcelona) y **Franck Ribéry** (Bayern Munich) con 7 asistencias cada uno. El premio 'Futbolista del Año de la UEFA' fue para **Lionel Messi** (FC Barcelona)."
+        ]
+      },
+      {
+        "tag": "champions_league_2009_2010",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2009-2010?",
+          "Campeón Liga de Campeones 2009-2010",
+          "Subcampeón Liga de Campeones 2009-2010",
+          "Goleador Liga de Campeones 2009-2010",
+          "Asistidor Liga de Campeones 2009-2010",
+          "Jugador de la temporada Liga de Campeones 2009-2010"
+        ],
+        "responses": [
+          "En la temporada 2009-2010 de la Liga de Campeones de la UEFA, el campeón fue **Inter Milan**. El subcampeón fue **Bayern Munich**. El máximo goleador fue **Lionel Messi** (FC Barcelona) con 8 goles. El máximo asistidor fue **Wesley Sneijder** (Inter Milan) con 6 asistencias. El premio 'Futbolista del Año de la UEFA' fue para **Diego Milito** (Inter Milan)."
+        ]
+      },
+       {
+        "tag": "champions_league_2010_2011",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2010-2011?",
+          "Campeón Liga de Campeones 2010-2011",
+          "Subcampeón Liga de Campeones 2010-2011",
+          "Goleador Liga de Campeones 2010-2011",
+          "Asistidor Liga de Campeones 2010-2011",
+          "Jugador de la temporada Liga de Campeones 2010-2011"
+        ],
+        "responses": [
+          "En la temporada 2010-2011 de la Liga de Campeones de la UEFA, el campeón fue **FC Barcelona**. El subcampeón fue **Manchester United**. El máximo goleador fue **Lionel Messi** (FC Barcelona) con 12 goles. El máximo asistidor fue **Mesut Özil** (Real Madrid) con 6 asistencias. El 'Premio al Mejor Jugador en Europa de la UEFA' (nuevo formato) fue para **Lionel Messi** (FC Barcelona)."
+        ]
+      },
+      {
+        "tag": "champions_league_2011_2012",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2011-2012?",
+          "Campeón Liga de Campeones 2011-2012",
+          "Subcampeón Liga de Campeones 2011-2012",
+          "Goleador Liga de Campeones 2011-2012",
+          "Asistidor Liga de Campeones 2011-2012",
+          "Jugador de la temporada Liga de Campeones 2011-2012"
+        ],
+        "responses": [
+          "En la temporada 2011-2012 de la Liga de Campeones de la UEFA, el campeón fue **Chelsea**. El subcampeón fue **Bayern Munich**. El máximo goleador fue **Lionel Messi** (FC Barcelona) con 14 goles. Los máximos asistidores fueron **Kaká** (Real Madrid) y **Karim Benzema** (Real Madrid) con 5 asistencias cada uno. El 'Premio al Mejor Jugador en Europa de la UEFA' fue para **Andrés Iniesta** (FC Barcelona)."
+        ]
+      },
+      {
+        "tag": "champions_league_2012_2013",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2012-2013?",
+          "Campeón Liga de Campeones 2012-2013",
+          "Subcampeón Liga de Campeones 2012-2013",
+          "Goleador Liga de Campeones 2012-2013",
+          "Asistidor Liga de Campeones 2012-2013",
+          "Jugador de la temporada Liga de Campeones 2012-2013"
+        ],
+        "responses": [
+          "En la temporada 2012-2013 de la Liga de Campeones de la UEFA, el campeón fue **Bayern Munich**. El subcampeón fue **Borussia Dortmund**. El máximo goleador fue **Cristiano Ronaldo** (Real Madrid) con 12 goles. El máximo asistidor fue **Zlatan Ibrahimović** (Paris Saint-Germain) con 7 asistencias. El 'Premio al Mejor Jugador en Europa de la UEFA' fue para **Franck Ribéry** (Bayern Munich)."
+        ]
+      },
+      {
+        "tag": "champions_league_2013_2014",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2013-2014?",
+          "Campeón Liga de Campeones 2013-2014",
+          "Subcampeón Liga de Campeones 2013-2014",
+          "Goleador Liga de Campeones 2013-2014",
+          "Asistidor Liga de Campeones 2013-2014",
+          "Jugador de la temporada Liga de Campeones 2013-2014"
+        ],
+        "responses": [
+          "En la temporada 2013-2014 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Atlético de Madrid**. El máximo goleador fue **Cristiano Ronaldo** (Real Madrid) con 17 goles. El máximo asistidor fue **Wayne Rooney** (Manchester United) con 8 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Cristiano Ronaldo** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2014_2015",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2014-2015?",
+          "Campeón Liga de Campeones 2014-2015",
+          "Subcampeón Liga de Campeones 2014-2015",
+          "Goleador Liga de Campeones 2014-2015",
+          "Asistidor Liga de Campeones 2014-2015",
+          "Jugador de la temporada Liga de Campeones 2014-2015"
+        ],
+        "responses": [
+          "En la temporada 2014-2015 de la Liga de Campeones de la UEFA, el campeón fue **FC Barcelona**. El subcampeón fue **Juventus**. Los máximos goleadores fueron **Lionel Messi** (FC Barcelona), **Neymar** (FC Barcelona) y **Cristiano Ronaldo** (Real Madrid) con 10 goles cada uno. El máximo asistidor fue **Lionel Messi** (FC Barcelona) con 6 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Lionel Messi** (FC Barcelona)."
+        ]
+      },
+      {
+        "tag": "champions_league_2015_2016",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2015-2016?",
+          "Campeón Liga de Campeones 2015-2016",
+          "Subcampeón Liga de Campeones 2015-2016",
+          "Goleador Liga de Campeones 2015-2016",
+          "Asistidor Liga de Campeones 2015-2016",
+          "Jugador de la temporada Liga de Campeones 2015-2016"
+        ],
+        "responses": [
+          "En la temporada 2015-2016 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Atlético de Madrid**. El máximo goleador fue **Cristiano Ronaldo** (Real Madrid) con 16 goles. Los máximos asistidores fueron **Alexis Sánchez** (Arsenal), **Neymar** (FC Barcelona) y **Kingsley Coman** (Bayern Munich) con 5 asistencias cada uno. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Cristiano Ronaldo** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2016_2017",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2016-2017?",
+          "Campeón Liga de Campeones 2016-2017",
+          "Subcampeón Liga de Campeones 2016-2017",
+          "Goleador Liga de Campeones 2016-2017",
+          "Asistidor Liga de Campeones 2016-2017",
+          "Jugador de la temporada Liga de Campeones 2016-2017"
+        ],
+        "responses": [
+          "En la temporada 2016-2017 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Juventus**. El máximo goleador fue **Cristiano Ronaldo** (Real Madrid) con 12 goles. El máximo asistidor fue **Neymar** (FC Barcelona) con 8 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Cristiano Ronaldo** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2017_2018",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2017-2018?",
+          "Campeón Liga de Campeones 2017-2018",
+          "Subcampeón Liga de Campeones 2017-2018",
+          "Goleador Liga de Campeones 2017-2018",
+          "Asistidor Liga de Campeones 2017-2018",
+          "Jugador de la temporada Liga de Campeones 2017-2018"
+        ],
+        "responses": [
+          "En la temporada 2017-2018 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Liverpool**. El máximo goleador fue **Cristiano Ronaldo** (Real Madrid) con 15 goles. El máximo asistidor fue **James Milner** (Liverpool) con 9 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Cristiano Ronaldo** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2018_2019",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2018-2019?",
+          "Campeón Liga de Campeones 2018-2019",
+          "Subcampeón Liga de Campeones 2018-2019",
+          "Goleador Liga de Campeones 2018-2019",
+          "Asistidor Liga de Campeones 2018-2019",
+          "Jugador de la temporada Liga de Campeones 2018-2019"
+        ],
+        "responses": [
+          "En la temporada 2018-2019 de la Liga de Campeones de la UEFA, el campeón fue **Liverpool**. El subcampeón fue **Tottenham Hotspur**. El máximo goleador fue **Lionel Messi** (FC Barcelona) con 12 goles. Los máximos asistidores fueron **Jordi Alba** (FC Barcelona), **Luis Suárez** (FC Barcelona), **Leroy Sané** (Manchester City) y **Dušan Tadić** (Ajax) con 5 asistencias cada uno. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Virgil van Dijk** (Liverpool)."
+        ]
+      },
+      {
+        "tag": "champions_league_2019_2020",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2019-2020?",
+          "Campeón Liga de Campeones 2019-2020",
+          "Subcampeón Liga de Campeones 2019-2020",
+          "Goleador Liga de Campeones 2019-2020",
+          "Asistidor Liga de Campeones 2019-2020",
+          "Jugador de la temporada Liga de Campeones 2019-2020"
+        ],
+        "responses": [
+          "En la temporada 2019-2020 de la Liga de Campeones de la UEFA, el campeón fue **Bayern Munich**. El subcampeón fue **Paris Saint-Germain**. El máximo goleador fue **Robert Lewandowski** (Bayern Munich) con 15 goles. Los máximos asistidores fueron **Ángel Di María** (Paris Saint-Germain) y **Robert Lewandowski** (Bayern Munich) con 6 asistencias cada uno. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Robert Lewandowski** (Bayern Munich)."
+        ]
+      },
+      {
+        "tag": "champions_league_2020_2021",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2020-2021?",
+          "Campeón Liga de Campeones 2020-2021",
+          "Subcampeón Liga de Campeones 2020-2021",
+          "Goleador Liga de Campeones 2020-2021",
+          "Asistidor Liga de Campeones 2020-2021",
+          "Jugador de la temporada Liga de Campeones 2020-2021"
+        ],
+        "responses": [
+          "En la temporada 2020-2021 de la Liga de Campeones de la UEFA, el campeón fue **Chelsea**. El subcampeón fue **Manchester City**. El máximo goleador fue **Erling Haaland** (Borussia Dortmund) con 10 goles. El máximo asistidor fue **Juan Cuadrado** (Juventus) con 6 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Jorginho** (Chelsea)."
+        ]
+      },
+      {
+        "tag": "champions_league_2021_2022",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2021-2022?",
+          "Campeón Liga de Campeones 2021-2022",
+          "Subcampeón Liga de Campeones 2021-2022",
+          "Goleador Liga de Campeones 2021-2022",
+          "Asistidor Liga de Campeones 2021-2022",
+          "Jugador de la temporada Liga de Campeones 2021-2022"
+        ],
+        "responses": [
+          "En la temporada 2021-2022 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Liverpool**. El máximo goleador fue **Karim Benzema** (Real Madrid) con 15 goles. El máximo asistidor fue **Bruno Fernandes** (Manchester United) con 7 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Karim Benzema** (Real Madrid)."
+        ]
+      },
+      {
+        "tag": "champions_league_2022_2023",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2022-2023?",
+          "Campeón Liga de Campeones 2022-2023",
+          "Subcampeón Liga de Campeones 2022-2023",
+          "Goleador Liga de Campeones 2022-2023",
+          "Asistidor Liga de Campeones 2022-2023",
+          "Jugador de la temporada Liga de Campeones 2022-2023"
+        ],
+        "responses": [
+          "En la temporada 2022-2023 de la Liga de Campeones de la UEFA, el campeón fue **Manchester City**. El subcampeón fue **Inter Milan**. El máximo goleador fue **Erling Haaland** (Manchester City) con 12 goles. El máximo asistidor fue **Kevin De Bruyne** (Manchester City) con 7 asistencias. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Rodri** (Manchester City)."
+        ]
+      },
+      {
+        "tag": "champions_league_2023_2024",
+        "patterns": [
+          "¿Quién ganó la Champions League en 2023-2024?",
+          "Campeón Liga de Campeones 2023-2024",
+          "Subcampeón Liga de Campeones 2023-2024",
+          "Goleador Liga de Campeones 2023-2024",
+          "Asistidor Liga de Campeones 2023-2024",
+          "Jugador de la temporada Liga de Campeones 2023-2024"
+        ],
+        "responses": [
+          "En la temporada 2023-2024 de la Liga de Campeones de la UEFA, el campeón fue **Real Madrid**. El subcampeón fue **Borussia Dortmund**. Los máximos goleadores fueron **Harry Kane** (Bayern Munich) y **Kylian Mbappé** (Paris Saint-Germain) con 8 goles cada uno. Los máximos asistidores fueron **Marcel Sabitzer** (Borussia Dortmund) y **Vinícius Júnior** (Real Madrid) con 5 asistencias cada uno. El Jugador de la Temporada de la Liga de Campeones de la UEFA fue **Vinícius Júnior** (Real Madrid)."
+        ]
+      }
+    ]
+  }
